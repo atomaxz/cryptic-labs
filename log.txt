@@ -17998,3 +17998,4 @@
 33573. refactor: clean up auth middleware #33573
 29219. fix: prevent crash on empty input #29219
 91835. docs: update README with setup steps #91835
+89828. feat: create admin dashboard #89828
