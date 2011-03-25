@@ -18008,3 +18008,4 @@
 60825. style: remove trailing whitespace #60825
 15450. fix: prevent crash on empty input #15450
 85776. docs: document token refresh logic #85776
+47478. perf: reduce image load time #47478
