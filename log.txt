@@ -18017,3 +18017,4 @@
 51201. style: apply consistent indentation #51201
 17934. test: add integration test for /submit endpoint #17934
 42376. docs: improve code comments in utils #42376
+59046. refactor: clean up auth middleware #59046
