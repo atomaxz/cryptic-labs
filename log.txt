@@ -18051,3 +18051,4 @@
 98855. fix: prevent crash on empty input #98855
 7205. docs: document token refresh logic #7205
 55970. docs: write FAQ section #55970
+5053. perf: reduce image load time #5053
