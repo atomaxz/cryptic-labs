@@ -18049,3 +18049,4 @@
 14211. style: apply consistent indentation #14211
 95194. docs: write FAQ section #95194
 98855. fix: prevent crash on empty input #98855
+7205. docs: document token refresh logic #7205
