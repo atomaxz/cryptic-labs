@@ -18059,3 +18059,4 @@
 12319. style: remove trailing whitespace #12319
 86002. feat: implement quiz timer feature #86002
 76195. style: remove trailing whitespace #76195
+38431. docs: write FAQ section #38431
