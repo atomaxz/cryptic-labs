@@ -18061,3 +18061,4 @@
 76195. style: remove trailing whitespace #76195
 38431. docs: write FAQ section #38431
 27783. feat: enable dark mode toggle #27783
+32767. chore: rename env.example #32767
