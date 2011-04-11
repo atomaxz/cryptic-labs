@@ -18067,3 +18067,4 @@
 81531. chore: clean up unused files #81531
 22253. test: test user registration edge cases #22253
 48165. docs: update README with setup steps #48165
+65506. perf: lazy-load components #65506
