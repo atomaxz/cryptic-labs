@@ -18070,3 +18070,4 @@
 65506. perf: lazy-load components #65506
 88432. chore: add GitHub actions badge #88432
 22787. perf: cache repeated calculations #22787
+74191. refactor: clean up auth middleware #74191
