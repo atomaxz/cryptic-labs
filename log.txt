@@ -18075,3 +18075,4 @@
 99350. test: increase coverage on auth module #99350
 95459. style: reformat files with black #95459
 75061. test: add integration test for /submit endpoint #75061
+97270. fix: prevent crash on empty input #97270
