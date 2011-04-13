@@ -18073,3 +18073,4 @@
 74191. refactor: clean up auth middleware #74191
 30760. style: rename variables for clarity #30760
 99350. test: increase coverage on auth module #99350
+95459. style: reformat files with black #95459
