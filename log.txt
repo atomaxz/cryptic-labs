@@ -18086,3 +18086,4 @@
 91425. refactor: clean up auth middleware #91425
 64113. style: standardize quote style #64113
 13025. style: reformat files with black #13025
+82412. refactor: organize models into subfolders #82412
