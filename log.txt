@@ -18096,3 +18096,4 @@
 15380. feat: enable dark mode toggle #15380
 13545. style: remove trailing whitespace #13545
 66661. chore: rename env.example #66661
+96656. style: standardize quote style #96656
