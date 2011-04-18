@@ -18099,3 +18099,4 @@
 96656. style: standardize quote style #96656
 99888. chore: add GitHub actions badge #99888
 21131. feat: create admin dashboard #21131
+70694. fix: handle 500 error in quiz API #70694
