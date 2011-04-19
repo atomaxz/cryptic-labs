@@ -18101,3 +18101,4 @@
 21131. feat: create admin dashboard #21131
 70694. fix: handle 500 error in quiz API #70694
 41911. feat: enable dark mode toggle #41911
+93761. fix: prevent crash on empty input #93761
