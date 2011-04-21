@@ -18114,3 +18114,4 @@
 53361. chore: clean up unused files #53361
 89593. docs: document token refresh logic #89593
 93378. chore: bump dependencies #93378
+61517. perf: cache repeated calculations #61517
