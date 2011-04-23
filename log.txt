@@ -18121,3 +18121,4 @@
 80856. perf: cache repeated calculations #80856
 61299. chore: add GitHub actions badge #61299
 73427. docs: write FAQ section #73427
+19956. fix: correct typo in registration form #19956
