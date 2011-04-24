@@ -18124,3 +18124,4 @@
 19956. fix: correct typo in registration form #19956
 83988. refactor: refactor quiz grading logic #83988
 91913. perf: cache repeated calculations #91913
+31396. fix: fix null pointer exception on login #31396
