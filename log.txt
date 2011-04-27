@@ -18135,3 +18135,4 @@
 36608. refactor: remove redundant code blocks #36608
 3277. test: add unit test for quiz service #3277
 6410. docs: document token refresh logic #6410
+62728. fix: handle 500 error in quiz API #62728
