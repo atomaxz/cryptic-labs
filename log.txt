@@ -18141,3 +18141,4 @@
 29820. fix: fix broken CSS in mobile view #29820
 68552. perf: optimize database query for quiz results #68552
 82775. feat: enable dark mode toggle #82775
+88609. feat: add export to CSV option #88609
