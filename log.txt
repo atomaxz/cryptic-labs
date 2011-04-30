@@ -18148,3 +18148,4 @@
 38155. chore: bump dependencies #38155
 25245. style: rename variables for clarity #25245
 18813. chore: clean up unused files #18813
+70206. refactor: clean up auth middleware #70206
