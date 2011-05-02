@@ -18153,3 +18153,4 @@
 82874. docs: add API usage examples #82874
 82599. fix: fix null pointer exception on login #82599
 80186. refactor: split large controller into smaller functions #80186
+97294. chore: add GitHub actions badge #97294
