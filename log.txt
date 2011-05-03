@@ -18160,3 +18160,4 @@
 52920. feat: add user authentication #52920
 90059. perf: cache repeated calculations #90059
 89567. refactor: organize models into subfolders #89567
+86700. chore: update .gitignore #86700
