@@ -18169,3 +18169,4 @@
 0311. docs: write FAQ section #311
 46272. docs: write FAQ section #46272
 18550. perf: lazy-load components #18550
+49612. chore: add GitHub actions badge #49612
