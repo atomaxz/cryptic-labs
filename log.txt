@@ -18174,3 +18174,4 @@
 6778. fix: correct typo in registration form #6778
 18090. test: add unit test for quiz service #18090
 32830. perf: cache repeated calculations #32830
+99841. refactor: clean up auth middleware #99841
