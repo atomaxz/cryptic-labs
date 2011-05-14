@@ -18190,3 +18190,4 @@
 61734. docs: write FAQ section #61734
 43209. docs: document token refresh logic #43209
 11528. chore: rename env.example #11528
+98775. test: increase coverage on auth module #98775
