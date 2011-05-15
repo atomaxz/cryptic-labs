@@ -18191,3 +18191,4 @@
 43209. docs: document token refresh logic #43209
 11528. chore: rename env.example #11528
 98775. test: increase coverage on auth module #98775
+67954. feat: enable dark mode toggle #67954
