@@ -18196,3 +18196,4 @@
 23361. style: apply consistent indentation #23361
 0822. test: mock database connection in test suite #822
 31621. style: apply consistent indentation #31621
+80802. feat: support email verification #80802
