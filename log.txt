@@ -18217,3 +18217,4 @@
 16518. refactor: refactor quiz grading logic #16518
 70734. docs: add API usage examples #70734
 11483. fix: fix broken CSS in mobile view #11483
+5490. docs: write FAQ section #5490
