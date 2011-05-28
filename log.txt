@@ -18230,3 +18230,4 @@
 9805. test: mock database connection in test suite #9805
 43483. chore: add GitHub actions badge #43483
 21383. refactor: remove redundant code blocks #21383
+22578. refactor: clean up auth middleware #22578
