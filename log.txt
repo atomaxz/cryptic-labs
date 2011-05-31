@@ -18239,3 +18239,4 @@
 62234. perf: lazy-load components #62234
 92039. chore: clean up unused files #92039
 19015. feat: add user authentication #19015
+52660. docs: update README with setup steps #52660
