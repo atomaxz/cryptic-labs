@@ -18248,3 +18248,4 @@
 14984. refactor: clean up auth middleware #14984
 83699. perf: cache repeated calculations #83699
 62677. docs: add API usage examples #62677
+5703. style: remove trailing whitespace #5703
