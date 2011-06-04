@@ -18254,3 +18254,4 @@
 74187. feat: add export to CSV option #74187
 83281. chore: update .gitignore #83281
 92222. docs: add API usage examples #92222
+38322. perf: lazy-load components #38322
