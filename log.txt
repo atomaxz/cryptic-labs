@@ -18259,3 +18259,4 @@
 80714. docs: update README with setup steps #80714
 83777. perf: reduce image load time #83777
 50770. refactor: remove redundant code blocks #50770
+65780. style: remove trailing whitespace #65780
