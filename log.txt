@@ -18267,3 +18267,4 @@
 33007. docs: document token refresh logic #33007
 5217. perf: reduce image load time #5217
 26088. fix: handle 500 error in quiz API #26088
+24135. docs: document token refresh logic #24135
