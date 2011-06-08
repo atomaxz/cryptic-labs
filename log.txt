@@ -18269,3 +18269,4 @@
 26088. fix: handle 500 error in quiz API #26088
 24135. docs: document token refresh logic #24135
 81338. fix: fix broken CSS in mobile view #81338
+82041. fix: prevent crash on empty input #82041
