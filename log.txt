@@ -18272,3 +18272,4 @@
 82041. fix: prevent crash on empty input #82041
 29797. feat: create admin dashboard #29797
 94425. chore: add GitHub actions badge #94425
+55872. perf: lazy-load components #55872
