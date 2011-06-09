@@ -18274,3 +18274,4 @@
 94425. chore: add GitHub actions badge #94425
 55872. perf: lazy-load components #55872
 88115. style: remove trailing whitespace #88115
+80960. refactor: organize models into subfolders #80960
