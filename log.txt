@@ -18285,3 +18285,4 @@
 85204. fix: handle 500 error in quiz API #85204
 3701. test: test user registration edge cases #3701
 9406. fix: fix null pointer exception on login #9406
+22174. refactor: remove redundant code blocks #22174
