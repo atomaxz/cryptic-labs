@@ -18287,3 +18287,4 @@
 9406. fix: fix null pointer exception on login #9406
 22174. refactor: remove redundant code blocks #22174
 19899. chore: update .gitignore #19899
+66885. test: add integration test for /submit endpoint #66885
