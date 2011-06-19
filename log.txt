@@ -18312,3 +18312,4 @@
 56804. fix: prevent crash on empty input #56804
 11895. refactor: split large controller into smaller functions #11895
 63474. test: mock database connection in test suite #63474
+73687. feat: add export to CSV option #73687
