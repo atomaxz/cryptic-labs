@@ -18315,3 +18315,4 @@
 73687. feat: add export to CSV option #73687
 73735. test: add unit test for quiz service #73735
 27769. fix: fix broken CSS in mobile view #27769
+73704. style: reformat files with black #73704
