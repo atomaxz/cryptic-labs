@@ -18321,3 +18321,4 @@
 52127. style: rename variables for clarity #52127
 27093. feat: enable dark mode toggle #27093
 15330. fix: fix broken CSS in mobile view #15330
+50612. docs: write FAQ section #50612
