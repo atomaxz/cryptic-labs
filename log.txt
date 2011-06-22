@@ -18323,3 +18323,4 @@
 15330. fix: fix broken CSS in mobile view #15330
 50612. docs: write FAQ section #50612
 76664. perf: lazy-load components #76664
+54417. perf: optimize database query for quiz results #54417
