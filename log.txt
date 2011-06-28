@@ -18346,3 +18346,4 @@
 65217. perf: optimize database query for quiz results #65217
 35148. chore: add GitHub actions badge #35148
 93938. chore: clean up unused files #93938
+70039. feat: support email verification #70039
