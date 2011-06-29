@@ -18349,3 +18349,4 @@
 70039. feat: support email verification #70039
 12646. test: mock database connection in test suite #12646
 55235. style: apply consistent indentation #55235
+88224. chore: update .gitignore #88224
