@@ -18354,3 +18354,4 @@
 87544. feat: add user authentication #87544
 53957. style: reformat files with black #53957
 52704. perf: lazy-load components #52704
+13304. fix: fix broken CSS in mobile view #13304
