@@ -18358,3 +18358,4 @@
 46559. perf: optimize database query for quiz results #46559
 94049. feat: add export to CSV option #94049
 51447. refactor: clean up auth middleware #51447
+40603. feat: enable dark mode toggle #40603
