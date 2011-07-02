@@ -18360,3 +18360,4 @@
 51447. refactor: clean up auth middleware #51447
 40603. feat: enable dark mode toggle #40603
 76775. refactor: split large controller into smaller functions #76775
+57331. fix: fix null pointer exception on login #57331
