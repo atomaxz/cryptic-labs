@@ -18365,3 +18365,4 @@
 69142. refactor: clean up auth middleware #69142
 66158. feat: add user authentication #66158
 15579. refactor: refactor quiz grading logic #15579
+50220. fix: prevent crash on empty input #50220
