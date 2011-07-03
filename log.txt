@@ -18367,3 +18367,4 @@
 15579. refactor: refactor quiz grading logic #15579
 50220. fix: prevent crash on empty input #50220
 92009. docs: document token refresh logic #92009
+17944. style: remove trailing whitespace #17944
