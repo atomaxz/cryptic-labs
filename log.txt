@@ -18382,3 +18382,4 @@
 66862. perf: cache repeated calculations #66862
 37075. docs: clarify environment setup #37075
 21293. chore: rename env.example #21293
+48321. docs: write FAQ section #48321
