@@ -18383,3 +18383,4 @@
 37075. docs: clarify environment setup #37075
 21293. chore: rename env.example #21293
 48321. docs: write FAQ section #48321
+88130. test: mock database connection in test suite #88130
