@@ -18389,3 +18389,4 @@
 94336. style: rename variables for clarity #94336
 49710. perf: reduce image load time #49710
 62315. chore: update .gitignore #62315
+98288. test: add integration test for /submit endpoint #98288
