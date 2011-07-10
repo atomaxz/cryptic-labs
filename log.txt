@@ -18391,3 +18391,4 @@
 62315. chore: update .gitignore #62315
 98288. test: add integration test for /submit endpoint #98288
 92403. feat: create admin dashboard #92403
+7419. feat: enable dark mode toggle #7419
