@@ -18393,3 +18393,4 @@
 92403. feat: create admin dashboard #92403
 7419. feat: enable dark mode toggle #7419
 25763. feat: add user authentication #25763
+10320. style: remove trailing whitespace #10320
