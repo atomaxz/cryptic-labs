@@ -18394,3 +18394,4 @@
 7419. feat: enable dark mode toggle #7419
 25763. feat: add user authentication #25763
 10320. style: remove trailing whitespace #10320
+67317. refactor: organize models into subfolders #67317
