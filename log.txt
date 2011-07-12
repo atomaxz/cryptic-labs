@@ -18399,3 +18399,4 @@
 88588. chore: update .gitignore #88588
 33283. chore: bump dependencies #33283
 36527. test: test user registration edge cases #36527
+92182. feat: support email verification #92182
