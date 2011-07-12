@@ -18402,3 +18402,4 @@
 92182. feat: support email verification #92182
 60385. fix: handle 500 error in quiz API #60385
 33056. docs: clarify environment setup #33056
+73646. test: mock database connection in test suite #73646
