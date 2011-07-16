@@ -18419,3 +18419,4 @@
 1147. fix: prevent crash on empty input #1147
 55876. chore: add GitHub actions badge #55876
 73109. fix: fix broken CSS in mobile view #73109
+72552. feat: add export to CSV option #72552
