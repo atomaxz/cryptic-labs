@@ -18417,3 +18417,4 @@
 59023. test: test user registration edge cases #59023
 29095. fix: fix broken CSS in mobile view #29095
 1147. fix: prevent crash on empty input #1147
+55876. chore: add GitHub actions badge #55876
