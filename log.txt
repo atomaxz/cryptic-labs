@@ -18420,3 +18420,4 @@
 55876. chore: add GitHub actions badge #55876
 73109. fix: fix broken CSS in mobile view #73109
 72552. feat: add export to CSV option #72552
+13352. fix: correct typo in registration form #13352
