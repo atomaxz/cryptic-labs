@@ -18424,3 +18424,4 @@
 49211. docs: document token refresh logic #49211
 17362. style: standardize quote style #17362
 14102. fix: prevent crash on empty input #14102
+60459. style: remove trailing whitespace #60459
