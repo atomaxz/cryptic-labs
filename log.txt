@@ -18425,3 +18425,4 @@
 17362. style: standardize quote style #17362
 14102. fix: prevent crash on empty input #14102
 60459. style: remove trailing whitespace #60459
+54162. refactor: remove redundant code blocks #54162
