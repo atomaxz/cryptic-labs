@@ -18421,3 +18421,4 @@
 73109. fix: fix broken CSS in mobile view #73109
 72552. feat: add export to CSV option #72552
 13352. fix: correct typo in registration form #13352
+49211. docs: document token refresh logic #49211
