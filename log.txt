@@ -18428,3 +18428,4 @@
 54162. refactor: remove redundant code blocks #54162
 16886. test: mock database connection in test suite #16886
 67646. chore: rename env.example #67646
+68719. refactor: clean up auth middleware #68719
