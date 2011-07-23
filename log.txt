@@ -18447,3 +18447,4 @@
 6880. feat: enable dark mode toggle #6880
 85986. test: increase coverage on auth module #85986
 71454. perf: lazy-load components #71454
+75558. chore: bump dependencies #75558
