@@ -18441,3 +18441,4 @@
 10968. chore: bump dependencies #10968
 89045. chore: rename env.example #89045
 76968. feat: create admin dashboard #76968
+78369. feat: add user authentication #78369
