@@ -18452,3 +18452,4 @@
 77453. style: apply consistent indentation #77453
 37761. perf: lazy-load components #37761
 69406. test: mock database connection in test suite #69406
+9473. docs: document token refresh logic #9473
