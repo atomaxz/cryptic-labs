@@ -18462,3 +18462,4 @@
 90653. style: rename variables for clarity #90653
 1166. refactor: refactor quiz grading logic #1166
 94417. feat: support email verification #94417
+22666. chore: add GitHub actions badge #22666
