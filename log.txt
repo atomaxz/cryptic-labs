@@ -18465,3 +18465,4 @@
 22666. chore: add GitHub actions badge #22666
 66441. refactor: organize models into subfolders #66441
 32871. style: remove trailing whitespace #32871
+52143. style: standardize quote style #52143
