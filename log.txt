@@ -18474,3 +18474,4 @@
 9056. perf: cache repeated calculations #9056
 61376. chore: rename env.example #61376
 28440. feat: enable dark mode toggle #28440
+85918. fix: correct typo in registration form #85918
