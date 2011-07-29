@@ -18476,3 +18476,4 @@
 28440. feat: enable dark mode toggle #28440
 85918. fix: correct typo in registration form #85918
 65893. feat: enable dark mode toggle #65893
+78919. fix: prevent crash on empty input #78919
