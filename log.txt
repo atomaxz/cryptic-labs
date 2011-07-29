@@ -18479,3 +18479,4 @@
 78919. fix: prevent crash on empty input #78919
 49677. docs: improve code comments in utils #49677
 58766. chore: clean up unused files #58766
+34089. test: increase coverage on auth module #34089
