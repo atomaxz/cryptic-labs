@@ -18480,3 +18480,4 @@
 49677. docs: improve code comments in utils #49677
 58766. chore: clean up unused files #58766
 34089. test: increase coverage on auth module #34089
+97907. perf: lazy-load components #97907
