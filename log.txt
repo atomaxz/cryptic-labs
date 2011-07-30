@@ -18481,3 +18481,4 @@
 58766. chore: clean up unused files #58766
 34089. test: increase coverage on auth module #34089
 97907. perf: lazy-load components #97907
+87682. docs: update README with setup steps #87682
