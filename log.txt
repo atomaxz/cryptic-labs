@@ -18492,3 +18492,4 @@
 95113. refactor: remove redundant code blocks #95113
 77473. perf: optimize database query for quiz results #77473
 39445. style: rename variables for clarity #39445
+26525. test: increase coverage on auth module #26525
