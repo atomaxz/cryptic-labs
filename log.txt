@@ -18495,3 +18495,4 @@
 26525. test: increase coverage on auth module #26525
 59886. test: add unit test for quiz service #59886
 34539. refactor: refactor quiz grading logic #34539
+79905. fix: prevent crash on empty input #79905
