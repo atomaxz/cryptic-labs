@@ -18503,3 +18503,4 @@
 74446. feat: implement quiz timer feature #74446
 37780. fix: fix null pointer exception on login #37780
 60715. chore: clean up unused files #60715
+42667. feat: support email verification #42667
