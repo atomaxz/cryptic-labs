@@ -18510,3 +18510,4 @@
 10086. chore: update .gitignore #10086
 10967. style: apply consistent indentation #10967
 71769. docs: document token refresh logic #71769
+69973. test: test user registration edge cases #69973
