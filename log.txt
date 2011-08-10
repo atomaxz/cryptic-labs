@@ -18511,3 +18511,4 @@
 10967. style: apply consistent indentation #10967
 71769. docs: document token refresh logic #71769
 69973. test: test user registration edge cases #69973
+82640. chore: bump dependencies #82640
