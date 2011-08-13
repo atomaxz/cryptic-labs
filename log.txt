@@ -18528,3 +18528,4 @@
 77025. style: standardize quote style #77025
 33466. chore: clean up unused files #33466
 59586. feat: add user authentication #59586
+83136. perf: lazy-load components #83136
