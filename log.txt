@@ -18536,3 +18536,4 @@
 41752. chore: clean up unused files #41752
 46738. docs: document token refresh logic #46738
 27641. refactor: clean up auth middleware #27641
+24717. test: mock database connection in test suite #24717
