@@ -18534,3 +18534,4 @@
 28398. docs: add API usage examples #28398
 80409. chore: clean up unused files #80409
 41752. chore: clean up unused files #41752
+46738. docs: document token refresh logic #46738
