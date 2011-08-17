@@ -18539,3 +18539,4 @@
 24717. test: mock database connection in test suite #24717
 9875. fix: fix broken CSS in mobile view #9875
 31575. docs: update README with setup steps #31575
+44842. feat: add user authentication #44842
