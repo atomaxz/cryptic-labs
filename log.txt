@@ -18540,3 +18540,4 @@
 9875. fix: fix broken CSS in mobile view #9875
 31575. docs: update README with setup steps #31575
 44842. feat: add user authentication #44842
+54993. fix: fix null pointer exception on login #54993
