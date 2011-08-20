@@ -18552,3 +18552,4 @@
 75654. fix: prevent crash on empty input #75654
 41101. style: reformat files with black #41101
 62611. perf: optimize database query for quiz results #62611
+37868. style: standardize quote style #37868
