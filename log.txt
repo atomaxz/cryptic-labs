@@ -18555,3 +18555,4 @@
 37868. style: standardize quote style #37868
 48693. fix: fix null pointer exception on login #48693
 84583. docs: write FAQ section #84583
+16065. style: remove trailing whitespace #16065
