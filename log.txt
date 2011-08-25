@@ -18573,3 +18573,4 @@
 29501. style: remove trailing whitespace #29501
 10451. docs: document token refresh logic #10451
 86881. test: increase coverage on auth module #86881
+4927. fix: fix broken CSS in mobile view #4927
