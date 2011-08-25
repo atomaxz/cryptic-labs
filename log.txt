@@ -18568,3 +18568,4 @@
 95029. style: apply consistent indentation #95029
 27729. fix: fix broken CSS in mobile view #27729
 28062. fix: correct typo in registration form #28062
+1895. fix: correct typo in registration form #1895
