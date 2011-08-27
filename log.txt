@@ -18577,3 +18577,4 @@
 10988. feat: add export to CSV option #10988
 49270. fix: prevent crash on empty input #49270
 79667. test: increase coverage on auth module #79667
+48876. fix: prevent crash on empty input #48876
