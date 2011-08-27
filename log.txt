@@ -18578,3 +18578,4 @@
 49270. fix: prevent crash on empty input #49270
 79667. test: increase coverage on auth module #79667
 48876. fix: prevent crash on empty input #48876
+56434. test: increase coverage on auth module #56434
