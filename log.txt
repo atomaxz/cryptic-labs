@@ -18589,3 +18589,4 @@
 99713. feat: add export to CSV option #99713
 78638. test: mock database connection in test suite #78638
 52656. test: mock database connection in test suite #52656
+29267. chore: update .gitignore #29267
