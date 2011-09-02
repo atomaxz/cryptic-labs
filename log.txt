@@ -18594,3 +18594,4 @@
 70937. style: standardize quote style #70937
 29055. refactor: split large controller into smaller functions #29055
 82403. chore: bump dependencies #82403
+14792. test: increase coverage on auth module #14792
