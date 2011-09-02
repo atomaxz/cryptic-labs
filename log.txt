@@ -18600,3 +18600,4 @@
 42716. test: increase coverage on auth module #42716
 82794. docs: improve code comments in utils #82794
 66532. perf: optimize database query for quiz results #66532
+11954. refactor: organize models into subfolders #11954
