@@ -18602,3 +18602,4 @@
 66532. perf: optimize database query for quiz results #66532
 11954. refactor: organize models into subfolders #11954
 9568. refactor: clean up auth middleware #9568
+80288. fix: fix broken CSS in mobile view #80288
