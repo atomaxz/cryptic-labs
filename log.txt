@@ -18597,3 +18597,4 @@
 14792. test: increase coverage on auth module #14792
 5021. feat: add export to CSV option #5021
 79279. test: test user registration edge cases #79279
+42716. test: increase coverage on auth module #42716
