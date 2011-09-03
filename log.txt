@@ -18605,3 +18605,4 @@
 80288. fix: fix broken CSS in mobile view #80288
 11076. chore: update .gitignore #11076
 36007. style: reformat files with black #36007
+36021. perf: lazy-load components #36021
