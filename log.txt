@@ -18620,3 +18620,4 @@
 32512. test: test user registration edge cases #32512
 10702. docs: add API usage examples #10702
 63368. test: increase coverage on auth module #63368
+52235. fix: handle 500 error in quiz API #52235
