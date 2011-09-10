@@ -18638,3 +18638,4 @@
 24389. feat: create admin dashboard #24389
 27633. fix: resolve issue with date parsing #27633
 58510. style: remove trailing whitespace #58510
+82771. style: standardize quote style #82771
