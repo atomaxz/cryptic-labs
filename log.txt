@@ -18644,3 +18644,4 @@
 15291. fix: resolve issue with date parsing #15291
 46284. feat: add user authentication #46284
 42128. docs: improve code comments in utils #42128
+14874. fix: fix null pointer exception on login #14874
