@@ -18646,3 +18646,4 @@
 42128. docs: improve code comments in utils #42128
 14874. fix: fix null pointer exception on login #14874
 16843. style: standardize quote style #16843
+33084. fix: correct typo in registration form #33084
