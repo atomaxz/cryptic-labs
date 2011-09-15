@@ -18650,3 +18650,4 @@
 53821. style: standardize quote style #53821
 52681. chore: update .gitignore #52681
 28886. fix: fix null pointer exception on login #28886
+27140. perf: optimize database query for quiz results #27140
