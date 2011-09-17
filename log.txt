@@ -18659,3 +18659,4 @@
 17849. perf: lazy-load components #17849
 59533. perf: lazy-load components #59533
 66577. test: increase coverage on auth module #66577
+75076. feat: add user authentication #75076
