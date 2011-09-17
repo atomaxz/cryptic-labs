@@ -18657,3 +18657,4 @@
 40137. test: increase coverage on auth module #40137
 64890. style: rename variables for clarity #64890
 17849. perf: lazy-load components #17849
+59533. perf: lazy-load components #59533
