@@ -18662,3 +18662,4 @@
 75076. feat: add user authentication #75076
 65941. fix: correct typo in registration form #65941
 94710. fix: handle 500 error in quiz API #94710
+59762. refactor: clean up auth middleware #59762
