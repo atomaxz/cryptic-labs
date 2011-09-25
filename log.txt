@@ -18685,3 +18685,4 @@
 76907. docs: update README with setup steps #76907
 23887. feat: enable dark mode toggle #23887
 93836. refactor: remove redundant code blocks #93836
+35310. perf: reduce image load time #35310
