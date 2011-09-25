@@ -18687,3 +18687,4 @@
 93836. refactor: remove redundant code blocks #93836
 35310. perf: reduce image load time #35310
 23027. feat: create admin dashboard #23027
+47405. chore: update .gitignore #47405
