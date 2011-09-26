@@ -18689,3 +18689,4 @@
 23027. feat: create admin dashboard #23027
 47405. chore: update .gitignore #47405
 46671. style: rename variables for clarity #46671
+83758. refactor: clean up auth middleware #83758
