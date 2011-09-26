@@ -18692,3 +18692,4 @@
 83758. refactor: clean up auth middleware #83758
 42433. chore: rename env.example #42433
 16638. docs: document token refresh logic #16638
+28799. fix: fix broken CSS in mobile view #28799
