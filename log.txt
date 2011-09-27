@@ -18697,3 +18697,4 @@
 38622. perf: optimize database query for quiz results #38622
 38247. style: reformat files with black #38247
 76783. docs: add API usage examples #76783
+82424. docs: write FAQ section #82424
