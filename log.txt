@@ -18699,3 +18699,4 @@
 76783. docs: add API usage examples #76783
 82424. docs: write FAQ section #82424
 26723. perf: reduce image load time #26723
+80916. style: rename variables for clarity #80916
