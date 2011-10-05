@@ -18727,3 +18727,4 @@
 61020. docs: update README with setup steps #61020
 93194. style: apply consistent indentation #93194
 88719. fix: fix broken CSS in mobile view #88719
+40895. fix: correct typo in registration form #40895
