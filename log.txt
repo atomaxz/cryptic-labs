@@ -18733,3 +18733,4 @@
 9792. style: apply consistent indentation #9792
 49170. test: test user registration edge cases #49170
 52028. refactor: refactor quiz grading logic #52028
+17629. fix: prevent crash on empty input #17629
