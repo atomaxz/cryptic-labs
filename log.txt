@@ -18746,3 +18746,4 @@
 26965. refactor: remove redundant code blocks #26965
 80189. chore: add GitHub actions badge #80189
 86106. chore: add GitHub actions badge #86106
+51224. fix: prevent crash on empty input #51224
