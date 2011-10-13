@@ -18750,3 +18750,4 @@
 14519. docs: improve code comments in utils #14519
 85303. fix: handle 500 error in quiz API #85303
 31224. feat: enable dark mode toggle #31224
+65095. fix: handle 500 error in quiz API #65095
