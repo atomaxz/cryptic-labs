@@ -18753,3 +18753,4 @@
 65095. fix: handle 500 error in quiz API #65095
 55992. docs: add API usage examples #55992
 46611. style: apply consistent indentation #46611
+0586. test: add integration test for /submit endpoint #586
