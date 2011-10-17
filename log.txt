@@ -4,3 +4,4 @@
 32050. perf: cache repeated calculations #32050
 29157. test: mock database connection in test suite #29157
 90096. docs: clarify environment setup #90096
+41948. style: reformat files with black #41948
