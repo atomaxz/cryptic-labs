@@ -18761,3 +18761,4 @@
 49031. test: add unit test for quiz service #49031
 94600. refactor: split large controller into smaller functions #94600
 36013. refactor: refactor quiz grading logic #36013
+67802. fix: resolve issue with date parsing #67802
