@@ -18763,3 +18763,4 @@
 36013. refactor: refactor quiz grading logic #36013
 67802. fix: resolve issue with date parsing #67802
 3727. fix: fix broken CSS in mobile view #3727
+33852. test: add integration test for /submit endpoint #33852
