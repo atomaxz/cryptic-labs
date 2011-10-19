@@ -18765,3 +18765,4 @@
 3727. fix: fix broken CSS in mobile view #3727
 33852. test: add integration test for /submit endpoint #33852
 63425. feat: support email verification #63425
+89255. perf: lazy-load components #89255
