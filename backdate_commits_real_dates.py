@@ -7,7 +7,11 @@ from datetime import datetime, timedelta
 REPO_DIR = "."  # Use current directory
 COMMIT_FILE = "commit_messages.txt"
 NUM_COMMITS = 3000
-START_DATE = datetime(2011, 10, 10)
+
+# 🗓️ SET YOUR DATE RANGE HERE
+# Example: from October 21, 2024 to October 21, 2025
+START_DATE = datetime(2011, 10, 21)
+END_DATE = datetime(2012, 10, 21)
 
 def load_commit_messages(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -47,8 +51,8 @@ def main():
     print("📄 Loading commit messages...")
     messages = load_commit_messages(COMMIT_FILE)
 
-    print("📅 Generating random commit dates from June 14, 2016...")
-    dates = generate_random_dates(NUM_COMMITS, START_DATE, datetime.now())
+    print(f"📅 Generating random commit dates between {START_DATE.date()} and {END_DATE.date()}...")
+    dates = generate_random_dates(NUM_COMMITS, START_DATE, END_DATE)
 
     print(f"📁 Setting up Git repo at: {REPO_DIR}")
     setup_repo(REPO_DIR)
@@ -58,7 +62,7 @@ def main():
         print(f"📦 Commit {i+1}/{NUM_COMMITS} → {dates[i]} | {messages[i]}")
         make_commit(REPO_DIR, messages[i], dates[i])
 
-    print("\n✅ Done! All commits backdated randomly since June 14, 2016.")
+    print(f"\n✅ Done! All commits backdated randomly between {START_DATE.date()} and {END_DATE.date()}.")
 
 if __name__ == "__main__":
     main()
