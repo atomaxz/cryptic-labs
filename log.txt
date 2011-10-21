@@ -3002,3 +3002,4 @@
 79727. test: test user registration edge cases #79727
 96364. chore: add GitHub actions badge #96364
 71074. perf: reduce image load time #71074
+58477. test: add unit test for quiz service #58477
