@@ -3006,3 +3006,4 @@
 23377. docs: improve code comments in utils #23377
 55503. feat: implement quiz timer feature #55503
 49818. perf: cache repeated calculations #49818
+90765. fix: handle 500 error in quiz API #90765
