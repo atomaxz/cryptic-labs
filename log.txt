@@ -3007,3 +3007,4 @@
 55503. feat: implement quiz timer feature #55503
 49818. perf: cache repeated calculations #49818
 90765. fix: handle 500 error in quiz API #90765
+56315. fix: fix broken CSS in mobile view #56315
