@@ -3000,3 +3000,4 @@
 15891. perf: reduce image load time #15891
 49800. feat: create admin dashboard #49800
 79727. test: test user registration edge cases #79727
+96364. chore: add GitHub actions badge #96364
