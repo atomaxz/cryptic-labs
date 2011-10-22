@@ -3010,3 +3010,4 @@
 56315. fix: fix broken CSS in mobile view #56315
 89531. refactor: refactor quiz grading logic #89531
 93219. chore: add GitHub actions badge #93219
+33531. test: add integration test for /submit endpoint #33531
