@@ -6,3 +6,4 @@
 90096. docs: clarify environment setup #90096
 41948. style: reformat files with black #41948
 77924. refactor: refactor quiz grading logic #77924
+85325. perf: lazy-load components #85325
