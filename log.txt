@@ -18779,3 +18779,4 @@
 5405. feat: implement quiz timer feature #5405
 31197. refactor: clean up auth middleware #31197
 99034. test: add integration test for /submit endpoint #99034
+84434. chore: add GitHub actions badge #84434
