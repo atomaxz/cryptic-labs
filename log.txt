@@ -3022,3 +3022,4 @@
 70073. perf: cache repeated calculations #70073
 92347. feat: add export to CSV option #92347
 75139. refactor: clean up auth middleware #75139
+75685. perf: optimize database query for quiz results #75685
