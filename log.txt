@@ -18788,3 +18788,4 @@
 93228. fix: prevent crash on empty input #93228
 9550. style: apply consistent indentation #9550
 24476. perf: lazy-load components #24476
+69377. perf: reduce image load time #69377
