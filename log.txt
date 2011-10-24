@@ -18783,3 +18783,4 @@
 9738. chore: update .gitignore #9738
 60602. fix: resolve issue with date parsing #60602
 20113. feat: enable dark mode toggle #20113
+76424. style: standardize quote style #76424
