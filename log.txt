@@ -3026,3 +3026,4 @@
 94577. feat: enable dark mode toggle #94577
 5064. style: standardize quote style #5064
 86697. feat: add export to CSV option #86697
+51766. perf: cache repeated calculations #51766
