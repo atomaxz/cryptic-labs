@@ -18785,3 +18785,4 @@
 20113. feat: enable dark mode toggle #20113
 76424. style: standardize quote style #76424
 32836. test: test user registration edge cases #32836
+93228. fix: prevent crash on empty input #93228
