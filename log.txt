@@ -3033,3 +3033,4 @@
 4067. test: increase coverage on auth module #4067
 55749. fix: fix null pointer exception on login #55749
 68802. perf: cache repeated calculations #68802
+86084. feat: create admin dashboard #86084
