@@ -3035,3 +3035,4 @@
 68802. perf: cache repeated calculations #68802
 86084. feat: create admin dashboard #86084
 11578. docs: document token refresh logic #11578
+96598. fix: prevent crash on empty input #96598
