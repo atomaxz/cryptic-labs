@@ -8,3 +8,4 @@
 77924. refactor: refactor quiz grading logic #77924
 85325. perf: lazy-load components #85325
 25919. fix: correct typo in registration form #25919
+46697. style: apply consistent indentation #46697
