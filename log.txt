@@ -18795,3 +18795,4 @@
 94825. perf: reduce image load time #94825
 65168. refactor: remove redundant code blocks #65168
 40782. test: test user registration edge cases #40782
+88029. test: add unit test for quiz service #88029
