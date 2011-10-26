@@ -3049,3 +3049,4 @@
 93748. feat: implement quiz timer feature #93748
 0150. perf: optimize database query for quiz results #150
 8817. chore: bump dependencies #8817
+64931. fix: fix null pointer exception on login #64931
