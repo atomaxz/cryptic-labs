@@ -3042,3 +3042,4 @@
 56778. test: increase coverage on auth module #56778
 19269. chore: add GitHub actions badge #19269
 3822. refactor: split large controller into smaller functions #3822
+24262. style: remove trailing whitespace #24262
