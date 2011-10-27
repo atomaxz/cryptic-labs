@@ -12,3 +12,4 @@
 18284. refactor: remove redundant code blocks #18284
 28066. perf: cache repeated calculations #28066
 23657. test: add integration test for /submit endpoint #23657
+76205. refactor: clean up auth middleware #76205
