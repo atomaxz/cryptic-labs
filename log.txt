@@ -3052,3 +3052,4 @@
 64931. fix: fix null pointer exception on login #64931
 6208. perf: reduce image load time #6208
 40680. chore: bump dependencies #40680
+39340. feat: add user authentication #39340
