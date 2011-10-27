@@ -3054,3 +3054,4 @@
 40680. chore: bump dependencies #40680
 39340. feat: add user authentication #39340
 52963. perf: cache repeated calculations #52963
+78173. fix: resolve issue with date parsing #78173
