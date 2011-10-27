@@ -18797,3 +18797,4 @@
 40782. test: test user registration edge cases #40782
 88029. test: add unit test for quiz service #88029
 88129. chore: bump dependencies #88129
+47757. test: test user registration edge cases #47757
