@@ -3064,3 +3064,4 @@
 38135. perf: optimize database query for quiz results #38135
 30449. fix: handle 500 error in quiz API #30449
 37919. feat: add user authentication #37919
+66934. test: increase coverage on auth module #66934
