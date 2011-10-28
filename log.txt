@@ -3062,3 +3062,4 @@
 68502. refactor: refactor quiz grading logic #68502
 72839. fix: handle 500 error in quiz API #72839
 38135. perf: optimize database query for quiz results #38135
+30449. fix: handle 500 error in quiz API #30449
