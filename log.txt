@@ -18801,3 +18801,4 @@
 90753. chore: bump dependencies #90753
 2472. style: reformat files with black #2472
 96228. docs: update README with setup steps #96228
+50703. feat: enable dark mode toggle #50703
