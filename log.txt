@@ -3060,3 +3060,4 @@
 46261. docs: improve code comments in utils #46261
 38878. perf: lazy-load components #38878
 68502. refactor: refactor quiz grading logic #68502
+72839. fix: handle 500 error in quiz API #72839
