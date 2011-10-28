@@ -3063,3 +3063,4 @@
 72839. fix: handle 500 error in quiz API #72839
 38135. perf: optimize database query for quiz results #38135
 30449. fix: handle 500 error in quiz API #30449
+37919. feat: add user authentication #37919
