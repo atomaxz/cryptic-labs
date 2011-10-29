@@ -3070,3 +3070,4 @@
 97036. fix: fix broken CSS in mobile view #97036
 87273. refactor: clean up auth middleware #87273
 56093. docs: write FAQ section #56093
+38777. test: mock database connection in test suite #38777
