@@ -3068,3 +3068,4 @@
 17032. chore: update .gitignore #17032
 97382. perf: cache repeated calculations #97382
 97036. fix: fix broken CSS in mobile view #97036
+87273. refactor: clean up auth middleware #87273
