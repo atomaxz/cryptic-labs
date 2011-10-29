@@ -18803,3 +18803,4 @@
 96228. docs: update README with setup steps #96228
 50703. feat: enable dark mode toggle #50703
 36127. fix: correct typo in registration form #36127
+93168. chore: add GitHub actions badge #93168
