@@ -18805,3 +18805,4 @@
 36127. fix: correct typo in registration form #36127
 93168. chore: add GitHub actions badge #93168
 91468. style: reformat files with black #91468
+28557. fix: fix null pointer exception on login #28557
