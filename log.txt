@@ -3077,3 +3077,4 @@
 38712. docs: add API usage examples #38712
 32288. test: add unit test for quiz service #32288
 78034. docs: write FAQ section #78034
+44140. fix: fix broken CSS in mobile view #44140
