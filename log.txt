@@ -16,3 +16,4 @@
 2389. feat: create admin dashboard #2389
 54217. fix: prevent crash on empty input #54217
 77343. perf: cache repeated calculations #77343
+86410. refactor: organize models into subfolders #86410
