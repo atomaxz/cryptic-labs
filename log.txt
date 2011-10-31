@@ -3086,3 +3086,4 @@
 31993. chore: update .gitignore #31993
 88042. docs: write FAQ section #88042
 47240. chore: rename env.example #47240
+77797. fix: prevent crash on empty input #77797
