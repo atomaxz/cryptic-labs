@@ -3092,3 +3092,4 @@
 63989. refactor: clean up auth middleware #63989
 84164. feat: support email verification #84164
 22873. feat: add export to CSV option #22873
+69209. fix: correct typo in registration form #69209
