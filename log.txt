@@ -3089,3 +3089,4 @@
 77797. fix: prevent crash on empty input #77797
 49211. docs: document token refresh logic #49211
 4467. style: remove trailing whitespace #4467
+63989. refactor: clean up auth middleware #63989
