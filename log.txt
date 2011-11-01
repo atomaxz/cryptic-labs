@@ -3090,3 +3090,4 @@
 49211. docs: document token refresh logic #49211
 4467. style: remove trailing whitespace #4467
 63989. refactor: clean up auth middleware #63989
+84164. feat: support email verification #84164
