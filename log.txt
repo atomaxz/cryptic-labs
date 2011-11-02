@@ -18819,3 +18819,4 @@
 42025. fix: fix null pointer exception on login #42025
 99105. docs: update README with setup steps #99105
 12383. docs: document token refresh logic #12383
+0407. fix: correct typo in registration form #407
