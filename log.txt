@@ -18820,3 +18820,4 @@
 99105. docs: update README with setup steps #99105
 12383. docs: document token refresh logic #12383
 0407. fix: correct typo in registration form #407
+35828. perf: lazy-load components #35828
