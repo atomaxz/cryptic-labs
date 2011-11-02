@@ -3110,3 +3110,4 @@
 27275. style: remove trailing whitespace #27275
 20792. docs: clarify environment setup #20792
 68926. chore: add GitHub actions badge #68926
+84185. fix: fix broken CSS in mobile view #84185
