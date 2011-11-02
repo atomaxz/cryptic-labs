@@ -18821,3 +18821,4 @@
 12383. docs: document token refresh logic #12383
 0407. fix: correct typo in registration form #407
 35828. perf: lazy-load components #35828
+39279. test: add integration test for /submit endpoint #39279
