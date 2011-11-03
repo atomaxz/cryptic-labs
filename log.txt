@@ -3113,3 +3113,4 @@
 84185. fix: fix broken CSS in mobile view #84185
 43046. perf: reduce image load time #43046
 55924. perf: cache repeated calculations #55924
+15341. chore: add GitHub actions badge #15341
