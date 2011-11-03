@@ -3119,3 +3119,4 @@
 42797. style: standardize quote style #42797
 25555. style: remove trailing whitespace #25555
 73959. test: increase coverage on auth module #73959
+11667. fix: correct typo in registration form #11667
