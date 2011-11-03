@@ -3117,3 +3117,4 @@
 63722. fix: correct typo in registration form #63722
 53156. style: reformat files with black #53156
 42797. style: standardize quote style #42797
+25555. style: remove trailing whitespace #25555
