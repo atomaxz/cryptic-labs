@@ -3116,3 +3116,4 @@
 15341. chore: add GitHub actions badge #15341
 63722. fix: correct typo in registration form #63722
 53156. style: reformat files with black #53156
+42797. style: standardize quote style #42797
