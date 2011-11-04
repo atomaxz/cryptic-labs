@@ -18830,3 +18830,4 @@
 9426. docs: write FAQ section #9426
 60894. chore: rename env.example #60894
 44564. style: remove trailing whitespace #44564
+3227. chore: rename env.example #3227
