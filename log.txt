@@ -21,3 +21,4 @@
 17586. refactor: remove redundant code blocks #17586
 17339. refactor: split large controller into smaller functions #17339
 92837. chore: update .gitignore #92837
+32780. test: test user registration edge cases #32780
