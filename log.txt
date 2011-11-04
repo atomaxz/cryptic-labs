@@ -3124,3 +3124,4 @@
 32248. docs: add API usage examples #32248
 40406. fix: handle 500 error in quiz API #40406
 68498. feat: add user authentication #68498
+28218. fix: fix null pointer exception on login #28218
