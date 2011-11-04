@@ -3122,3 +3122,4 @@
 11667. fix: correct typo in registration form #11667
 44783. fix: fix broken CSS in mobile view #44783
 32248. docs: add API usage examples #32248
+40406. fix: handle 500 error in quiz API #40406
