@@ -20,3 +20,4 @@
 65160. test: mock database connection in test suite #65160
 17586. refactor: remove redundant code blocks #17586
 17339. refactor: split large controller into smaller functions #17339
+92837. chore: update .gitignore #92837
