@@ -22,3 +22,4 @@
 17339. refactor: split large controller into smaller functions #17339
 92837. chore: update .gitignore #92837
 32780. test: test user registration edge cases #32780
+93890. style: remove trailing whitespace #93890
