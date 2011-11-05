@@ -3131,3 +3131,4 @@
 62633. test: increase coverage on auth module #62633
 22407. feat: support email verification #22407
 82977. style: rename variables for clarity #82977
+84123. refactor: organize models into subfolders #84123
