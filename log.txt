@@ -3127,3 +3127,4 @@
 28218. fix: fix null pointer exception on login #28218
 30202. refactor: refactor quiz grading logic #30202
 83685. test: test user registration edge cases #83685
+9922. test: mock database connection in test suite #9922
