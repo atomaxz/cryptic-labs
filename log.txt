@@ -3138,3 +3138,4 @@
 61557. docs: write FAQ section #61557
 60330. refactor: remove redundant code blocks #60330
 58900. perf: optimize database query for quiz results #58900
+80977. refactor: refactor quiz grading logic #80977
