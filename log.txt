@@ -3151,3 +3151,4 @@
 6140. style: apply consistent indentation #6140
 79562. test: increase coverage on auth module #79562
 27510. perf: cache repeated calculations #27510
+46256. docs: write FAQ section #46256
