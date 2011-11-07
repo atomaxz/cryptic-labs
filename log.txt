@@ -3147,3 +3147,4 @@
 23346. fix: prevent crash on empty input #23346
 11233. perf: reduce image load time #11233
 21829. fix: handle 500 error in quiz API #21829
+24955. perf: lazy-load components #24955
