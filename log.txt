@@ -3158,3 +3158,4 @@
 67076. feat: add user authentication #67076
 98781. feat: create admin dashboard #98781
 33624. style: remove trailing whitespace #33624
+11714. perf: lazy-load components #11714
