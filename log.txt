@@ -3162,3 +3162,4 @@
 72151. refactor: split large controller into smaller functions #72151
 77944. refactor: refactor quiz grading logic #77944
 38288. feat: support email verification #38288
+58169. perf: lazy-load components #58169
