@@ -18848,3 +18848,4 @@
 0612. perf: reduce image load time #612
 29171. style: apply consistent indentation #29171
 28546. style: rename variables for clarity #28546
+77283. fix: fix null pointer exception on login #77283
