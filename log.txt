@@ -3169,3 +3169,4 @@
 20710. chore: update .gitignore #20710
 99294. chore: rename env.example #99294
 32130. feat: implement quiz timer feature #32130
+39083. fix: fix broken CSS in mobile view #39083
