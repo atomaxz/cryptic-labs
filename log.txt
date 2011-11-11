@@ -3175,3 +3175,4 @@
 14885. docs: add API usage examples #14885
 15284. docs: write FAQ section #15284
 75851. test: add integration test for /submit endpoint #75851
+68026. feat: add user authentication #68026
