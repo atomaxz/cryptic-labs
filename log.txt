@@ -3180,3 +3180,4 @@
 28540. style: reformat files with black #28540
 8409. refactor: clean up auth middleware #8409
 73157. refactor: clean up auth middleware #73157
+29157. test: mock database connection in test suite #29157
