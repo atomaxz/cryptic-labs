@@ -3181,3 +3181,4 @@
 8409. refactor: clean up auth middleware #8409
 73157. refactor: clean up auth middleware #73157
 29157. test: mock database connection in test suite #29157
+1350. chore: add GitHub actions badge #1350
