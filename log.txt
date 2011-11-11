@@ -3178,3 +3178,4 @@
 68026. feat: add user authentication #68026
 50357. perf: optimize database query for quiz results #50357
 28540. style: reformat files with black #28540
+8409. refactor: clean up auth middleware #8409
