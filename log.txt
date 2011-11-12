@@ -3185,3 +3185,4 @@
 26305. fix: correct typo in registration form #26305
 21196. docs: write FAQ section #21196
 23941. docs: add API usage examples #23941
+21282. style: standardize quote style #21282
