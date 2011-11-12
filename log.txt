@@ -3186,3 +3186,4 @@
 21196. docs: write FAQ section #21196
 23941. docs: add API usage examples #23941
 21282. style: standardize quote style #21282
+77158. chore: update .gitignore #77158
