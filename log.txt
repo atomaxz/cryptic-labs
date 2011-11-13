@@ -24,3 +24,4 @@
 32780. test: test user registration edge cases #32780
 93890. style: remove trailing whitespace #93890
 75373. chore: clean up unused files #75373
+70672. docs: document token refresh logic #70672
