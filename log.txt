@@ -3195,3 +3195,4 @@
 36799. docs: add API usage examples #36799
 95216. fix: fix null pointer exception on login #95216
 8966. style: rename variables for clarity #8966
+41599. docs: document token refresh logic #41599
