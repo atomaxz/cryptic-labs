@@ -3200,3 +3200,4 @@
 85066. test: add integration test for /submit endpoint #85066
 95720. style: reformat files with black #95720
 59144. docs: write FAQ section #59144
+35795. docs: update README with setup steps #35795
