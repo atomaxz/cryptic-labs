@@ -3201,3 +3201,4 @@
 95720. style: reformat files with black #95720
 59144. docs: write FAQ section #59144
 35795. docs: update README with setup steps #35795
+72937. chore: bump dependencies #72937
