@@ -18871,3 +18871,4 @@
 19143. refactor: organize models into subfolders #19143
 49671. chore: add GitHub actions badge #49671
 6435. chore: rename env.example #6435
+52116. feat: enable dark mode toggle #52116
