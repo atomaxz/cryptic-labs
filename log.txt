@@ -3209,3 +3209,4 @@
 74183. chore: update .gitignore #74183
 80294. feat: add export to CSV option #80294
 50877. test: increase coverage on auth module #50877
+5767. fix: fix null pointer exception on login #5767
