@@ -3219,3 +3219,4 @@
 3153. fix: fix broken CSS in mobile view #3153
 79437. test: increase coverage on auth module #79437
 50031. refactor: clean up auth middleware #50031
+89464. perf: optimize database query for quiz results #89464
