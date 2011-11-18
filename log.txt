@@ -3222,3 +3222,4 @@
 89464. perf: optimize database query for quiz results #89464
 23831. docs: clarify environment setup #23831
 48088. feat: support email verification #48088
+2117. test: increase coverage on auth module #2117
