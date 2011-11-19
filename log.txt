@@ -3233,3 +3233,4 @@
 39757. style: rename variables for clarity #39757
 90268. fix: correct typo in registration form #90268
 42325. refactor: split large controller into smaller functions #42325
+94597. style: reformat files with black #94597
