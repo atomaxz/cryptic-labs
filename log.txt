@@ -18880,3 +18880,4 @@
 95738. style: apply consistent indentation #95738
 21692. style: remove trailing whitespace #21692
 33458. test: add integration test for /submit endpoint #33458
+79099. fix: handle 500 error in quiz API #79099
