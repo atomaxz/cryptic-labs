@@ -3237,3 +3237,4 @@
 59341. test: increase coverage on auth module #59341
 16089. chore: clean up unused files #16089
 30199. refactor: remove redundant code blocks #30199
+22448. fix: handle 500 error in quiz API #22448
