@@ -3239,3 +3239,4 @@
 30199. refactor: remove redundant code blocks #30199
 22448. fix: handle 500 error in quiz API #22448
 63676. fix: resolve issue with date parsing #63676
+94657. perf: reduce image load time #94657
