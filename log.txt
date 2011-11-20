@@ -3240,3 +3240,4 @@
 22448. fix: handle 500 error in quiz API #22448
 63676. fix: resolve issue with date parsing #63676
 94657. perf: reduce image load time #94657
+13160. test: add unit test for quiz service #13160
