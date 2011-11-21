@@ -3243,3 +3243,4 @@
 13160. test: add unit test for quiz service #13160
 1530. style: standardize quote style #1530
 57460. feat: implement quiz timer feature #57460
+71650. test: increase coverage on auth module #71650
