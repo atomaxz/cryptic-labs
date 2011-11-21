@@ -18888,3 +18888,4 @@
 66184. docs: clarify environment setup #66184
 38568. chore: bump dependencies #38568
 17153. test: add integration test for /submit endpoint #17153
+36043. docs: update README with setup steps #36043
