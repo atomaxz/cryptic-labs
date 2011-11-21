@@ -18890,3 +18890,4 @@
 17153. test: add integration test for /submit endpoint #17153
 36043. docs: update README with setup steps #36043
 17037. perf: optimize database query for quiz results #17037
+33250. test: add unit test for quiz service #33250
