@@ -3249,3 +3249,4 @@
 41569. fix: fix broken CSS in mobile view #41569
 99183. style: rename variables for clarity #99183
 58425. chore: clean up unused files #58425
+78837. refactor: refactor quiz grading logic #78837
