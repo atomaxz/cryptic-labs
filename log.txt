@@ -3248,3 +3248,4 @@
 7385. feat: add user authentication #7385
 41569. fix: fix broken CSS in mobile view #41569
 99183. style: rename variables for clarity #99183
+58425. chore: clean up unused files #58425
