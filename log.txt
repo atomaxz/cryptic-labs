@@ -18893,3 +18893,4 @@
 33250. test: add unit test for quiz service #33250
 5465. docs: update README with setup steps #5465
 75245. perf: reduce image load time #75245
+30932. fix: fix null pointer exception on login #30932
