@@ -3254,3 +3254,4 @@
 52737. refactor: refactor quiz grading logic #52737
 31114. fix: fix broken CSS in mobile view #31114
 82449. refactor: refactor quiz grading logic #82449
+8658. test: mock database connection in test suite #8658
