@@ -3257,3 +3257,4 @@
 8658. test: mock database connection in test suite #8658
 69387. fix: fix broken CSS in mobile view #69387
 29477. fix: handle 500 error in quiz API #29477
+68146. test: increase coverage on auth module #68146
