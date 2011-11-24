@@ -3268,3 +3268,4 @@
 52772. chore: add GitHub actions badge #52772
 16887. chore: add GitHub actions badge #16887
 44747. style: remove trailing whitespace #44747
+78934. test: increase coverage on auth module #78934
