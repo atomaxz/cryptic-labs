@@ -3270,3 +3270,4 @@
 44747. style: remove trailing whitespace #44747
 78934. test: increase coverage on auth module #78934
 35652. fix: fix broken CSS in mobile view #35652
+15549. perf: lazy-load components #15549
