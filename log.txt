@@ -3274,3 +3274,4 @@
 84284. test: test user registration edge cases #84284
 35430. feat: support email verification #35430
 98484. refactor: clean up auth middleware #98484
+72894. perf: reduce image load time #72894
