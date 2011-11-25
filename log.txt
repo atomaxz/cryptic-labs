@@ -18900,3 +18900,4 @@
 15301. feat: add export to CSV option #15301
 99886. test: increase coverage on auth module #99886
 27269. chore: bump dependencies #27269
+19509. fix: fix broken CSS in mobile view #19509
