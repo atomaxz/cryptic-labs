@@ -3272,3 +3272,4 @@
 35652. fix: fix broken CSS in mobile view #35652
 15549. perf: lazy-load components #15549
 84284. test: test user registration edge cases #84284
+35430. feat: support email verification #35430
