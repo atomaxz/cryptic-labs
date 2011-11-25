@@ -3279,3 +3279,4 @@
 3146. test: add unit test for quiz service #3146
 98751. feat: add export to CSV option #98751
 41058. style: standardize quote style #41058
+92794. feat: add user authentication #92794
