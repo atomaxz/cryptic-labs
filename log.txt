@@ -18903,3 +18903,4 @@
 19509. fix: fix broken CSS in mobile view #19509
 77344. chore: bump dependencies #77344
 93561. feat: add export to CSV option #93561
+69778. refactor: organize models into subfolders #69778
