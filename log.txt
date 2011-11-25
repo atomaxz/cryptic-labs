@@ -18901,3 +18901,4 @@
 99886. test: increase coverage on auth module #99886
 27269. chore: bump dependencies #27269
 19509. fix: fix broken CSS in mobile view #19509
+77344. chore: bump dependencies #77344
