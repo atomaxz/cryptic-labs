@@ -3276,3 +3276,4 @@
 98484. refactor: clean up auth middleware #98484
 72894. perf: reduce image load time #72894
 80730. test: increase coverage on auth module #80730
+3146. test: add unit test for quiz service #3146
