@@ -18908,3 +18908,4 @@
 72733. docs: write FAQ section #72733
 45330. feat: enable dark mode toggle #45330
 3573. style: apply consistent indentation #3573
+85988. refactor: organize models into subfolders #85988
