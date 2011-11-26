@@ -18907,3 +18907,4 @@
 17030. docs: clarify environment setup #17030
 72733. docs: write FAQ section #72733
 45330. feat: enable dark mode toggle #45330
+3573. style: apply consistent indentation #3573
