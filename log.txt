@@ -3290,3 +3290,4 @@
 99069. feat: create admin dashboard #99069
 49952. chore: clean up unused files #49952
 9321. docs: improve code comments in utils #9321
+97355. fix: handle 500 error in quiz API #97355
