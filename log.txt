@@ -18910,3 +18910,4 @@
 3573. style: apply consistent indentation #3573
 85988. refactor: organize models into subfolders #85988
 40359. perf: lazy-load components #40359
+20964. refactor: clean up auth middleware #20964
