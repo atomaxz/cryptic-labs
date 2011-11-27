@@ -3294,3 +3294,4 @@
 13134. feat: implement quiz timer feature #13134
 30323. perf: reduce image load time #30323
 0797. docs: add API usage examples #797
+11551. fix: prevent crash on empty input #11551
