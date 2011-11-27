@@ -3299,3 +3299,4 @@
 29862. chore: rename env.example #29862
 49176. test: increase coverage on auth module #49176
 76542. chore: bump dependencies #76542
+81946. refactor: organize models into subfolders #81946
