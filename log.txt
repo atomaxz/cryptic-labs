@@ -3298,3 +3298,4 @@
 88437. style: apply consistent indentation #88437
 29862. chore: rename env.example #29862
 49176. test: increase coverage on auth module #49176
+76542. chore: bump dependencies #76542
