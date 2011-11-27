@@ -3295,3 +3295,4 @@
 30323. perf: reduce image load time #30323
 0797. docs: add API usage examples #797
 11551. fix: prevent crash on empty input #11551
+88437. style: apply consistent indentation #88437
