@@ -3306,3 +3306,4 @@
 58480. test: test user registration edge cases #58480
 56299. chore: update .gitignore #56299
 58299. perf: reduce image load time #58299
+56810. fix: handle 500 error in quiz API #56810
