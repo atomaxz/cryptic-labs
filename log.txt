@@ -3303,3 +3303,4 @@
 66018. style: rename variables for clarity #66018
 33874. docs: update README with setup steps #33874
 28806. style: apply consistent indentation #28806
+58480. test: test user registration edge cases #58480
