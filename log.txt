@@ -18916,3 +18916,4 @@
 40629. style: reformat files with black #40629
 94598. fix: correct typo in registration form #94598
 56878. refactor: split large controller into smaller functions #56878
+7720. feat: enable dark mode toggle #7720
