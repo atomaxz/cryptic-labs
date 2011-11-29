@@ -3310,3 +3310,4 @@
 24120. fix: prevent crash on empty input #24120
 89675. test: test user registration edge cases #89675
 48110. style: apply consistent indentation #48110
+16054. docs: write FAQ section #16054
