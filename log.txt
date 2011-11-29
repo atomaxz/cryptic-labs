@@ -3315,3 +3315,4 @@
 43444. style: apply consistent indentation #43444
 42627. style: apply consistent indentation #42627
 17171. perf: cache repeated calculations #17171
+12213. fix: fix broken CSS in mobile view #12213
