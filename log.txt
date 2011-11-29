@@ -3316,3 +3316,4 @@
 42627. style: apply consistent indentation #42627
 17171. perf: cache repeated calculations #17171
 12213. fix: fix broken CSS in mobile view #12213
+9058. feat: support email verification #9058
