@@ -3311,3 +3311,4 @@
 89675. test: test user registration edge cases #89675
 48110. style: apply consistent indentation #48110
 16054. docs: write FAQ section #16054
+33780. chore: clean up unused files #33780
