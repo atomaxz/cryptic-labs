@@ -18918,3 +18918,4 @@
 56878. refactor: split large controller into smaller functions #56878
 7720. feat: enable dark mode toggle #7720
 61681. feat: add export to CSV option #61681
+28493. test: test user registration edge cases #28493
