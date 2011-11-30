@@ -29,3 +29,4 @@
 51021. refactor: refactor quiz grading logic #51021
 45792. test: increase coverage on auth module #45792
 41514. fix: fix broken CSS in mobile view #41514
+11195. test: test user registration edge cases #11195
