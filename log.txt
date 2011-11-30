@@ -3323,3 +3323,4 @@
 52572. refactor: clean up auth middleware #52572
 57810. docs: add API usage examples #57810
 83787. refactor: split large controller into smaller functions #83787
+62490. test: mock database connection in test suite #62490
