@@ -3320,3 +3320,4 @@
 64749. docs: update README with setup steps #64749
 3144. refactor: refactor quiz grading logic #3144
 38043. docs: write FAQ section #38043
+52572. refactor: clean up auth middleware #52572
