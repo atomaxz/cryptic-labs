@@ -18921,3 +18921,4 @@
 28493. test: test user registration edge cases #28493
 88610. refactor: remove redundant code blocks #88610
 32718. chore: bump dependencies #32718
+4582. chore: rename env.example #4582
