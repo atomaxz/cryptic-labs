@@ -18924,3 +18924,4 @@
 4582. chore: rename env.example #4582
 1262. chore: bump dependencies #1262
 49631. refactor: refactor quiz grading logic #49631
+89285. style: remove trailing whitespace #89285
