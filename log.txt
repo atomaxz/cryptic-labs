@@ -3327,3 +3327,4 @@
 29010. style: apply consistent indentation #29010
 47402. docs: update README with setup steps #47402
 94412. perf: reduce image load time #94412
+79633. docs: clarify environment setup #79633
