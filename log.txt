@@ -18931,3 +18931,4 @@
 29973. feat: add user authentication #29973
 29782. feat: implement quiz timer feature #29782
 7851. refactor: organize models into subfolders #7851
+92034. fix: prevent crash on empty input #92034
