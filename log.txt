@@ -18926,3 +18926,4 @@
 49631. refactor: refactor quiz grading logic #49631
 89285. style: remove trailing whitespace #89285
 65358. docs: clarify environment setup #65358
+66214. fix: prevent crash on empty input #66214
