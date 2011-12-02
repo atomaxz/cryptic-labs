@@ -18928,3 +18928,4 @@
 65358. docs: clarify environment setup #65358
 66214. fix: prevent crash on empty input #66214
 18974. refactor: clean up auth middleware #18974
+29973. feat: add user authentication #29973
