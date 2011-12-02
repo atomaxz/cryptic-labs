@@ -31,3 +31,4 @@
 41514. fix: fix broken CSS in mobile view #41514
 11195. test: test user registration edge cases #11195
 8723. test: mock database connection in test suite #8723
+87673. docs: add API usage examples #87673
