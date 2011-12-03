@@ -3338,3 +3338,4 @@
 52574. refactor: split large controller into smaller functions #52574
 71378. chore: rename env.example #71378
 27482. style: apply consistent indentation #27482
+81325. feat: enable dark mode toggle #81325
