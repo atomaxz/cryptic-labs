@@ -3334,3 +3334,4 @@
 69155. fix: fix broken CSS in mobile view #69155
 94408. refactor: split large controller into smaller functions #94408
 14251. style: standardize quote style #14251
+66414. fix: prevent crash on empty input #66414
