@@ -18937,3 +18937,4 @@
 16226. fix: prevent crash on empty input #16226
 93591. feat: enable dark mode toggle #93591
 87706. feat: create admin dashboard #87706
+21876. perf: optimize database query for quiz results #21876
