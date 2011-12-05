@@ -18943,3 +18943,4 @@
 11585. chore: add GitHub actions badge #11585
 18328. refactor: clean up auth middleware #18328
 15461. refactor: remove redundant code blocks #15461
+37801. docs: update README with setup steps #37801
