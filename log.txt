@@ -18940,3 +18940,4 @@
 21876. perf: optimize database query for quiz results #21876
 19012. feat: enable dark mode toggle #19012
 34664. docs: improve code comments in utils #34664
+11585. chore: add GitHub actions badge #11585
