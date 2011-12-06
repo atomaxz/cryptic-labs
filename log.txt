@@ -3363,3 +3363,4 @@
 35586. feat: implement quiz timer feature #35586
 10440. test: add integration test for /submit endpoint #10440
 52589. test: test user registration edge cases #52589
+98095. chore: add GitHub actions badge #98095
