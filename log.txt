@@ -18946,3 +18946,4 @@
 37801. docs: update README with setup steps #37801
 17315. refactor: split large controller into smaller functions #17315
 33433. test: add integration test for /submit endpoint #33433
+37344. perf: optimize database query for quiz results #37344
