@@ -18949,3 +18949,4 @@
 37344. perf: optimize database query for quiz results #37344
 48498. chore: add GitHub actions badge #48498
 65998. feat: create admin dashboard #65998
+73448. fix: correct typo in registration form #73448
