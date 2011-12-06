@@ -3359,3 +3359,4 @@
 25317. chore: update .gitignore #25317
 41037. fix: correct typo in registration form #41037
 56706. style: standardize quote style #56706
+74355. feat: enable dark mode toggle #74355
