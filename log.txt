@@ -3371,3 +3371,4 @@
 34118. chore: update .gitignore #34118
 29054. style: reformat files with black #29054
 47008. fix: handle 500 error in quiz API #47008
+61222. feat: support email verification #61222
