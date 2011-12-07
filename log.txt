@@ -18951,3 +18951,4 @@
 65998. feat: create admin dashboard #65998
 73448. fix: correct typo in registration form #73448
 71166. style: rename variables for clarity #71166
+24128. fix: fix broken CSS in mobile view #24128
