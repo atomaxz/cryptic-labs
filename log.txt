@@ -3380,3 +3380,4 @@
 0820. style: apply consistent indentation #820
 29398. fix: resolve issue with date parsing #29398
 39656. test: increase coverage on auth module #39656
+78070. perf: optimize database query for quiz results #78070
