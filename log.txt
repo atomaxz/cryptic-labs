@@ -3396,3 +3396,4 @@
 21600. docs: write FAQ section #21600
 34946. perf: cache repeated calculations #34946
 66722. refactor: refactor quiz grading logic #66722
+59116. fix: fix null pointer exception on login #59116
