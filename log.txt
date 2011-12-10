@@ -3392,3 +3392,4 @@
 63821. chore: bump dependencies #63821
 42050. chore: rename env.example #42050
 71954. test: test user registration edge cases #71954
+66982. feat: enable dark mode toggle #66982
