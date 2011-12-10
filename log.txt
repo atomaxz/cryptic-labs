@@ -18959,3 +18959,4 @@
 96151. refactor: organize models into subfolders #96151
 16594. chore: rename env.example #16594
 71261. perf: optimize database query for quiz results #71261
+82496. feat: add user authentication #82496
