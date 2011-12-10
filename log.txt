@@ -3391,3 +3391,4 @@
 60465. docs: clarify environment setup #60465
 63821. chore: bump dependencies #63821
 42050. chore: rename env.example #42050
+71954. test: test user registration edge cases #71954
