@@ -34,3 +34,4 @@
 87673. docs: add API usage examples #87673
 47052. fix: resolve issue with date parsing #47052
 96761. style: rename variables for clarity #96761
+43075. feat: add user authentication #43075
