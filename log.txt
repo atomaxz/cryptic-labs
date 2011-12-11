@@ -3405,3 +3405,4 @@
 40679. refactor: remove redundant code blocks #40679
 69158. perf: reduce image load time #69158
 18177. fix: correct typo in registration form #18177
+11238. test: test user registration edge cases #11238
