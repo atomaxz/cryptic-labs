@@ -3408,3 +3408,4 @@
 11238. test: test user registration edge cases #11238
 36561. feat: create admin dashboard #36561
 84116. docs: document token refresh logic #84116
+72180. fix: fix broken CSS in mobile view #72180
