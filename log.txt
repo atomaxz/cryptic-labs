@@ -18964,3 +18964,4 @@
 29364. style: rename variables for clarity #29364
 38395. fix: resolve issue with date parsing #38395
 21318. test: mock database connection in test suite #21318
+86048. fix: prevent crash on empty input #86048
