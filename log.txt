@@ -3413,3 +3413,4 @@
 62508. style: rename variables for clarity #62508
 17209. refactor: organize models into subfolders #17209
 43692. test: add unit test for quiz service #43692
+72098. fix: handle 500 error in quiz API #72098
