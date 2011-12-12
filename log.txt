@@ -3416,3 +3416,4 @@
 72098. fix: handle 500 error in quiz API #72098
 57480. fix: fix null pointer exception on login #57480
 46086. style: remove trailing whitespace #46086
+2810. feat: support email verification #2810
