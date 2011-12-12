@@ -36,3 +36,4 @@
 96761. style: rename variables for clarity #96761
 43075. feat: add user authentication #43075
 59868. test: add integration test for /submit endpoint #59868
+85994. docs: update README with setup steps #85994
