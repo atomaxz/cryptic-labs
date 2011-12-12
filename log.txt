@@ -3411,3 +3411,4 @@
 72180. fix: fix broken CSS in mobile view #72180
 64272. chore: clean up unused files #64272
 62508. style: rename variables for clarity #62508
+17209. refactor: organize models into subfolders #17209
