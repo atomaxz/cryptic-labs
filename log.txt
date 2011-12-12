@@ -3415,3 +3415,4 @@
 43692. test: add unit test for quiz service #43692
 72098. fix: handle 500 error in quiz API #72098
 57480. fix: fix null pointer exception on login #57480
+46086. style: remove trailing whitespace #46086
