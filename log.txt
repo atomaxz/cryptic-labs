@@ -3421,3 +3421,4 @@
 39967. chore: rename env.example #39967
 66360. style: apply consistent indentation #66360
 80128. style: rename variables for clarity #80128
+63233. fix: correct typo in registration form #63233
