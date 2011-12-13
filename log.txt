@@ -3427,3 +3427,4 @@
 71436. test: mock database connection in test suite #71436
 48247. feat: implement quiz timer feature #48247
 83964. test: mock database connection in test suite #83964
+72792. test: add unit test for quiz service #72792
