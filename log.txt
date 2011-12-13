@@ -18967,3 +18967,4 @@
 86048. fix: prevent crash on empty input #86048
 17994. perf: reduce image load time #17994
 46595. chore: add GitHub actions badge #46595
+60329. perf: optimize database query for quiz results #60329
