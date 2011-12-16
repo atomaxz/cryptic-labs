@@ -18981,3 +18981,4 @@
 0670. test: increase coverage on auth module #670
 14107. fix: prevent crash on empty input #14107
 66457. fix: fix null pointer exception on login #66457
+22104. style: apply consistent indentation #22104
