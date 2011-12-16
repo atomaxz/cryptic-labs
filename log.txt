@@ -3444,3 +3444,4 @@
 37938. feat: add export to CSV option #37938
 38149. chore: add GitHub actions badge #38149
 34471. perf: reduce image load time #34471
+64857. refactor: organize models into subfolders #64857
