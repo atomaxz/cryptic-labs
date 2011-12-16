@@ -18979,3 +18979,4 @@
 96834. chore: add GitHub actions badge #96834
 52912. style: reformat files with black #52912
 0670. test: increase coverage on auth module #670
+14107. fix: prevent crash on empty input #14107
