@@ -3442,3 +3442,4 @@
 11650. fix: prevent crash on empty input #11650
 76068. docs: add API usage examples #76068
 37938. feat: add export to CSV option #37938
+38149. chore: add GitHub actions badge #38149
