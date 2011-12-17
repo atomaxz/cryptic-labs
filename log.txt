@@ -3453,3 +3453,4 @@
 24858. style: standardize quote style #24858
 38980. test: mock database connection in test suite #38980
 66014. style: apply consistent indentation #66014
+85630. chore: add GitHub actions badge #85630
