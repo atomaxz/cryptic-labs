@@ -3451,3 +3451,4 @@
 15087. style: apply consistent indentation #15087
 16927. style: standardize quote style #16927
 24858. style: standardize quote style #24858
+38980. test: mock database connection in test suite #38980
