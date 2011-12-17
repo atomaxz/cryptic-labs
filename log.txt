@@ -3456,3 +3456,4 @@
 85630. chore: add GitHub actions badge #85630
 9191. docs: write FAQ section #9191
 52301. perf: lazy-load components #52301
+95556. perf: reduce image load time #95556
