@@ -3458,3 +3458,4 @@
 52301. perf: lazy-load components #52301
 95556. perf: reduce image load time #95556
 82886. refactor: refactor quiz grading logic #82886
+63323. fix: handle 500 error in quiz API #63323
