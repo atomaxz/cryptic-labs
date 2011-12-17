@@ -18986,3 +18986,4 @@
 19804. docs: write FAQ section #19804
 74695. fix: handle 500 error in quiz API #74695
 6587. style: reformat files with black #6587
+87985. feat: enable dark mode toggle #87985
