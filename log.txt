@@ -3465,3 +3465,4 @@
 29613. perf: reduce image load time #29613
 90605. refactor: refactor quiz grading logic #90605
 15302. docs: document token refresh logic #15302
+11910. chore: add GitHub actions badge #11910
