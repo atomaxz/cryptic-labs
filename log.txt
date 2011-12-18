@@ -18988,3 +18988,4 @@
 6587. style: reformat files with black #6587
 87985. feat: enable dark mode toggle #87985
 82175. perf: cache repeated calculations #82175
+8160. style: standardize quote style #8160
