@@ -3468,3 +3468,4 @@
 11910. chore: add GitHub actions badge #11910
 20861. feat: support email verification #20861
 66331. fix: handle 500 error in quiz API #66331
+72854. fix: fix null pointer exception on login #72854
