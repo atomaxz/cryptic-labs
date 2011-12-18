@@ -18990,3 +18990,4 @@
 82175. perf: cache repeated calculations #82175
 8160. style: standardize quote style #8160
 90795. docs: clarify environment setup #90795
+5839. chore: bump dependencies #5839
