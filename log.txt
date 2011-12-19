@@ -3474,3 +3474,4 @@
 90145. fix: resolve issue with date parsing #90145
 95469. style: remove trailing whitespace #95469
 15400. docs: write FAQ section #15400
+58494. docs: update README with setup steps #58494
