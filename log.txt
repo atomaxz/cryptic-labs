@@ -3476,3 +3476,4 @@
 15400. docs: write FAQ section #15400
 58494. docs: update README with setup steps #58494
 85178. perf: cache repeated calculations #85178
+11277. fix: correct typo in registration form #11277
