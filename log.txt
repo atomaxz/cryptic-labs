@@ -3484,3 +3484,4 @@
 52060. chore: clean up unused files #52060
 25630. chore: rename env.example #25630
 21691. refactor: split large controller into smaller functions #21691
+46584. perf: optimize database query for quiz results #46584
