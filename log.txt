@@ -41,3 +41,4 @@
 26834. style: standardize quote style #26834
 33176. style: standardize quote style #33176
 41503. test: test user registration edge cases #41503
+54672. feat: support email verification #54672
