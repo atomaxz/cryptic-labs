@@ -3496,3 +3496,4 @@
 83520. perf: reduce image load time #83520
 71741. perf: cache repeated calculations #71741
 21845. fix: fix null pointer exception on login #21845
+13713. fix: fix broken CSS in mobile view #13713
