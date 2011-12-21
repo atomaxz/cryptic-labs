@@ -18997,3 +18997,4 @@
 77240. style: remove trailing whitespace #77240
 9294. refactor: clean up auth middleware #9294
 87693. refactor: clean up auth middleware #87693
+74537. docs: write FAQ section #74537
