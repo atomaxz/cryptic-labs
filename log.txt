@@ -3497,3 +3497,4 @@
 71741. perf: cache repeated calculations #71741
 21845. fix: fix null pointer exception on login #21845
 13713. fix: fix broken CSS in mobile view #13713
+25971. perf: lazy-load components #25971
