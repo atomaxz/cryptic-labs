@@ -42,3 +42,4 @@
 33176. style: standardize quote style #33176
 41503. test: test user registration edge cases #41503
 54672. feat: support email verification #54672
+72703. fix: resolve issue with date parsing #72703
