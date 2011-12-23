@@ -3510,3 +3510,4 @@
 22358. docs: clarify environment setup #22358
 29016. chore: rename env.example #29016
 56528. perf: reduce image load time #56528
+10278. fix: handle 500 error in quiz API #10278
