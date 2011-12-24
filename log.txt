@@ -3515,3 +3515,4 @@
 90808. fix: correct typo in registration form #90808
 40479. feat: support email verification #40479
 11381. feat: support email verification #11381
+29858. style: remove trailing whitespace #29858
