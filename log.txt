@@ -3521,3 +3521,4 @@
 36113. fix: resolve issue with date parsing #36113
 8943. fix: resolve issue with date parsing #8943
 21547. chore: add GitHub actions badge #21547
+41823. perf: cache repeated calculations #41823
