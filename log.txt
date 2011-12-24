@@ -3514,3 +3514,4 @@
 28574. perf: optimize database query for quiz results #28574
 90808. fix: correct typo in registration form #90808
 40479. feat: support email verification #40479
+11381. feat: support email verification #11381
