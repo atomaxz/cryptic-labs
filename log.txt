@@ -3535,3 +3535,4 @@
 5074. fix: handle 500 error in quiz API #5074
 92996. fix: correct typo in registration form #92996
 27377. fix: handle 500 error in quiz API #27377
+54669. docs: improve code comments in utils #54669
