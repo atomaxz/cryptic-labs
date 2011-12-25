@@ -3533,3 +3533,4 @@
 30637. test: mock database connection in test suite #30637
 26695. fix: prevent crash on empty input #26695
 5074. fix: handle 500 error in quiz API #5074
+92996. fix: correct typo in registration form #92996
