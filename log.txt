@@ -3541,3 +3541,4 @@
 68796. fix: handle 500 error in quiz API #68796
 48913. style: apply consistent indentation #48913
 68510. test: add unit test for quiz service #68510
+62378. refactor: organize models into subfolders #62378
