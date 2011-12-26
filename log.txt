@@ -3537,3 +3537,4 @@
 27377. fix: handle 500 error in quiz API #27377
 54669. docs: improve code comments in utils #54669
 84638. refactor: refactor quiz grading logic #84638
+9942. perf: optimize database query for quiz results #9942
