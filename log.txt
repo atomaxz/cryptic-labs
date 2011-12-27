@@ -3545,3 +3545,4 @@
 98134. perf: cache repeated calculations #98134
 84477. chore: add GitHub actions badge #84477
 42685. style: standardize quote style #42685
+48881. fix: fix broken CSS in mobile view #48881
