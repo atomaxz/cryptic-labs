@@ -3543,3 +3543,4 @@
 68510. test: add unit test for quiz service #68510
 62378. refactor: organize models into subfolders #62378
 98134. perf: cache repeated calculations #98134
+84477. chore: add GitHub actions badge #84477
