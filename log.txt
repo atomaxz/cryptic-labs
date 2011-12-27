@@ -3547,3 +3547,4 @@
 42685. style: standardize quote style #42685
 48881. fix: fix broken CSS in mobile view #48881
 79898. perf: cache repeated calculations #79898
+26085. chore: update .gitignore #26085
