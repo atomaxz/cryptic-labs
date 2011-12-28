@@ -3555,3 +3555,4 @@
 95892. refactor: organize models into subfolders #95892
 84230. feat: support email verification #84230
 99845. refactor: refactor quiz grading logic #99845
+5106. perf: lazy-load components #5106
