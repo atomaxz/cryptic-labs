@@ -3553,3 +3553,4 @@
 37739. chore: rename env.example #37739
 92612. perf: reduce image load time #92612
 95892. refactor: organize models into subfolders #95892
+84230. feat: support email verification #84230
