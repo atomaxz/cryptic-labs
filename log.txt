@@ -3562,3 +3562,4 @@
 58646. fix: prevent crash on empty input #58646
 35556. docs: add API usage examples #35556
 71880. feat: add user authentication #71880
+95091. fix: fix broken CSS in mobile view #95091
