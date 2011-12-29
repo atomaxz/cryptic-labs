@@ -3561,3 +3561,4 @@
 20655. docs: add API usage examples #20655
 58646. fix: prevent crash on empty input #58646
 35556. docs: add API usage examples #35556
+71880. feat: add user authentication #71880
