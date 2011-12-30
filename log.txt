@@ -3571,3 +3571,4 @@
 13935. perf: reduce image load time #13935
 8318. feat: implement quiz timer feature #8318
 70365. fix: resolve issue with date parsing #70365
+16030. docs: update README with setup steps #16030
