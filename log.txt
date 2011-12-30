@@ -47,3 +47,4 @@
 81268. test: add integration test for /submit endpoint #81268
 45406. chore: clean up unused files #45406
 83134. docs: add API usage examples #83134
+74260. fix: fix null pointer exception on login #74260
