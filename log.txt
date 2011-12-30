@@ -3567,3 +3567,4 @@
 14085. docs: update README with setup steps #14085
 65273. fix: correct typo in registration form #65273
 96274. feat: create admin dashboard #96274
+44569. refactor: clean up auth middleware #44569
