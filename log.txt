@@ -3568,3 +3568,4 @@
 65273. fix: correct typo in registration form #65273
 96274. feat: create admin dashboard #96274
 44569. refactor: clean up auth middleware #44569
+13935. perf: reduce image load time #13935
