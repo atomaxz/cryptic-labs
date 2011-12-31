@@ -3581,3 +3581,4 @@
 10371. perf: optimize database query for quiz results #10371
 81115. fix: handle 500 error in quiz API #81115
 11486. docs: update README with setup steps #11486
+39175. test: test user registration edge cases #39175
