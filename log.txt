@@ -3578,3 +3578,4 @@
 76059. fix: handle 500 error in quiz API #76059
 18944. perf: reduce image load time #18944
 95266. style: remove trailing whitespace #95266
+10371. perf: optimize database query for quiz results #10371
