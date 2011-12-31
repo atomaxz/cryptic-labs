@@ -3574,3 +3574,4 @@
 16030. docs: update README with setup steps #16030
 1030. perf: lazy-load components #1030
 39081. feat: create admin dashboard #39081
+50984. perf: reduce image load time #50984
