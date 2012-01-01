@@ -3592,3 +3592,4 @@
 26005. perf: optimize database query for quiz results #26005
 49670. feat: implement quiz timer feature #49670
 65899. feat: support email verification #65899
+27911. feat: add export to CSV option #27911
