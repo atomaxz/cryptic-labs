@@ -3588,3 +3588,4 @@
 45054. perf: reduce image load time #45054
 87008. style: reformat files with black #87008
 24780. fix: correct typo in registration form #24780
+73497. test: test user registration edge cases #73497
