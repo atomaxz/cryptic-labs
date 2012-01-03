@@ -50,3 +50,4 @@
 74260. fix: fix null pointer exception on login #74260
 52520. feat: create admin dashboard #52520
 52638. test: add unit test for quiz service #52638
+67995. refactor: clean up auth middleware #67995
