@@ -20005,3 +20005,4 @@
 3732. style: reformat files with black #3732
 86603. docs: document token refresh logic #86603
 83015. fix: prevent crash on empty input #83015
+29501. style: remove trailing whitespace #29501
