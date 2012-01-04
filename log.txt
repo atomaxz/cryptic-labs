@@ -20008,3 +20008,4 @@
 29501. style: remove trailing whitespace #29501
 15355. refactor: remove redundant code blocks #15355
 30243. feat: add export to CSV option #30243
+77976. docs: write FAQ section #77976
