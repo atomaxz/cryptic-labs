@@ -3616,3 +3616,4 @@
 43270. test: add unit test for quiz service #43270
 71211. refactor: remove redundant code blocks #71211
 65940. refactor: organize models into subfolders #65940
+73518. perf: reduce image load time #73518
