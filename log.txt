@@ -3614,3 +3614,4 @@
 45739. chore: rename env.example #45739
 59289. test: add unit test for quiz service #59289
 43270. test: add unit test for quiz service #43270
+71211. refactor: remove redundant code blocks #71211
