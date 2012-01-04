@@ -3612,3 +3612,4 @@
 49491. style: rename variables for clarity #49491
 20615. refactor: remove redundant code blocks #20615
 45739. chore: rename env.example #45739
+59289. test: add unit test for quiz service #59289
