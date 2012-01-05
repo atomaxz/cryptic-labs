@@ -20010,3 +20010,4 @@
 30243. feat: add export to CSV option #30243
 77976. docs: write FAQ section #77976
 62205. docs: improve code comments in utils #62205
+89421. docs: update README with setup steps #89421
