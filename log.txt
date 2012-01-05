@@ -3624,3 +3624,4 @@
 52209. refactor: refactor quiz grading logic #52209
 87074. docs: write FAQ section #87074
 86451. refactor: refactor quiz grading logic #86451
+79026. perf: lazy-load components #79026
