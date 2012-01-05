@@ -3618,3 +3618,4 @@
 65940. refactor: organize models into subfolders #65940
 73518. perf: reduce image load time #73518
 18148. fix: fix null pointer exception on login #18148
+21610. perf: reduce image load time #21610
