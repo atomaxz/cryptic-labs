@@ -3631,3 +3631,4 @@
 29169. perf: lazy-load components #29169
 41257. refactor: remove redundant code blocks #41257
 15344. chore: update .gitignore #15344
+61245. docs: write FAQ section #61245
