@@ -52,3 +52,4 @@
 52638. test: add unit test for quiz service #52638
 67995. refactor: clean up auth middleware #67995
 48388. docs: clarify environment setup #48388
+82575. fix: resolve issue with date parsing #82575
