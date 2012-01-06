@@ -3628,3 +3628,4 @@
 3594. docs: update README with setup steps #3594
 15061. style: reformat files with black #15061
 25453. refactor: split large controller into smaller functions #25453
+29169. perf: lazy-load components #29169
