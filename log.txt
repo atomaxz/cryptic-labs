@@ -3636,3 +3636,4 @@
 50547. chore: update .gitignore #50547
 15866. perf: lazy-load components #15866
 84487. perf: reduce image load time #84487
+72240. fix: handle 500 error in quiz API #72240
