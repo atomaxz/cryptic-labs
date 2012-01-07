@@ -3640,3 +3640,4 @@
 38404. perf: reduce image load time #38404
 41002. style: reformat files with black #41002
 81489. fix: handle 500 error in quiz API #81489
+92671. fix: handle 500 error in quiz API #92671
