@@ -3651,3 +3651,4 @@
 67900. feat: add user authentication #67900
 55214. chore: rename env.example #55214
 68866. feat: create admin dashboard #68866
+10999. test: test user registration edge cases #10999
