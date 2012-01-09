@@ -3654,3 +3654,4 @@
 10999. test: test user registration edge cases #10999
 93165. fix: fix broken CSS in mobile view #93165
 51915. style: rename variables for clarity #51915
+85014. docs: update README with setup steps #85014
