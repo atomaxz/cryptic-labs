@@ -3652,3 +3652,4 @@
 55214. chore: rename env.example #55214
 68866. feat: create admin dashboard #68866
 10999. test: test user registration edge cases #10999
+93165. fix: fix broken CSS in mobile view #93165
