@@ -3670,3 +3670,4 @@
 11755. chore: add GitHub actions badge #11755
 7829. fix: handle 500 error in quiz API #7829
 91497. feat: add export to CSV option #91497
+38780. chore: rename env.example #38780
