@@ -3671,3 +3671,4 @@
 7829. fix: handle 500 error in quiz API #7829
 91497. feat: add export to CSV option #91497
 38780. chore: rename env.example #38780
+93442. fix: correct typo in registration form #93442
