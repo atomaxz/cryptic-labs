@@ -3666,3 +3666,4 @@
 48490. refactor: split large controller into smaller functions #48490
 76944. perf: reduce image load time #76944
 8734. style: remove trailing whitespace #8734
+17962. docs: update README with setup steps #17962
