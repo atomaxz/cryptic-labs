@@ -3676,3 +3676,4 @@
 66069. fix: correct typo in registration form #66069
 32444. perf: optimize database query for quiz results #32444
 99405. fix: fix broken CSS in mobile view #99405
+33883. style: remove trailing whitespace #33883
