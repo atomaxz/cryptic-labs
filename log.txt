@@ -3678,3 +3678,4 @@
 99405. fix: fix broken CSS in mobile view #99405
 33883. style: remove trailing whitespace #33883
 8198. test: mock database connection in test suite #8198
+0968. style: reformat files with black #968
