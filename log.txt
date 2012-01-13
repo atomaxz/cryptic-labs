@@ -3688,3 +3688,4 @@
 87306. style: remove trailing whitespace #87306
 25780. refactor: split large controller into smaller functions #25780
 97965. test: mock database connection in test suite #97965
+66692. fix: fix null pointer exception on login #66692
