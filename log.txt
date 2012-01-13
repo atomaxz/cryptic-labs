@@ -20029,3 +20029,4 @@
 41660. perf: reduce image load time #41660
 63420. chore: add GitHub actions badge #63420
 28337. chore: rename env.example #28337
+85169. chore: bump dependencies #85169
