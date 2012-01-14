@@ -3694,3 +3694,4 @@
 66328. feat: support email verification #66328
 7155. chore: add GitHub actions badge #7155
 34677. fix: resolve issue with date parsing #34677
+62645. perf: lazy-load components #62645
