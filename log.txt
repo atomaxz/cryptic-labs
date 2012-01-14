@@ -3689,3 +3689,4 @@
 25780. refactor: split large controller into smaller functions #25780
 97965. test: mock database connection in test suite #97965
 66692. fix: fix null pointer exception on login #66692
+32549. chore: update .gitignore #32549
