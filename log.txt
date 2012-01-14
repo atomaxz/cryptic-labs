@@ -20032,3 +20032,4 @@
 85169. chore: bump dependencies #85169
 16583. feat: create admin dashboard #16583
 99167. refactor: split large controller into smaller functions #99167
+36744. style: reformat files with black #36744
