@@ -3690,3 +3690,4 @@
 97965. test: mock database connection in test suite #97965
 66692. fix: fix null pointer exception on login #66692
 32549. chore: update .gitignore #32549
+47260. test: add integration test for /submit endpoint #47260
