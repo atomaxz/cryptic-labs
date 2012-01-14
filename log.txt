@@ -3696,3 +3696,4 @@
 34677. fix: resolve issue with date parsing #34677
 62645. perf: lazy-load components #62645
 3358. perf: cache repeated calculations #3358
+81792. chore: bump dependencies #81792
