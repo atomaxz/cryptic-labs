@@ -20039,3 +20039,4 @@
 61174. style: reformat files with black #61174
 31456. fix: prevent crash on empty input #31456
 60462. chore: update .gitignore #60462
+40755. feat: support email verification #40755
