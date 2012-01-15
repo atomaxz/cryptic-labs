@@ -3701,3 +3701,4 @@
 55228. fix: correct typo in registration form #55228
 80438. docs: improve code comments in utils #80438
 40417. refactor: clean up auth middleware #40417
+43528. refactor: split large controller into smaller functions #43528
