@@ -20037,3 +20037,4 @@
 1641. style: reformat files with black #1641
 26137. feat: add export to CSV option #26137
 61174. style: reformat files with black #61174
+31456. fix: prevent crash on empty input #31456
