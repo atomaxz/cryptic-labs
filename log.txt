@@ -20038,3 +20038,4 @@
 26137. feat: add export to CSV option #26137
 61174. style: reformat files with black #61174
 31456. fix: prevent crash on empty input #31456
+60462. chore: update .gitignore #60462
