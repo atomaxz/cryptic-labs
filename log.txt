@@ -3697,3 +3697,4 @@
 62645. perf: lazy-load components #62645
 3358. perf: cache repeated calculations #3358
 81792. chore: bump dependencies #81792
+83690. docs: write FAQ section #83690
