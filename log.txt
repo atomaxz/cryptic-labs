@@ -3698,3 +3698,4 @@
 3358. perf: cache repeated calculations #3358
 81792. chore: bump dependencies #81792
 83690. docs: write FAQ section #83690
+55228. fix: correct typo in registration form #55228
