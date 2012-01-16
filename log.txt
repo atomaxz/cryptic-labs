@@ -3703,3 +3703,4 @@
 40417. refactor: clean up auth middleware #40417
 43528. refactor: split large controller into smaller functions #43528
 55136. style: remove trailing whitespace #55136
+3373. fix: handle 500 error in quiz API #3373
