@@ -3707,3 +3707,4 @@
 99346. refactor: clean up auth middleware #99346
 52086. feat: add user authentication #52086
 63108. test: mock database connection in test suite #63108
+15533. chore: clean up unused files #15533
