@@ -56,3 +56,4 @@
 68820. refactor: remove redundant code blocks #68820
 23444. refactor: clean up auth middleware #23444
 7686. perf: cache repeated calculations #7686
+15885. fix: fix broken CSS in mobile view #15885
