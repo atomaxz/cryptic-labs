@@ -3722,3 +3722,4 @@
 19512. fix: fix broken CSS in mobile view #19512
 88320. docs: document token refresh logic #88320
 98451. feat: support email verification #98451
+95984. chore: add GitHub actions badge #95984
