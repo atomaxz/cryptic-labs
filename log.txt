@@ -3720,3 +3720,4 @@
 95602. fix: fix null pointer exception on login #95602
 73083. docs: clarify environment setup #73083
 19512. fix: fix broken CSS in mobile view #19512
+88320. docs: document token refresh logic #88320
