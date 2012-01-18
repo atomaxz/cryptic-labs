@@ -3713,3 +3713,4 @@
 72651. test: add integration test for /submit endpoint #72651
 14650. fix: prevent crash on empty input #14650
 83242. style: remove trailing whitespace #83242
+42527. chore: add GitHub actions badge #42527
