@@ -60,3 +60,4 @@
 89170. test: increase coverage on auth module #89170
 5487. fix: fix broken CSS in mobile view #5487
 0633. test: add unit test for quiz service #633
+92198. fix: correct typo in registration form #92198
