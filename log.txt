@@ -3724,3 +3724,4 @@
 98451. feat: support email verification #98451
 95984. chore: add GitHub actions badge #95984
 50589. test: add integration test for /submit endpoint #50589
+56774. style: remove trailing whitespace #56774
