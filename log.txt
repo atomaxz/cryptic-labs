@@ -20045,3 +20045,4 @@
 23052. fix: handle 500 error in quiz API #23052
 73351. perf: reduce image load time #73351
 84862. feat: add export to CSV option #84862
+78075. perf: cache repeated calculations #78075
