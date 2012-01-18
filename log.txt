@@ -3715,3 +3715,4 @@
 83242. style: remove trailing whitespace #83242
 42527. chore: add GitHub actions badge #42527
 98416. test: mock database connection in test suite #98416
+93370. feat: support email verification #93370
