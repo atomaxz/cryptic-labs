@@ -3728,3 +3728,4 @@
 55650. chore: bump dependencies #55650
 14134. fix: correct typo in registration form #14134
 8832. perf: cache repeated calculations #8832
+84668. docs: document token refresh logic #84668
