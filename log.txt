@@ -3732,3 +3732,4 @@
 38866. docs: clarify environment setup #38866
 70297. refactor: refactor quiz grading logic #70297
 73387. perf: reduce image load time #73387
+97190. test: mock database connection in test suite #97190
