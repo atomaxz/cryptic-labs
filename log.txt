@@ -3735,3 +3735,4 @@
 97190. test: mock database connection in test suite #97190
 72051. style: standardize quote style #72051
 90389. style: remove trailing whitespace #90389
+95854. fix: prevent crash on empty input #95854
