@@ -3729,3 +3729,4 @@
 14134. fix: correct typo in registration form #14134
 8832. perf: cache repeated calculations #8832
 84668. docs: document token refresh logic #84668
+38866. docs: clarify environment setup #38866
