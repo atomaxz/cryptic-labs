@@ -3743,3 +3743,4 @@
 7536. style: reformat files with black #7536
 18387. chore: add GitHub actions badge #18387
 85714. refactor: clean up auth middleware #85714
+30369. docs: update README with setup steps #30369
