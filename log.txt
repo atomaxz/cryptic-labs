@@ -3736,3 +3736,4 @@
 72051. style: standardize quote style #72051
 90389. style: remove trailing whitespace #90389
 95854. fix: prevent crash on empty input #95854
+48465. feat: enable dark mode toggle #48465
