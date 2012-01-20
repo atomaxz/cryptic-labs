@@ -3739,3 +3739,4 @@
 48465. feat: enable dark mode toggle #48465
 81631. chore: clean up unused files #81631
 85626. fix: prevent crash on empty input #85626
+10773. refactor: clean up auth middleware #10773
