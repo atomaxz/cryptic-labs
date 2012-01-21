@@ -3748,3 +3748,4 @@
 85969. docs: add API usage examples #85969
 87737. refactor: remove redundant code blocks #87737
 4039. fix: fix null pointer exception on login #4039
+41865. style: remove trailing whitespace #41865
