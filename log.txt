@@ -3751,3 +3751,4 @@
 41865. style: remove trailing whitespace #41865
 18634. fix: fix broken CSS in mobile view #18634
 35498. test: mock database connection in test suite #35498
+75376. feat: support email verification #75376
