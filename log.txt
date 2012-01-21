@@ -3749,3 +3749,4 @@
 87737. refactor: remove redundant code blocks #87737
 4039. fix: fix null pointer exception on login #4039
 41865. style: remove trailing whitespace #41865
+18634. fix: fix broken CSS in mobile view #18634
