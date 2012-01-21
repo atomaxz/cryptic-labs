@@ -18999,3 +18999,4 @@
 87693. refactor: clean up auth middleware #87693
 74537. docs: write FAQ section #74537
 89910. chore: bump dependencies #89910
+39567. docs: document token refresh logic #39567
