@@ -19002,3 +19002,4 @@
 39567. docs: document token refresh logic #39567
 31877. chore: update .gitignore #31877
 22245. perf: optimize database query for quiz results #22245
+62966. fix: correct typo in registration form #62966
