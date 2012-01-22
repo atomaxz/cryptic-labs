@@ -63,3 +63,4 @@
 92198. fix: correct typo in registration form #92198
 17379. feat: create admin dashboard #17379
 51516. chore: add GitHub actions badge #51516
+39862. style: reformat files with black #39862
