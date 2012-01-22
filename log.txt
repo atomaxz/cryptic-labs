@@ -3758,3 +3758,4 @@
 56212. refactor: split large controller into smaller functions #56212
 24383. perf: optimize database query for quiz results #24383
 12341. test: mock database connection in test suite #12341
+20944. test: increase coverage on auth module #20944
