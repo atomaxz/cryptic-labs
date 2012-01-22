@@ -3761,3 +3761,4 @@
 20944. test: increase coverage on auth module #20944
 68088. docs: add API usage examples #68088
 15438. perf: cache repeated calculations #15438
+65704. style: remove trailing whitespace #65704
