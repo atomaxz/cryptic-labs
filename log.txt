@@ -3755,3 +3755,4 @@
 64311. perf: cache repeated calculations #64311
 28631. refactor: clean up auth middleware #28631
 54009. style: remove trailing whitespace #54009
+56212. refactor: split large controller into smaller functions #56212
