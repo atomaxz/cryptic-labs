@@ -3768,3 +3768,4 @@
 76037. perf: cache repeated calculations #76037
 73009. test: increase coverage on auth module #73009
 44632. fix: prevent crash on empty input #44632
+34881. feat: support email verification #34881
