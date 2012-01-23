@@ -20064,3 +20064,4 @@
 31597. test: increase coverage on auth module #31597
 25500. perf: optimize database query for quiz results #25500
 56081. refactor: clean up auth middleware #56081
+71237. docs: add API usage examples #71237
