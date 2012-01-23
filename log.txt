@@ -20062,3 +20062,4 @@
 50783. test: increase coverage on auth module #50783
 37665. chore: update .gitignore #37665
 31597. test: increase coverage on auth module #31597
+25500. perf: optimize database query for quiz results #25500
