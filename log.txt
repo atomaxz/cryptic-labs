@@ -3773,3 +3773,4 @@
 95487. refactor: organize models into subfolders #95487
 27525. perf: cache repeated calculations #27525
 94325. docs: update README with setup steps #94325
+26274. perf: optimize database query for quiz results #26274
