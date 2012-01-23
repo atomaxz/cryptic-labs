@@ -3766,3 +3766,4 @@
 9874. style: standardize quote style #9874
 93405. style: apply consistent indentation #93405
 76037. perf: cache repeated calculations #76037
+73009. test: increase coverage on auth module #73009
