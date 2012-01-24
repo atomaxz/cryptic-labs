@@ -3778,3 +3778,4 @@
 94868. style: reformat files with black #94868
 21147. test: increase coverage on auth module #21147
 27718. refactor: split large controller into smaller functions #27718
+2173. fix: correct typo in registration form #2173
