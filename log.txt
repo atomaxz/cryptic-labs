@@ -3776,3 +3776,4 @@
 26274. perf: optimize database query for quiz results #26274
 69630. docs: improve code comments in utils #69630
 94868. style: reformat files with black #94868
+21147. test: increase coverage on auth module #21147
