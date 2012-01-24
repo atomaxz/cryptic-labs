@@ -3782,3 +3782,4 @@
 63055. chore: clean up unused files #63055
 77686. refactor: remove redundant code blocks #77686
 90230. perf: reduce image load time #90230
+73866. fix: fix null pointer exception on login #73866
