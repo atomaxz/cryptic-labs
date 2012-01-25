@@ -3788,3 +3788,4 @@
 80914. perf: optimize database query for quiz results #80914
 5344. fix: handle 500 error in quiz API #5344
 88451. style: remove trailing whitespace #88451
+51106. style: reformat files with black #51106
