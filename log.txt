@@ -19009,3 +19009,4 @@
 26655. feat: add export to CSV option #26655
 28879. perf: optimize database query for quiz results #28879
 77342. perf: cache repeated calculations #77342
+56695. chore: add GitHub actions badge #56695
