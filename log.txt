@@ -3795,3 +3795,4 @@
 92837. chore: update .gitignore #92837
 56721. chore: update .gitignore #56721
 18829. feat: create admin dashboard #18829
+68095. chore: rename env.example #68095
