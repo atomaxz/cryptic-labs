@@ -3797,3 +3797,4 @@
 18829. feat: create admin dashboard #18829
 68095. chore: rename env.example #68095
 23942. refactor: clean up auth middleware #23942
+55413. fix: prevent crash on empty input #55413
