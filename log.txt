@@ -3792,3 +3792,4 @@
 22418. fix: fix null pointer exception on login #22418
 41112. docs: add API usage examples #41112
 69225. fix: correct typo in registration form #69225
+92837. chore: update .gitignore #92837
