@@ -20074,3 +20074,4 @@
 84358. refactor: split large controller into smaller functions #84358
 65048. docs: add API usage examples #65048
 42002. perf: cache repeated calculations #42002
+25206. docs: document token refresh logic #25206
