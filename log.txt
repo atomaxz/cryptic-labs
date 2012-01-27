@@ -65,3 +65,4 @@
 51516. chore: add GitHub actions badge #51516
 39862. style: reformat files with black #39862
 37922. docs: update README with setup steps #37922
+3981. fix: correct typo in registration form #3981
