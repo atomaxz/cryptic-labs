@@ -19017,3 +19017,4 @@
 68508. perf: cache repeated calculations #68508
 19912. fix: resolve issue with date parsing #19912
 73512. chore: add GitHub actions badge #73512
+46976. fix: fix broken CSS in mobile view #46976
