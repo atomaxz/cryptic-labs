@@ -3815,3 +3815,4 @@
 97094. fix: prevent crash on empty input #97094
 68076. docs: improve code comments in utils #68076
 88067. docs: document token refresh logic #88067
+88078. chore: update .gitignore #88078
