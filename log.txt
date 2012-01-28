@@ -20078,3 +20078,4 @@
 57431. feat: create admin dashboard #57431
 39227. chore: clean up unused files #39227
 80269. feat: add user authentication #80269
+44953. fix: correct typo in registration form #44953
