@@ -19018,3 +19018,4 @@
 19912. fix: resolve issue with date parsing #19912
 73512. chore: add GitHub actions badge #73512
 46976. fix: fix broken CSS in mobile view #46976
+50847. feat: enable dark mode toggle #50847
