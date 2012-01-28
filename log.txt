@@ -19019,3 +19019,4 @@
 73512. chore: add GitHub actions badge #73512
 46976. fix: fix broken CSS in mobile view #46976
 50847. feat: enable dark mode toggle #50847
+19028. test: mock database connection in test suite #19028
