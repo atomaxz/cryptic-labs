@@ -3825,3 +3825,4 @@
 20552. chore: add GitHub actions badge #20552
 17926. style: standardize quote style #17926
 26307. feat: enable dark mode toggle #26307
+77505. test: test user registration edge cases #77505
