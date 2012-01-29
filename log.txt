@@ -19023,3 +19023,4 @@
 64249. fix: handle 500 error in quiz API #64249
 7923. fix: handle 500 error in quiz API #7923
 9238. perf: reduce image load time #9238
+67193. perf: optimize database query for quiz results #67193
