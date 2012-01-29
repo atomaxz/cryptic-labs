@@ -20079,3 +20079,4 @@
 39227. chore: clean up unused files #39227
 80269. feat: add user authentication #80269
 44953. fix: correct typo in registration form #44953
+50593. test: mock database connection in test suite #50593
