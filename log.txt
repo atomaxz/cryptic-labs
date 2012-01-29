@@ -19021,3 +19021,4 @@
 50847. feat: enable dark mode toggle #50847
 19028. test: mock database connection in test suite #19028
 64249. fix: handle 500 error in quiz API #64249
+7923. fix: handle 500 error in quiz API #7923
