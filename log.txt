@@ -3823,3 +3823,4 @@
 31496. fix: handle 500 error in quiz API #31496
 63487. fix: fix null pointer exception on login #63487
 20552. chore: add GitHub actions badge #20552
+17926. style: standardize quote style #17926
