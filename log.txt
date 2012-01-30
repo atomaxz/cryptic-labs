@@ -3833,3 +3833,4 @@
 66409. fix: fix broken CSS in mobile view #66409
 74323. chore: add GitHub actions badge #74323
 16048. test: add integration test for /submit endpoint #16048
+53853. chore: bump dependencies #53853
