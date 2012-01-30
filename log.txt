@@ -19024,3 +19024,4 @@
 7923. fix: handle 500 error in quiz API #7923
 9238. perf: reduce image load time #9238
 67193. perf: optimize database query for quiz results #67193
+61867. refactor: split large controller into smaller functions #61867
