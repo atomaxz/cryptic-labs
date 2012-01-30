@@ -67,3 +67,4 @@
 37922. docs: update README with setup steps #37922
 3981. fix: correct typo in registration form #3981
 53966. docs: write FAQ section #53966
+99015. chore: bump dependencies #99015
