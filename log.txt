@@ -20086,3 +20086,4 @@
 38387. fix: prevent crash on empty input #38387
 71716. refactor: remove redundant code blocks #71716
 47784. chore: bump dependencies #47784
+48836. docs: write FAQ section #48836
