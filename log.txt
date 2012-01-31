@@ -3839,3 +3839,4 @@
 23263. style: rename variables for clarity #23263
 15996. perf: reduce image load time #15996
 47350. style: apply consistent indentation #47350
+31252. docs: update README with setup steps #31252
