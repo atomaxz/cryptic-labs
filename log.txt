@@ -3842,3 +3842,4 @@
 31252. docs: update README with setup steps #31252
 86380. perf: optimize database query for quiz results #86380
 28687. fix: correct typo in registration form #28687
+29532. feat: enable dark mode toggle #29532
