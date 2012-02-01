@@ -19033,3 +19033,4 @@
 10811. chore: add GitHub actions badge #10811
 96697. feat: enable dark mode toggle #96697
 72497. perf: lazy-load components #72497
+12040. style: remove trailing whitespace #12040
