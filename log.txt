@@ -3843,3 +3843,4 @@
 86380. perf: optimize database query for quiz results #86380
 28687. fix: correct typo in registration form #28687
 29532. feat: enable dark mode toggle #29532
+54369. test: increase coverage on auth module #54369
