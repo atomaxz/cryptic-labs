@@ -3851,3 +3851,4 @@
 19704. chore: rename env.example #19704
 83040. fix: resolve issue with date parsing #83040
 47557. fix: resolve issue with date parsing #47557
+54802. fix: correct typo in registration form #54802
