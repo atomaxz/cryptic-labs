@@ -68,3 +68,4 @@
 3981. fix: correct typo in registration form #3981
 53966. docs: write FAQ section #53966
 99015. chore: bump dependencies #99015
+35444. feat: support email verification #35444
