@@ -3854,3 +3854,4 @@
 54802. fix: correct typo in registration form #54802
 29967. perf: optimize database query for quiz results #29967
 42691. style: standardize quote style #42691
+75168. perf: reduce image load time #75168
