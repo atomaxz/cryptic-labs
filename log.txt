@@ -3859,3 +3859,4 @@
 63331. style: rename variables for clarity #63331
 84797. docs: update README with setup steps #84797
 98576. chore: clean up unused files #98576
+35222. fix: prevent crash on empty input #35222
