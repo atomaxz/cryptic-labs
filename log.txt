@@ -19034,3 +19034,4 @@
 96697. feat: enable dark mode toggle #96697
 72497. perf: lazy-load components #72497
 12040. style: remove trailing whitespace #12040
+81004. chore: bump dependencies #81004
