@@ -20090,3 +20090,4 @@
 70942. refactor: split large controller into smaller functions #70942
 93783. test: increase coverage on auth module #93783
 5925. feat: support email verification #5925
+31976. test: increase coverage on auth module #31976
