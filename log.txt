@@ -19041,3 +19041,4 @@
 86269. test: mock database connection in test suite #86269
 17920. test: mock database connection in test suite #17920
 47043. fix: fix null pointer exception on login #47043
+25921. style: remove trailing whitespace #25921
