@@ -3870,3 +3870,4 @@
 30425. test: add integration test for /submit endpoint #30425
 82960. test: add integration test for /submit endpoint #82960
 16125. docs: write FAQ section #16125
+1479. fix: prevent crash on empty input #1479
