@@ -3866,3 +3866,4 @@
 9925. chore: clean up unused files #9925
 96785. refactor: organize models into subfolders #96785
 5192. test: test user registration edge cases #5192
+38515. style: remove trailing whitespace #38515
