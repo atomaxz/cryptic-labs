@@ -19044,3 +19044,4 @@
 25921. style: remove trailing whitespace #25921
 69840. fix: handle 500 error in quiz API #69840
 27108. feat: create admin dashboard #27108
+2413. test: mock database connection in test suite #2413
