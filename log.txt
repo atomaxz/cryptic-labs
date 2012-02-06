@@ -3884,3 +3884,4 @@
 21932. refactor: refactor quiz grading logic #21932
 58410. docs: document token refresh logic #58410
 44404. perf: optimize database query for quiz results #44404
+9132. fix: fix broken CSS in mobile view #9132
