@@ -3880,3 +3880,4 @@
 82149. perf: optimize database query for quiz results #82149
 22100. refactor: organize models into subfolders #22100
 39870. docs: clarify environment setup #39870
+26259. perf: lazy-load components #26259
