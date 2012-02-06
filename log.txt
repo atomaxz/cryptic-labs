@@ -3883,3 +3883,4 @@
 26259. perf: lazy-load components #26259
 21932. refactor: refactor quiz grading logic #21932
 58410. docs: document token refresh logic #58410
+44404. perf: optimize database query for quiz results #44404
