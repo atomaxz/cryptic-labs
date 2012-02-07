@@ -20096,3 +20096,4 @@
 32849. test: test user registration edge cases #32849
 97791. feat: add export to CSV option #97791
 21995. test: test user registration edge cases #21995
+15694. chore: bump dependencies #15694
