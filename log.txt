@@ -19049,3 +19049,4 @@
 94793. chore: clean up unused files #94793
 96563. perf: lazy-load components #96563
 37607. feat: support email verification #37607
+52785. style: remove trailing whitespace #52785
