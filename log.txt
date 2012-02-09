@@ -3901,3 +3901,4 @@
 80511. chore: update .gitignore #80511
 11632. docs: improve code comments in utils #11632
 39960. chore: bump dependencies #39960
+80935. docs: document token refresh logic #80935
