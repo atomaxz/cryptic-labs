@@ -71,3 +71,4 @@
 35444. feat: support email verification #35444
 23269. docs: write FAQ section #23269
 5233. refactor: refactor quiz grading logic #5233
+66905. chore: rename env.example #66905
