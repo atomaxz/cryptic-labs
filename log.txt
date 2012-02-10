@@ -3913,3 +3913,4 @@
 56578. test: add integration test for /submit endpoint #56578
 28239. refactor: split large controller into smaller functions #28239
 54537. docs: clarify environment setup #54537
+98047. test: increase coverage on auth module #98047
