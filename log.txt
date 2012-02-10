@@ -20105,3 +20105,4 @@
 97692. refactor: clean up auth middleware #97692
 79871. feat: add user authentication #79871
 88617. docs: write FAQ section #88617
+68948. chore: add GitHub actions badge #68948
