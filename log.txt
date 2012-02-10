@@ -20106,3 +20106,4 @@
 79871. feat: add user authentication #79871
 88617. docs: write FAQ section #88617
 68948. chore: add GitHub actions badge #68948
+89290. perf: lazy-load components #89290
