@@ -3919,3 +3919,4 @@
 5152. fix: handle 500 error in quiz API #5152
 91546. style: apply consistent indentation #91546
 53757. refactor: refactor quiz grading logic #53757
+69260. test: increase coverage on auth module #69260
