@@ -72,3 +72,4 @@
 23269. docs: write FAQ section #23269
 5233. refactor: refactor quiz grading logic #5233
 66905. chore: rename env.example #66905
+56635. fix: fix broken CSS in mobile view #56635
