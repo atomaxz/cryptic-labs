@@ -19059,3 +19059,4 @@
 16056. perf: optimize database query for quiz results #16056
 32801. refactor: organize models into subfolders #32801
 54970. feat: enable dark mode toggle #54970
+76240. test: increase coverage on auth module #76240
