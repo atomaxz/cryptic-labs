@@ -20107,3 +20107,4 @@
 88617. docs: write FAQ section #88617
 68948. chore: add GitHub actions badge #68948
 89290. perf: lazy-load components #89290
+1252. style: rename variables for clarity #1252
