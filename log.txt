@@ -3924,3 +3924,4 @@
 91039. chore: clean up unused files #91039
 94459. chore: clean up unused files #94459
 24323. test: test user registration edge cases #24323
+48619. test: add unit test for quiz service #48619
