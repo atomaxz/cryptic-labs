@@ -20112,3 +20112,4 @@
 11000. chore: rename env.example #11000
 23093. style: standardize quote style #23093
 91533. chore: add GitHub actions badge #91533
+68684. docs: write FAQ section #68684
