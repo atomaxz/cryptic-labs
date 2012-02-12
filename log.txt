@@ -3926,3 +3926,4 @@
 24323. test: test user registration edge cases #24323
 48619. test: add unit test for quiz service #48619
 34493. feat: add export to CSV option #34493
+43261. perf: lazy-load components #43261
