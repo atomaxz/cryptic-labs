@@ -19062,3 +19062,4 @@
 76240. test: increase coverage on auth module #76240
 15868. style: rename variables for clarity #15868
 60903. style: standardize quote style #60903
+51153. test: add unit test for quiz service #51153
