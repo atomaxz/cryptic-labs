@@ -19066,3 +19066,4 @@
 99927. chore: bump dependencies #99927
 47493. fix: fix null pointer exception on login #47493
 94639. refactor: clean up auth middleware #94639
+46075. feat: add user authentication #46075
