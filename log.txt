@@ -19067,3 +19067,4 @@
 47493. fix: fix null pointer exception on login #47493
 94639. refactor: clean up auth middleware #94639
 46075. feat: add user authentication #46075
+94145. test: add integration test for /submit endpoint #94145
