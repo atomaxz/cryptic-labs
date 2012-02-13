@@ -19064,3 +19064,4 @@
 60903. style: standardize quote style #60903
 51153. test: add unit test for quiz service #51153
 99927. chore: bump dependencies #99927
+47493. fix: fix null pointer exception on login #47493
