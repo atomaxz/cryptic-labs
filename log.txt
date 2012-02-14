@@ -75,3 +75,4 @@
 56635. fix: fix broken CSS in mobile view #56635
 89758. style: reformat files with black #89758
 73358. refactor: split large controller into smaller functions #73358
+70285. perf: lazy-load components #70285
