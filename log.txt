@@ -20122,3 +20122,4 @@
 37049. refactor: remove redundant code blocks #37049
 39397. style: reformat files with black #39397
 35431. test: test user registration edge cases #35431
+7847. refactor: split large controller into smaller functions #7847
