@@ -76,3 +76,4 @@
 89758. style: reformat files with black #89758
 73358. refactor: split large controller into smaller functions #73358
 70285. perf: lazy-load components #70285
+27928. docs: write FAQ section #27928
