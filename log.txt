@@ -19068,3 +19068,4 @@
 94639. refactor: clean up auth middleware #94639
 46075. feat: add user authentication #46075
 94145. test: add integration test for /submit endpoint #94145
+5889. test: test user registration edge cases #5889
