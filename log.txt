@@ -3935,3 +3935,4 @@
 30959. perf: cache repeated calculations #30959
 29871. style: rename variables for clarity #29871
 81131. test: test user registration edge cases #81131
+89958. test: mock database connection in test suite #89958
