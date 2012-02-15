@@ -3944,3 +3944,4 @@
 61237. style: reformat files with black #61237
 95156. chore: add GitHub actions badge #95156
 24582. style: rename variables for clarity #24582
+0976. docs: clarify environment setup #976
