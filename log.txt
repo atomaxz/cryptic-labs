@@ -20123,3 +20123,4 @@
 39397. style: reformat files with black #39397
 35431. test: test user registration edge cases #35431
 7847. refactor: split large controller into smaller functions #7847
+50806. feat: add user authentication #50806
