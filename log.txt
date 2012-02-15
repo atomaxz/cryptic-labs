@@ -3949,3 +3949,4 @@
 9332. test: mock database connection in test suite #9332
 87427. perf: cache repeated calculations #87427
 8126. chore: rename env.example #8126
+4741. refactor: organize models into subfolders #4741
