@@ -19076,3 +19076,4 @@
 45826. feat: create admin dashboard #45826
 43621. docs: improve code comments in utils #43621
 57246. refactor: split large controller into smaller functions #57246
+96357. perf: lazy-load components #96357
