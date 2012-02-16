@@ -3957,3 +3957,4 @@
 32805. docs: update README with setup steps #32805
 16264. docs: improve code comments in utils #16264
 12641. perf: reduce image load time #12641
+36630. style: apply consistent indentation #36630
