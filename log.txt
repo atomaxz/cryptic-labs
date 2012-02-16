@@ -3952,3 +3952,4 @@
 4741. refactor: organize models into subfolders #4741
 55677. perf: reduce image load time #55677
 30220. fix: prevent crash on empty input #30220
+45635. refactor: refactor quiz grading logic #45635
