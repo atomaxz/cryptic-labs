@@ -3964,3 +3964,4 @@
 89907. refactor: organize models into subfolders #89907
 78007. style: rename variables for clarity #78007
 56345. feat: support email verification #56345
+81452. style: reformat files with black #81452
