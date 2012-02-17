@@ -3959,3 +3959,4 @@
 12641. perf: reduce image load time #12641
 36630. style: apply consistent indentation #36630
 37383. test: increase coverage on auth module #37383
+34063. chore: rename env.example #34063
