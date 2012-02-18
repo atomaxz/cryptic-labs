@@ -20128,3 +20128,4 @@
 13155. test: add integration test for /submit endpoint #13155
 95276. feat: enable dark mode toggle #95276
 50951. docs: write FAQ section #50951
+93730. perf: lazy-load components #93730
