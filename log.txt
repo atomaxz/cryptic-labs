@@ -3971,3 +3971,4 @@
 49282. fix: correct typo in registration form #49282
 25485. style: reformat files with black #25485
 12834. chore: clean up unused files #12834
+24632. test: add integration test for /submit endpoint #24632
