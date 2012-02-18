@@ -19084,3 +19084,4 @@
 25784. chore: add GitHub actions badge #25784
 23527. docs: write FAQ section #23527
 51205. docs: document token refresh logic #51205
+25975. style: remove trailing whitespace #25975
