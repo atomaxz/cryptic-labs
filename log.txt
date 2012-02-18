@@ -20126,3 +20126,4 @@
 50806. feat: add user authentication #50806
 70964. style: remove trailing whitespace #70964
 13155. test: add integration test for /submit endpoint #13155
+95276. feat: enable dark mode toggle #95276
