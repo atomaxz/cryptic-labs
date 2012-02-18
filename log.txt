@@ -3970,3 +3970,4 @@
 56031. refactor: clean up auth middleware #56031
 49282. fix: correct typo in registration form #49282
 25485. style: reformat files with black #25485
+12834. chore: clean up unused files #12834
