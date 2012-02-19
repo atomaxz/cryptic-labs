@@ -78,3 +78,4 @@
 70285. perf: lazy-load components #70285
 27928. docs: write FAQ section #27928
 99498. style: apply consistent indentation #99498
+38395. fix: resolve issue with date parsing #38395
