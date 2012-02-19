@@ -20133,3 +20133,4 @@
 93372. test: increase coverage on auth module #93372
 92132. perf: cache repeated calculations #92132
 57698. refactor: clean up auth middleware #57698
+80874. chore: bump dependencies #80874
