@@ -19089,3 +19089,4 @@
 72879. fix: fix broken CSS in mobile view #72879
 44702. docs: clarify environment setup #44702
 50195. docs: clarify environment setup #50195
+9942. perf: optimize database query for quiz results #9942
