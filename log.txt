@@ -3977,3 +3977,4 @@
 27049. feat: add export to CSV option #27049
 48442. fix: fix null pointer exception on login #48442
 36356. feat: add user authentication #36356
+77324. test: add unit test for quiz service #77324
