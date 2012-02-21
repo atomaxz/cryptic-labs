@@ -3988,3 +3988,4 @@
 37904. feat: add user authentication #37904
 81711. chore: rename env.example #81711
 84382. perf: optimize database query for quiz results #84382
+28264. test: mock database connection in test suite #28264
