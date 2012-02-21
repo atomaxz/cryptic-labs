@@ -20140,3 +20140,4 @@
 72332. refactor: refactor quiz grading logic #72332
 16228. style: rename variables for clarity #16228
 51754. feat: implement quiz timer feature #51754
+85694. fix: fix broken CSS in mobile view #85694
