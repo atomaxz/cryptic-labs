@@ -20142,3 +20142,4 @@
 51754. feat: implement quiz timer feature #51754
 85694. fix: fix broken CSS in mobile view #85694
 95524. style: reformat files with black #95524
+61162. fix: prevent crash on empty input #61162
