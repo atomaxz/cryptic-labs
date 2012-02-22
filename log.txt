@@ -3993,3 +3993,4 @@
 83210. refactor: organize models into subfolders #83210
 44814. fix: correct typo in registration form #44814
 50863. docs: document token refresh logic #50863
+57665. chore: update .gitignore #57665
