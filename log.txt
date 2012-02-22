@@ -19093,3 +19093,4 @@
 87555. refactor: refactor quiz grading logic #87555
 81570. docs: add API usage examples #81570
 88761. feat: add user authentication #88761
+12861. feat: enable dark mode toggle #12861
