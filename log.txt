@@ -19095,3 +19095,4 @@
 88761. feat: add user authentication #88761
 12861. feat: enable dark mode toggle #12861
 13839. test: add unit test for quiz service #13839
+36857. feat: enable dark mode toggle #36857
