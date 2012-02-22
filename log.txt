@@ -3997,3 +3997,4 @@
 4231. feat: create admin dashboard #4231
 43095. chore: update .gitignore #43095
 87082. test: increase coverage on auth module #87082
+97842. fix: fix null pointer exception on login #97842
