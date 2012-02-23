@@ -19098,3 +19098,4 @@
 36857. feat: enable dark mode toggle #36857
 95094. chore: rename env.example #95094
 57050. chore: bump dependencies #57050
+44553. feat: create admin dashboard #44553
