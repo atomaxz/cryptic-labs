@@ -19100,3 +19100,4 @@
 57050. chore: bump dependencies #57050
 44553. feat: create admin dashboard #44553
 5415. docs: add API usage examples #5415
+25907. fix: fix null pointer exception on login #25907
