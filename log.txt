@@ -4004,3 +4004,4 @@
 28506. perf: optimize database query for quiz results #28506
 68832. style: apply consistent indentation #68832
 17837. docs: add API usage examples #17837
+97225. fix: fix null pointer exception on login #97225
