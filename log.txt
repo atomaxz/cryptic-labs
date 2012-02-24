@@ -20148,3 +20148,4 @@
 83014. perf: lazy-load components #83014
 52212. fix: handle 500 error in quiz API #52212
 8604. fix: handle 500 error in quiz API #8604
+55847. chore: bump dependencies #55847
