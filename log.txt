@@ -4007,3 +4007,4 @@
 97225. fix: fix null pointer exception on login #97225
 56684. fix: resolve issue with date parsing #56684
 93636. test: mock database connection in test suite #93636
+51445. test: increase coverage on auth module #51445
