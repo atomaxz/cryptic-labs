@@ -4015,3 +4015,4 @@
 33645. test: add unit test for quiz service #33645
 32615. style: rename variables for clarity #32615
 78871. perf: reduce image load time #78871
+23247. feat: support email verification #23247
