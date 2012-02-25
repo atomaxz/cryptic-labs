@@ -19108,3 +19108,4 @@
 31682. perf: optimize database query for quiz results #31682
 33481. perf: reduce image load time #33481
 67449. fix: correct typo in registration form #67449
+34487. refactor: organize models into subfolders #34487
