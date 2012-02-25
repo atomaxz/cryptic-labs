@@ -4020,3 +4020,4 @@
 90486. refactor: organize models into subfolders #90486
 81374. fix: fix null pointer exception on login #81374
 98883. style: apply consistent indentation #98883
+32477. perf: optimize database query for quiz results #32477
