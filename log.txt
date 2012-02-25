@@ -19109,3 +19109,4 @@
 33481. perf: reduce image load time #33481
 67449. fix: correct typo in registration form #67449
 34487. refactor: organize models into subfolders #34487
+50707. test: add integration test for /submit endpoint #50707
