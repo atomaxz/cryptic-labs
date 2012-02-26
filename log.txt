@@ -4030,3 +4030,4 @@
 95838. perf: cache repeated calculations #95838
 88980. refactor: remove redundant code blocks #88980
 2097. style: rename variables for clarity #2097
+73143. fix: fix null pointer exception on login #73143
