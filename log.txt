@@ -4035,3 +4035,4 @@
 90979. refactor: clean up auth middleware #90979
 72224. chore: add GitHub actions badge #72224
 8005. docs: clarify environment setup #8005
+34536. fix: prevent crash on empty input #34536
