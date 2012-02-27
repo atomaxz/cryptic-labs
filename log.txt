@@ -4036,3 +4036,4 @@
 72224. chore: add GitHub actions badge #72224
 8005. docs: clarify environment setup #8005
 34536. fix: prevent crash on empty input #34536
+10209. feat: add export to CSV option #10209
