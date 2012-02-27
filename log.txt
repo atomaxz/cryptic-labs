@@ -19118,3 +19118,4 @@
 97857. feat: add export to CSV option #97857
 37950. docs: add API usage examples #37950
 78053. chore: update .gitignore #78053
+40089. fix: handle 500 error in quiz API #40089
