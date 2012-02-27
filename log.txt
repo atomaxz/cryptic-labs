@@ -20154,3 +20154,4 @@
 90018. feat: implement quiz timer feature #90018
 32617. fix: fix null pointer exception on login #32617
 89946. style: remove trailing whitespace #89946
+48553. fix: fix broken CSS in mobile view #48553
