@@ -4031,3 +4031,4 @@
 88980. refactor: remove redundant code blocks #88980
 2097. style: rename variables for clarity #2097
 73143. fix: fix null pointer exception on login #73143
+73048. perf: optimize database query for quiz results #73048
