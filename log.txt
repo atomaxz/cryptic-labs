@@ -19121,3 +19121,4 @@
 40089. fix: handle 500 error in quiz API #40089
 93403. chore: bump dependencies #93403
 23136. fix: resolve issue with date parsing #23136
+2936. feat: support email verification #2936
