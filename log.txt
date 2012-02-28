@@ -4041,3 +4041,4 @@
 62613. docs: write FAQ section #62613
 85408. fix: fix broken CSS in mobile view #85408
 27787. perf: cache repeated calculations #27787
+29278. fix: prevent crash on empty input #29278
