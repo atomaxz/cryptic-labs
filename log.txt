@@ -4042,3 +4042,4 @@
 85408. fix: fix broken CSS in mobile view #85408
 27787. perf: cache repeated calculations #27787
 29278. fix: prevent crash on empty input #29278
+64206. fix: handle 500 error in quiz API #64206
