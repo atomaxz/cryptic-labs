@@ -20156,3 +20156,4 @@
 89946. style: remove trailing whitespace #89946
 48553. fix: fix broken CSS in mobile view #48553
 1046. test: mock database connection in test suite #1046
+41236. test: add integration test for /submit endpoint #41236
