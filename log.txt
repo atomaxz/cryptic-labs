@@ -4049,3 +4049,4 @@
 37202. fix: handle 500 error in quiz API #37202
 63847. chore: bump dependencies #63847
 23177. style: rename variables for clarity #23177
+10494. feat: support email verification #10494
