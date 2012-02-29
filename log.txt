@@ -19122,3 +19122,4 @@
 93403. chore: bump dependencies #93403
 23136. fix: resolve issue with date parsing #23136
 2936. feat: support email verification #2936
+35408. perf: lazy-load components #35408
