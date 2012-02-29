@@ -4053,3 +4053,4 @@
 87127. docs: document token refresh logic #87127
 29553. test: increase coverage on auth module #29553
 9855. chore: update .gitignore #9855
+80671. fix: fix broken CSS in mobile view #80671
