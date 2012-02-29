@@ -4046,3 +4046,4 @@
 67627. feat: add user authentication #67627
 97887. refactor: clean up auth middleware #97887
 74063. perf: lazy-load components #74063
+37202. fix: handle 500 error in quiz API #37202
