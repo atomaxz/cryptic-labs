@@ -4052,3 +4052,4 @@
 10494. feat: support email verification #10494
 87127. docs: document token refresh logic #87127
 29553. test: increase coverage on auth module #29553
+9855. chore: update .gitignore #9855
