@@ -19124,3 +19124,4 @@
 2936. feat: support email verification #2936
 35408. perf: lazy-load components #35408
 53748. chore: add GitHub actions badge #53748
+55967. perf: lazy-load components #55967
