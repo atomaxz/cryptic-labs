@@ -20157,3 +20157,4 @@
 48553. fix: fix broken CSS in mobile view #48553
 1046. test: mock database connection in test suite #1046
 41236. test: add integration test for /submit endpoint #41236
+32068. perf: lazy-load components #32068
