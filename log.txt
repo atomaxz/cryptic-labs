@@ -20165,3 +20165,4 @@
 32551. perf: optimize database query for quiz results #32551
 54234. docs: update README with setup steps #54234
 46205. feat: create admin dashboard #46205
+88849. chore: add GitHub actions badge #88849
