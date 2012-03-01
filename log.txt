@@ -19126,3 +19126,4 @@
 53748. chore: add GitHub actions badge #53748
 55967. perf: lazy-load components #55967
 10874. feat: add export to CSV option #10874
+32552. perf: reduce image load time #32552
