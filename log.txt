@@ -4064,3 +4064,4 @@
 80857. fix: fix null pointer exception on login #80857
 30235. feat: enable dark mode toggle #30235
 71709. fix: handle 500 error in quiz API #71709
+84781. test: add unit test for quiz service #84781
