@@ -20163,3 +20163,4 @@
 1506. chore: add GitHub actions badge #1506
 32913. feat: implement quiz timer feature #32913
 32551. perf: optimize database query for quiz results #32551
+54234. docs: update README with setup steps #54234
