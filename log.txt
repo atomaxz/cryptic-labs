@@ -4060,3 +4060,4 @@
 76760. style: reformat files with black #76760
 76007. fix: prevent crash on empty input #76007
 28554. fix: handle 500 error in quiz API #28554
+1540. docs: update README with setup steps #1540
