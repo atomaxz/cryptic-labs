@@ -4068,3 +4068,4 @@
 55352. docs: clarify environment setup #55352
 0646. test: add unit test for quiz service #646
 11017. test: test user registration edge cases #11017
+16113. docs: write FAQ section #16113
