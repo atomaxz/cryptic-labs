@@ -4072,3 +4072,4 @@
 88223. fix: handle 500 error in quiz API #88223
 2049. fix: fix null pointer exception on login #2049
 89711. perf: reduce image load time #89711
+55665. perf: lazy-load components #55665
