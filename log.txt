@@ -4070,3 +4070,4 @@
 11017. test: test user registration edge cases #11017
 16113. docs: write FAQ section #16113
 88223. fix: handle 500 error in quiz API #88223
+2049. fix: fix null pointer exception on login #2049
