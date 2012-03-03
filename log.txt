@@ -20168,3 +20168,4 @@
 88849. chore: add GitHub actions badge #88849
 10747. perf: lazy-load components #10747
 89182. feat: support email verification #89182
+2010. fix: prevent crash on empty input #2010
