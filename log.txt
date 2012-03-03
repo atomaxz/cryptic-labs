@@ -20170,3 +20170,4 @@
 89182. feat: support email verification #89182
 2010. fix: prevent crash on empty input #2010
 18948. test: add unit test for quiz service #18948
+71601. test: test user registration edge cases #71601
