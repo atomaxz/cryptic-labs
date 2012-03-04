@@ -4088,3 +4088,4 @@
 5885. test: mock database connection in test suite #5885
 25538. style: reformat files with black #25538
 66090. feat: support email verification #66090
+49968. style: remove trailing whitespace #49968
