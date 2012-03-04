@@ -19132,3 +19132,4 @@
 93242. test: increase coverage on auth module #93242
 43436. chore: add GitHub actions badge #43436
 75711. feat: add export to CSV option #75711
+22019. feat: add user authentication #22019
