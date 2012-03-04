@@ -20172,3 +20172,4 @@
 18948. test: add unit test for quiz service #18948
 71601. test: test user registration edge cases #71601
 78872. feat: create admin dashboard #78872
+10717. test: add integration test for /submit endpoint #10717
