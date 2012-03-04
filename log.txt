@@ -4090,3 +4090,4 @@
 66090. feat: support email verification #66090
 49968. style: remove trailing whitespace #49968
 82303. test: mock database connection in test suite #82303
+67924. fix: fix null pointer exception on login #67924
