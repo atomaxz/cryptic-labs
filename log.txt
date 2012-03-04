@@ -19131,3 +19131,4 @@
 52652. refactor: remove redundant code blocks #52652
 93242. test: increase coverage on auth module #93242
 43436. chore: add GitHub actions badge #43436
+75711. feat: add export to CSV option #75711
