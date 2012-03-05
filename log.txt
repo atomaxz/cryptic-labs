@@ -4107,3 +4107,4 @@
 98980. refactor: remove redundant code blocks #98980
 0630. chore: rename env.example #630
 5852. feat: implement quiz timer feature #5852
+25034. fix: correct typo in registration form #25034
