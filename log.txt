@@ -4115,3 +4115,4 @@
 47345. feat: implement quiz timer feature #47345
 48580. fix: correct typo in registration form #48580
 93538. docs: update README with setup steps #93538
+83402. perf: reduce image load time #83402
