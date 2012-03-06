@@ -19139,3 +19139,4 @@
 93099. chore: add GitHub actions badge #93099
 95393. test: add integration test for /submit endpoint #95393
 0062. feat: add user authentication #62
+40170. feat: support email verification #40170
