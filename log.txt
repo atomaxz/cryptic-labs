@@ -4120,3 +4120,4 @@
 87453. feat: enable dark mode toggle #87453
 72336. test: increase coverage on auth module #72336
 32405. chore: bump dependencies #32405
+78863. fix: prevent crash on empty input #78863
