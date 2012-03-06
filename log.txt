@@ -4121,3 +4121,4 @@
 72336. test: increase coverage on auth module #72336
 32405. chore: bump dependencies #32405
 78863. fix: prevent crash on empty input #78863
+1986. refactor: remove redundant code blocks #1986
