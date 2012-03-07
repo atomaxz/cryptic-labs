@@ -20181,3 +20181,4 @@
 61715. docs: document token refresh logic #61715
 38532. style: remove trailing whitespace #38532
 52614. docs: add API usage examples #52614
+59742. test: test user registration edge cases #59742
