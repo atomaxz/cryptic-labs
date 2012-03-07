@@ -4132,3 +4132,4 @@
 21126. style: reformat files with black #21126
 42699. refactor: split large controller into smaller functions #42699
 42821. feat: add export to CSV option #42821
+97959. chore: bump dependencies #97959
