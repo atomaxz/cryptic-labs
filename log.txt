@@ -4135,3 +4135,4 @@
 97959. chore: bump dependencies #97959
 5625. test: test user registration edge cases #5625
 13425. style: reformat files with black #13425
+56254. fix: fix broken CSS in mobile view #56254
