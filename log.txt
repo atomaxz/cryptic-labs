@@ -4124,3 +4124,4 @@
 1986. refactor: remove redundant code blocks #1986
 75733. chore: add GitHub actions badge #75733
 64415. style: standardize quote style #64415
+50201. fix: fix broken CSS in mobile view #50201
