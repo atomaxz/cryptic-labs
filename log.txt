@@ -19141,3 +19141,4 @@
 0062. feat: add user authentication #62
 40170. feat: support email verification #40170
 54571. feat: add user authentication #54571
+8023. perf: optimize database query for quiz results #8023
