@@ -4144,3 +4144,4 @@
 86918. fix: resolve issue with date parsing #86918
 64796. refactor: refactor quiz grading logic #64796
 57197. docs: document token refresh logic #57197
+72221. test: increase coverage on auth module #72221
