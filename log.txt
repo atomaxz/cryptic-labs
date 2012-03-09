@@ -19146,3 +19146,4 @@
 92906. refactor: remove redundant code blocks #92906
 24003. docs: document token refresh logic #24003
 80789. feat: add export to CSV option #80789
+61832. perf: cache repeated calculations #61832
