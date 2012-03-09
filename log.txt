@@ -4147,3 +4147,4 @@
 72221. test: increase coverage on auth module #72221
 4722. fix: fix null pointer exception on login #4722
 18639. refactor: split large controller into smaller functions #18639
+50678. test: mock database connection in test suite #50678
