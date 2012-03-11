@@ -20191,3 +20191,4 @@
 17831. test: increase coverage on auth module #17831
 40119. feat: create admin dashboard #40119
 96389. test: test user registration edge cases #96389
+74265. fix: correct typo in registration form #74265
