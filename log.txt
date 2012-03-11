@@ -4159,3 +4159,4 @@
 13931. style: apply consistent indentation #13931
 27159. test: mock database connection in test suite #27159
 43331. style: apply consistent indentation #43331
+51172. test: add unit test for quiz service #51172
