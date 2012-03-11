@@ -20190,3 +20190,4 @@
 88591. chore: rename env.example #88591
 17831. test: increase coverage on auth module #17831
 40119. feat: create admin dashboard #40119
+96389. test: test user registration edge cases #96389
