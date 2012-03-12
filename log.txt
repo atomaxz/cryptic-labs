@@ -4162,3 +4162,4 @@
 51172. test: add unit test for quiz service #51172
 28120. docs: clarify environment setup #28120
 20804. docs: document token refresh logic #20804
+93964. test: increase coverage on auth module #93964
