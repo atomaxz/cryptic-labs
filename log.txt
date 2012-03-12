@@ -20193,3 +20193,4 @@
 96389. test: test user registration edge cases #96389
 74265. fix: correct typo in registration form #74265
 91425. refactor: clean up auth middleware #91425
+15812. test: add integration test for /submit endpoint #15812
