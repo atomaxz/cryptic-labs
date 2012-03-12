@@ -4165,3 +4165,4 @@
 93964. test: increase coverage on auth module #93964
 47982. chore: rename env.example #47982
 81641. chore: bump dependencies #81641
+57711. fix: handle 500 error in quiz API #57711
