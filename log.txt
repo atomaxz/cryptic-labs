@@ -4174,3 +4174,4 @@
 75340. feat: enable dark mode toggle #75340
 61211. refactor: organize models into subfolders #61211
 35769. feat: support email verification #35769
+99210. test: add unit test for quiz service #99210
