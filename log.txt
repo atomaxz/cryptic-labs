@@ -20196,3 +20196,4 @@
 15812. test: add integration test for /submit endpoint #15812
 29716. style: rename variables for clarity #29716
 36324. feat: enable dark mode toggle #36324
+43846. docs: document token refresh logic #43846
