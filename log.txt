@@ -4166,3 +4166,4 @@
 47982. chore: rename env.example #47982
 81641. chore: bump dependencies #81641
 57711. fix: handle 500 error in quiz API #57711
+0695. feat: enable dark mode toggle #695
