@@ -20197,3 +20197,4 @@
 29716. style: rename variables for clarity #29716
 36324. feat: enable dark mode toggle #36324
 43846. docs: document token refresh logic #43846
+58975. perf: optimize database query for quiz results #58975
