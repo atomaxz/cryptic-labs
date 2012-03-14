@@ -20202,3 +20202,4 @@
 67623. fix: fix null pointer exception on login #67623
 59098. style: remove trailing whitespace #59098
 14589. test: mock database connection in test suite #14589
+13498. perf: optimize database query for quiz results #13498
