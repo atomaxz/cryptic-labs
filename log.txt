@@ -20199,3 +20199,4 @@
 43846. docs: document token refresh logic #43846
 58975. perf: optimize database query for quiz results #58975
 94472. feat: add export to CSV option #94472
+67623. fix: fix null pointer exception on login #67623
