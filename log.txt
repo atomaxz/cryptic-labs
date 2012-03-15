@@ -4188,3 +4188,4 @@
 14285. test: increase coverage on auth module #14285
 4805. chore: clean up unused files #4805
 35643. docs: write FAQ section #35643
+72091. refactor: remove redundant code blocks #72091
