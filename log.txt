@@ -4190,3 +4190,4 @@
 35643. docs: write FAQ section #35643
 72091. refactor: remove redundant code blocks #72091
 95020. docs: add API usage examples #95020
+15916. feat: enable dark mode toggle #15916
