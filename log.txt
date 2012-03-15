@@ -19157,3 +19157,4 @@
 75667. docs: add API usage examples #75667
 60294. docs: update README with setup steps #60294
 93878. perf: optimize database query for quiz results #93878
+54665. fix: prevent crash on empty input #54665
