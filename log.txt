@@ -20204,3 +20204,4 @@
 14589. test: mock database connection in test suite #14589
 13498. perf: optimize database query for quiz results #13498
 58579. feat: support email verification #58579
+6864. test: increase coverage on auth module #6864
