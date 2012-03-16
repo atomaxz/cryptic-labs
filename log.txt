@@ -4194,3 +4194,4 @@
 12994. chore: clean up unused files #12994
 94027. style: reformat files with black #94027
 88047. docs: write FAQ section #88047
+43833. perf: optimize database query for quiz results #43833
