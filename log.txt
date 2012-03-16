@@ -19158,3 +19158,4 @@
 60294. docs: update README with setup steps #60294
 93878. perf: optimize database query for quiz results #93878
 54665. fix: prevent crash on empty input #54665
+98546. feat: enable dark mode toggle #98546
