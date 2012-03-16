@@ -4204,3 +4204,4 @@
 81929. docs: write FAQ section #81929
 99852. test: test user registration edge cases #99852
 60206. docs: clarify environment setup #60206
+5512. perf: lazy-load components #5512
