@@ -4202,3 +4202,4 @@
 79666. fix: prevent crash on empty input #79666
 46147. fix: resolve issue with date parsing #46147
 81929. docs: write FAQ section #81929
+99852. test: test user registration edge cases #99852
