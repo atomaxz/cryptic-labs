@@ -4197,3 +4197,4 @@
 43833. perf: optimize database query for quiz results #43833
 22777. refactor: clean up auth middleware #22777
 40901. fix: fix null pointer exception on login #40901
+52631. perf: reduce image load time #52631
