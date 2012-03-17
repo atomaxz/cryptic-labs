@@ -19161,3 +19161,4 @@
 98546. feat: enable dark mode toggle #98546
 36535. style: reformat files with black #36535
 69347. perf: lazy-load components #69347
+17576. refactor: organize models into subfolders #17576
