@@ -4213,3 +4213,4 @@
 38715. feat: add user authentication #38715
 98350. feat: add user authentication #98350
 94234. docs: document token refresh logic #94234
+59923. fix: correct typo in registration form #59923
