@@ -4208,3 +4208,4 @@
 83630. chore: rename env.example #83630
 68743. docs: add API usage examples #68743
 46392. feat: implement quiz timer feature #46392
+55420. feat: add user authentication #55420
