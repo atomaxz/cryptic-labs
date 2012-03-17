@@ -4212,3 +4212,4 @@
 38925. refactor: clean up auth middleware #38925
 38715. feat: add user authentication #38715
 98350. feat: add user authentication #98350
+94234. docs: document token refresh logic #94234
