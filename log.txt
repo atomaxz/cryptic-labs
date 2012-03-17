@@ -20206,3 +20206,4 @@
 58579. feat: support email verification #58579
 6864. test: increase coverage on auth module #6864
 25084. docs: improve code comments in utils #25084
+63634. style: reformat files with black #63634
