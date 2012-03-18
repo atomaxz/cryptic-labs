@@ -4220,3 +4220,4 @@
 36116. docs: write FAQ section #36116
 96227. refactor: split large controller into smaller functions #96227
 33578. refactor: clean up auth middleware #33578
+26019. chore: add GitHub actions badge #26019
