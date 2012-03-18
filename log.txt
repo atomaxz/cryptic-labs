@@ -19166,3 +19166,4 @@
 32664. perf: cache repeated calculations #32664
 33070. fix: correct typo in registration form #33070
 74516. style: reformat files with black #74516
+12578. fix: fix broken CSS in mobile view #12578
