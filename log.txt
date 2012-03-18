@@ -20211,3 +20211,4 @@
 11354. refactor: refactor quiz grading logic #11354
 70857. feat: implement quiz timer feature #70857
 80552. docs: add API usage examples #80552
+31112. fix: handle 500 error in quiz API #31112
