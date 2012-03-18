@@ -4219,3 +4219,4 @@
 68209. refactor: split large controller into smaller functions #68209
 36116. docs: write FAQ section #36116
 96227. refactor: split large controller into smaller functions #96227
+33578. refactor: clean up auth middleware #33578
