@@ -20214,3 +20214,4 @@
 31112. fix: handle 500 error in quiz API #31112
 60190. style: reformat files with black #60190
 49818. perf: cache repeated calculations #49818
+36825. refactor: refactor quiz grading logic #36825
