@@ -96,3 +96,4 @@
 69990. docs: update README with setup steps #69990
 13530. docs: clarify environment setup #13530
 49117. chore: bump dependencies #49117
+86817. chore: update .gitignore #86817
