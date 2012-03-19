@@ -4226,3 +4226,4 @@
 98110. feat: add export to CSV option #98110
 16403. docs: add API usage examples #16403
 52568. feat: implement quiz timer feature #52568
+93343. test: increase coverage on auth module #93343
