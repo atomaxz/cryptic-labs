@@ -4239,3 +4239,4 @@
 32214. test: test user registration edge cases #32214
 13781. docs: document token refresh logic #13781
 71752. chore: bump dependencies #71752
+23804. style: rename variables for clarity #23804
