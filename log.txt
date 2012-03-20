@@ -19170,3 +19170,4 @@
 96730. refactor: remove redundant code blocks #96730
 29965. docs: write FAQ section #29965
 98928. perf: lazy-load components #98928
+43847. feat: add export to CSV option #43847
