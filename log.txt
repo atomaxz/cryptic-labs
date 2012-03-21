@@ -4245,3 +4245,4 @@
 16850. feat: create admin dashboard #16850
 87117. test: add unit test for quiz service #87117
 45126. chore: update .gitignore #45126
+90871. chore: bump dependencies #90871
