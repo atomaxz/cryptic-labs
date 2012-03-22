@@ -4248,3 +4248,4 @@
 90871. chore: bump dependencies #90871
 25122. perf: reduce image load time #25122
 8842. docs: add API usage examples #8842
+28966. feat: add user authentication #28966
