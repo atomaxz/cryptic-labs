@@ -19173,3 +19173,4 @@
 43847. feat: add export to CSV option #43847
 66325. style: apply consistent indentation #66325
 26629. feat: add export to CSV option #26629
+49523. feat: enable dark mode toggle #49523
