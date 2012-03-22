@@ -19175,3 +19175,4 @@
 26629. feat: add export to CSV option #26629
 49523. feat: enable dark mode toggle #49523
 65301. docs: improve code comments in utils #65301
+77704. chore: add GitHub actions badge #77704
