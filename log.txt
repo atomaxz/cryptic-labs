@@ -4247,3 +4247,4 @@
 45126. chore: update .gitignore #45126
 90871. chore: bump dependencies #90871
 25122. perf: reduce image load time #25122
+8842. docs: add API usage examples #8842
