@@ -4259,3 +4259,4 @@
 79286. fix: correct typo in registration form #79286
 17009. perf: lazy-load components #17009
 93140. refactor: organize models into subfolders #93140
+7050. test: test user registration edge cases #7050
