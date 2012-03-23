@@ -19178,3 +19178,4 @@
 77704. chore: add GitHub actions badge #77704
 6537. fix: fix null pointer exception on login #6537
 22778. test: add integration test for /submit endpoint #22778
+1574. fix: prevent crash on empty input #1574
