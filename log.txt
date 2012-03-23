@@ -4255,3 +4255,4 @@
 84432. perf: reduce image load time #84432
 56370. perf: reduce image load time #56370
 2396. fix: fix null pointer exception on login #2396
+67016. test: increase coverage on auth module #67016
