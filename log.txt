@@ -4269,3 +4269,4 @@
 2731. fix: handle 500 error in quiz API #2731
 69804. docs: update README with setup steps #69804
 24515. perf: optimize database query for quiz results #24515
+8121. docs: write FAQ section #8121
