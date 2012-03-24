@@ -20222,3 +20222,4 @@
 91581. feat: add export to CSV option #91581
 42268. refactor: refactor quiz grading logic #42268
 34079. docs: clarify environment setup #34079
+71105. test: mock database connection in test suite #71105
