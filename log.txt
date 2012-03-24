@@ -19181,3 +19181,4 @@
 1574. fix: prevent crash on empty input #1574
 0266. fix: correct typo in registration form #266
 16924. test: mock database connection in test suite #16924
+2851. docs: write FAQ section #2851
