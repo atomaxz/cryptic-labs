@@ -4274,3 +4274,4 @@
 39592. test: test user registration edge cases #39592
 55818. style: apply consistent indentation #55818
 98717. fix: fix broken CSS in mobile view #98717
+54350. perf: reduce image load time #54350
