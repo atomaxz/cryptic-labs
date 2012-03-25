@@ -4278,3 +4278,4 @@
 1381. perf: reduce image load time #1381
 74421. docs: write FAQ section #74421
 50928. refactor: remove redundant code blocks #50928
+68096. perf: lazy-load components #68096
