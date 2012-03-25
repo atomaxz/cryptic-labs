@@ -4279,3 +4279,4 @@
 74421. docs: write FAQ section #74421
 50928. refactor: remove redundant code blocks #50928
 68096. perf: lazy-load components #68096
+21016. docs: clarify environment setup #21016
