@@ -20233,3 +20233,4 @@
 95616. chore: clean up unused files #95616
 57314. test: increase coverage on auth module #57314
 52096. style: remove trailing whitespace #52096
+16733. feat: support email verification #16733
