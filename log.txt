@@ -20232,3 +20232,4 @@
 59500. fix: fix null pointer exception on login #59500
 95616. chore: clean up unused files #95616
 57314. test: increase coverage on auth module #57314
+52096. style: remove trailing whitespace #52096
