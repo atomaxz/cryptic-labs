@@ -20229,3 +20229,4 @@
 24249. chore: clean up unused files #24249
 24992. style: apply consistent indentation #24992
 83915. docs: document token refresh logic #83915
+59500. fix: fix null pointer exception on login #59500
