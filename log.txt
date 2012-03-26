@@ -4282,3 +4282,4 @@
 21016. docs: clarify environment setup #21016
 80425. perf: lazy-load components #80425
 4655. fix: fix broken CSS in mobile view #4655
+83479. refactor: clean up auth middleware #83479
