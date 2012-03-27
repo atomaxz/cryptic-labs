@@ -20235,3 +20235,4 @@
 52096. style: remove trailing whitespace #52096
 16733. feat: support email verification #16733
 42739. test: increase coverage on auth module #42739
+47072. test: add unit test for quiz service #47072
