@@ -101,3 +101,4 @@
 75176. refactor: clean up auth middleware #75176
 42739. test: increase coverage on auth module #42739
 59741. docs: clarify environment setup #59741
+24108. feat: support email verification #24108
