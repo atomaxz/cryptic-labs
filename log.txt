@@ -19192,3 +19192,4 @@
 89688. fix: correct typo in registration form #89688
 24766. refactor: refactor quiz grading logic #24766
 29876. style: remove trailing whitespace #29876
+42245. feat: support email verification #42245
