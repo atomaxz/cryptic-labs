@@ -102,3 +102,4 @@
 42739. test: increase coverage on auth module #42739
 59741. docs: clarify environment setup #59741
 24108. feat: support email verification #24108
+33672. style: rename variables for clarity #33672
