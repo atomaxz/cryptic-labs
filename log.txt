@@ -4320,3 +4320,4 @@
 3958. refactor: remove redundant code blocks #3958
 14816. chore: update .gitignore #14816
 27886. perf: optimize database query for quiz results #27886
+40060. test: increase coverage on auth module #40060
