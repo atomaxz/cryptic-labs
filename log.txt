@@ -106,3 +106,4 @@
 5264. fix: correct typo in registration form #5264
 55062. chore: rename env.example #55062
 98451. feat: support email verification #98451
+47096. chore: rename env.example #47096
