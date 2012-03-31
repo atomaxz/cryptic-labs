@@ -4327,3 +4327,4 @@
 55887. test: add unit test for quiz service #55887
 29378. fix: resolve issue with date parsing #29378
 17743. perf: optimize database query for quiz results #17743
+45197. feat: enable dark mode toggle #45197
