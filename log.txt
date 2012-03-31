@@ -19206,3 +19206,4 @@
 69207. chore: clean up unused files #69207
 49805. style: standardize quote style #49805
 27600. test: increase coverage on auth module #27600
+68722. feat: add user authentication #68722
