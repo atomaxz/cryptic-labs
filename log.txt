@@ -20246,3 +20246,4 @@
 11719. feat: implement quiz timer feature #11719
 13670. fix: prevent crash on empty input #13670
 31740. feat: support email verification #31740
+27513. test: increase coverage on auth module #27513
