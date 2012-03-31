@@ -20248,3 +20248,4 @@
 31740. feat: support email verification #31740
 27513. test: increase coverage on auth module #27513
 94559. docs: improve code comments in utils #94559
+21244. perf: lazy-load components #21244
