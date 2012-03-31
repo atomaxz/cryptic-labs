@@ -4322,3 +4322,4 @@
 27886. perf: optimize database query for quiz results #27886
 40060. test: increase coverage on auth module #40060
 42679. chore: add GitHub actions badge #42679
+34783. feat: create admin dashboard #34783
