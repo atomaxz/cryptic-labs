@@ -4348,3 +4348,4 @@
 92958. test: add unit test for quiz service #92958
 41517. test: test user registration edge cases #41517
 41740. refactor: refactor quiz grading logic #41740
+8871. chore: add GitHub actions badge #8871
