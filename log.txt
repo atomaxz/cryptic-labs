@@ -20253,3 +20253,4 @@
 36119. refactor: organize models into subfolders #36119
 41520. feat: create admin dashboard #41520
 67968. style: apply consistent indentation #67968
+65439. refactor: clean up auth middleware #65439
