@@ -20252,3 +20252,4 @@
 44833. chore: bump dependencies #44833
 36119. refactor: organize models into subfolders #36119
 41520. feat: create admin dashboard #41520
+67968. style: apply consistent indentation #67968
