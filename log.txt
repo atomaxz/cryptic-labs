@@ -19212,3 +19212,4 @@
 20794. perf: reduce image load time #20794
 44309. style: remove trailing whitespace #44309
 86884. style: reformat files with black #86884
+75780. feat: support email verification #75780
