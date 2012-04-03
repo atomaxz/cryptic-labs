@@ -4353,3 +4353,4 @@
 68563. fix: correct typo in registration form #68563
 7637. fix: fix null pointer exception on login #7637
 85467. refactor: remove redundant code blocks #85467
+87398. fix: prevent crash on empty input #87398
