@@ -109,3 +109,4 @@
 47096. chore: rename env.example #47096
 20832. perf: cache repeated calculations #20832
 44500. test: add integration test for /submit endpoint #44500
+22205. feat: support email verification #22205
