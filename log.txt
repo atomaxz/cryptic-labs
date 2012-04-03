@@ -20255,3 +20255,4 @@
 67968. style: apply consistent indentation #67968
 65439. refactor: clean up auth middleware #65439
 71253. feat: support email verification #71253
+11807. perf: optimize database query for quiz results #11807
