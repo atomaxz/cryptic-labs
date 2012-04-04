@@ -19221,3 +19221,4 @@
 33957. docs: write FAQ section #33957
 14461. style: reformat files with black #14461
 82730. docs: clarify environment setup #82730
+92033. chore: update .gitignore #92033
