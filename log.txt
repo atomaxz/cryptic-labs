@@ -4360,3 +4360,4 @@
 86100. perf: optimize database query for quiz results #86100
 79734. feat: create admin dashboard #79734
 95536. refactor: remove redundant code blocks #95536
+84583. docs: write FAQ section #84583
