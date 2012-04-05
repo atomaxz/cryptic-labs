@@ -4370,3 +4370,4 @@
 51334. fix: prevent crash on empty input #51334
 62758. style: rename variables for clarity #62758
 6326. docs: update README with setup steps #6326
+6996. style: remove trailing whitespace #6996
