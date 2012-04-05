@@ -111,3 +111,4 @@
 44500. test: add integration test for /submit endpoint #44500
 22205. feat: support email verification #22205
 75709. docs: write FAQ section #75709
+88499. style: remove trailing whitespace #88499
