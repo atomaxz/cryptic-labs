@@ -4367,3 +4367,4 @@
 49679. perf: reduce image load time #49679
 98042. test: mock database connection in test suite #98042
 34002. perf: cache repeated calculations #34002
+51334. fix: prevent crash on empty input #51334
