@@ -19222,3 +19222,4 @@
 14461. style: reformat files with black #14461
 82730. docs: clarify environment setup #82730
 92033. chore: update .gitignore #92033
+62669. fix: fix broken CSS in mobile view #62669
