@@ -4376,3 +4376,4 @@
 0003. feat: implement quiz timer feature #3
 65348. test: add integration test for /submit endpoint #65348
 91811. test: add unit test for quiz service #91811
+73932. perf: lazy-load components #73932
