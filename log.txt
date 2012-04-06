@@ -4385,3 +4385,4 @@
 55361. feat: implement quiz timer feature #55361
 88697. docs: clarify environment setup #88697
 43671. fix: fix broken CSS in mobile view #43671
+53115. feat: add user authentication #53115
