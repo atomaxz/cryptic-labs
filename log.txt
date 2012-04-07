@@ -20267,3 +20267,4 @@
 94779. test: add unit test for quiz service #94779
 65111. fix: handle 500 error in quiz API #65111
 69956. style: standardize quote style #69956
+72229. perf: optimize database query for quiz results #72229
