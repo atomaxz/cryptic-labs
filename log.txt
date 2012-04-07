@@ -4389,3 +4389,4 @@
 24505. fix: prevent crash on empty input #24505
 28115. style: rename variables for clarity #28115
 3565. docs: clarify environment setup #3565
+15509. test: test user registration edge cases #15509
