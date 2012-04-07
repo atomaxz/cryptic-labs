@@ -4386,3 +4386,4 @@
 88697. docs: clarify environment setup #88697
 43671. fix: fix broken CSS in mobile view #43671
 53115. feat: add user authentication #53115
+24505. fix: prevent crash on empty input #24505
