@@ -20273,3 +20273,4 @@
 16292. chore: rename env.example #16292
 52157. fix: prevent crash on empty input #52157
 21282. style: standardize quote style #21282
+78749. feat: create admin dashboard #78749
