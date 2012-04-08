@@ -20271,3 +20271,4 @@
 83119. fix: prevent crash on empty input #83119
 41575. test: increase coverage on auth module #41575
 16292. chore: rename env.example #16292
+52157. fix: prevent crash on empty input #52157
