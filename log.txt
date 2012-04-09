@@ -4405,3 +4405,4 @@
 92877. chore: rename env.example #92877
 42345. test: test user registration edge cases #42345
 48476. docs: update README with setup steps #48476
+75941. perf: lazy-load components #75941
