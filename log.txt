@@ -4404,3 +4404,4 @@
 87975. perf: cache repeated calculations #87975
 92877. chore: rename env.example #92877
 42345. test: test user registration edge cases #42345
+48476. docs: update README with setup steps #48476
