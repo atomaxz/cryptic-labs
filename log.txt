@@ -19229,3 +19229,4 @@
 36823. style: standardize quote style #36823
 0001. style: reformat files with black #1
 37376. feat: add user authentication #37376
+89879. feat: support email verification #89879
