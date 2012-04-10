@@ -20278,3 +20278,4 @@
 78140. style: reformat files with black #78140
 83118. style: apply consistent indentation #83118
 31368. fix: handle 500 error in quiz API #31368
+22003. test: add unit test for quiz service #22003
