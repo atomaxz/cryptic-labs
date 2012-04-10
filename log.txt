@@ -4411,3 +4411,4 @@
 84737. docs: improve code comments in utils #84737
 66122. chore: update .gitignore #66122
 74775. fix: fix broken CSS in mobile view #74775
+33373. refactor: remove redundant code blocks #33373
