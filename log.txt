@@ -4423,3 +4423,4 @@
 16442. chore: bump dependencies #16442
 79255. chore: add GitHub actions badge #79255
 40231. chore: clean up unused files #40231
+72558. docs: update README with setup steps #72558
