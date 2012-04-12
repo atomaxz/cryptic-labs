@@ -20280,3 +20280,4 @@
 31368. fix: handle 500 error in quiz API #31368
 22003. test: add unit test for quiz service #22003
 58486. feat: create admin dashboard #58486
+82924. fix: resolve issue with date parsing #82924
