@@ -4432,3 +4432,4 @@
 2700. feat: add export to CSV option #2700
 24962. fix: resolve issue with date parsing #24962
 35265. refactor: refactor quiz grading logic #35265
+12395. style: remove trailing whitespace #12395
