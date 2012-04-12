@@ -113,3 +113,4 @@
 75709. docs: write FAQ section #75709
 88499. style: remove trailing whitespace #88499
 65313. fix: fix null pointer exception on login #65313
+93315. test: add integration test for /submit endpoint #93315
