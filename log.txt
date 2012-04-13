@@ -4445,3 +4445,4 @@
 88475. docs: improve code comments in utils #88475
 63582. chore: update .gitignore #63582
 9708. style: rename variables for clarity #9708
+45270. perf: lazy-load components #45270
