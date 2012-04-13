@@ -4441,3 +4441,4 @@
 46943. perf: optimize database query for quiz results #46943
 30135. chore: bump dependencies #30135
 27364. refactor: clean up auth middleware #27364
+10531. perf: reduce image load time #10531
