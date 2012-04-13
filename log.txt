@@ -19236,3 +19236,4 @@
 40918. chore: rename env.example #40918
 66697. docs: add API usage examples #66697
 78726. docs: add API usage examples #78726
+16388. chore: bump dependencies #16388
