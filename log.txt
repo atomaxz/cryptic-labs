@@ -4453,3 +4453,4 @@
 85131. test: test user registration edge cases #85131
 75928. fix: fix broken CSS in mobile view #75928
 98907. feat: add user authentication #98907
+59887. fix: correct typo in registration form #59887
