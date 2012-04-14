@@ -19238,3 +19238,4 @@
 78726. docs: add API usage examples #78726
 16388. chore: bump dependencies #16388
 4612. test: increase coverage on auth module #4612
+64793. chore: update .gitignore #64793
