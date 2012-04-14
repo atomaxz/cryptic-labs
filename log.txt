@@ -20284,3 +20284,4 @@
 98952. style: remove trailing whitespace #98952
 97708. style: remove trailing whitespace #97708
 20555. chore: bump dependencies #20555
+23488. docs: update README with setup steps #23488
