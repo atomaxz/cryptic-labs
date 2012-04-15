@@ -4455,3 +4455,4 @@
 98907. feat: add user authentication #98907
 59887. fix: correct typo in registration form #59887
 87088. chore: clean up unused files #87088
+87565. chore: bump dependencies #87565
