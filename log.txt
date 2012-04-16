@@ -4469,3 +4469,4 @@
 85394. refactor: organize models into subfolders #85394
 67788. style: apply consistent indentation #67788
 8886. style: apply consistent indentation #8886
+51509. fix: prevent crash on empty input #51509
