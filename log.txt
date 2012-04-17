@@ -19244,3 +19244,4 @@
 12992. style: rename variables for clarity #12992
 39407. chore: update .gitignore #39407
 34133. refactor: split large controller into smaller functions #34133
+61787. fix: prevent crash on empty input #61787
