@@ -4474,3 +4474,4 @@
 34314. docs: document token refresh logic #34314
 6758. perf: lazy-load components #6758
 10920. refactor: clean up auth middleware #10920
+86009. fix: fix null pointer exception on login #86009
