@@ -4477,3 +4477,4 @@
 86009. fix: fix null pointer exception on login #86009
 22283. docs: write FAQ section #22283
 8491. perf: cache repeated calculations #8491
+67157. feat: support email verification #67157
