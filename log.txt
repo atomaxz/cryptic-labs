@@ -4471,3 +4471,4 @@
 8886. style: apply consistent indentation #8886
 51509. fix: prevent crash on empty input #51509
 45498. feat: support email verification #45498
+34314. docs: document token refresh logic #34314
