@@ -4482,3 +4482,4 @@
 35772. docs: write FAQ section #35772
 14991. chore: add GitHub actions badge #14991
 52717. docs: improve code comments in utils #52717
+23359. fix: prevent crash on empty input #23359
