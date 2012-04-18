@@ -20289,3 +20289,4 @@
 61260. feat: enable dark mode toggle #61260
 58629. refactor: split large controller into smaller functions #58629
 10220. refactor: refactor quiz grading logic #10220
+21521. style: remove trailing whitespace #21521
