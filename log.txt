@@ -4485,3 +4485,4 @@
 23359. fix: prevent crash on empty input #23359
 34370. test: test user registration edge cases #34370
 97676. perf: optimize database query for quiz results #97676
+40770. perf: optimize database query for quiz results #40770
