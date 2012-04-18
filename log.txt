@@ -4480,3 +4480,4 @@
 67157. feat: support email verification #67157
 13783. docs: write FAQ section #13783
 35772. docs: write FAQ section #35772
+14991. chore: add GitHub actions badge #14991
