@@ -20293,3 +20293,4 @@
 44392. perf: optimize database query for quiz results #44392
 51694. chore: add GitHub actions badge #51694
 8489. docs: clarify environment setup #8489
+20476. fix: fix null pointer exception on login #20476
