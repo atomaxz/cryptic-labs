@@ -4497,3 +4497,4 @@
 74080. chore: rename env.example #74080
 14014. refactor: remove redundant code blocks #14014
 40261. style: apply consistent indentation #40261
+9900. test: add integration test for /submit endpoint #9900
