@@ -19248,3 +19248,4 @@
 14234. perf: cache repeated calculations #14234
 78236. refactor: remove redundant code blocks #78236
 82247. feat: add export to CSV option #82247
+13741. style: reformat files with black #13741
