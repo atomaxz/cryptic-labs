@@ -19252,3 +19252,4 @@
 45652. chore: add GitHub actions badge #45652
 60557. fix: prevent crash on empty input #60557
 38885. refactor: clean up auth middleware #38885
+83394. perf: optimize database query for quiz results #83394
