@@ -4499,3 +4499,4 @@
 40261. style: apply consistent indentation #40261
 9900. test: add integration test for /submit endpoint #9900
 92741. perf: reduce image load time #92741
+39528. perf: optimize database query for quiz results #39528
