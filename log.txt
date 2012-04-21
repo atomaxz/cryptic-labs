@@ -4509,3 +4509,4 @@
 47466. refactor: refactor quiz grading logic #47466
 42079. chore: add GitHub actions badge #42079
 94615. fix: correct typo in registration form #94615
+94207. test: add integration test for /submit endpoint #94207
