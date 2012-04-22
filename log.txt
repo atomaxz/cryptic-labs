@@ -4513,3 +4513,4 @@
 34318. docs: add API usage examples #34318
 11974. docs: write FAQ section #11974
 8776. style: apply consistent indentation #8776
+3302. style: remove trailing whitespace #3302
