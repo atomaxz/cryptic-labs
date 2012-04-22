@@ -4516,3 +4516,4 @@
 3302. style: remove trailing whitespace #3302
 73724. chore: update .gitignore #73724
 3591. feat: add export to CSV option #3591
+12625. test: mock database connection in test suite #12625
