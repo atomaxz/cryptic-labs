@@ -19255,3 +19255,4 @@
 83394. perf: optimize database query for quiz results #83394
 57606. perf: cache repeated calculations #57606
 86546. feat: implement quiz timer feature #86546
+17447. refactor: split large controller into smaller functions #17447
