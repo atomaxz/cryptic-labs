@@ -4530,3 +4530,4 @@
 47490. docs: add API usage examples #47490
 27782. refactor: organize models into subfolders #27782
 81910. feat: support email verification #81910
+97559. refactor: clean up auth middleware #97559
