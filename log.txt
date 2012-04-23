@@ -4533,3 +4533,4 @@
 97559. refactor: clean up auth middleware #97559
 29154. fix: correct typo in registration form #29154
 89442. feat: support email verification #89442
+74926. test: add unit test for quiz service #74926
