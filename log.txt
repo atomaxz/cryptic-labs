@@ -4535,3 +4535,4 @@
 89442. feat: support email verification #89442
 74926. test: add unit test for quiz service #74926
 95606. feat: add export to CSV option #95606
+25173. fix: prevent crash on empty input #25173
