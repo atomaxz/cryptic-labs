@@ -4527,3 +4527,4 @@
 91768. feat: support email verification #91768
 79683. style: apply consistent indentation #79683
 16493. test: mock database connection in test suite #16493
+47490. docs: add API usage examples #47490
