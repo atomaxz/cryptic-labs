@@ -20303,3 +20303,4 @@
 69591. docs: improve code comments in utils #69591
 71946. chore: update .gitignore #71946
 46713. chore: add GitHub actions badge #46713
+17702. perf: cache repeated calculations #17702
