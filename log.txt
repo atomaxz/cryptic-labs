@@ -4529,3 +4529,4 @@
 16493. test: mock database connection in test suite #16493
 47490. docs: add API usage examples #47490
 27782. refactor: organize models into subfolders #27782
+81910. feat: support email verification #81910
