@@ -19259,3 +19259,4 @@
 72700. fix: prevent crash on empty input #72700
 29509. style: apply consistent indentation #29509
 68626. style: apply consistent indentation #68626
+64438. docs: write FAQ section #64438
