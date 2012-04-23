@@ -4531,3 +4531,4 @@
 27782. refactor: organize models into subfolders #27782
 81910. feat: support email verification #81910
 97559. refactor: clean up auth middleware #97559
+29154. fix: correct typo in registration form #29154
