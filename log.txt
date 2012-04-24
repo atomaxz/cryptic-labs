@@ -19266,3 +19266,4 @@
 65595. refactor: split large controller into smaller functions #65595
 44950. chore: clean up unused files #44950
 68851. fix: resolve issue with date parsing #68851
+89206. feat: support email verification #89206
