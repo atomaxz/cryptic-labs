@@ -19268,3 +19268,4 @@
 68851. fix: resolve issue with date parsing #68851
 89206. feat: support email verification #89206
 50671. perf: optimize database query for quiz results #50671
+30588. chore: add GitHub actions badge #30588
