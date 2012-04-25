@@ -20306,3 +20306,4 @@
 17702. perf: cache repeated calculations #17702
 17719. refactor: split large controller into smaller functions #17719
 21262. refactor: remove redundant code blocks #21262
+27665. perf: lazy-load components #27665
