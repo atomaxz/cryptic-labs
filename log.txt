@@ -117,3 +117,4 @@
 8041. feat: support email verification #8041
 63609. test: mock database connection in test suite #63609
 2204. test: mock database connection in test suite #2204
+13705. perf: cache repeated calculations #13705
