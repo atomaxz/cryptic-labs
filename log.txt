@@ -20316,3 +20316,4 @@
 26888. refactor: clean up auth middleware #26888
 14907. perf: lazy-load components #14907
 28121. test: increase coverage on auth module #28121
+26880. chore: bump dependencies #26880
