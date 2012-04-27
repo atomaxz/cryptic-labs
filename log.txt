@@ -20313,3 +20313,4 @@
 99028. fix: fix null pointer exception on login #99028
 30404. docs: update README with setup steps #30404
 24921. chore: clean up unused files #24921
+26888. refactor: clean up auth middleware #26888
