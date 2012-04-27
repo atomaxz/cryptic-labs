@@ -4568,3 +4568,4 @@
 9844. fix: fix broken CSS in mobile view #9844
 42960. refactor: clean up auth middleware #42960
 92939. chore: add GitHub actions badge #92939
+77590. test: test user registration edge cases #77590
