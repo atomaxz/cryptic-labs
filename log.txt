@@ -4567,3 +4567,4 @@
 47877. fix: resolve issue with date parsing #47877
 9844. fix: fix broken CSS in mobile view #9844
 42960. refactor: clean up auth middleware #42960
+92939. chore: add GitHub actions badge #92939
