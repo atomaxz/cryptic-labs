@@ -120,3 +120,4 @@
 13705. perf: cache repeated calculations #13705
 51355. refactor: remove redundant code blocks #51355
 0661. style: reformat files with black #661
+3406. fix: correct typo in registration form #3406
