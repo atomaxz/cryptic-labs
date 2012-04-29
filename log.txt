@@ -20325,3 +20325,4 @@
 74754. docs: write FAQ section #74754
 96204. test: mock database connection in test suite #96204
 9858. feat: add export to CSV option #9858
+56836. fix: resolve issue with date parsing #56836
