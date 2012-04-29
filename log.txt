@@ -20322,3 +20322,4 @@
 64611. feat: add export to CSV option #64611
 64288. refactor: remove redundant code blocks #64288
 74065. refactor: remove redundant code blocks #74065
+74754. docs: write FAQ section #74754
