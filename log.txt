@@ -4588,3 +4588,4 @@
 10132. style: rename variables for clarity #10132
 18081. style: apply consistent indentation #18081
 2561. fix: correct typo in registration form #2561
+67650. perf: lazy-load components #67650
