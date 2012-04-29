@@ -4582,3 +4582,4 @@
 48251. docs: update README with setup steps #48251
 61579. feat: enable dark mode toggle #61579
 76463. perf: lazy-load components #76463
+1682. test: mock database connection in test suite #1682
