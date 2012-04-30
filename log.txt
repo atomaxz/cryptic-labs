@@ -19281,3 +19281,4 @@
 28014. style: apply consistent indentation #28014
 18525. fix: prevent crash on empty input #18525
 33098. feat: add export to CSV option #33098
+66569. feat: create admin dashboard #66569
