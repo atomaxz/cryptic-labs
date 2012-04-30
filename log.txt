@@ -19279,3 +19279,4 @@
 41187. fix: fix null pointer exception on login #41187
 99760. refactor: split large controller into smaller functions #99760
 28014. style: apply consistent indentation #28014
+18525. fix: prevent crash on empty input #18525
