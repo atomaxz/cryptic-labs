@@ -4590,3 +4590,4 @@
 2561. fix: correct typo in registration form #2561
 67650. perf: lazy-load components #67650
 94718. docs: document token refresh logic #94718
+68066. fix: fix broken CSS in mobile view #68066
