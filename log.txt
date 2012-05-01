@@ -4606,3 +4606,4 @@
 61849. test: add unit test for quiz service #61849
 59385. chore: rename env.example #59385
 80139. test: test user registration edge cases #80139
+78078. docs: clarify environment setup #78078
