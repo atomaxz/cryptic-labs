@@ -4605,3 +4605,4 @@
 17276. fix: fix null pointer exception on login #17276
 61849. test: add unit test for quiz service #61849
 59385. chore: rename env.example #59385
+80139. test: test user registration edge cases #80139
