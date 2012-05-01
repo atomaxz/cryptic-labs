@@ -19283,3 +19283,4 @@
 33098. feat: add export to CSV option #33098
 66569. feat: create admin dashboard #66569
 94575. style: remove trailing whitespace #94575
+12122. perf: cache repeated calculations #12122
