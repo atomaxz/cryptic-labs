@@ -4612,3 +4612,4 @@
 23872. docs: improve code comments in utils #23872
 94392. perf: optimize database query for quiz results #94392
 24351. style: rename variables for clarity #24351
+30151. fix: correct typo in registration form #30151
