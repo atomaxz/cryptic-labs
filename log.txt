@@ -4622,3 +4622,4 @@
 74907. feat: implement quiz timer feature #74907
 11250. feat: implement quiz timer feature #11250
 47949. fix: fix null pointer exception on login #47949
+8118. test: mock database connection in test suite #8118
