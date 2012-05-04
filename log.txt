@@ -19291,3 +19291,4 @@
 89219. feat: support email verification #89219
 62020. chore: rename env.example #62020
 19018. perf: reduce image load time #19018
+96556. test: increase coverage on auth module #96556
