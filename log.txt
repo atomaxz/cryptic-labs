@@ -20340,3 +20340,4 @@
 5746. feat: enable dark mode toggle #5746
 49665. feat: create admin dashboard #49665
 4426. fix: fix null pointer exception on login #4426
+59722. docs: update README with setup steps #59722
