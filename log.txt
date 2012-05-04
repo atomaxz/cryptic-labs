@@ -20338,3 +20338,4 @@
 53139. refactor: clean up auth middleware #53139
 6620. fix: prevent crash on empty input #6620
 5746. feat: enable dark mode toggle #5746
+49665. feat: create admin dashboard #49665
