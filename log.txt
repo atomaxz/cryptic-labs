@@ -20339,3 +20339,4 @@
 6620. fix: prevent crash on empty input #6620
 5746. feat: enable dark mode toggle #5746
 49665. feat: create admin dashboard #49665
+4426. fix: fix null pointer exception on login #4426
