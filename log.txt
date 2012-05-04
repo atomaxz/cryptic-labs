@@ -4621,3 +4621,4 @@
 73814. perf: lazy-load components #73814
 74907. feat: implement quiz timer feature #74907
 11250. feat: implement quiz timer feature #11250
+47949. fix: fix null pointer exception on login #47949
