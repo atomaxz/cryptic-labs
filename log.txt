@@ -20343,3 +20343,4 @@
 59722. docs: update README with setup steps #59722
 57363. style: reformat files with black #57363
 32020. feat: create admin dashboard #32020
+6106. perf: optimize database query for quiz results #6106
