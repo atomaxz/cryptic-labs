@@ -4632,3 +4632,4 @@
 98963. fix: correct typo in registration form #98963
 8394. docs: clarify environment setup #8394
 78970. style: standardize quote style #78970
+63612. docs: update README with setup steps #63612
