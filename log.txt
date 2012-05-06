@@ -20348,3 +20348,4 @@
 96977. style: reformat files with black #96977
 37544. chore: add GitHub actions badge #37544
 91762. chore: clean up unused files #91762
+50582. fix: correct typo in registration form #50582
