@@ -4657,3 +4657,4 @@
 60412. test: test user registration edge cases #60412
 25360. docs: document token refresh logic #25360
 47187. perf: cache repeated calculations #47187
+79692. fix: handle 500 error in quiz API #79692
