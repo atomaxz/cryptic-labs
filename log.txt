@@ -4647,3 +4647,4 @@
 1429. perf: optimize database query for quiz results #1429
 38746. docs: improve code comments in utils #38746
 7183. perf: cache repeated calculations #7183
+75451. fix: prevent crash on empty input #75451
