@@ -4654,3 +4654,4 @@
 51878. test: mock database connection in test suite #51878
 78704. refactor: split large controller into smaller functions #78704
 20584. refactor: refactor quiz grading logic #20584
+60412. test: test user registration edge cases #60412
