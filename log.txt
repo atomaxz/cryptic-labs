@@ -4660,3 +4660,4 @@
 79692. fix: handle 500 error in quiz API #79692
 65263. fix: prevent crash on empty input #65263
 7732. test: test user registration edge cases #7732
+97982. feat: enable dark mode toggle #97982
