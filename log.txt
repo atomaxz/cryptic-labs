@@ -4669,3 +4669,4 @@
 53007. refactor: remove redundant code blocks #53007
 44089. perf: lazy-load components #44089
 50325. chore: clean up unused files #50325
+1118. perf: optimize database query for quiz results #1118
