@@ -19303,3 +19303,4 @@
 96360. feat: add user authentication #96360
 81007. perf: lazy-load components #81007
 37722. docs: write FAQ section #37722
+79304. feat: support email verification #79304
