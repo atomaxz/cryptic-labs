@@ -4680,3 +4680,4 @@
 74751. test: add unit test for quiz service #74751
 44439. feat: support email verification #44439
 28231. fix: correct typo in registration form #28231
+85486. refactor: refactor quiz grading logic #85486
