@@ -20355,3 +20355,4 @@
 53774. refactor: remove redundant code blocks #53774
 38650. feat: implement quiz timer feature #38650
 13515. docs: add API usage examples #13515
+74903. fix: handle 500 error in quiz API #74903
