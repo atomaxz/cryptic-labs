@@ -4678,3 +4678,4 @@
 61957. style: standardize quote style #61957
 38690. fix: resolve issue with date parsing #38690
 74751. test: add unit test for quiz service #74751
+44439. feat: support email verification #44439
