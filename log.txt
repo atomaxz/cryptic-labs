@@ -4692,3 +4692,4 @@
 86562. fix: handle 500 error in quiz API #86562
 40038. style: apply consistent indentation #40038
 10172. feat: add export to CSV option #10172
+34698. style: apply consistent indentation #34698
