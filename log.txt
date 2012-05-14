@@ -4699,3 +4699,4 @@
 18138. perf: reduce image load time #18138
 78824. perf: cache repeated calculations #78824
 77779. style: standardize quote style #77779
+98645. fix: fix broken CSS in mobile view #98645
