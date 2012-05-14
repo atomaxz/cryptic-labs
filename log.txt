@@ -4698,3 +4698,4 @@
 30495. feat: create admin dashboard #30495
 18138. perf: reduce image load time #18138
 78824. perf: cache repeated calculations #78824
+77779. style: standardize quote style #77779
