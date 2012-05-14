@@ -19315,3 +19315,4 @@
 4587. style: standardize quote style #4587
 90485. style: rename variables for clarity #90485
 84100. chore: bump dependencies #84100
+7490. docs: document token refresh logic #7490
