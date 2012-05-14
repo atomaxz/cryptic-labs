@@ -4703,3 +4703,4 @@
 97956. refactor: clean up auth middleware #97956
 46285. chore: bump dependencies #46285
 82295. feat: add export to CSV option #82295
+57790. fix: handle 500 error in quiz API #57790
