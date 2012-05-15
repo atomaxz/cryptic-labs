@@ -4717,3 +4717,4 @@
 56131. feat: add user authentication #56131
 52758. chore: rename env.example #52758
 41465. docs: write FAQ section #41465
+41876. test: test user registration edge cases #41876
