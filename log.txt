@@ -4714,3 +4714,4 @@
 3154. test: test user registration edge cases #3154
 81544. docs: update README with setup steps #81544
 62557. docs: clarify environment setup #62557
+56131. feat: add user authentication #56131
