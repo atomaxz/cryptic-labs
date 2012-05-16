@@ -4721,3 +4721,4 @@
 34021. fix: fix broken CSS in mobile view #34021
 29755. fix: resolve issue with date parsing #29755
 4121. feat: add user authentication #4121
+89428. perf: lazy-load components #89428
