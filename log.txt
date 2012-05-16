@@ -4718,3 +4718,4 @@
 52758. chore: rename env.example #52758
 41465. docs: write FAQ section #41465
 41876. test: test user registration edge cases #41876
+34021. fix: fix broken CSS in mobile view #34021
