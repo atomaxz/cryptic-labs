@@ -20366,3 +20366,4 @@
 84093. feat: enable dark mode toggle #84093
 63170. chore: bump dependencies #63170
 42759. perf: reduce image load time #42759
+37534. style: standardize quote style #37534
