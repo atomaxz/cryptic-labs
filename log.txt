@@ -4727,3 +4727,4 @@
 83048. chore: rename env.example #83048
 51583. fix: fix broken CSS in mobile view #51583
 2425. chore: bump dependencies #2425
+9096. feat: add export to CSV option #9096
