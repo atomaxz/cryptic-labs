@@ -19328,3 +19328,4 @@
 66209. refactor: clean up auth middleware #66209
 86602. style: standardize quote style #86602
 68867. style: remove trailing whitespace #68867
+70325. refactor: organize models into subfolders #70325
