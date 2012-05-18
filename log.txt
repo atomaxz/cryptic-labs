@@ -19324,3 +19324,4 @@
 83541. feat: implement quiz timer feature #83541
 98961. chore: add GitHub actions badge #98961
 13968. perf: reduce image load time #13968
+60822. fix: fix broken CSS in mobile view #60822
