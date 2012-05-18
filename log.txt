@@ -19323,3 +19323,4 @@
 7354. perf: cache repeated calculations #7354
 83541. feat: implement quiz timer feature #83541
 98961. chore: add GitHub actions badge #98961
+13968. perf: reduce image load time #13968
