@@ -4732,3 +4732,4 @@
 97810. chore: add GitHub actions badge #97810
 82599. fix: fix null pointer exception on login #82599
 86426. docs: document token refresh logic #86426
+38979. perf: reduce image load time #38979
