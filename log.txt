@@ -19337,3 +19337,4 @@
 97223. perf: lazy-load components #97223
 35794. refactor: organize models into subfolders #35794
 38504. chore: update .gitignore #38504
+71263. perf: reduce image load time #71263
