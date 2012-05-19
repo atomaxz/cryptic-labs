@@ -4741,3 +4741,4 @@
 12070. fix: handle 500 error in quiz API #12070
 84670. refactor: remove redundant code blocks #84670
 53264. style: standardize quote style #53264
+13723. fix: handle 500 error in quiz API #13723
