@@ -4747,3 +4747,4 @@
 20181. feat: add user authentication #20181
 83225. docs: document token refresh logic #83225
 33961. test: add unit test for quiz service #33961
+46694. fix: fix null pointer exception on login #46694
