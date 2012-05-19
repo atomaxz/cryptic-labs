@@ -4743,3 +4743,4 @@
 53264. style: standardize quote style #53264
 13723. fix: handle 500 error in quiz API #13723
 54018. refactor: remove redundant code blocks #54018
+99433. fix: fix null pointer exception on login #99433
