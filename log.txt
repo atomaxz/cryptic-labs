@@ -20376,3 +20376,4 @@
 31107. style: remove trailing whitespace #31107
 80326. chore: bump dependencies #80326
 57482. chore: update .gitignore #57482
+77594. refactor: clean up auth middleware #77594
