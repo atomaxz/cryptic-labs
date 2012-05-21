@@ -4764,3 +4764,4 @@
 79639. refactor: refactor quiz grading logic #79639
 32974. refactor: organize models into subfolders #32974
 32832. docs: document token refresh logic #32832
+44877. test: increase coverage on auth module #44877
