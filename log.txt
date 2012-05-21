@@ -4767,3 +4767,4 @@
 44877. test: increase coverage on auth module #44877
 18905. chore: bump dependencies #18905
 63247. docs: write FAQ section #63247
+60698. fix: resolve issue with date parsing #60698
