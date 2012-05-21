@@ -20379,3 +20379,4 @@
 77594. refactor: clean up auth middleware #77594
 60643. docs: clarify environment setup #60643
 72093. refactor: refactor quiz grading logic #72093
+91936. fix: fix broken CSS in mobile view #91936
