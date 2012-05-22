@@ -4776,3 +4776,4 @@
 22906. docs: clarify environment setup #22906
 53106. chore: update .gitignore #53106
 24818. chore: add GitHub actions badge #24818
+84616. feat: create admin dashboard #84616
