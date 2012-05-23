@@ -4788,3 +4788,4 @@
 14883. docs: write FAQ section #14883
 17572. perf: optimize database query for quiz results #17572
 56739. test: increase coverage on auth module #56739
+61321. refactor: refactor quiz grading logic #61321
