@@ -4783,3 +4783,4 @@
 27048. perf: cache repeated calculations #27048
 39402. refactor: organize models into subfolders #39402
 76488. style: rename variables for clarity #76488
+59160. perf: lazy-load components #59160
