@@ -20392,3 +20392,4 @@
 57908. docs: clarify environment setup #57908
 93435. style: reformat files with black #93435
 68216. test: increase coverage on auth module #68216
+73753. chore: rename env.example #73753
