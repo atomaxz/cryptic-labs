@@ -19350,3 +19350,4 @@
 56326. refactor: remove redundant code blocks #56326
 55155. refactor: remove redundant code blocks #55155
 67790. refactor: refactor quiz grading logic #67790
+96612. test: increase coverage on auth module #96612
