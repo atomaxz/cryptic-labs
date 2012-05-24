@@ -4792,3 +4792,4 @@
 14095. refactor: remove redundant code blocks #14095
 89980. feat: create admin dashboard #89980
 7203. style: reformat files with black #7203
+46400. test: increase coverage on auth module #46400
