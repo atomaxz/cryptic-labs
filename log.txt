@@ -4797,3 +4797,4 @@
 19091. docs: write FAQ section #19091
 34998. fix: fix null pointer exception on login #34998
 31669. test: add unit test for quiz service #31669
+36570. feat: support email verification #36570
