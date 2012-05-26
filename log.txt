@@ -19358,3 +19358,4 @@
 16120. perf: optimize database query for quiz results #16120
 82212. chore: rename env.example #82212
 86872. feat: create admin dashboard #86872
+35785. feat: support email verification #35785
