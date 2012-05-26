@@ -4807,3 +4807,4 @@
 91997. feat: add user authentication #91997
 55861. chore: clean up unused files #55861
 73502. style: rename variables for clarity #73502
+48332. docs: document token refresh logic #48332
