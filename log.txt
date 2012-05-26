@@ -19359,3 +19359,4 @@
 82212. chore: rename env.example #82212
 86872. feat: create admin dashboard #86872
 35785. feat: support email verification #35785
+99663. docs: document token refresh logic #99663
