@@ -129,3 +129,4 @@
 48263. chore: add GitHub actions badge #48263
 3094. docs: update README with setup steps #3094
 9653. perf: optimize database query for quiz results #9653
+69601. perf: lazy-load components #69601
