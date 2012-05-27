@@ -4811,3 +4811,4 @@
 52853. chore: add GitHub actions badge #52853
 40922. refactor: remove redundant code blocks #40922
 61575. refactor: split large controller into smaller functions #61575
+63534. docs: write FAQ section #63534
