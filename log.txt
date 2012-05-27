@@ -4813,3 +4813,4 @@
 61575. refactor: split large controller into smaller functions #61575
 63534. docs: write FAQ section #63534
 83321. feat: support email verification #83321
+93821. style: apply consistent indentation #93821
