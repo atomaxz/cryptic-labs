@@ -4812,3 +4812,4 @@
 40922. refactor: remove redundant code blocks #40922
 61575. refactor: split large controller into smaller functions #61575
 63534. docs: write FAQ section #63534
+83321. feat: support email verification #83321
