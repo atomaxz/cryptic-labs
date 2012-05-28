@@ -4819,3 +4819,4 @@
 74537. docs: write FAQ section #74537
 89550. test: add unit test for quiz service #89550
 8050. feat: implement quiz timer feature #8050
+29101. perf: lazy-load components #29101
