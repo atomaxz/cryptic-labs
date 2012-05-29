@@ -19364,3 +19364,4 @@
 71037. style: remove trailing whitespace #71037
 44166. docs: write FAQ section #44166
 57923. style: standardize quote style #57923
+1092. feat: add export to CSV option #1092
