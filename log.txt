@@ -4828,3 +4828,4 @@
 68908. refactor: split large controller into smaller functions #68908
 86591. refactor: clean up auth middleware #86591
 93851. style: standardize quote style #93851
+0378. fix: fix null pointer exception on login #378
