@@ -4830,3 +4830,4 @@
 93851. style: standardize quote style #93851
 0378. fix: fix null pointer exception on login #378
 4064. refactor: clean up auth middleware #4064
+25301. feat: support email verification #25301
