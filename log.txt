@@ -4835,3 +4835,4 @@
 92930. chore: update .gitignore #92930
 25651. test: add integration test for /submit endpoint #25651
 89328. perf: reduce image load time #89328
+55629. perf: optimize database query for quiz results #55629
