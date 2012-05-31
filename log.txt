@@ -19371,3 +19371,4 @@
 17054. refactor: organize models into subfolders #17054
 59163. fix: resolve issue with date parsing #59163
 62087. feat: add export to CSV option #62087
+41871. refactor: clean up auth middleware #41871
