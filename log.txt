@@ -20415,3 +20415,4 @@
 16653. refactor: remove redundant code blocks #16653
 85661. feat: support email verification #85661
 98082. refactor: organize models into subfolders #98082
+41367. style: remove trailing whitespace #41367
