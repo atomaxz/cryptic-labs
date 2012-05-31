@@ -4849,3 +4849,4 @@
 49395. style: remove trailing whitespace #49395
 39342. docs: improve code comments in utils #39342
 28078. chore: rename env.example #28078
+71243. fix: handle 500 error in quiz API #71243
