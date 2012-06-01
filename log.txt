@@ -20423,3 +20423,4 @@
 20123. perf: lazy-load components #20123
 14667. style: apply consistent indentation #14667
 2436. style: remove trailing whitespace #2436
+60634. chore: bump dependencies #60634
