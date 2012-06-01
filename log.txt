@@ -19373,3 +19373,4 @@
 62087. feat: add export to CSV option #62087
 41871. refactor: clean up auth middleware #41871
 72215. docs: clarify environment setup #72215
+42082. test: test user registration edge cases #42082
