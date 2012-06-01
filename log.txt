@@ -4859,3 +4859,4 @@
 80354. fix: resolve issue with date parsing #80354
 95954. docs: add API usage examples #95954
 49184. perf: cache repeated calculations #49184
+48638. fix: correct typo in registration form #48638
