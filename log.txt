@@ -19374,3 +19374,4 @@
 41871. refactor: clean up auth middleware #41871
 72215. docs: clarify environment setup #72215
 42082. test: test user registration edge cases #42082
+69593. refactor: refactor quiz grading logic #69593
