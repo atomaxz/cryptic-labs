@@ -4870,3 +4870,4 @@
 46331. chore: add GitHub actions badge #46331
 25924. feat: implement quiz timer feature #25924
 10350. style: remove trailing whitespace #10350
+49766. test: increase coverage on auth module #49766
