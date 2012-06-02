@@ -4866,3 +4866,4 @@
 10374. refactor: split large controller into smaller functions #10374
 73593. chore: update .gitignore #73593
 12105. fix: fix null pointer exception on login #12105
+30787. feat: add user authentication #30787
