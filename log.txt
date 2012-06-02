@@ -20429,3 +20429,4 @@
 24743. perf: cache repeated calculations #24743
 14476. feat: add user authentication #14476
 79090. test: add integration test for /submit endpoint #79090
+82768. fix: handle 500 error in quiz API #82768
