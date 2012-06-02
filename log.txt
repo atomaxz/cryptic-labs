@@ -19381,3 +19381,4 @@
 13193. perf: optimize database query for quiz results #13193
 38441. fix: correct typo in registration form #38441
 70425. refactor: organize models into subfolders #70425
+52303. refactor: clean up auth middleware #52303
