@@ -20430,3 +20430,4 @@
 14476. feat: add user authentication #14476
 79090. test: add integration test for /submit endpoint #79090
 82768. fix: handle 500 error in quiz API #82768
+48501. test: mock database connection in test suite #48501
