@@ -19382,3 +19382,4 @@
 38441. fix: correct typo in registration form #38441
 70425. refactor: organize models into subfolders #70425
 52303. refactor: clean up auth middleware #52303
+8639. style: standardize quote style #8639
