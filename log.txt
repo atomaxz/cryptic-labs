@@ -4881,3 +4881,4 @@
 33076. docs: update README with setup steps #33076
 88303. chore: add GitHub actions badge #88303
 29345. perf: optimize database query for quiz results #29345
+41006. fix: correct typo in registration form #41006
