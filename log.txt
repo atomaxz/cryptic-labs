@@ -20432,3 +20432,4 @@
 82768. fix: handle 500 error in quiz API #82768
 48501. test: mock database connection in test suite #48501
 98942. test: add integration test for /submit endpoint #98942
+66559. docs: clarify environment setup #66559
