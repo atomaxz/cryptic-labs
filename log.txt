@@ -19386,3 +19386,4 @@
 0304. perf: cache repeated calculations #304
 38468. chore: bump dependencies #38468
 3238. fix: resolve issue with date parsing #3238
+86677. feat: add export to CSV option #86677
