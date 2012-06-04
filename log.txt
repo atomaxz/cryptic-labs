@@ -132,3 +132,4 @@
 69601. perf: lazy-load components #69601
 14974. test: add unit test for quiz service #14974
 97899. test: test user registration edge cases #97899
+65959. docs: update README with setup steps #65959
