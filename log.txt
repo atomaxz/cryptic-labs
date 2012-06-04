@@ -19388,3 +19388,4 @@
 3238. fix: resolve issue with date parsing #3238
 86677. feat: add export to CSV option #86677
 57038. chore: add GitHub actions badge #57038
+19530. perf: optimize database query for quiz results #19530
