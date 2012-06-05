@@ -133,3 +133,4 @@
 14974. test: add unit test for quiz service #14974
 97899. test: test user registration edge cases #97899
 65959. docs: update README with setup steps #65959
+12186. feat: add user authentication #12186
