@@ -19395,3 +19395,4 @@
 79661. fix: resolve issue with date parsing #79661
 43849. fix: handle 500 error in quiz API #43849
 98593. chore: add GitHub actions badge #98593
+44194. feat: enable dark mode toggle #44194
