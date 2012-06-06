@@ -19396,3 +19396,4 @@
 43849. fix: handle 500 error in quiz API #43849
 98593. chore: add GitHub actions badge #98593
 44194. feat: enable dark mode toggle #44194
+34224. fix: fix broken CSS in mobile view #34224
