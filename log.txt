@@ -4902,3 +4902,4 @@
 37604. perf: reduce image load time #37604
 96297. docs: clarify environment setup #96297
 79249. style: apply consistent indentation #79249
+91645. refactor: organize models into subfolders #91645
