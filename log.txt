@@ -4906,3 +4906,4 @@
 52837. docs: improve code comments in utils #52837
 97381. feat: create admin dashboard #97381
 35072. perf: optimize database query for quiz results #35072
+56967. feat: enable dark mode toggle #56967
