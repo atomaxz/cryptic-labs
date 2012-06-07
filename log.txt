@@ -19397,3 +19397,4 @@
 98593. chore: add GitHub actions badge #98593
 44194. feat: enable dark mode toggle #44194
 34224. fix: fix broken CSS in mobile view #34224
+38336. fix: fix null pointer exception on login #38336
