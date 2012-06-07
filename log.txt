@@ -4916,3 +4916,4 @@
 92357. feat: create admin dashboard #92357
 16043. refactor: refactor quiz grading logic #16043
 90901. chore: bump dependencies #90901
+87119. fix: prevent crash on empty input #87119
