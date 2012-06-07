@@ -4917,3 +4917,4 @@
 16043. refactor: refactor quiz grading logic #16043
 90901. chore: bump dependencies #90901
 87119. fix: prevent crash on empty input #87119
+59428. test: add integration test for /submit endpoint #59428
