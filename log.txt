@@ -19401,3 +19401,4 @@
 91908. chore: update .gitignore #91908
 33415. perf: cache repeated calculations #33415
 10706. fix: handle 500 error in quiz API #10706
+96471. refactor: clean up auth middleware #96471
