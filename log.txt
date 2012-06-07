@@ -19398,3 +19398,4 @@
 44194. feat: enable dark mode toggle #44194
 34224. fix: fix broken CSS in mobile view #34224
 38336. fix: fix null pointer exception on login #38336
+91908. chore: update .gitignore #91908
