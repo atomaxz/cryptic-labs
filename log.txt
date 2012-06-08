@@ -4920,3 +4920,4 @@
 59428. test: add integration test for /submit endpoint #59428
 25687. docs: clarify environment setup #25687
 75395. fix: handle 500 error in quiz API #75395
+69017. docs: write FAQ section #69017
