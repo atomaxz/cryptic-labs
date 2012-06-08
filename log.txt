@@ -4919,3 +4919,4 @@
 87119. fix: prevent crash on empty input #87119
 59428. test: add integration test for /submit endpoint #59428
 25687. docs: clarify environment setup #25687
+75395. fix: handle 500 error in quiz API #75395
