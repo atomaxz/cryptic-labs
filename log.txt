@@ -19407,3 +19407,4 @@
 41720. test: mock database connection in test suite #41720
 64830. style: reformat files with black #64830
 59019. docs: document token refresh logic #59019
+90205. chore: add GitHub actions badge #90205
