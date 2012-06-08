@@ -19404,3 +19404,4 @@
 96471. refactor: clean up auth middleware #96471
 7089. refactor: organize models into subfolders #7089
 15357. chore: clean up unused files #15357
+41720. test: mock database connection in test suite #41720
