@@ -19406,3 +19406,4 @@
 15357. chore: clean up unused files #15357
 41720. test: mock database connection in test suite #41720
 64830. style: reformat files with black #64830
+59019. docs: document token refresh logic #59019
