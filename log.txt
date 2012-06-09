@@ -4926,3 +4926,4 @@
 1214. docs: update README with setup steps #1214
 71835. perf: lazy-load components #71835
 91053. docs: clarify environment setup #91053
+91133. chore: bump dependencies #91133
