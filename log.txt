@@ -140,3 +140,4 @@
 83778. style: remove trailing whitespace #83778
 85647. refactor: refactor quiz grading logic #85647
 10305. refactor: refactor quiz grading logic #10305
+6513. test: add unit test for quiz service #6513
