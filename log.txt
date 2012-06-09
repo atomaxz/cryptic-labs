@@ -4922,3 +4922,4 @@
 75395. fix: handle 500 error in quiz API #75395
 69017. docs: write FAQ section #69017
 12401. feat: add user authentication #12401
+34690. perf: reduce image load time #34690
