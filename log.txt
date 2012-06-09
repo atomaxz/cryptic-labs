@@ -20437,3 +20437,4 @@
 86233. chore: update .gitignore #86233
 24752. chore: rename env.example #24752
 8163. fix: fix null pointer exception on login #8163
+80625. refactor: clean up auth middleware #80625
