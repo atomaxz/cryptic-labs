@@ -4925,3 +4925,4 @@
 34690. perf: reduce image load time #34690
 1214. docs: update README with setup steps #1214
 71835. perf: lazy-load components #71835
+91053. docs: clarify environment setup #91053
