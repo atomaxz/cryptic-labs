@@ -4936,3 +4936,4 @@
 10429. docs: add API usage examples #10429
 64538. chore: rename env.example #64538
 38812. perf: reduce image load time #38812
+43391. fix: resolve issue with date parsing #43391
