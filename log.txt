@@ -4931,3 +4931,4 @@
 35690. chore: clean up unused files #35690
 89091. fix: fix broken CSS in mobile view #89091
 5518. fix: fix broken CSS in mobile view #5518
+38084. chore: update .gitignore #38084
