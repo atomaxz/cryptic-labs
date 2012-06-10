@@ -4938,3 +4938,4 @@
 38812. perf: reduce image load time #38812
 43391. fix: resolve issue with date parsing #43391
 48777. style: apply consistent indentation #48777
+90046. chore: bump dependencies #90046
