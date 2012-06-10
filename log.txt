@@ -4929,3 +4929,4 @@
 91133. chore: bump dependencies #91133
 82223. chore: add GitHub actions badge #82223
 35690. chore: clean up unused files #35690
+89091. fix: fix broken CSS in mobile view #89091
