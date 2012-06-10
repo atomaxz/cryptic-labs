@@ -4939,3 +4939,4 @@
 43391. fix: resolve issue with date parsing #43391
 48777. style: apply consistent indentation #48777
 90046. chore: bump dependencies #90046
+51837. docs: update README with setup steps #51837
