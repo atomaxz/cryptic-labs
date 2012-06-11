@@ -20443,3 +20443,4 @@
 80693. docs: clarify environment setup #80693
 66987. docs: update README with setup steps #66987
 90332. refactor: clean up auth middleware #90332
+49409. test: increase coverage on auth module #49409
