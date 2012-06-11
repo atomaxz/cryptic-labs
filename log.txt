@@ -4942,3 +4942,4 @@
 51837. docs: update README with setup steps #51837
 14462. chore: update .gitignore #14462
 16765. style: apply consistent indentation #16765
+24299. style: remove trailing whitespace #24299
