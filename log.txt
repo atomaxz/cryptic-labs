@@ -20446,3 +20446,4 @@
 49409. test: increase coverage on auth module #49409
 63305. refactor: split large controller into smaller functions #63305
 97749. refactor: remove redundant code blocks #97749
+7525. feat: add user authentication #7525
