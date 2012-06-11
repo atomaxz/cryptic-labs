@@ -19414,3 +19414,4 @@
 51219. refactor: clean up auth middleware #51219
 47697. docs: write FAQ section #47697
 50659. docs: document token refresh logic #50659
+99023. feat: enable dark mode toggle #99023
