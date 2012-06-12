@@ -4945,3 +4945,4 @@
 24299. style: remove trailing whitespace #24299
 2799. docs: document token refresh logic #2799
 62068. perf: lazy-load components #62068
+80189. chore: add GitHub actions badge #80189
