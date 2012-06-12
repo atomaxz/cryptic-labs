@@ -20449,3 +20449,4 @@
 7525. feat: add user authentication #7525
 81038. style: apply consistent indentation #81038
 68597. perf: lazy-load components #68597
+76713. fix: prevent crash on empty input #76713
