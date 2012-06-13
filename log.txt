@@ -4951,3 +4951,4 @@
 32293. fix: fix null pointer exception on login #32293
 68632. chore: clean up unused files #68632
 25075. feat: enable dark mode toggle #25075
+78501. feat: create admin dashboard #78501
