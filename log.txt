@@ -4960,3 +4960,4 @@
 37989. perf: optimize database query for quiz results #37989
 17674. refactor: refactor quiz grading logic #17674
 79616. chore: rename env.example #79616
+1571. fix: fix broken CSS in mobile view #1571
