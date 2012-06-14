@@ -4967,3 +4967,4 @@
 38717. refactor: clean up auth middleware #38717
 37608. test: increase coverage on auth module #37608
 69214. test: add unit test for quiz service #69214
+4460. refactor: split large controller into smaller functions #4460
