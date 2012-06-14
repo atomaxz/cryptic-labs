@@ -4969,3 +4969,4 @@
 69214. test: add unit test for quiz service #69214
 4460. refactor: split large controller into smaller functions #4460
 75153. chore: update .gitignore #75153
+79783. feat: add user authentication #79783
