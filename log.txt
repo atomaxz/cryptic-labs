@@ -4966,3 +4966,4 @@
 51593. fix: correct typo in registration form #51593
 38717. refactor: clean up auth middleware #38717
 37608. test: increase coverage on auth module #37608
+69214. test: add unit test for quiz service #69214
