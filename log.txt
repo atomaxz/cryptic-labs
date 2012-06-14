@@ -20454,3 +20454,4 @@
 27901. feat: implement quiz timer feature #27901
 39158. test: mock database connection in test suite #39158
 16852. style: remove trailing whitespace #16852
+13066. perf: reduce image load time #13066
