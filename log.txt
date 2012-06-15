@@ -4977,3 +4977,4 @@
 83621. docs: update README with setup steps #83621
 96077. chore: update .gitignore #96077
 65903. perf: reduce image load time #65903
+44802. fix: fix null pointer exception on login #44802
