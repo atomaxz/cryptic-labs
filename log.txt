@@ -4981,3 +4981,4 @@
 25865. test: mock database connection in test suite #25865
 78221. perf: reduce image load time #78221
 40385. refactor: organize models into subfolders #40385
+56697. test: add unit test for quiz service #56697
