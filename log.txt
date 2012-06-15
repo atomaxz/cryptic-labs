@@ -143,3 +143,4 @@
 6513. test: add unit test for quiz service #6513
 17806. refactor: refactor quiz grading logic #17806
 40025. chore: bump dependencies #40025
+8873. refactor: clean up auth middleware #8873
