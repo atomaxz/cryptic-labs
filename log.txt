@@ -19428,3 +19428,4 @@
 63528. fix: correct typo in registration form #63528
 76829. refactor: clean up auth middleware #76829
 96172. test: add integration test for /submit endpoint #96172
+89378. refactor: clean up auth middleware #89378
