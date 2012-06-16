@@ -20460,3 +20460,4 @@
 77862. style: standardize quote style #77862
 36200. fix: fix null pointer exception on login #36200
 29325. feat: enable dark mode toggle #29325
+4696. docs: update README with setup steps #4696
