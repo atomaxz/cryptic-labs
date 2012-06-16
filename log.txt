@@ -4987,3 +4987,4 @@
 71111. refactor: organize models into subfolders #71111
 12013. feat: support email verification #12013
 29070. fix: correct typo in registration form #29070
+29392. test: test user registration edge cases #29392
