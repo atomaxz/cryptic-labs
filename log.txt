@@ -20461,3 +20461,4 @@
 36200. fix: fix null pointer exception on login #36200
 29325. feat: enable dark mode toggle #29325
 4696. docs: update README with setup steps #4696
+66217. perf: optimize database query for quiz results #66217
