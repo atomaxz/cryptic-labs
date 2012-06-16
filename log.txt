@@ -4984,3 +4984,4 @@
 56697. test: add unit test for quiz service #56697
 52063. style: reformat files with black #52063
 52255. perf: optimize database query for quiz results #52255
+71111. refactor: organize models into subfolders #71111
