@@ -4985,3 +4985,4 @@
 52063. style: reformat files with black #52063
 52255. perf: optimize database query for quiz results #52255
 71111. refactor: organize models into subfolders #71111
+12013. feat: support email verification #12013
