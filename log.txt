@@ -20464,3 +20464,4 @@
 66217. perf: optimize database query for quiz results #66217
 31236. style: standardize quote style #31236
 38586. style: apply consistent indentation #38586
+37380. fix: fix broken CSS in mobile view #37380
