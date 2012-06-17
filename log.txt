@@ -4993,3 +4993,4 @@
 19363. feat: add user authentication #19363
 90175. docs: clarify environment setup #90175
 39993. test: test user registration edge cases #39993
+97040. docs: write FAQ section #97040
