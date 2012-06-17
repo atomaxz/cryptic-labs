@@ -4996,3 +4996,4 @@
 97040. docs: write FAQ section #97040
 69221. chore: update .gitignore #69221
 44016. feat: add export to CSV option #44016
+87650. fix: resolve issue with date parsing #87650
