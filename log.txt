@@ -5000,3 +5000,4 @@
 55676. test: add integration test for /submit endpoint #55676
 83861. perf: optimize database query for quiz results #83861
 39714. feat: support email verification #39714
+46934. refactor: split large controller into smaller functions #46934
