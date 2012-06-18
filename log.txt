@@ -19432,3 +19432,4 @@
 96326. test: increase coverage on auth module #96326
 3264. fix: handle 500 error in quiz API #3264
 17948. refactor: remove redundant code blocks #17948
+22149. test: add integration test for /submit endpoint #22149
