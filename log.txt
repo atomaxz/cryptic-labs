@@ -5002,3 +5002,4 @@
 39714. feat: support email verification #39714
 46934. refactor: split large controller into smaller functions #46934
 95937. docs: write FAQ section #95937
+12832. refactor: clean up auth middleware #12832
