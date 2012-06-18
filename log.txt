@@ -5006,3 +5006,4 @@
 51770. style: reformat files with black #51770
 29805. feat: create admin dashboard #29805
 91028. fix: handle 500 error in quiz API #91028
+39353. feat: enable dark mode toggle #39353
