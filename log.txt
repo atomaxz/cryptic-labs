@@ -19435,3 +19435,4 @@
 22149. test: add integration test for /submit endpoint #22149
 23457. fix: handle 500 error in quiz API #23457
 4574. chore: update .gitignore #4574
+52407. feat: add user authentication #52407
