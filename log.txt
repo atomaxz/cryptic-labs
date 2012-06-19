@@ -20474,3 +20474,4 @@
 98798. feat: enable dark mode toggle #98798
 5042. test: increase coverage on auth module #5042
 77888. feat: add export to CSV option #77888
+37020. refactor: clean up auth middleware #37020
