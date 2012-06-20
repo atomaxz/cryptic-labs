@@ -5016,3 +5016,4 @@
 97709. perf: reduce image load time #97709
 0191. feat: enable dark mode toggle #191
 0356. feat: enable dark mode toggle #356
+51550. fix: handle 500 error in quiz API #51550
