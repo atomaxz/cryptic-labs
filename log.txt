@@ -19438,3 +19438,4 @@
 52407. feat: add user authentication #52407
 71541. refactor: clean up auth middleware #71541
 29537. refactor: refactor quiz grading logic #29537
+29765. test: test user registration edge cases #29765
