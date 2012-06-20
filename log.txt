@@ -20475,3 +20475,4 @@
 5042. test: increase coverage on auth module #5042
 77888. feat: add export to CSV option #77888
 37020. refactor: clean up auth middleware #37020
+76618. fix: resolve issue with date parsing #76618
