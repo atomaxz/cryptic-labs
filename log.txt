@@ -5024,3 +5024,4 @@
 91874. perf: optimize database query for quiz results #91874
 70412. chore: update .gitignore #70412
 34687. style: apply consistent indentation #34687
+25811. perf: optimize database query for quiz results #25811
