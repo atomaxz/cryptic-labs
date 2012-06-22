@@ -5033,3 +5033,4 @@
 58844. feat: add export to CSV option #58844
 94884. chore: update .gitignore #94884
 79202. test: test user registration edge cases #79202
+93333. chore: update .gitignore #93333
