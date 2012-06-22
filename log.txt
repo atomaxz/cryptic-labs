@@ -5034,3 +5034,4 @@
 94884. chore: update .gitignore #94884
 79202. test: test user registration edge cases #79202
 93333. chore: update .gitignore #93333
+85850. chore: rename env.example #85850
