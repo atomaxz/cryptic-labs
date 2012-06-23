@@ -19449,3 +19449,4 @@
 34553. style: reformat files with black #34553
 48689. perf: reduce image load time #48689
 67468. refactor: split large controller into smaller functions #67468
+19412. test: increase coverage on auth module #19412
