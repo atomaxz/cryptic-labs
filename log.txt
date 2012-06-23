@@ -5039,3 +5039,4 @@
 93402. fix: fix null pointer exception on login #93402
 5762. refactor: refactor quiz grading logic #5762
 5392. feat: support email verification #5392
+67412. style: remove trailing whitespace #67412
