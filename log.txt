@@ -5041,3 +5041,4 @@
 5392. feat: support email verification #5392
 67412. style: remove trailing whitespace #67412
 43982. test: test user registration edge cases #43982
+89297. chore: bump dependencies #89297
