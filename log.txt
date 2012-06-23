@@ -5042,3 +5042,4 @@
 67412. style: remove trailing whitespace #67412
 43982. test: test user registration edge cases #43982
 89297. chore: bump dependencies #89297
+78567. test: add unit test for quiz service #78567
