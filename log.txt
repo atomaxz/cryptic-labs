@@ -19452,3 +19452,4 @@
 19412. test: increase coverage on auth module #19412
 58204. chore: bump dependencies #58204
 74225. test: test user registration edge cases #74225
+10272. refactor: refactor quiz grading logic #10272
