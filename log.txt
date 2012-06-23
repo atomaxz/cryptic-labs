@@ -148,3 +148,4 @@
 99942. fix: resolve issue with date parsing #99942
 6528. feat: add user authentication #6528
 32704. docs: update README with setup steps #32704
+57253. fix: fix broken CSS in mobile view #57253
