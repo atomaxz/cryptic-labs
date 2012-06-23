@@ -5038,3 +5038,4 @@
 55683. perf: reduce image load time #55683
 93402. fix: fix null pointer exception on login #93402
 5762. refactor: refactor quiz grading logic #5762
+5392. feat: support email verification #5392
