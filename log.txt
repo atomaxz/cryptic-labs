@@ -20485,3 +20485,4 @@
 89792. chore: bump dependencies #89792
 2501. refactor: remove redundant code blocks #2501
 11806. docs: write FAQ section #11806
+42788. refactor: clean up auth middleware #42788
