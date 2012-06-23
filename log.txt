@@ -19451,3 +19451,4 @@
 67468. refactor: split large controller into smaller functions #67468
 19412. test: increase coverage on auth module #19412
 58204. chore: bump dependencies #58204
+74225. test: test user registration edge cases #74225
