@@ -20487,3 +20487,4 @@
 11806. docs: write FAQ section #11806
 42788. refactor: clean up auth middleware #42788
 74563. refactor: remove redundant code blocks #74563
+53324. test: add integration test for /submit endpoint #53324
