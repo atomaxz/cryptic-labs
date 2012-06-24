@@ -20488,3 +20488,4 @@
 42788. refactor: clean up auth middleware #42788
 74563. refactor: remove redundant code blocks #74563
 53324. test: add integration test for /submit endpoint #53324
+19120. perf: optimize database query for quiz results #19120
