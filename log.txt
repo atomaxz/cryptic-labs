@@ -5052,3 +5052,4 @@
 90672. perf: optimize database query for quiz results #90672
 54780. refactor: clean up auth middleware #54780
 56856. feat: add user authentication #56856
+69967. fix: prevent crash on empty input #69967
