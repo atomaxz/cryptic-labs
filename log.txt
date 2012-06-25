@@ -5048,3 +5048,4 @@
 99828. test: test user registration edge cases #99828
 80166. feat: support email verification #80166
 20312. docs: document token refresh logic #20312
+4599. style: reformat files with black #4599
