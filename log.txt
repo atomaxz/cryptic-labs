@@ -5050,3 +5050,4 @@
 20312. docs: document token refresh logic #20312
 4599. style: reformat files with black #4599
 90672. perf: optimize database query for quiz results #90672
+54780. refactor: clean up auth middleware #54780
