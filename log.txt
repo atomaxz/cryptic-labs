@@ -5056,3 +5056,4 @@
 29701. test: mock database connection in test suite #29701
 66264. refactor: refactor quiz grading logic #66264
 70876. fix: prevent crash on empty input #70876
+7178. perf: optimize database query for quiz results #7178
