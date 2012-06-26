@@ -20493,3 +20493,4 @@
 22959. test: mock database connection in test suite #22959
 12389. chore: bump dependencies #12389
 77370. refactor: organize models into subfolders #77370
+41139. style: remove trailing whitespace #41139
