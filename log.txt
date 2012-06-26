@@ -19458,3 +19458,4 @@
 40552. chore: update .gitignore #40552
 92080. chore: clean up unused files #92080
 19473. perf: cache repeated calculations #19473
+93170. refactor: clean up auth middleware #93170
