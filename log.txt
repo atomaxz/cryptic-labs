@@ -149,3 +149,4 @@
 6528. feat: add user authentication #6528
 32704. docs: update README with setup steps #32704
 57253. fix: fix broken CSS in mobile view #57253
+96844. test: increase coverage on auth module #96844
