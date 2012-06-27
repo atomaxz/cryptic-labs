@@ -5065,3 +5065,4 @@
 72024. chore: bump dependencies #72024
 92344. refactor: clean up auth middleware #92344
 29112. fix: correct typo in registration form #29112
+8786. test: test user registration edge cases #8786
