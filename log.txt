@@ -5064,3 +5064,4 @@
 85959. test: increase coverage on auth module #85959
 72024. chore: bump dependencies #72024
 92344. refactor: clean up auth middleware #92344
+29112. fix: correct typo in registration form #29112
