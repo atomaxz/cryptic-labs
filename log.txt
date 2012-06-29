@@ -20499,3 +20499,4 @@
 36089. perf: optimize database query for quiz results #36089
 84376. test: increase coverage on auth module #84376
 67393. test: test user registration edge cases #67393
+98442. docs: add API usage examples #98442
