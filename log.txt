@@ -19467,3 +19467,4 @@
 50507. fix: correct typo in registration form #50507
 43381. style: remove trailing whitespace #43381
 18324. chore: add GitHub actions badge #18324
+15383. fix: fix broken CSS in mobile view #15383
