@@ -19470,3 +19470,4 @@
 15383. fix: fix broken CSS in mobile view #15383
 39352. perf: cache repeated calculations #39352
 34737. chore: add GitHub actions badge #34737
+36803. chore: clean up unused files #36803
