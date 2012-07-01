@@ -19474,3 +19474,4 @@
 32431. feat: support email verification #32431
 37665. chore: update .gitignore #37665
 67662. style: rename variables for clarity #67662
+83104. test: test user registration edge cases #83104
