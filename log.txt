@@ -5088,3 +5088,4 @@
 18017. fix: fix broken CSS in mobile view #18017
 57546. refactor: organize models into subfolders #57546
 72928. feat: create admin dashboard #72928
+28943. chore: update .gitignore #28943
