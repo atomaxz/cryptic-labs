@@ -20504,3 +20504,4 @@
 1120. style: apply consistent indentation #1120
 33595. refactor: split large controller into smaller functions #33595
 23371. feat: add export to CSV option #23371
+37951. refactor: clean up auth middleware #37951
