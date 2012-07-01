@@ -5085,3 +5085,4 @@
 73911. refactor: clean up auth middleware #73911
 1053. perf: optimize database query for quiz results #1053
 88374. feat: implement quiz timer feature #88374
+18017. fix: fix broken CSS in mobile view #18017
