@@ -151,3 +151,4 @@
 57253. fix: fix broken CSS in mobile view #57253
 96844. test: increase coverage on auth module #96844
 12180. docs: update README with setup steps #12180
+73369. fix: fix null pointer exception on login #73369
