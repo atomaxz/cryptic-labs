@@ -20506,3 +20506,4 @@
 23371. feat: add export to CSV option #23371
 37951. refactor: clean up auth middleware #37951
 51558. chore: add GitHub actions badge #51558
+25575. test: test user registration edge cases #25575
