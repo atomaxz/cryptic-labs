@@ -19477,3 +19477,4 @@
 83104. test: test user registration edge cases #83104
 49917. perf: cache repeated calculations #49917
 99245. docs: write FAQ section #99245
+29329. refactor: refactor quiz grading logic #29329
