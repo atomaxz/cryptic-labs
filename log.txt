@@ -153,3 +153,4 @@
 12180. docs: update README with setup steps #12180
 73369. fix: fix null pointer exception on login #73369
 59988. perf: lazy-load components #59988
+34541. style: apply consistent indentation #34541
