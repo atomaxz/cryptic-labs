@@ -5095,3 +5095,4 @@
 34013. perf: lazy-load components #34013
 26515. docs: clarify environment setup #26515
 14025. fix: handle 500 error in quiz API #14025
+12611. fix: correct typo in registration form #12611
