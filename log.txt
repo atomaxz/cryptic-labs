@@ -20505,3 +20505,4 @@
 33595. refactor: split large controller into smaller functions #33595
 23371. feat: add export to CSV option #23371
 37951. refactor: clean up auth middleware #37951
+51558. chore: add GitHub actions badge #51558
