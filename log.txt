@@ -5097,3 +5097,4 @@
 14025. fix: handle 500 error in quiz API #14025
 12611. fix: correct typo in registration form #12611
 89396. chore: rename env.example #89396
+57628. chore: bump dependencies #57628
