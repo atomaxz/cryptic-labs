@@ -19481,3 +19481,4 @@
 55949. refactor: clean up auth middleware #55949
 84945. refactor: clean up auth middleware #84945
 67132. docs: improve code comments in utils #67132
+65132. perf: lazy-load components #65132
