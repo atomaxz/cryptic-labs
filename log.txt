@@ -154,3 +154,4 @@
 73369. fix: fix null pointer exception on login #73369
 59988. perf: lazy-load components #59988
 34541. style: apply consistent indentation #34541
+47557. fix: resolve issue with date parsing #47557
