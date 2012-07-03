@@ -20509,3 +20509,4 @@
 25575. test: test user registration edge cases #25575
 27143. feat: implement quiz timer feature #27143
 19767. refactor: remove redundant code blocks #19767
+29636. fix: prevent crash on empty input #29636
