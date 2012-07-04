@@ -5105,3 +5105,4 @@
 74120. style: apply consistent indentation #74120
 96202. chore: clean up unused files #96202
 65665. style: standardize quote style #65665
+73466. docs: update README with setup steps #73466
