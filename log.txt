@@ -5109,3 +5109,4 @@
 23019. fix: correct typo in registration form #23019
 18842. test: add integration test for /submit endpoint #18842
 7743. chore: update .gitignore #7743
+65846. docs: update README with setup steps #65846
