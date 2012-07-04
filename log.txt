@@ -20512,3 +20512,4 @@
 29636. fix: prevent crash on empty input #29636
 56410. fix: fix broken CSS in mobile view #56410
 56050. fix: fix broken CSS in mobile view #56050
+68532. docs: document token refresh logic #68532
