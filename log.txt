@@ -5111,3 +5111,4 @@
 7743. chore: update .gitignore #7743
 65846. docs: update README with setup steps #65846
 22160. docs: clarify environment setup #22160
+88407. chore: rename env.example #88407
