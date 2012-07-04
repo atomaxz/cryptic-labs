@@ -20515,3 +20515,4 @@
 68532. docs: document token refresh logic #68532
 35114. test: test user registration edge cases #35114
 8791. style: standardize quote style #8791
+49947. perf: reduce image load time #49947
