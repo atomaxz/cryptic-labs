@@ -5113,3 +5113,4 @@
 22160. docs: clarify environment setup #22160
 88407. chore: rename env.example #88407
 73875. fix: fix broken CSS in mobile view #73875
+19323. style: remove trailing whitespace #19323
