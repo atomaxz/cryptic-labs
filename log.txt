@@ -5121,3 +5121,4 @@
 7897. chore: bump dependencies #7897
 55880. chore: bump dependencies #55880
 9108. test: mock database connection in test suite #9108
+76590. feat: create admin dashboard #76590
