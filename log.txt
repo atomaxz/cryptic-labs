@@ -5115,3 +5115,4 @@
 73875. fix: fix broken CSS in mobile view #73875
 19323. style: remove trailing whitespace #19323
 47383. docs: improve code comments in utils #47383
+8806. style: standardize quote style #8806
