@@ -5129,3 +5129,4 @@
 45519. feat: support email verification #45519
 10313. style: remove trailing whitespace #10313
 16974. fix: fix null pointer exception on login #16974
+24623. perf: lazy-load components #24623
