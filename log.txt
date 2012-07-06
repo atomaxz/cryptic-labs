@@ -20518,3 +20518,4 @@
 49947. perf: reduce image load time #49947
 43508. perf: reduce image load time #43508
 75771. docs: improve code comments in utils #75771
+19514. perf: reduce image load time #19514
