@@ -5139,3 +5139,4 @@
 58322. feat: create admin dashboard #58322
 69684. test: increase coverage on auth module #69684
 81766. perf: reduce image load time #81766
+44476. perf: lazy-load components #44476
