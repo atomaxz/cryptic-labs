@@ -19491,3 +19491,4 @@
 51693. refactor: split large controller into smaller functions #51693
 96017. fix: correct typo in registration form #96017
 17750. perf: lazy-load components #17750
+66770. docs: update README with setup steps #66770
