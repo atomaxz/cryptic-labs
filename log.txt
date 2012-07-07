@@ -5138,3 +5138,4 @@
 81764. test: add integration test for /submit endpoint #81764
 58322. feat: create admin dashboard #58322
 69684. test: increase coverage on auth module #69684
+81766. perf: reduce image load time #81766
