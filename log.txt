@@ -19492,3 +19492,4 @@
 96017. fix: correct typo in registration form #96017
 17750. perf: lazy-load components #17750
 66770. docs: update README with setup steps #66770
+88523. style: remove trailing whitespace #88523
