@@ -5137,3 +5137,4 @@
 52261. test: increase coverage on auth module #52261
 81764. test: add integration test for /submit endpoint #81764
 58322. feat: create admin dashboard #58322
+69684. test: increase coverage on auth module #69684
