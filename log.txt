@@ -159,3 +159,4 @@
 61060. style: rename variables for clarity #61060
 78108. perf: reduce image load time #78108
 78069. feat: support email verification #78069
+97241. test: test user registration edge cases #97241
