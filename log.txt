@@ -20522,3 +20522,4 @@
 94126. perf: cache repeated calculations #94126
 3313. test: add integration test for /submit endpoint #3313
 65447. refactor: organize models into subfolders #65447
+97474. fix: fix broken CSS in mobile view #97474
