@@ -5140,3 +5140,4 @@
 69684. test: increase coverage on auth module #69684
 81766. perf: reduce image load time #81766
 44476. perf: lazy-load components #44476
+5141. feat: enable dark mode toggle #5141
