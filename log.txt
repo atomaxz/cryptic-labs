@@ -19494,3 +19494,4 @@
 66770. docs: update README with setup steps #66770
 88523. style: remove trailing whitespace #88523
 12399. refactor: remove redundant code blocks #12399
+98938. fix: fix broken CSS in mobile view #98938
