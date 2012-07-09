@@ -20525,3 +20525,4 @@
 97474. fix: fix broken CSS in mobile view #97474
 43052. style: apply consistent indentation #43052
 72415. perf: optimize database query for quiz results #72415
+87375. refactor: split large controller into smaller functions #87375
