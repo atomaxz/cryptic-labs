@@ -161,3 +161,4 @@
 78069. feat: support email verification #78069
 97241. test: test user registration edge cases #97241
 35414. fix: fix null pointer exception on login #35414
+77497. docs: improve code comments in utils #77497
