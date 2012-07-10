@@ -5157,3 +5157,4 @@
 52584. fix: resolve issue with date parsing #52584
 90200. chore: bump dependencies #90200
 62940. chore: bump dependencies #62940
+81909. fix: correct typo in registration form #81909
