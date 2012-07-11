@@ -19497,3 +19497,4 @@
 98938. fix: fix broken CSS in mobile view #98938
 5004. chore: clean up unused files #5004
 78361. refactor: clean up auth middleware #78361
+84217. style: remove trailing whitespace #84217
