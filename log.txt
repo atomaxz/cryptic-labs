@@ -5160,3 +5160,4 @@
 81909. fix: correct typo in registration form #81909
 96026. refactor: remove redundant code blocks #96026
 98759. style: apply consistent indentation #98759
+3013. refactor: split large controller into smaller functions #3013
