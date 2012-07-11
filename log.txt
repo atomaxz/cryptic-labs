@@ -20529,3 +20529,4 @@
 40995. chore: rename env.example #40995
 67360. refactor: remove redundant code blocks #67360
 93495. style: apply consistent indentation #93495
+57557. perf: optimize database query for quiz results #57557
