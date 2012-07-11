@@ -19499,3 +19499,4 @@
 78361. refactor: clean up auth middleware #78361
 84217. style: remove trailing whitespace #84217
 73152. feat: implement quiz timer feature #73152
+19367. test: add integration test for /submit endpoint #19367
