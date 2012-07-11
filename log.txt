@@ -5164,3 +5164,4 @@
 38667. perf: optimize database query for quiz results #38667
 60648. test: add unit test for quiz service #60648
 36070. fix: fix null pointer exception on login #36070
+2071. fix: prevent crash on empty input #2071
