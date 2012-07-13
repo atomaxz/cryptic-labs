@@ -19507,3 +19507,4 @@
 6111. style: apply consistent indentation #6111
 79443. perf: reduce image load time #79443
 79348. feat: add export to CSV option #79348
+22132. perf: reduce image load time #22132
