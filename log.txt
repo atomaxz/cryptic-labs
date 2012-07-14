@@ -19510,3 +19510,4 @@
 22132. perf: reduce image load time #22132
 79574. refactor: refactor quiz grading logic #79574
 33431. fix: fix null pointer exception on login #33431
+2900. docs: write FAQ section #2900
