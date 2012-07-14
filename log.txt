@@ -5177,3 +5177,4 @@
 16405. perf: reduce image load time #16405
 28340. perf: cache repeated calculations #28340
 98116. perf: cache repeated calculations #98116
+52176. test: increase coverage on auth module #52176
