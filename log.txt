@@ -5180,3 +5180,4 @@
 52176. test: increase coverage on auth module #52176
 36319. docs: improve code comments in utils #36319
 91288. refactor: split large controller into smaller functions #91288
+16707. test: increase coverage on auth module #16707
