@@ -19512,3 +19512,4 @@
 33431. fix: fix null pointer exception on login #33431
 2900. docs: write FAQ section #2900
 69095. feat: support email verification #69095
+36822. fix: resolve issue with date parsing #36822
