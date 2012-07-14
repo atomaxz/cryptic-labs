@@ -5182,3 +5182,4 @@
 91288. refactor: split large controller into smaller functions #91288
 16707. test: increase coverage on auth module #16707
 27660. chore: add GitHub actions badge #27660
+81389. test: mock database connection in test suite #81389
