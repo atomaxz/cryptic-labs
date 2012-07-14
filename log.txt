@@ -5184,3 +5184,4 @@
 27660. chore: add GitHub actions badge #27660
 81389. test: mock database connection in test suite #81389
 14307. fix: handle 500 error in quiz API #14307
+17744. docs: update README with setup steps #17744
