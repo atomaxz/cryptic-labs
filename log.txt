@@ -5191,3 +5191,4 @@
 64179. docs: improve code comments in utils #64179
 38625. perf: optimize database query for quiz results #38625
 92526. style: standardize quote style #92526
+99918. perf: lazy-load components #99918
