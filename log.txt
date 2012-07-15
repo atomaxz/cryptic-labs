@@ -5195,3 +5195,4 @@
 86177. chore: clean up unused files #86177
 76707. style: rename variables for clarity #76707
 59875. test: add integration test for /submit endpoint #59875
+5082. fix: handle 500 error in quiz API #5082
