@@ -19514,3 +19514,4 @@
 69095. feat: support email verification #69095
 36822. fix: resolve issue with date parsing #36822
 50530. perf: optimize database query for quiz results #50530
+20968. feat: enable dark mode toggle #20968
