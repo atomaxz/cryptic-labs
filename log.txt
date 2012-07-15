@@ -5190,3 +5190,4 @@
 70582. fix: handle 500 error in quiz API #70582
 64179. docs: improve code comments in utils #64179
 38625. perf: optimize database query for quiz results #38625
+92526. style: standardize quote style #92526
