@@ -19520,3 +19520,4 @@
 63789. fix: prevent crash on empty input #63789
 39451. feat: support email verification #39451
 47313. docs: write FAQ section #47313
+56788. perf: lazy-load components #56788
