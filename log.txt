@@ -5198,3 +5198,4 @@
 5082. fix: handle 500 error in quiz API #5082
 89864. fix: fix null pointer exception on login #89864
 26092. test: mock database connection in test suite #26092
+47369. feat: implement quiz timer feature #47369
