@@ -5199,3 +5199,4 @@
 89864. fix: fix null pointer exception on login #89864
 26092. test: mock database connection in test suite #26092
 47369. feat: implement quiz timer feature #47369
+40485. chore: update .gitignore #40485
