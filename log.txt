@@ -5200,3 +5200,4 @@
 26092. test: mock database connection in test suite #26092
 47369. feat: implement quiz timer feature #47369
 40485. chore: update .gitignore #40485
+64135. test: increase coverage on auth module #64135
