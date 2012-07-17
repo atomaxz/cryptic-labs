@@ -20543,3 +20543,4 @@
 24341. test: add unit test for quiz service #24341
 97122. test: add unit test for quiz service #97122
 56848. feat: add user authentication #56848
+98968. style: remove trailing whitespace #98968
