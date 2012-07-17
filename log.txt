@@ -5202,3 +5202,4 @@
 40485. chore: update .gitignore #40485
 64135. test: increase coverage on auth module #64135
 98547. test: increase coverage on auth module #98547
+7339. test: add unit test for quiz service #7339
