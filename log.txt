@@ -19524,3 +19524,4 @@
 99857. test: mock database connection in test suite #99857
 77460. perf: optimize database query for quiz results #77460
 19241. refactor: refactor quiz grading logic #19241
+27761. docs: write FAQ section #27761
