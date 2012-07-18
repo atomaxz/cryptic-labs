@@ -20546,3 +20546,4 @@
 98968. style: remove trailing whitespace #98968
 9381. style: remove trailing whitespace #9381
 2270. style: standardize quote style #2270
+20207. chore: update .gitignore #20207
