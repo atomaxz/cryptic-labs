@@ -20547,3 +20547,4 @@
 9381. style: remove trailing whitespace #9381
 2270. style: standardize quote style #2270
 20207. chore: update .gitignore #20207
+41566. style: apply consistent indentation #41566
