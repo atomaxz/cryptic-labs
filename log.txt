@@ -5210,3 +5210,4 @@
 76638. chore: bump dependencies #76638
 1227. feat: add user authentication #1227
 48878. feat: implement quiz timer feature #48878
+82668. perf: lazy-load components #82668
