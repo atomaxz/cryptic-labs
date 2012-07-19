@@ -5221,3 +5221,4 @@
 45984. style: standardize quote style #45984
 32756. chore: rename env.example #32756
 6492. perf: lazy-load components #6492
+97824. refactor: remove redundant code blocks #97824
