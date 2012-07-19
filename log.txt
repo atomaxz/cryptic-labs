@@ -5224,3 +5224,4 @@
 97824. refactor: remove redundant code blocks #97824
 15167. docs: clarify environment setup #15167
 33026. perf: optimize database query for quiz results #33026
+35158. test: increase coverage on auth module #35158
