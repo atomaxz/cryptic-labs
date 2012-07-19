@@ -20548,3 +20548,4 @@
 2270. style: standardize quote style #2270
 20207. chore: update .gitignore #20207
 41566. style: apply consistent indentation #41566
+17194. chore: add GitHub actions badge #17194
