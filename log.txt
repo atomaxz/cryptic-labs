@@ -5231,3 +5231,4 @@
 63918. test: add integration test for /submit endpoint #63918
 43674. fix: fix broken CSS in mobile view #43674
 98725. style: rename variables for clarity #98725
+80173. refactor: remove redundant code blocks #80173
