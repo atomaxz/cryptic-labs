@@ -20549,3 +20549,4 @@
 20207. chore: update .gitignore #20207
 41566. style: apply consistent indentation #41566
 17194. chore: add GitHub actions badge #17194
+56247. style: remove trailing whitespace #56247
