@@ -5235,3 +5235,4 @@
 45888. refactor: split large controller into smaller functions #45888
 33627. refactor: remove redundant code blocks #33627
 18651. refactor: remove redundant code blocks #18651
+36597. perf: cache repeated calculations #36597
