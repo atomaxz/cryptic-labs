@@ -5243,3 +5243,4 @@
 64158. chore: clean up unused files #64158
 92603. fix: fix broken CSS in mobile view #92603
 5679. refactor: organize models into subfolders #5679
+36198. refactor: clean up auth middleware #36198
