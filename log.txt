@@ -5237,3 +5237,4 @@
 18651. refactor: remove redundant code blocks #18651
 36597. perf: cache repeated calculations #36597
 10658. chore: update .gitignore #10658
+21869. test: mock database connection in test suite #21869
