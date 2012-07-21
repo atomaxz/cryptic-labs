@@ -19533,3 +19533,4 @@
 69853. perf: reduce image load time #69853
 17254. chore: bump dependencies #17254
 73985. test: add unit test for quiz service #73985
+84739. feat: add export to CSV option #84739
