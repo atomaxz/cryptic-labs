@@ -169,3 +169,4 @@
 69862. chore: add GitHub actions badge #69862
 77118. fix: prevent crash on empty input #77118
 22151. feat: support email verification #22151
+7836. style: standardize quote style #7836
