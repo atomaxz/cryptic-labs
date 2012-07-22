@@ -19535,3 +19535,4 @@
 73985. test: add unit test for quiz service #73985
 84739. feat: add export to CSV option #84739
 45699. fix: correct typo in registration form #45699
+61841. chore: bump dependencies #61841
