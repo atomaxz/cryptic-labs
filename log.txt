@@ -5247,3 +5247,4 @@
 18119. perf: optimize database query for quiz results #18119
 95553. fix: fix broken CSS in mobile view #95553
 29607. docs: write FAQ section #29607
+44087. fix: fix null pointer exception on login #44087
