@@ -5249,3 +5249,4 @@
 29607. docs: write FAQ section #29607
 44087. fix: fix null pointer exception on login #44087
 67758. style: rename variables for clarity #67758
+35241. docs: document token refresh logic #35241
