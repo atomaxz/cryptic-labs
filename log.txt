@@ -20557,3 +20557,4 @@
 42091. perf: optimize database query for quiz results #42091
 90734. feat: add user authentication #90734
 49938. style: remove trailing whitespace #49938
+46037. test: test user registration edge cases #46037
