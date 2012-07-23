@@ -5255,3 +5255,4 @@
 77493. fix: fix null pointer exception on login #77493
 85657. style: remove trailing whitespace #85657
 96735. perf: optimize database query for quiz results #96735
+32760. feat: add user authentication #32760
