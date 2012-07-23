@@ -19537,3 +19537,4 @@
 45699. fix: correct typo in registration form #45699
 61841. chore: bump dependencies #61841
 61704. style: remove trailing whitespace #61704
+99296. style: remove trailing whitespace #99296
