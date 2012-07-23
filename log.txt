@@ -20555,3 +20555,4 @@
 42271. perf: reduce image load time #42271
 24207. feat: support email verification #24207
 42091. perf: optimize database query for quiz results #42091
+90734. feat: add user authentication #90734
