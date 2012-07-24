@@ -5260,3 +5260,4 @@
 60312. test: add integration test for /submit endpoint #60312
 85783. style: rename variables for clarity #85783
 64419. fix: fix null pointer exception on login #64419
+61505. style: reformat files with black #61505
