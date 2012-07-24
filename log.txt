@@ -5263,3 +5263,4 @@
 61505. style: reformat files with black #61505
 9444. test: add unit test for quiz service #9444
 21350. test: test user registration edge cases #21350
+42667. feat: support email verification #42667
