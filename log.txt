@@ -19539,3 +19539,4 @@
 61704. style: remove trailing whitespace #61704
 99296. style: remove trailing whitespace #99296
 47397. feat: create admin dashboard #47397
+28660. docs: update README with setup steps #28660
