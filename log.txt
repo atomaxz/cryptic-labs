@@ -170,3 +170,4 @@
 77118. fix: prevent crash on empty input #77118
 22151. feat: support email verification #22151
 7836. style: standardize quote style #7836
+25790. perf: cache repeated calculations #25790
