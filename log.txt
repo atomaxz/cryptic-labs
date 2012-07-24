@@ -5261,3 +5261,4 @@
 85783. style: rename variables for clarity #85783
 64419. fix: fix null pointer exception on login #64419
 61505. style: reformat files with black #61505
+9444. test: add unit test for quiz service #9444
