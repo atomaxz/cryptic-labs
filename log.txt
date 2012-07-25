@@ -5268,3 +5268,4 @@
 74563. refactor: remove redundant code blocks #74563
 15674. perf: lazy-load components #15674
 59114. chore: rename env.example #59114
+88489. fix: prevent crash on empty input #88489
