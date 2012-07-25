@@ -20562,3 +20562,4 @@
 48115. style: remove trailing whitespace #48115
 21220. perf: optimize database query for quiz results #21220
 83796. fix: prevent crash on empty input #83796
+37137. refactor: refactor quiz grading logic #37137
