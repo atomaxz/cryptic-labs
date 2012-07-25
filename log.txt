@@ -5270,3 +5270,4 @@
 59114. chore: rename env.example #59114
 88489. fix: prevent crash on empty input #88489
 28865. docs: improve code comments in utils #28865
+86106. chore: add GitHub actions badge #86106
