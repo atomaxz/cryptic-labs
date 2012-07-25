@@ -5272,3 +5272,4 @@
 28865. docs: improve code comments in utils #28865
 86106. chore: add GitHub actions badge #86106
 13952. fix: resolve issue with date parsing #13952
+49552. perf: optimize database query for quiz results #49552
