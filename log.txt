@@ -5265,3 +5265,4 @@
 21350. test: test user registration edge cases #21350
 42667. feat: support email verification #42667
 46044. perf: lazy-load components #46044
+74563. refactor: remove redundant code blocks #74563
