@@ -171,3 +171,4 @@
 22151. feat: support email verification #22151
 7836. style: standardize quote style #7836
 25790. perf: cache repeated calculations #25790
+5794. fix: fix null pointer exception on login #5794
