@@ -5279,3 +5279,4 @@
 13998. feat: enable dark mode toggle #13998
 82959. fix: fix null pointer exception on login #82959
 49162. feat: support email verification #49162
+24310. docs: update README with setup steps #24310
