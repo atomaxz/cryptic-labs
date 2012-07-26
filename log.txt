@@ -5283,3 +5283,4 @@
 66055. chore: update .gitignore #66055
 11068. feat: support email verification #11068
 67162. test: test user registration edge cases #67162
+41942. docs: clarify environment setup #41942
