@@ -20564,3 +20564,4 @@
 83796. fix: prevent crash on empty input #83796
 37137. refactor: refactor quiz grading logic #37137
 17905. style: standardize quote style #17905
+85409. feat: support email verification #85409
