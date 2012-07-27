@@ -19548,3 +19548,4 @@
 70434. style: apply consistent indentation #70434
 57070. test: add integration test for /submit endpoint #57070
 18643. chore: rename env.example #18643
+8906. chore: add GitHub actions badge #8906
