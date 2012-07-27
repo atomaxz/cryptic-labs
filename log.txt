@@ -5290,3 +5290,4 @@
 28931. refactor: split large controller into smaller functions #28931
 70922. test: mock database connection in test suite #70922
 42038. chore: add GitHub actions badge #42038
+42666. docs: add API usage examples #42666
