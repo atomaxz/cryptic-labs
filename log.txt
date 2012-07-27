@@ -173,3 +173,4 @@
 25790. perf: cache repeated calculations #25790
 5794. fix: fix null pointer exception on login #5794
 96705. feat: implement quiz timer feature #96705
+12175. perf: lazy-load components #12175
