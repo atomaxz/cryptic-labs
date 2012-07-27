@@ -19545,3 +19545,4 @@
 99319. style: remove trailing whitespace #99319
 3588. feat: support email verification #3588
 82267. docs: update README with setup steps #82267
+70434. style: apply consistent indentation #70434
