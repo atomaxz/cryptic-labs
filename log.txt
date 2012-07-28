@@ -19551,3 +19551,4 @@
 8906. chore: add GitHub actions badge #8906
 87925. feat: support email verification #87925
 55688. feat: add user authentication #55688
+81799. perf: optimize database query for quiz results #81799
