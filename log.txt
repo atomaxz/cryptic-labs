@@ -20570,3 +20570,4 @@
 59278. chore: update .gitignore #59278
 65177. refactor: clean up auth middleware #65177
 92581. refactor: split large controller into smaller functions #92581
+70620. perf: lazy-load components #70620
