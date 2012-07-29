@@ -5305,3 +5305,4 @@
 32433. refactor: split large controller into smaller functions #32433
 81616. style: reformat files with black #81616
 47942. test: increase coverage on auth module #47942
+73679. perf: lazy-load components #73679
