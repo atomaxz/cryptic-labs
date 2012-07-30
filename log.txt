@@ -20572,3 +20572,4 @@
 92581. refactor: split large controller into smaller functions #92581
 70620. perf: lazy-load components #70620
 99399. perf: cache repeated calculations #99399
+3558. docs: add API usage examples #3558
