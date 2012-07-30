@@ -5317,3 +5317,4 @@
 33423. perf: cache repeated calculations #33423
 29214. refactor: refactor quiz grading logic #29214
 24923. fix: fix null pointer exception on login #24923
+57877. refactor: refactor quiz grading logic #57877
