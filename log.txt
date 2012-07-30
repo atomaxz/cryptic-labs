@@ -5313,3 +5313,4 @@
 17600. fix: fix broken CSS in mobile view #17600
 99259. chore: add GitHub actions badge #99259
 38984. style: standardize quote style #38984
+19253. test: mock database connection in test suite #19253
