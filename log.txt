@@ -5324,3 +5324,4 @@
 58310. refactor: refactor quiz grading logic #58310
 90754. feat: create admin dashboard #90754
 74497. perf: optimize database query for quiz results #74497
+57964. chore: update .gitignore #57964
