@@ -5325,3 +5325,4 @@
 90754. feat: create admin dashboard #90754
 74497. perf: optimize database query for quiz results #74497
 57964. chore: update .gitignore #57964
+69475. test: add integration test for /submit endpoint #69475
