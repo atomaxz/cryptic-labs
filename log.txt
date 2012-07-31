@@ -5331,3 +5331,4 @@
 88864. style: standardize quote style #88864
 25314. feat: add user authentication #25314
 2045. docs: write FAQ section #2045
+7163. test: test user registration edge cases #7163
