@@ -20575,3 +20575,4 @@
 3558. docs: add API usage examples #3558
 88093. chore: add GitHub actions badge #88093
 79802. chore: bump dependencies #79802
+49194. perf: reduce image load time #49194
