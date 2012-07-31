@@ -20577,3 +20577,4 @@
 79802. chore: bump dependencies #79802
 49194. perf: reduce image load time #49194
 62564. fix: fix null pointer exception on login #62564
+15093. test: increase coverage on auth module #15093
