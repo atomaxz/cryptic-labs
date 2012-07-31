@@ -5333,3 +5333,4 @@
 2045. docs: write FAQ section #2045
 7163. test: test user registration edge cases #7163
 84884. test: test user registration edge cases #84884
+1905. feat: support email verification #1905
