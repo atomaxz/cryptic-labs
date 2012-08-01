@@ -5337,3 +5337,4 @@
 58136. docs: document token refresh logic #58136
 93910. refactor: clean up auth middleware #93910
 92094. test: add integration test for /submit endpoint #92094
+57490. fix: prevent crash on empty input #57490
