@@ -19567,3 +19567,4 @@
 38678. docs: update README with setup steps #38678
 64141. docs: clarify environment setup #64141
 74484. chore: clean up unused files #74484
+4388. perf: reduce image load time #4388
