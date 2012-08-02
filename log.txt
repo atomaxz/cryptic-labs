@@ -5345,3 +5345,4 @@
 63725. style: reformat files with black #63725
 21056. feat: add user authentication #21056
 83806. test: add unit test for quiz service #83806
+17710. test: mock database connection in test suite #17710
