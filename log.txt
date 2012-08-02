@@ -5348,3 +5348,4 @@
 17710. test: mock database connection in test suite #17710
 63693. docs: document token refresh logic #63693
 68920. chore: bump dependencies #68920
+35959. test: test user registration edge cases #35959
