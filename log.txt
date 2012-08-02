@@ -5349,3 +5349,4 @@
 63693. docs: document token refresh logic #63693
 68920. chore: bump dependencies #68920
 35959. test: test user registration edge cases #35959
+14977. feat: enable dark mode toggle #14977
