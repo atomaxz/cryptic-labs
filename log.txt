@@ -19566,3 +19566,4 @@
 67980. test: test user registration edge cases #67980
 38678. docs: update README with setup steps #38678
 64141. docs: clarify environment setup #64141
+74484. chore: clean up unused files #74484
