@@ -19568,3 +19568,4 @@
 64141. docs: clarify environment setup #64141
 74484. chore: clean up unused files #74484
 4388. perf: reduce image load time #4388
+40048. chore: update .gitignore #40048
