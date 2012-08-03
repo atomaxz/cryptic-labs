@@ -5351,3 +5351,4 @@
 35959. test: test user registration edge cases #35959
 14977. feat: enable dark mode toggle #14977
 48231. style: rename variables for clarity #48231
+42074. chore: update .gitignore #42074
