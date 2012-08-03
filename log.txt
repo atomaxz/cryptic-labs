@@ -5359,3 +5359,4 @@
 78235. test: add unit test for quiz service #78235
 19692. feat: implement quiz timer feature #19692
 6889. feat: support email verification #6889
+10180. perf: optimize database query for quiz results #10180
