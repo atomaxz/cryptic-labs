@@ -19570,3 +19570,4 @@
 4388. perf: reduce image load time #4388
 40048. chore: update .gitignore #40048
 8617. perf: optimize database query for quiz results #8617
+27917. test: test user registration edge cases #27917
