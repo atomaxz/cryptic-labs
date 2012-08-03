@@ -5355,3 +5355,4 @@
 15980. perf: optimize database query for quiz results #15980
 48804. style: reformat files with black #48804
 18316. chore: bump dependencies #18316
+40912. chore: add GitHub actions badge #40912
