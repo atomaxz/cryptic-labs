@@ -5368,3 +5368,4 @@
 22573. docs: clarify environment setup #22573
 82394. chore: add GitHub actions badge #82394
 96329. test: add unit test for quiz service #96329
+24401. docs: write FAQ section #24401
