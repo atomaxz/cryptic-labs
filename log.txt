@@ -5364,3 +5364,4 @@
 65330. docs: update README with setup steps #65330
 10745. feat: add export to CSV option #10745
 16972. feat: enable dark mode toggle #16972
+34379. test: mock database connection in test suite #34379
