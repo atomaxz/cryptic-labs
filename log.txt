@@ -180,3 +180,4 @@
 16155. style: reformat files with black #16155
 89434. docs: clarify environment setup #89434
 66294. fix: fix null pointer exception on login #66294
+0675. fix: fix broken CSS in mobile view #675
