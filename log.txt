@@ -5376,3 +5376,4 @@
 21395. style: rename variables for clarity #21395
 34729. style: apply consistent indentation #34729
 48529. docs: clarify environment setup #48529
+77808. fix: prevent crash on empty input #77808
