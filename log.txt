@@ -5378,3 +5378,4 @@
 48529. docs: clarify environment setup #48529
 77808. fix: prevent crash on empty input #77808
 79667. test: increase coverage on auth module #79667
+84684. fix: handle 500 error in quiz API #84684
