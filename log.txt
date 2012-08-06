@@ -5385,3 +5385,4 @@
 56894. refactor: remove redundant code blocks #56894
 19890. refactor: remove redundant code blocks #19890
 20915. chore: add GitHub actions badge #20915
+23697. chore: update .gitignore #23697
