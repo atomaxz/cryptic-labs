@@ -20597,3 +20597,4 @@
 56127. feat: add export to CSV option #56127
 18233. fix: resolve issue with date parsing #18233
 12887. refactor: clean up auth middleware #12887
+9063. chore: add GitHub actions badge #9063
