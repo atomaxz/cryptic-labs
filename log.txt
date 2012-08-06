@@ -5381,3 +5381,4 @@
 84684. fix: handle 500 error in quiz API #84684
 25145. style: apply consistent indentation #25145
 94543. docs: clarify environment setup #94543
+61701. test: add unit test for quiz service #61701
