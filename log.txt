@@ -5387,3 +5387,4 @@
 20915. chore: add GitHub actions badge #20915
 23697. chore: update .gitignore #23697
 74312. perf: reduce image load time #74312
+98188. fix: fix broken CSS in mobile view #98188
