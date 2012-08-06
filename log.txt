@@ -19573,3 +19573,4 @@
 27917. test: test user registration edge cases #27917
 26652. feat: implement quiz timer feature #26652
 39366. chore: rename env.example #39366
+15891. perf: reduce image load time #15891
