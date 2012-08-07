@@ -20598,3 +20598,4 @@
 18233. fix: resolve issue with date parsing #18233
 12887. refactor: clean up auth middleware #12887
 9063. chore: add GitHub actions badge #9063
+61888. feat: support email verification #61888
