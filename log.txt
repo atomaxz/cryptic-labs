@@ -19576,3 +19576,4 @@
 15891. perf: reduce image load time #15891
 81506. chore: rename env.example #81506
 69851. style: rename variables for clarity #69851
+53069. chore: bump dependencies #53069
