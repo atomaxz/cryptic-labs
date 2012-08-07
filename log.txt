@@ -5396,3 +5396,4 @@
 9025. style: apply consistent indentation #9025
 76650. chore: bump dependencies #76650
 70973. perf: reduce image load time #70973
+79733. perf: lazy-load components #79733
