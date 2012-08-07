@@ -5392,3 +5392,4 @@
 8597. refactor: refactor quiz grading logic #8597
 98382. test: increase coverage on auth module #98382
 66433. style: apply consistent indentation #66433
+59319. fix: fix null pointer exception on login #59319
