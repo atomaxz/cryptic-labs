@@ -20600,3 +20600,4 @@
 9063. chore: add GitHub actions badge #9063
 61888. feat: support email verification #61888
 94607. fix: fix null pointer exception on login #94607
+63823. perf: lazy-load components #63823
