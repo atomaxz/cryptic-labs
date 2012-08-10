@@ -5412,3 +5412,4 @@
 27189. refactor: organize models into subfolders #27189
 33348. chore: add GitHub actions badge #33348
 27176. feat: enable dark mode toggle #27176
+40533. style: apply consistent indentation #40533
