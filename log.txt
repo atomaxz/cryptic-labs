@@ -20607,3 +20607,4 @@
 6772. style: apply consistent indentation #6772
 4508. refactor: organize models into subfolders #4508
 45931. test: mock database connection in test suite #45931
+39668. refactor: organize models into subfolders #39668
