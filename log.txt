@@ -5410,3 +5410,4 @@
 35334. chore: update .gitignore #35334
 92407. fix: handle 500 error in quiz API #92407
 27189. refactor: organize models into subfolders #27189
+33348. chore: add GitHub actions badge #33348
