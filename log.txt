@@ -5423,3 +5423,4 @@
 61742. docs: write FAQ section #61742
 74221. style: reformat files with black #74221
 52005. refactor: refactor quiz grading logic #52005
+26669. fix: fix null pointer exception on login #26669
