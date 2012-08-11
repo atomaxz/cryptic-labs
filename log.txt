@@ -5419,3 +5419,4 @@
 75793. feat: enable dark mode toggle #75793
 73505. fix: prevent crash on empty input #73505
 32225. chore: add GitHub actions badge #32225
+78053. chore: update .gitignore #78053
