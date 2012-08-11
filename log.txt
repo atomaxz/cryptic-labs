@@ -19589,3 +19589,4 @@
 34706. test: add integration test for /submit endpoint #34706
 7050. test: test user registration edge cases #7050
 22416. docs: document token refresh logic #22416
+43698. style: remove trailing whitespace #43698
