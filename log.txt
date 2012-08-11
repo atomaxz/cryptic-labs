@@ -19587,3 +19587,4 @@
 54643. refactor: organize models into subfolders #54643
 54904. refactor: organize models into subfolders #54904
 34706. test: add integration test for /submit endpoint #34706
+7050. test: test user registration edge cases #7050
