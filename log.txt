@@ -20610,3 +20610,4 @@
 39668. refactor: organize models into subfolders #39668
 35736. docs: improve code comments in utils #35736
 98804. docs: update README with setup steps #98804
+90612. feat: support email verification #90612
