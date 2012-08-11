@@ -20611,3 +20611,4 @@
 35736. docs: improve code comments in utils #35736
 98804. docs: update README with setup steps #98804
 90612. feat: support email verification #90612
+98382. test: increase coverage on auth module #98382
