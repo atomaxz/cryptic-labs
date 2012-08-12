@@ -20613,3 +20613,4 @@
 90612. feat: support email verification #90612
 98382. test: increase coverage on auth module #98382
 10587. chore: update .gitignore #10587
+9247. chore: bump dependencies #9247
