@@ -5429,3 +5429,4 @@
 10271. style: reformat files with black #10271
 26129. perf: reduce image load time #26129
 28735. chore: add GitHub actions badge #28735
+38051. docs: document token refresh logic #38051
