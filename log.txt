@@ -20614,3 +20614,4 @@
 98382. test: increase coverage on auth module #98382
 10587. chore: update .gitignore #10587
 9247. chore: bump dependencies #9247
+16688. refactor: clean up auth middleware #16688
