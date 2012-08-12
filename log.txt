@@ -20618,3 +20618,4 @@
 93904. chore: add GitHub actions badge #93904
 54627. style: remove trailing whitespace #54627
 54723. style: standardize quote style #54723
+92972. test: mock database connection in test suite #92972
