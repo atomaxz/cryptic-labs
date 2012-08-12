@@ -20616,3 +20616,4 @@
 9247. chore: bump dependencies #9247
 16688. refactor: clean up auth middleware #16688
 93904. chore: add GitHub actions badge #93904
+54627. style: remove trailing whitespace #54627
