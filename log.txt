@@ -5433,3 +5433,4 @@
 85768. perf: cache repeated calculations #85768
 96198. docs: improve code comments in utils #96198
 85036. refactor: split large controller into smaller functions #85036
+2149. refactor: clean up auth middleware #2149
