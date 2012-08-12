@@ -19593,3 +19593,4 @@
 54186. test: increase coverage on auth module #54186
 66739. refactor: remove redundant code blocks #66739
 44152. chore: add GitHub actions badge #44152
+10181. style: standardize quote style #10181
