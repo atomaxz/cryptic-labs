@@ -5436,3 +5436,4 @@
 2149. refactor: clean up auth middleware #2149
 88916. perf: cache repeated calculations #88916
 76236. docs: add API usage examples #76236
+12956. style: apply consistent indentation #12956
