@@ -5440,3 +5440,4 @@
 98902. test: test user registration edge cases #98902
 18934. docs: improve code comments in utils #18934
 85329. refactor: organize models into subfolders #85329
+20490. refactor: clean up auth middleware #20490
