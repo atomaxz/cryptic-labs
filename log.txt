@@ -5441,3 +5441,4 @@
 18934. docs: improve code comments in utils #18934
 85329. refactor: organize models into subfolders #85329
 20490. refactor: clean up auth middleware #20490
+30753. perf: optimize database query for quiz results #30753
