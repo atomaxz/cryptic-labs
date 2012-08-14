@@ -5450,3 +5450,4 @@
 39532. perf: lazy-load components #39532
 69350. test: add integration test for /submit endpoint #69350
 0643. fix: prevent crash on empty input #643
+89167. fix: fix null pointer exception on login #89167
