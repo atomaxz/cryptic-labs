@@ -5452,3 +5452,4 @@
 0643. fix: prevent crash on empty input #643
 89167. fix: fix null pointer exception on login #89167
 74273. style: remove trailing whitespace #74273
+82801. test: add integration test for /submit endpoint #82801
