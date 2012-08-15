@@ -5456,3 +5456,4 @@
 64854. feat: implement quiz timer feature #64854
 69266. fix: prevent crash on empty input #69266
 53620. style: apply consistent indentation #53620
+9301. feat: add export to CSV option #9301
