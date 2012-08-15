@@ -20622,3 +20622,4 @@
 18988. fix: resolve issue with date parsing #18988
 37887. style: apply consistent indentation #37887
 82224. refactor: organize models into subfolders #82224
+27671. test: test user registration edge cases #27671
