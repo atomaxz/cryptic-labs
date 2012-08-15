@@ -5457,3 +5457,4 @@
 69266. fix: prevent crash on empty input #69266
 53620. style: apply consistent indentation #53620
 9301. feat: add export to CSV option #9301
+16486. fix: fix null pointer exception on login #16486
