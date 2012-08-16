@@ -20624,3 +20624,4 @@
 82224. refactor: organize models into subfolders #82224
 27671. test: test user registration edge cases #27671
 0131. fix: fix null pointer exception on login #131
+29881. chore: bump dependencies #29881
