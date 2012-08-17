@@ -20627,3 +20627,4 @@
 29881. chore: bump dependencies #29881
 11280. refactor: refactor quiz grading logic #11280
 0770. style: apply consistent indentation #770
+53285. feat: support email verification #53285
