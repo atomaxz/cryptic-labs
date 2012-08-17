@@ -5474,3 +5474,4 @@
 1551. feat: support email verification #1551
 18963. style: remove trailing whitespace #18963
 87060. docs: document token refresh logic #87060
+45419. feat: enable dark mode toggle #45419
