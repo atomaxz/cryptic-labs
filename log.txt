@@ -19608,3 +19608,4 @@
 76686. fix: resolve issue with date parsing #76686
 26229. docs: add API usage examples #26229
 23823. refactor: remove redundant code blocks #23823
+87297. style: remove trailing whitespace #87297
