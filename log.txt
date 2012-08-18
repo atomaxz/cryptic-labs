@@ -20631,3 +20631,4 @@
 42023. fix: correct typo in registration form #42023
 27479. perf: lazy-load components #27479
 36702. docs: improve code comments in utils #36702
+69709. perf: lazy-load components #69709
