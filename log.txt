@@ -5476,3 +5476,4 @@
 87060. docs: document token refresh logic #87060
 45419. feat: enable dark mode toggle #45419
 99573. test: add unit test for quiz service #99573
+24722. test: mock database connection in test suite #24722
