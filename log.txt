@@ -5479,3 +5479,4 @@
 24722. test: mock database connection in test suite #24722
 38062. fix: fix broken CSS in mobile view #38062
 11418. test: add integration test for /submit endpoint #11418
+44538. feat: support email verification #44538
