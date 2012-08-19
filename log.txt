@@ -5493,3 +5493,4 @@
 0310. test: add integration test for /submit endpoint #310
 84686. fix: fix broken CSS in mobile view #84686
 92226. test: increase coverage on auth module #92226
+49619. fix: fix null pointer exception on login #49619
