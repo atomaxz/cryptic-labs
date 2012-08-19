@@ -5495,3 +5495,4 @@
 92226. test: increase coverage on auth module #92226
 49619. fix: fix null pointer exception on login #49619
 27481. style: rename variables for clarity #27481
+51207. style: reformat files with black #51207
