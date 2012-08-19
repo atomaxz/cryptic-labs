@@ -5491,3 +5491,4 @@
 55810. fix: correct typo in registration form #55810
 12610. chore: rename env.example #12610
 0310. test: add integration test for /submit endpoint #310
+84686. fix: fix broken CSS in mobile view #84686
