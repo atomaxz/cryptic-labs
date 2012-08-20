@@ -5500,3 +5500,4 @@
 2229. perf: reduce image load time #2229
 90623. chore: bump dependencies #90623
 96094. refactor: organize models into subfolders #96094
+21880. feat: enable dark mode toggle #21880
