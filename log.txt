@@ -5502,3 +5502,4 @@
 96094. refactor: organize models into subfolders #96094
 21880. feat: enable dark mode toggle #21880
 30829. chore: rename env.example #30829
+67854. test: test user registration edge cases #67854
