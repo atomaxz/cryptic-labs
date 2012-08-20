@@ -5505,3 +5505,4 @@
 67854. test: test user registration edge cases #67854
 28432. chore: add GitHub actions badge #28432
 50817. fix: correct typo in registration form #50817
+18882. test: add integration test for /submit endpoint #18882
