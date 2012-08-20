@@ -19611,3 +19611,4 @@
 87297. style: remove trailing whitespace #87297
 75444. style: apply consistent indentation #75444
 24880. perf: optimize database query for quiz results #24880
+10530. chore: clean up unused files #10530
