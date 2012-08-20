@@ -5499,3 +5499,4 @@
 6104. test: test user registration edge cases #6104
 2229. perf: reduce image load time #2229
 90623. chore: bump dependencies #90623
+96094. refactor: organize models into subfolders #96094
