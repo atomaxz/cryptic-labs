@@ -5496,3 +5496,4 @@
 49619. fix: fix null pointer exception on login #49619
 27481. style: rename variables for clarity #27481
 51207. style: reformat files with black #51207
+6104. test: test user registration edge cases #6104
