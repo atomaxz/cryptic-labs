@@ -5503,3 +5503,4 @@
 21880. feat: enable dark mode toggle #21880
 30829. chore: rename env.example #30829
 67854. test: test user registration edge cases #67854
+28432. chore: add GitHub actions badge #28432
