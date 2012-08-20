@@ -5504,3 +5504,4 @@
 30829. chore: rename env.example #30829
 67854. test: test user registration edge cases #67854
 28432. chore: add GitHub actions badge #28432
+50817. fix: correct typo in registration form #50817
