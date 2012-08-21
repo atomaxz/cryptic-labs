@@ -5508,3 +5508,4 @@
 18882. test: add integration test for /submit endpoint #18882
 4878. fix: prevent crash on empty input #4878
 85676. refactor: split large controller into smaller functions #85676
+74974. test: test user registration edge cases #74974
