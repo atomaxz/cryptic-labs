@@ -5511,3 +5511,4 @@
 74974. test: test user registration edge cases #74974
 77747. docs: improve code comments in utils #77747
 4052. perf: lazy-load components #4052
+65872. docs: document token refresh logic #65872
