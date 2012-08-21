@@ -20639,3 +20639,4 @@
 32947. perf: lazy-load components #32947
 14623. refactor: remove redundant code blocks #14623
 34722. feat: add export to CSV option #34722
+42148. chore: bump dependencies #42148
