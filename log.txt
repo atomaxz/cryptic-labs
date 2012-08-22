@@ -5515,3 +5515,4 @@
 92206. style: remove trailing whitespace #92206
 88936. style: reformat files with black #88936
 64828. refactor: organize models into subfolders #64828
+55765. fix: correct typo in registration form #55765
