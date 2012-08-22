@@ -5517,3 +5517,4 @@
 64828. refactor: organize models into subfolders #64828
 55765. fix: correct typo in registration form #55765
 12468. test: add unit test for quiz service #12468
+63168. perf: lazy-load components #63168
