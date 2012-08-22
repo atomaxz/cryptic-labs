@@ -20641,3 +20641,4 @@
 34722. feat: add export to CSV option #34722
 42148. chore: bump dependencies #42148
 14264. style: apply consistent indentation #14264
+23806. fix: prevent crash on empty input #23806
