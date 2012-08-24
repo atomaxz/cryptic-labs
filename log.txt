@@ -5526,3 +5526,4 @@
 75535. test: increase coverage on auth module #75535
 63428. style: standardize quote style #63428
 78676. test: add unit test for quiz service #78676
+67400. test: add integration test for /submit endpoint #67400
