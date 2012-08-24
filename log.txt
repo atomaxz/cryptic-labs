@@ -5530,3 +5530,4 @@
 95620. style: reformat files with black #95620
 29534. perf: optimize database query for quiz results #29534
 83379. feat: create admin dashboard #83379
+95864. test: add unit test for quiz service #95864
