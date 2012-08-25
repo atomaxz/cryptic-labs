@@ -19621,3 +19621,4 @@
 50949. refactor: organize models into subfolders #50949
 2888. feat: implement quiz timer feature #2888
 43690. feat: support email verification #43690
+31861. style: standardize quote style #31861
