@@ -5532,3 +5532,4 @@
 83379. feat: create admin dashboard #83379
 95864. test: add unit test for quiz service #95864
 98671. test: add integration test for /submit endpoint #98671
+80640. fix: fix null pointer exception on login #80640
