@@ -19629,3 +19629,4 @@
 97185. docs: write FAQ section #97185
 34352. perf: lazy-load components #34352
 96459. refactor: clean up auth middleware #96459
+10880. perf: lazy-load components #10880
