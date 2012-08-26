@@ -19627,3 +19627,4 @@
 6120. style: remove trailing whitespace #6120
 58130. style: reformat files with black #58130
 97185. docs: write FAQ section #97185
+34352. perf: lazy-load components #34352
