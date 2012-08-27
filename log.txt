@@ -192,3 +192,4 @@
 86109. test: add integration test for /submit endpoint #86109
 73689. docs: add API usage examples #73689
 36079. fix: fix broken CSS in mobile view #36079
+18191. refactor: clean up auth middleware #18191
