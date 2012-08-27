@@ -20660,3 +20660,4 @@
 57561. test: test user registration edge cases #57561
 12771. style: apply consistent indentation #12771
 5672. test: increase coverage on auth module #5672
+28855. refactor: remove redundant code blocks #28855
