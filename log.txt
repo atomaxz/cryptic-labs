@@ -5546,3 +5546,4 @@
 43144. docs: add API usage examples #43144
 36019. perf: cache repeated calculations #36019
 4364. test: test user registration edge cases #4364
+24815. test: test user registration edge cases #24815
