@@ -19631,3 +19631,4 @@
 96459. refactor: clean up auth middleware #96459
 10880. perf: lazy-load components #10880
 44559. chore: rename env.example #44559
+51939. style: remove trailing whitespace #51939
