@@ -193,3 +193,4 @@
 73689. docs: add API usage examples #73689
 36079. fix: fix broken CSS in mobile view #36079
 18191. refactor: clean up auth middleware #18191
+89876. style: remove trailing whitespace #89876
