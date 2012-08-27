@@ -5549,3 +5549,4 @@
 24815. test: test user registration edge cases #24815
 75428. feat: enable dark mode toggle #75428
 53732. refactor: clean up auth middleware #53732
+24411. chore: add GitHub actions badge #24411
