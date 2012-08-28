@@ -5558,3 +5558,4 @@
 70821. test: add integration test for /submit endpoint #70821
 77378. perf: reduce image load time #77378
 55202. docs: write FAQ section #55202
+76748. feat: create admin dashboard #76748
