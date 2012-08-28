@@ -5555,3 +5555,4 @@
 70555. feat: support email verification #70555
 73833. fix: correct typo in registration form #73833
 49311. chore: bump dependencies #49311
+70821. test: add integration test for /submit endpoint #70821
