@@ -19635,3 +19635,4 @@
 30306. style: apply consistent indentation #30306
 70796. perf: optimize database query for quiz results #70796
 42839. test: increase coverage on auth module #42839
+3205. feat: create admin dashboard #3205
