@@ -5550,3 +5550,4 @@
 75428. feat: enable dark mode toggle #75428
 53732. refactor: clean up auth middleware #53732
 24411. chore: add GitHub actions badge #24411
+51420. test: add integration test for /submit endpoint #51420
