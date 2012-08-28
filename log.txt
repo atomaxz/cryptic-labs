@@ -5556,3 +5556,4 @@
 73833. fix: correct typo in registration form #73833
 49311. chore: bump dependencies #49311
 70821. test: add integration test for /submit endpoint #70821
+77378. perf: reduce image load time #77378
