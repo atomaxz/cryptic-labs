@@ -5552,3 +5552,4 @@
 24411. chore: add GitHub actions badge #24411
 51420. test: add integration test for /submit endpoint #51420
 21715. feat: implement quiz timer feature #21715
+70555. feat: support email verification #70555
