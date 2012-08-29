@@ -5563,3 +5563,4 @@
 7009. chore: update .gitignore #7009
 30576. perf: optimize database query for quiz results #30576
 61346. fix: resolve issue with date parsing #61346
+29991. fix: handle 500 error in quiz API #29991
