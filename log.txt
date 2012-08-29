@@ -20664,3 +20664,4 @@
 25872. feat: support email verification #25872
 50482. fix: fix broken CSS in mobile view #50482
 18496. fix: handle 500 error in quiz API #18496
+34911. chore: clean up unused files #34911
