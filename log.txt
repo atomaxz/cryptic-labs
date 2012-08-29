@@ -19637,3 +19637,4 @@
 42839. test: increase coverage on auth module #42839
 3205. feat: create admin dashboard #3205
 41364. test: add integration test for /submit endpoint #41364
+92671. fix: handle 500 error in quiz API #92671
