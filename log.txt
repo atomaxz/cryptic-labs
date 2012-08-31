@@ -19643,3 +19643,4 @@
 77737. chore: clean up unused files #77737
 73843. refactor: remove redundant code blocks #73843
 69979. style: remove trailing whitespace #69979
+90203. perf: optimize database query for quiz results #90203
