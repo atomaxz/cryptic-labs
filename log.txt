@@ -5586,3 +5586,4 @@
 78088. docs: document token refresh logic #78088
 13971. style: reformat files with black #13971
 9577. test: test user registration edge cases #9577
+99268. perf: cache repeated calculations #99268
