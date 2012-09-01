@@ -5578,3 +5578,4 @@
 53092. chore: rename env.example #53092
 95945. refactor: organize models into subfolders #95945
 16070. refactor: split large controller into smaller functions #16070
+92727. test: test user registration edge cases #92727
