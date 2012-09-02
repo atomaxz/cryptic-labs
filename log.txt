@@ -197,3 +197,4 @@
 55772. style: remove trailing whitespace #55772
 45881. style: standardize quote style #45881
 67405. fix: handle 500 error in quiz API #67405
+24719. feat: enable dark mode toggle #24719
