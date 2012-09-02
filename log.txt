@@ -19649,3 +19649,4 @@
 68639. docs: add API usage examples #68639
 42144. fix: fix null pointer exception on login #42144
 53819. test: add integration test for /submit endpoint #53819
+90963. chore: add GitHub actions badge #90963
