@@ -5594,3 +5594,4 @@
 78835. perf: cache repeated calculations #78835
 44101. feat: enable dark mode toggle #44101
 55641. test: increase coverage on auth module #55641
+62114. feat: add export to CSV option #62114
