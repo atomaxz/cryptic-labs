@@ -5595,3 +5595,4 @@
 44101. feat: enable dark mode toggle #44101
 55641. test: increase coverage on auth module #55641
 62114. feat: add export to CSV option #62114
+66910. refactor: split large controller into smaller functions #66910
