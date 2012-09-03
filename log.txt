@@ -19652,3 +19652,4 @@
 90963. chore: add GitHub actions badge #90963
 85214. chore: bump dependencies #85214
 79440. style: reformat files with black #79440
+88371. fix: fix broken CSS in mobile view #88371
