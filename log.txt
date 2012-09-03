@@ -5601,3 +5601,4 @@
 37042. refactor: refactor quiz grading logic #37042
 66453. style: standardize quote style #66453
 57438. docs: write FAQ section #57438
+9076. fix: fix null pointer exception on login #9076
