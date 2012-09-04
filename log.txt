@@ -5605,3 +5605,4 @@
 28616. style: remove trailing whitespace #28616
 4967. refactor: remove redundant code blocks #4967
 16251. refactor: refactor quiz grading logic #16251
+73016. perf: optimize database query for quiz results #73016
