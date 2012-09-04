@@ -5603,3 +5603,4 @@
 57438. docs: write FAQ section #57438
 9076. fix: fix null pointer exception on login #9076
 28616. style: remove trailing whitespace #28616
+4967. refactor: remove redundant code blocks #4967
