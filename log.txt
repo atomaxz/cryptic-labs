@@ -19658,3 +19658,4 @@
 0008. refactor: refactor quiz grading logic #8
 75807. refactor: remove redundant code blocks #75807
 36733. test: test user registration edge cases #36733
+75893. perf: reduce image load time #75893
