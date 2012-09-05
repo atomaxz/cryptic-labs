@@ -20680,3 +20680,4 @@
 82909. chore: bump dependencies #82909
 73655. style: remove trailing whitespace #73655
 85613. chore: add GitHub actions badge #85613
+28586. style: remove trailing whitespace #28586
