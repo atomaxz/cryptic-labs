@@ -5618,3 +5618,4 @@
 73825. refactor: clean up auth middleware #73825
 64868. docs: document token refresh logic #64868
 37740. style: rename variables for clarity #37740
+25755. test: mock database connection in test suite #25755
