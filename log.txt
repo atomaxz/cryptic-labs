@@ -5627,3 +5627,4 @@
 43449. test: test user registration edge cases #43449
 2465. feat: create admin dashboard #2465
 53708. test: mock database connection in test suite #53708
+54670. docs: document token refresh logic #54670
