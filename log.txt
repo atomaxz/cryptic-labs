@@ -5629,3 +5629,4 @@
 53708. test: mock database connection in test suite #53708
 54670. docs: document token refresh logic #54670
 63572. test: add integration test for /submit endpoint #63572
+70539. docs: document token refresh logic #70539
