@@ -20686,3 +20686,4 @@
 73664. refactor: refactor quiz grading logic #73664
 48069. test: add integration test for /submit endpoint #48069
 3553. feat: add export to CSV option #3553
+96280. chore: bump dependencies #96280
