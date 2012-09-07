@@ -5633,3 +5633,4 @@
 85357. refactor: clean up auth middleware #85357
 90665. fix: fix broken CSS in mobile view #90665
 36563. chore: add GitHub actions badge #36563
+84215. docs: update README with setup steps #84215
