@@ -5630,3 +5630,4 @@
 54670. docs: document token refresh logic #54670
 63572. test: add integration test for /submit endpoint #63572
 70539. docs: document token refresh logic #70539
+85357. refactor: clean up auth middleware #85357
