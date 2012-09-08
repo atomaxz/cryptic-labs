@@ -19670,3 +19670,4 @@
 51603. feat: add user authentication #51603
 36987. refactor: split large controller into smaller functions #36987
 86039. docs: add API usage examples #86039
+77873. refactor: organize models into subfolders #77873
