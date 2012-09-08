@@ -19666,3 +19666,4 @@
 84702. docs: write FAQ section #84702
 29061. perf: optimize database query for quiz results #29061
 66108. docs: write FAQ section #66108
+41259. fix: resolve issue with date parsing #41259
