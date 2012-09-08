@@ -19668,3 +19668,4 @@
 66108. docs: write FAQ section #66108
 41259. fix: resolve issue with date parsing #41259
 51603. feat: add user authentication #51603
+36987. refactor: split large controller into smaller functions #36987
