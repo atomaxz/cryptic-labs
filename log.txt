@@ -20689,3 +20689,4 @@
 96280. chore: bump dependencies #96280
 93202. feat: add export to CSV option #93202
 76044. feat: support email verification #76044
+86489. perf: optimize database query for quiz results #86489
