@@ -5650,3 +5650,4 @@
 11314. feat: add user authentication #11314
 21702. perf: lazy-load components #21702
 66720. chore: update .gitignore #66720
+61003. chore: add GitHub actions badge #61003
