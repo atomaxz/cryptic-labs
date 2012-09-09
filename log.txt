@@ -5651,3 +5651,4 @@
 21702. perf: lazy-load components #21702
 66720. chore: update .gitignore #66720
 61003. chore: add GitHub actions badge #61003
+0094. perf: reduce image load time #94
