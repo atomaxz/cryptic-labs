@@ -5669,3 +5669,4 @@
 5827. test: mock database connection in test suite #5827
 68714. refactor: organize models into subfolders #68714
 64762. perf: lazy-load components #64762
+19977. fix: fix null pointer exception on login #19977
