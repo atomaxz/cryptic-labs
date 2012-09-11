@@ -19676,3 +19676,4 @@
 49715. test: add unit test for quiz service #49715
 4259. fix: prevent crash on empty input #4259
 61144. chore: add GitHub actions badge #61144
+82369. docs: update README with setup steps #82369
