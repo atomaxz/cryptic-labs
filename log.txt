@@ -19678,3 +19678,4 @@
 61144. chore: add GitHub actions badge #61144
 82369. docs: update README with setup steps #82369
 14996. perf: lazy-load components #14996
+91135. perf: reduce image load time #91135
