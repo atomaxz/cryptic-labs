@@ -5680,3 +5680,4 @@
 16699. chore: clean up unused files #16699
 44605. feat: enable dark mode toggle #44605
 92922. refactor: clean up auth middleware #92922
+8846. test: increase coverage on auth module #8846
