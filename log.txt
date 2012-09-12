@@ -5672,3 +5672,4 @@
 19977. fix: fix null pointer exception on login #19977
 29618. style: rename variables for clarity #29618
 43182. test: mock database connection in test suite #43182
+77514. refactor: refactor quiz grading logic #77514
