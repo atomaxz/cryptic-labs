@@ -5681,3 +5681,4 @@
 44605. feat: enable dark mode toggle #44605
 92922. refactor: clean up auth middleware #92922
 8846. test: increase coverage on auth module #8846
+80236. fix: fix null pointer exception on login #80236
