@@ -19682,3 +19682,4 @@
 39369. style: reformat files with black #39369
 84318. style: remove trailing whitespace #84318
 72099. test: test user registration edge cases #72099
+72031. test: increase coverage on auth module #72031
