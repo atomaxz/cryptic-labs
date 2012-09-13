@@ -20701,3 +20701,4 @@
 93072. perf: reduce image load time #93072
 93406. chore: bump dependencies #93406
 91186. perf: lazy-load components #91186
+41122. fix: prevent crash on empty input #41122
