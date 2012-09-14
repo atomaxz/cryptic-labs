@@ -5691,3 +5691,4 @@
 29999. refactor: split large controller into smaller functions #29999
 0619. perf: lazy-load components #619
 54386. test: add unit test for quiz service #54386
+25812. fix: fix broken CSS in mobile view #25812
