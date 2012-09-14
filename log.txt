@@ -5697,3 +5697,4 @@
 60411. docs: add API usage examples #60411
 88819. perf: lazy-load components #88819
 96377. fix: correct typo in registration form #96377
+82338. test: mock database connection in test suite #82338
