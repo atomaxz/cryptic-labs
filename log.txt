@@ -5693,3 +5693,4 @@
 54386. test: add unit test for quiz service #54386
 25812. fix: fix broken CSS in mobile view #25812
 82591. test: test user registration edge cases #82591
+34941. style: remove trailing whitespace #34941
