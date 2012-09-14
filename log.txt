@@ -5694,3 +5694,4 @@
 25812. fix: fix broken CSS in mobile view #25812
 82591. test: test user registration edge cases #82591
 34941. style: remove trailing whitespace #34941
+60411. docs: add API usage examples #60411
