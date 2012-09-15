@@ -5699,3 +5699,4 @@
 96377. fix: correct typo in registration form #96377
 82338. test: mock database connection in test suite #82338
 9905. chore: add GitHub actions badge #9905
+52711. fix: fix null pointer exception on login #52711
