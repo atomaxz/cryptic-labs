@@ -5704,3 +5704,4 @@
 88153. docs: add API usage examples #88153
 34192. feat: support email verification #34192
 78321. refactor: split large controller into smaller functions #78321
+63978. chore: bump dependencies #63978
