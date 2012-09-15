@@ -5705,3 +5705,4 @@
 34192. feat: support email verification #34192
 78321. refactor: split large controller into smaller functions #78321
 63978. chore: bump dependencies #63978
+92091. feat: support email verification #92091
