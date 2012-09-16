@@ -5712,3 +5712,4 @@
 43078. chore: clean up unused files #43078
 8136. fix: prevent crash on empty input #8136
 47967. chore: add GitHub actions badge #47967
+79117. chore: bump dependencies #79117
