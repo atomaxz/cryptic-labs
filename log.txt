@@ -5715,3 +5715,4 @@
 79117. chore: bump dependencies #79117
 20911. fix: handle 500 error in quiz API #20911
 39352. perf: cache repeated calculations #39352
+24906. fix: fix null pointer exception on login #24906
