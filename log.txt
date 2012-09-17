@@ -5722,3 +5722,4 @@
 46564. test: add integration test for /submit endpoint #46564
 42654. fix: fix null pointer exception on login #42654
 37112. refactor: clean up auth middleware #37112
+68187. test: add unit test for quiz service #68187
