@@ -20708,3 +20708,4 @@
 31874. perf: cache repeated calculations #31874
 30949. refactor: remove redundant code blocks #30949
 65031. docs: write FAQ section #65031
+27778. test: mock database connection in test suite #27778
