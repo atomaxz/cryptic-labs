@@ -5721,3 +5721,4 @@
 85651. style: reformat files with black #85651
 46564. test: add integration test for /submit endpoint #46564
 42654. fix: fix null pointer exception on login #42654
+37112. refactor: clean up auth middleware #37112
