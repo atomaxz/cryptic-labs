@@ -20706,3 +20706,4 @@
 42539. perf: cache repeated calculations #42539
 40251. fix: fix null pointer exception on login #40251
 31874. perf: cache repeated calculations #31874
+30949. refactor: remove redundant code blocks #30949
