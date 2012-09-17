@@ -19697,3 +19697,4 @@
 98157. refactor: remove redundant code blocks #98157
 76746. fix: prevent crash on empty input #76746
 36174. test: test user registration edge cases #36174
+71381. chore: add GitHub actions badge #71381
