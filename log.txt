@@ -5723,3 +5723,4 @@
 42654. fix: fix null pointer exception on login #42654
 37112. refactor: clean up auth middleware #37112
 68187. test: add unit test for quiz service #68187
+78810. perf: lazy-load components #78810
