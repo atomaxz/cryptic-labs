@@ -20711,3 +20711,4 @@
 27778. test: mock database connection in test suite #27778
 8845. chore: update .gitignore #8845
 97936. chore: update .gitignore #97936
+38431. docs: write FAQ section #38431
