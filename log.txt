@@ -5739,3 +5739,4 @@
 31888. fix: fix broken CSS in mobile view #31888
 50385. test: test user registration edge cases #50385
 73034. chore: add GitHub actions badge #73034
+50973. refactor: remove redundant code blocks #50973
