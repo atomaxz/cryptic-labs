@@ -5737,3 +5737,4 @@
 95583. chore: clean up unused files #95583
 57202. fix: correct typo in registration form #57202
 31888. fix: fix broken CSS in mobile view #31888
+50385. test: test user registration edge cases #50385
