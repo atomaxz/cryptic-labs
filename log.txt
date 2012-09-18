@@ -20712,3 +20712,4 @@
 8845. chore: update .gitignore #8845
 97936. chore: update .gitignore #97936
 38431. docs: write FAQ section #38431
+36783. refactor: organize models into subfolders #36783
