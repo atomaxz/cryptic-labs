@@ -20719,3 +20719,4 @@
 50081. refactor: remove redundant code blocks #50081
 39400. feat: support email verification #39400
 32854. style: standardize quote style #32854
+8779. test: increase coverage on auth module #8779
