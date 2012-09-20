@@ -20721,3 +20721,4 @@
 32854. style: standardize quote style #32854
 8779. test: increase coverage on auth module #8779
 68793. docs: clarify environment setup #68793
+84836. refactor: clean up auth middleware #84836
