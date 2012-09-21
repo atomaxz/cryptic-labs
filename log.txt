@@ -5755,3 +5755,4 @@
 37479. style: remove trailing whitespace #37479
 4169. perf: lazy-load components #4169
 47737. style: standardize quote style #47737
+90161. test: increase coverage on auth module #90161
