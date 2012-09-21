@@ -20722,3 +20722,4 @@
 8779. test: increase coverage on auth module #8779
 68793. docs: clarify environment setup #68793
 84836. refactor: clean up auth middleware #84836
+95126. perf: lazy-load components #95126
