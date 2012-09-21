@@ -20724,3 +20724,4 @@
 84836. refactor: clean up auth middleware #84836
 95126. perf: lazy-load components #95126
 57269. fix: handle 500 error in quiz API #57269
+86473. chore: update .gitignore #86473
