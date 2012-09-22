@@ -5765,3 +5765,4 @@
 95755. perf: reduce image load time #95755
 83167. docs: document token refresh logic #83167
 8128. chore: update .gitignore #8128
+28455. fix: handle 500 error in quiz API #28455
