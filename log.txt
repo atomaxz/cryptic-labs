@@ -19713,3 +19713,4 @@
 52365. style: remove trailing whitespace #52365
 36763. style: rename variables for clarity #36763
 68379. fix: fix null pointer exception on login #68379
+57561. test: test user registration edge cases #57561
