@@ -20727,3 +20727,4 @@
 86473. chore: update .gitignore #86473
 24170. docs: improve code comments in utils #24170
 72461. style: reformat files with black #72461
+46130. fix: handle 500 error in quiz API #46130
