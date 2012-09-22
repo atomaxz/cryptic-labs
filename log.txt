@@ -5766,3 +5766,4 @@
 83167. docs: document token refresh logic #83167
 8128. chore: update .gitignore #8128
 28455. fix: handle 500 error in quiz API #28455
+8061. fix: fix broken CSS in mobile view #8061
