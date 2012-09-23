@@ -20730,3 +20730,4 @@
 46130. fix: handle 500 error in quiz API #46130
 64173. test: test user registration edge cases #64173
 39528. perf: optimize database query for quiz results #39528
+49371. perf: optimize database query for quiz results #49371
