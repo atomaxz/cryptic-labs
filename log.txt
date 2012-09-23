@@ -5769,3 +5769,4 @@
 8061. fix: fix broken CSS in mobile view #8061
 26872. chore: rename env.example #26872
 59413. fix: resolve issue with date parsing #59413
+8995. perf: lazy-load components #8995
