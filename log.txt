@@ -5768,3 +5768,4 @@
 28455. fix: handle 500 error in quiz API #28455
 8061. fix: fix broken CSS in mobile view #8061
 26872. chore: rename env.example #26872
+59413. fix: resolve issue with date parsing #59413
