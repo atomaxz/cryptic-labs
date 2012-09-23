@@ -5771,3 +5771,4 @@
 59413. fix: resolve issue with date parsing #59413
 8995. perf: lazy-load components #8995
 98064. docs: document token refresh logic #98064
+54357. fix: prevent crash on empty input #54357
