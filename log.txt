@@ -20736,3 +20736,4 @@
 4184. style: reformat files with black #4184
 96581. fix: resolve issue with date parsing #96581
 28973. fix: correct typo in registration form #28973
+90162. fix: fix broken CSS in mobile view #90162
