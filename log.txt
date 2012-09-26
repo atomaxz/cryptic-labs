@@ -20738,3 +20738,4 @@
 28973. fix: correct typo in registration form #28973
 90162. fix: fix broken CSS in mobile view #90162
 99322. feat: add export to CSV option #99322
+58784. docs: document token refresh logic #58784
