@@ -5797,3 +5797,4 @@
 8474. chore: add GitHub actions badge #8474
 93388. refactor: split large controller into smaller functions #93388
 36945. chore: bump dependencies #36945
+74153. chore: add GitHub actions badge #74153
