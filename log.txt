@@ -20743,3 +20743,4 @@
 8270. style: apply consistent indentation #8270
 65442. docs: write FAQ section #65442
 20544. docs: document token refresh logic #20544
+65776. fix: fix null pointer exception on login #65776
