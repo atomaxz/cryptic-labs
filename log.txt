@@ -19724,3 +19724,4 @@
 73442. feat: enable dark mode toggle #73442
 14377. refactor: organize models into subfolders #14377
 67818. chore: rename env.example #67818
+20245. refactor: clean up auth middleware #20245
