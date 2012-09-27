@@ -5801,3 +5801,4 @@
 50454. perf: reduce image load time #50454
 99282. perf: reduce image load time #99282
 52807. chore: clean up unused files #52807
+63333. feat: enable dark mode toggle #63333
