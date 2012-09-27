@@ -213,3 +213,4 @@
 6185. style: reformat files with black #6185
 63749. refactor: split large controller into smaller functions #63749
 14262. feat: support email verification #14262
+7375. chore: bump dependencies #7375
