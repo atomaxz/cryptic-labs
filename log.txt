@@ -5805,3 +5805,4 @@
 87933. refactor: refactor quiz grading logic #87933
 10416. docs: improve code comments in utils #10416
 32779. fix: fix null pointer exception on login #32779
+41649. test: add unit test for quiz service #41649
