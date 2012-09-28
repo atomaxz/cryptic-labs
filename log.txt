@@ -5811,3 +5811,4 @@
 89252. fix: handle 500 error in quiz API #89252
 47038. style: remove trailing whitespace #47038
 45266. style: remove trailing whitespace #45266
+36534. docs: write FAQ section #36534
