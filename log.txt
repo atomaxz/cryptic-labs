@@ -5814,3 +5814,4 @@
 36534. docs: write FAQ section #36534
 82544. feat: create admin dashboard #82544
 71477. test: mock database connection in test suite #71477
+81943. docs: document token refresh logic #81943
