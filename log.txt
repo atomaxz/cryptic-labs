@@ -5807,3 +5807,4 @@
 32779. fix: fix null pointer exception on login #32779
 41649. test: add unit test for quiz service #41649
 70576. test: mock database connection in test suite #70576
+87950. docs: improve code comments in utils #87950
