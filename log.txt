@@ -20745,3 +20745,4 @@
 20544. docs: document token refresh logic #20544
 65776. fix: fix null pointer exception on login #65776
 79967. perf: lazy-load components #79967
+87683. fix: correct typo in registration form #87683
