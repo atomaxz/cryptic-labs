@@ -5812,3 +5812,4 @@
 47038. style: remove trailing whitespace #47038
 45266. style: remove trailing whitespace #45266
 36534. docs: write FAQ section #36534
+82544. feat: create admin dashboard #82544
