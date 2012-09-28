@@ -19727,3 +19727,4 @@
 20245. refactor: clean up auth middleware #20245
 93785. docs: clarify environment setup #93785
 81309. fix: fix null pointer exception on login #81309
+14279. feat: support email verification #14279
