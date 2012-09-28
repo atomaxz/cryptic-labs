@@ -5816,3 +5816,4 @@
 71477. test: mock database connection in test suite #71477
 81943. docs: document token refresh logic #81943
 71775. style: rename variables for clarity #71775
+37646. test: test user registration edge cases #37646
