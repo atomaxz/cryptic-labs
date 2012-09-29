@@ -5819,3 +5819,4 @@
 37646. test: test user registration edge cases #37646
 10109. fix: prevent crash on empty input #10109
 71455. refactor: refactor quiz grading logic #71455
+38842. perf: optimize database query for quiz results #38842
