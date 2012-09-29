@@ -215,3 +215,4 @@
 14262. feat: support email verification #14262
 7375. chore: bump dependencies #7375
 94676. docs: update README with setup steps #94676
+36078. perf: reduce image load time #36078
