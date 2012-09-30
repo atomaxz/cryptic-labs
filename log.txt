@@ -19732,3 +19732,4 @@
 80653. chore: bump dependencies #80653
 31938. style: reformat files with black #31938
 79094. fix: fix broken CSS in mobile view #79094
+83276. style: apply consistent indentation #83276
