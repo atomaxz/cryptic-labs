@@ -5825,3 +5825,4 @@
 1406. chore: rename env.example #1406
 23828. style: apply consistent indentation #23828
 43044. perf: lazy-load components #43044
+64389. refactor: organize models into subfolders #64389
