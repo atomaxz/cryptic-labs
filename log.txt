@@ -5827,3 +5827,4 @@
 43044. perf: lazy-load components #43044
 64389. refactor: organize models into subfolders #64389
 39207. style: standardize quote style #39207
+72441. fix: fix null pointer exception on login #72441
