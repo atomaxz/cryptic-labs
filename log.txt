@@ -19733,3 +19733,4 @@
 31938. style: reformat files with black #31938
 79094. fix: fix broken CSS in mobile view #79094
 83276. style: apply consistent indentation #83276
+87543. docs: update README with setup steps #87543
