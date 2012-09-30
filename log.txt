@@ -19731,3 +19731,4 @@
 81528. style: reformat files with black #81528
 80653. chore: bump dependencies #80653
 31938. style: reformat files with black #31938
+79094. fix: fix broken CSS in mobile view #79094
