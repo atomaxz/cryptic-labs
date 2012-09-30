@@ -5826,3 +5826,4 @@
 23828. style: apply consistent indentation #23828
 43044. perf: lazy-load components #43044
 64389. refactor: organize models into subfolders #64389
+39207. style: standardize quote style #39207
