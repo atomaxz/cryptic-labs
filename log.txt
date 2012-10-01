@@ -19734,3 +19734,4 @@
 79094. fix: fix broken CSS in mobile view #79094
 83276. style: apply consistent indentation #83276
 87543. docs: update README with setup steps #87543
+56571. fix: prevent crash on empty input #56571
