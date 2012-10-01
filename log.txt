@@ -216,3 +216,4 @@
 7375. chore: bump dependencies #7375
 94676. docs: update README with setup steps #94676
 36078. perf: reduce image load time #36078
+19360. refactor: clean up auth middleware #19360
