@@ -5834,3 +5834,4 @@
 88737. perf: optimize database query for quiz results #88737
 69878. feat: add user authentication #69878
 68763. feat: implement quiz timer feature #68763
+99151. perf: reduce image load time #99151
