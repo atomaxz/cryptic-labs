@@ -5831,3 +5831,4 @@
 98841. refactor: split large controller into smaller functions #98841
 75383. docs: document token refresh logic #75383
 75824. style: remove trailing whitespace #75824
+88737. perf: optimize database query for quiz results #88737
