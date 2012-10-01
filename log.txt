@@ -5830,3 +5830,4 @@
 72441. fix: fix null pointer exception on login #72441
 98841. refactor: split large controller into smaller functions #98841
 75383. docs: document token refresh logic #75383
+75824. style: remove trailing whitespace #75824
