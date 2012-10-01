@@ -217,3 +217,4 @@
 94676. docs: update README with setup steps #94676
 36078. perf: reduce image load time #36078
 19360. refactor: clean up auth middleware #19360
+96427. test: test user registration edge cases #96427
