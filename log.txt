@@ -5832,3 +5832,4 @@
 75383. docs: document token refresh logic #75383
 75824. style: remove trailing whitespace #75824
 88737. perf: optimize database query for quiz results #88737
+69878. feat: add user authentication #69878
