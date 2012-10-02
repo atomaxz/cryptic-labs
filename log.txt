@@ -19736,3 +19736,4 @@
 87543. docs: update README with setup steps #87543
 56571. fix: prevent crash on empty input #56571
 33218. test: increase coverage on auth module #33218
+44174. refactor: organize models into subfolders #44174
