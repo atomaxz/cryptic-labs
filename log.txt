@@ -5839,3 +5839,4 @@
 48245. style: standardize quote style #48245
 46374. perf: optimize database query for quiz results #46374
 94836. fix: correct typo in registration form #94836
+20348. test: mock database connection in test suite #20348
