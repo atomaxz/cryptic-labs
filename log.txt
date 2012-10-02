@@ -5838,3 +5838,4 @@
 4796. feat: enable dark mode toggle #4796
 48245. style: standardize quote style #48245
 46374. perf: optimize database query for quiz results #46374
+94836. fix: correct typo in registration form #94836
