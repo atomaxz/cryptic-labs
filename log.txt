@@ -5847,3 +5847,4 @@
 75191. test: increase coverage on auth module #75191
 71667. chore: add GitHub actions badge #71667
 12301. feat: add user authentication #12301
+11737. docs: update README with setup steps #11737
