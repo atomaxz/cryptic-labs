@@ -5848,3 +5848,4 @@
 71667. chore: add GitHub actions badge #71667
 12301. feat: add user authentication #12301
 11737. docs: update README with setup steps #11737
+3343. test: mock database connection in test suite #3343
