@@ -5852,3 +5852,4 @@
 4647. perf: reduce image load time #4647
 42688. refactor: refactor quiz grading logic #42688
 52678. docs: write FAQ section #52678
+45991. chore: clean up unused files #45991
