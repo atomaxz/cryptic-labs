@@ -20758,3 +20758,4 @@
 60057. fix: resolve issue with date parsing #60057
 18875. fix: fix broken CSS in mobile view #18875
 79906. perf: optimize database query for quiz results #79906
+13163. fix: resolve issue with date parsing #13163
