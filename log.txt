@@ -5860,3 +5860,4 @@
 98427. test: increase coverage on auth module #98427
 5815. feat: add export to CSV option #5815
 61293. fix: fix null pointer exception on login #61293
+14989. fix: resolve issue with date parsing #14989
