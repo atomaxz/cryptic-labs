@@ -19746,3 +19746,4 @@
 19199. chore: add GitHub actions badge #19199
 30510. chore: bump dependencies #30510
 57899. fix: fix broken CSS in mobile view #57899
+44736. perf: optimize database query for quiz results #44736
