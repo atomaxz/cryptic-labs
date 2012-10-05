@@ -19748,3 +19748,4 @@
 57899. fix: fix broken CSS in mobile view #57899
 44736. perf: optimize database query for quiz results #44736
 82772. docs: write FAQ section #82772
+95092. style: remove trailing whitespace #95092
