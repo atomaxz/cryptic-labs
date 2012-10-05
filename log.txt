@@ -5870,3 +5870,4 @@
 22810. fix: fix broken CSS in mobile view #22810
 8004. docs: improve code comments in utils #8004
 38045. refactor: refactor quiz grading logic #38045
+46821. perf: optimize database query for quiz results #46821
