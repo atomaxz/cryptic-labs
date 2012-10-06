@@ -5880,3 +5880,4 @@
 78901. chore: bump dependencies #78901
 63550. fix: prevent crash on empty input #63550
 12408. feat: enable dark mode toggle #12408
+31202. fix: resolve issue with date parsing #31202
