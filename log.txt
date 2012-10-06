@@ -5878,3 +5878,4 @@
 47382. test: add integration test for /submit endpoint #47382
 72123. style: rename variables for clarity #72123
 78901. chore: bump dependencies #78901
+63550. fix: prevent crash on empty input #63550
