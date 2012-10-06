@@ -5883,3 +5883,4 @@
 31202. fix: resolve issue with date parsing #31202
 55525. perf: cache repeated calculations #55525
 14776. docs: improve code comments in utils #14776
+84003. perf: lazy-load components #84003
