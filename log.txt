@@ -19755,3 +19755,4 @@
 0487. docs: add API usage examples #487
 65090. refactor: split large controller into smaller functions #65090
 99013. style: remove trailing whitespace #99013
+19582. perf: lazy-load components #19582
