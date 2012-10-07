@@ -5885,3 +5885,4 @@
 14776. docs: improve code comments in utils #14776
 84003. perf: lazy-load components #84003
 71582. refactor: organize models into subfolders #71582
+94223. chore: add GitHub actions badge #94223
