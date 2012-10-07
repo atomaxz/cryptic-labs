@@ -5890,3 +5890,4 @@
 9180. chore: update .gitignore #9180
 15986. style: reformat files with black #15986
 25964. fix: correct typo in registration form #25964
+42306. style: standardize quote style #42306
