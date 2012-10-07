@@ -20768,3 +20768,4 @@
 39889. style: apply consistent indentation #39889
 33950. chore: rename env.example #33950
 34758. perf: lazy-load components #34758
+99488. refactor: clean up auth middleware #99488
