@@ -19759,3 +19759,4 @@
 34828. docs: add API usage examples #34828
 42729. style: standardize quote style #42729
 60442. fix: prevent crash on empty input #60442
+67772. fix: prevent crash on empty input #67772
