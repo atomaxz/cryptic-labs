@@ -19761,3 +19761,4 @@
 60442. fix: prevent crash on empty input #60442
 67772. fix: prevent crash on empty input #67772
 61454. chore: rename env.example #61454
+67038. refactor: split large controller into smaller functions #67038
