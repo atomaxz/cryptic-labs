@@ -5892,3 +5892,4 @@
 25964. fix: correct typo in registration form #25964
 42306. style: standardize quote style #42306
 10438. test: increase coverage on auth module #10438
+17820. test: increase coverage on auth module #17820
