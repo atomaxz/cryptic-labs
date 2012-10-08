@@ -19767,3 +19767,4 @@
 37217. feat: enable dark mode toggle #37217
 39251. refactor: remove redundant code blocks #39251
 82616. fix: correct typo in registration form #82616
+74298. docs: clarify environment setup #74298
