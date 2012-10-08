@@ -19768,3 +19768,4 @@
 39251. refactor: remove redundant code blocks #39251
 82616. fix: correct typo in registration form #82616
 74298. docs: clarify environment setup #74298
+13918. fix: fix null pointer exception on login #13918
