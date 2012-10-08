@@ -5895,3 +5895,4 @@
 17820. test: increase coverage on auth module #17820
 74090. style: apply consistent indentation #74090
 25215. fix: resolve issue with date parsing #25215
+53240. perf: optimize database query for quiz results #53240
