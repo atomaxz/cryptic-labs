@@ -5902,3 +5902,4 @@
 98430. perf: reduce image load time #98430
 70797. style: rename variables for clarity #70797
 87411. feat: add export to CSV option #87411
+40777. chore: clean up unused files #40777
