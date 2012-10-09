@@ -20772,3 +20772,4 @@
 67370. fix: handle 500 error in quiz API #67370
 53621. perf: cache repeated calculations #53621
 46835. chore: bump dependencies #46835
+88257. refactor: clean up auth middleware #88257
