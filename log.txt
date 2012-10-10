@@ -5910,3 +5910,4 @@
 60984. style: reformat files with black #60984
 12407. test: increase coverage on auth module #12407
 78956. chore: clean up unused files #78956
+54464. test: increase coverage on auth module #54464
