@@ -5907,3 +5907,4 @@
 70944. style: remove trailing whitespace #70944
 41852. style: standardize quote style #41852
 96725. fix: resolve issue with date parsing #96725
+60984. style: reformat files with black #60984
