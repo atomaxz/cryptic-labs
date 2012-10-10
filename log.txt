@@ -20774,3 +20774,4 @@
 46835. chore: bump dependencies #46835
 88257. refactor: clean up auth middleware #88257
 72663. style: rename variables for clarity #72663
+29343. style: remove trailing whitespace #29343
