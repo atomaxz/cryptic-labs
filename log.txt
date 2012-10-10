@@ -19771,3 +19771,4 @@
 13918. fix: fix null pointer exception on login #13918
 69714. fix: fix null pointer exception on login #69714
 68752. style: reformat files with black #68752
+50823. feat: enable dark mode toggle #50823
