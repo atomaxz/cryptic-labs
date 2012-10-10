@@ -5913,3 +5913,4 @@
 54464. test: increase coverage on auth module #54464
 16555. test: increase coverage on auth module #16555
 78630. refactor: split large controller into smaller functions #78630
+86464. chore: bump dependencies #86464
