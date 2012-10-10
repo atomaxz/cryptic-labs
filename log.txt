@@ -19773,3 +19773,4 @@
 68752. style: reformat files with black #68752
 50823. feat: enable dark mode toggle #50823
 54957. test: mock database connection in test suite #54957
+86862. test: test user registration edge cases #86862
