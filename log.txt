@@ -19781,3 +19781,4 @@
 79239. perf: cache repeated calculations #79239
 79340. test: add integration test for /submit endpoint #79340
 67055. style: remove trailing whitespace #67055
+82281. refactor: organize models into subfolders #82281
