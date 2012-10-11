@@ -20780,3 +20780,4 @@
 16043. refactor: refactor quiz grading logic #16043
 35319. fix: resolve issue with date parsing #35319
 36640. refactor: clean up auth middleware #36640
+22784. test: add integration test for /submit endpoint #22784
