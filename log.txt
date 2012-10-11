@@ -5921,3 +5921,4 @@
 82669. refactor: split large controller into smaller functions #82669
 93064. refactor: clean up auth middleware #93064
 72122. feat: support email verification #72122
+79122. test: add integration test for /submit endpoint #79122
