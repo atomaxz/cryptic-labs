@@ -20779,3 +20779,4 @@
 69224. test: increase coverage on auth module #69224
 16043. refactor: refactor quiz grading logic #16043
 35319. fix: resolve issue with date parsing #35319
+36640. refactor: clean up auth middleware #36640
