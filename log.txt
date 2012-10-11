@@ -19779,3 +19779,4 @@
 12658. perf: reduce image load time #12658
 93670. chore: add GitHub actions badge #93670
 79239. perf: cache repeated calculations #79239
+79340. test: add integration test for /submit endpoint #79340
