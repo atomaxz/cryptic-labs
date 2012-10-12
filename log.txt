@@ -5930,3 +5930,4 @@
 64421. style: reformat files with black #64421
 89372. perf: optimize database query for quiz results #89372
 86645. docs: clarify environment setup #86645
+94504. feat: enable dark mode toggle #94504
