@@ -19786,3 +19786,4 @@
 9042. docs: improve code comments in utils #9042
 16422. docs: update README with setup steps #16422
 25605. refactor: split large controller into smaller functions #25605
+79369. refactor: clean up auth middleware #79369
