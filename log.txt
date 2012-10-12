@@ -225,3 +225,4 @@
 99846. refactor: remove redundant code blocks #99846
 16955. fix: resolve issue with date parsing #16955
 6114. feat: support email verification #6114
+33960. docs: write FAQ section #33960
