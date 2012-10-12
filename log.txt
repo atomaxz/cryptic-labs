@@ -5928,3 +5928,4 @@
 68142. perf: cache repeated calculations #68142
 51403. refactor: organize models into subfolders #51403
 64421. style: reformat files with black #64421
+89372. perf: optimize database query for quiz results #89372
