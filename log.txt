@@ -20784,3 +20784,4 @@
 40717. docs: write FAQ section #40717
 47120. feat: add export to CSV option #47120
 28158. feat: add export to CSV option #28158
+40319. chore: bump dependencies #40319
