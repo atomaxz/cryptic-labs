@@ -5941,3 +5941,4 @@
 6891. refactor: split large controller into smaller functions #6891
 59194. feat: implement quiz timer feature #59194
 25513. style: reformat files with black #25513
+54111. perf: reduce image load time #54111
