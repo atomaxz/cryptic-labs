@@ -19787,3 +19787,4 @@
 16422. docs: update README with setup steps #16422
 25605. refactor: split large controller into smaller functions #25605
 79369. refactor: clean up auth middleware #79369
+37324. feat: add user authentication #37324
