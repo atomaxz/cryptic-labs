@@ -5937,3 +5937,4 @@
 74872. test: test user registration edge cases #74872
 71104. feat: add export to CSV option #71104
 3180. chore: bump dependencies #3180
+71461. refactor: refactor quiz grading logic #71461
