@@ -5935,3 +5935,4 @@
 44048. fix: fix null pointer exception on login #44048
 2199. fix: fix broken CSS in mobile view #2199
 74872. test: test user registration edge cases #74872
+71104. feat: add export to CSV option #71104
