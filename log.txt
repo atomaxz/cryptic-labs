@@ -5934,3 +5934,4 @@
 62609. feat: add user authentication #62609
 44048. fix: fix null pointer exception on login #44048
 2199. fix: fix broken CSS in mobile view #2199
+74872. test: test user registration edge cases #74872
