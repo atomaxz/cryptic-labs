@@ -5932,3 +5932,4 @@
 86645. docs: clarify environment setup #86645
 94504. feat: enable dark mode toggle #94504
 62609. feat: add user authentication #62609
+44048. fix: fix null pointer exception on login #44048
