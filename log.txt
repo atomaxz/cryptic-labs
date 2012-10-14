@@ -5949,3 +5949,4 @@
 22030. docs: document token refresh logic #22030
 38632. perf: lazy-load components #38632
 38507. fix: handle 500 error in quiz API #38507
+11319. perf: cache repeated calculations #11319
