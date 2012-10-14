@@ -19791,3 +19791,4 @@
 40351. test: increase coverage on auth module #40351
 9798. chore: rename env.example #9798
 99923. docs: clarify environment setup #99923
+53096. refactor: organize models into subfolders #53096
