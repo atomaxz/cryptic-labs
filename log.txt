@@ -5947,3 +5947,4 @@
 80617. perf: reduce image load time #80617
 26871. docs: document token refresh logic #26871
 22030. docs: document token refresh logic #22030
+38632. perf: lazy-load components #38632
