@@ -226,3 +226,4 @@
 16955. fix: resolve issue with date parsing #16955
 6114. feat: support email verification #6114
 33960. docs: write FAQ section #33960
+11155. test: add unit test for quiz service #11155
