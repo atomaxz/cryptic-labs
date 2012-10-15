@@ -5965,3 +5965,4 @@
 53382. docs: update README with setup steps #53382
 76476. refactor: refactor quiz grading logic #76476
 97370. test: test user registration edge cases #97370
+94565. fix: fix null pointer exception on login #94565
