@@ -5956,3 +5956,4 @@
 91832. refactor: clean up auth middleware #91832
 27025. style: remove trailing whitespace #27025
 77819. style: remove trailing whitespace #77819
+82692. fix: fix null pointer exception on login #82692
