@@ -228,3 +228,4 @@
 33960. docs: write FAQ section #33960
 11155. test: add unit test for quiz service #11155
 88628. refactor: refactor quiz grading logic #88628
+49638. test: mock database connection in test suite #49638
