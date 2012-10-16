@@ -19796,3 +19796,4 @@
 2609. refactor: organize models into subfolders #2609
 32424. style: apply consistent indentation #32424
 57191. style: reformat files with black #57191
+70407. perf: optimize database query for quiz results #70407
