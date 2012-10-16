@@ -5968,3 +5968,4 @@
 94565. fix: fix null pointer exception on login #94565
 46580. refactor: clean up auth middleware #46580
 14787. perf: lazy-load components #14787
+70348. chore: add GitHub actions badge #70348
