@@ -19798,3 +19798,4 @@
 57191. style: reformat files with black #57191
 70407. perf: optimize database query for quiz results #70407
 2599. feat: add export to CSV option #2599
+10621. feat: support email verification #10621
