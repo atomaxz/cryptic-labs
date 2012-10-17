@@ -5974,3 +5974,4 @@
 76757. style: apply consistent indentation #76757
 90530. refactor: split large controller into smaller functions #90530
 88708. docs: update README with setup steps #88708
+13951. test: test user registration edge cases #13951
