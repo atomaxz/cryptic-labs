@@ -19800,3 +19800,4 @@
 2599. feat: add export to CSV option #2599
 10621. feat: support email verification #10621
 5999. style: rename variables for clarity #5999
+34280. test: test user registration edge cases #34280
