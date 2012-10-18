@@ -5980,3 +5980,4 @@
 84800. feat: enable dark mode toggle #84800
 60895. chore: update .gitignore #60895
 9375. chore: update .gitignore #9375
+18346. perf: reduce image load time #18346
