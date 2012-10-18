@@ -19802,3 +19802,4 @@
 5999. style: rename variables for clarity #5999
 34280. test: test user registration edge cases #34280
 74541. style: remove trailing whitespace #74541
+66193. feat: add export to CSV option #66193
