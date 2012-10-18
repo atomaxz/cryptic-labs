@@ -5977,3 +5977,4 @@
 13951. test: test user registration edge cases #13951
 22766. refactor: split large controller into smaller functions #22766
 14557. fix: resolve issue with date parsing #14557
+84800. feat: enable dark mode toggle #84800
