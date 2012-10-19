@@ -5986,3 +5986,4 @@
 9356. refactor: split large controller into smaller functions #9356
 66568. test: add integration test for /submit endpoint #66568
 4721. test: add unit test for quiz service #4721
+50964. test: increase coverage on auth module #50964
