@@ -20797,3 +20797,4 @@
 66822. test: test user registration edge cases #66822
 75869. test: add unit test for quiz service #75869
 44080. fix: prevent crash on empty input #44080
+78065. test: add integration test for /submit endpoint #78065
