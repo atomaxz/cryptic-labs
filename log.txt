@@ -20802,3 +20802,4 @@
 91675. perf: lazy-load components #91675
 21236. chore: bump dependencies #21236
 65230. chore: update .gitignore #65230
+45659. test: test user registration edge cases #45659
