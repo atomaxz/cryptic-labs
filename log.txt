@@ -5993,3 +5993,4 @@
 43286. refactor: organize models into subfolders #43286
 79540. feat: create admin dashboard #79540
 70860. test: mock database connection in test suite #70860
+93758. feat: support email verification #93758
