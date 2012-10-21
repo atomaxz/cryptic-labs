@@ -5995,3 +5995,4 @@
 70860. test: mock database connection in test suite #70860
 93758. feat: support email verification #93758
 5210. style: reformat files with black #5210
+64757. chore: bump dependencies #64757
