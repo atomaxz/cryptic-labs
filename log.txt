@@ -20799,3 +20799,4 @@
 44080. fix: prevent crash on empty input #44080
 78065. test: add integration test for /submit endpoint #78065
 60088. docs: write FAQ section #60088
+91675. perf: lazy-load components #91675
