@@ -6000,3 +6000,4 @@
 10435. feat: support email verification #10435
 16616. feat: create admin dashboard #16616
 46106. perf: cache repeated calculations #46106
+93432. fix: correct typo in registration form #93432
