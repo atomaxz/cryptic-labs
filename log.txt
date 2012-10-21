@@ -5997,3 +5997,4 @@
 5210. style: reformat files with black #5210
 64757. chore: bump dependencies #64757
 27237. style: remove trailing whitespace #27237
+10435. feat: support email verification #10435
