@@ -19811,3 +19811,4 @@
 56324. chore: bump dependencies #56324
 19976. docs: add API usage examples #19976
 30400. perf: reduce image load time #30400
+84774. refactor: organize models into subfolders #84774
