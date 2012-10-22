@@ -19815,3 +19815,4 @@
 95368. chore: update .gitignore #95368
 81133. test: test user registration edge cases #81133
 79849. docs: update README with setup steps #79849
+67419. refactor: clean up auth middleware #67419
