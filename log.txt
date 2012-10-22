@@ -6003,3 +6003,4 @@
 93432. fix: correct typo in registration form #93432
 93569. feat: create admin dashboard #93569
 42708. test: test user registration edge cases #42708
+58471. refactor: clean up auth middleware #58471
