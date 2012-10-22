@@ -20805,3 +20805,4 @@
 45659. test: test user registration edge cases #45659
 85234. chore: bump dependencies #85234
 78153. perf: cache repeated calculations #78153
+78272. fix: resolve issue with date parsing #78272
