@@ -6001,3 +6001,4 @@
 16616. feat: create admin dashboard #16616
 46106. perf: cache repeated calculations #46106
 93432. fix: correct typo in registration form #93432
+93569. feat: create admin dashboard #93569
