@@ -19820,3 +19820,4 @@
 11211. docs: document token refresh logic #11211
 4843. perf: reduce image load time #4843
 73299. test: increase coverage on auth module #73299
+88654. chore: add GitHub actions badge #88654
