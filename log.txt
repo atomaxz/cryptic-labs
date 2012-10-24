@@ -19822,3 +19822,4 @@
 73299. test: increase coverage on auth module #73299
 88654. chore: add GitHub actions badge #88654
 3961. perf: cache repeated calculations #3961
+62627. style: apply consistent indentation #62627
