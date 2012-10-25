@@ -6010,3 +6010,4 @@
 15527. refactor: remove redundant code blocks #15527
 49638. test: mock database connection in test suite #49638
 24107. test: mock database connection in test suite #24107
+96371. refactor: refactor quiz grading logic #96371
