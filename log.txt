@@ -20811,3 +20811,4 @@
 90077. docs: update README with setup steps #90077
 93931. feat: create admin dashboard #93931
 39123. test: increase coverage on auth module #39123
+3649. test: test user registration edge cases #3649
