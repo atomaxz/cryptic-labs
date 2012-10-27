@@ -19832,3 +19832,4 @@
 14413. style: remove trailing whitespace #14413
 35101. perf: lazy-load components #35101
 14380. refactor: refactor quiz grading logic #14380
+79666. fix: prevent crash on empty input #79666
