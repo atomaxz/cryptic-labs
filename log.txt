@@ -20813,3 +20813,4 @@
 39123. test: increase coverage on auth module #39123
 3649. test: test user registration edge cases #3649
 84908. refactor: split large controller into smaller functions #84908
+33626. docs: write FAQ section #33626
