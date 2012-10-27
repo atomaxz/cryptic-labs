@@ -19830,3 +19830,4 @@
 86368. fix: correct typo in registration form #86368
 9138. docs: improve code comments in utils #9138
 14413. style: remove trailing whitespace #14413
+35101. perf: lazy-load components #35101
