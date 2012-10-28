@@ -19834,3 +19834,4 @@
 14380. refactor: refactor quiz grading logic #14380
 79666. fix: prevent crash on empty input #79666
 65831. fix: fix broken CSS in mobile view #65831
+49973. test: add integration test for /submit endpoint #49973
