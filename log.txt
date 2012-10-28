@@ -20815,3 +20815,4 @@
 84908. refactor: split large controller into smaller functions #84908
 33626. docs: write FAQ section #33626
 44787. chore: rename env.example #44787
+57347. test: test user registration edge cases #57347
