@@ -19837,3 +19837,4 @@
 49973. test: add integration test for /submit endpoint #49973
 5600. test: test user registration edge cases #5600
 28592. test: mock database connection in test suite #28592
+78420. fix: handle 500 error in quiz API #78420
