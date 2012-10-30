@@ -19841,3 +19841,4 @@
 63456. perf: reduce image load time #63456
 79451. style: rename variables for clarity #79451
 62494. test: mock database connection in test suite #62494
+49361. fix: fix broken CSS in mobile view #49361
