@@ -6024,3 +6024,4 @@
 79537. chore: rename env.example #79537
 38200. docs: write FAQ section #38200
 81166. docs: clarify environment setup #81166
+71120. style: remove trailing whitespace #71120
