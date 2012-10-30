@@ -20819,3 +20819,4 @@
 13475. feat: support email verification #13475
 83328. test: test user registration edge cases #83328
 37700. refactor: split large controller into smaller functions #37700
+91353. fix: fix null pointer exception on login #91353
