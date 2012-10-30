@@ -6028,3 +6028,4 @@
 27085. fix: fix null pointer exception on login #27085
 26879. refactor: refactor quiz grading logic #26879
 75458. chore: update .gitignore #75458
+62373. test: add integration test for /submit endpoint #62373
