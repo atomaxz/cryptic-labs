@@ -19844,3 +19844,4 @@
 49361. fix: fix broken CSS in mobile view #49361
 97238. chore: update .gitignore #97238
 22238. perf: reduce image load time #22238
+71383. perf: lazy-load components #71383
