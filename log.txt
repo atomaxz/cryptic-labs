@@ -6032,3 +6032,4 @@
 70597. chore: update .gitignore #70597
 26108. refactor: remove redundant code blocks #26108
 42864. refactor: clean up auth middleware #42864
+48172. refactor: organize models into subfolders #48172
