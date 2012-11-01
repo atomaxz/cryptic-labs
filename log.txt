@@ -20822,3 +20822,4 @@
 91353. fix: fix null pointer exception on login #91353
 81534. perf: cache repeated calculations #81534
 49401. style: remove trailing whitespace #49401
+38877. refactor: clean up auth middleware #38877
