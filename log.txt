@@ -19847,3 +19847,4 @@
 71383. perf: lazy-load components #71383
 33006. chore: update .gitignore #33006
 80358. feat: enable dark mode toggle #80358
+40003. feat: support email verification #40003
