@@ -20827,3 +20827,4 @@
 98822. refactor: split large controller into smaller functions #98822
 24402. chore: rename env.example #24402
 41667. test: add integration test for /submit endpoint #41667
+48921. style: reformat files with black #48921
