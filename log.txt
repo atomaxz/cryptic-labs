@@ -19853,3 +19853,4 @@
 68218. chore: rename env.example #68218
 8824. style: reformat files with black #8824
 48898. refactor: refactor quiz grading logic #48898
+9333. fix: correct typo in registration form #9333
