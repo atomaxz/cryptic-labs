@@ -6038,3 +6038,4 @@
 23784. refactor: remove redundant code blocks #23784
 29757. docs: clarify environment setup #29757
 20597. feat: enable dark mode toggle #20597
+47897. feat: support email verification #47897
