@@ -6037,3 +6037,4 @@
 89584. feat: add export to CSV option #89584
 23784. refactor: remove redundant code blocks #23784
 29757. docs: clarify environment setup #29757
+20597. feat: enable dark mode toggle #20597
