@@ -237,3 +237,4 @@
 10035. fix: fix broken CSS in mobile view #10035
 44808. perf: cache repeated calculations #44808
 53844. fix: fix broken CSS in mobile view #53844
+64022. refactor: remove redundant code blocks #64022
