@@ -20838,3 +20838,4 @@
 78300. perf: lazy-load components #78300
 68049. chore: rename env.example #68049
 5895. refactor: split large controller into smaller functions #5895
+0361. fix: prevent crash on empty input #361
