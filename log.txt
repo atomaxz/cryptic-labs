@@ -20835,3 +20835,4 @@
 39611. chore: rename env.example #39611
 11912. chore: clean up unused files #11912
 64459. feat: add user authentication #64459
+78300. perf: lazy-load components #78300
