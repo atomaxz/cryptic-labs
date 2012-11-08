@@ -239,3 +239,4 @@
 53844. fix: fix broken CSS in mobile view #53844
 64022. refactor: remove redundant code blocks #64022
 83074. refactor: remove redundant code blocks #83074
+43129. test: mock database connection in test suite #43129
