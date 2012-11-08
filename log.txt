@@ -20845,3 +20845,4 @@
 18647. refactor: remove redundant code blocks #18647
 10467. docs: write FAQ section #10467
 92697. feat: enable dark mode toggle #92697
+30207. test: test user registration edge cases #30207
