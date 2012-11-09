@@ -6046,3 +6046,4 @@
 88465. test: mock database connection in test suite #88465
 50916. style: rename variables for clarity #50916
 91109. refactor: remove redundant code blocks #91109
+81725. docs: document token refresh logic #81725
