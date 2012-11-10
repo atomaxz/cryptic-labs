@@ -19868,3 +19868,4 @@
 64045. test: add integration test for /submit endpoint #64045
 26938. feat: support email verification #26938
 6286. perf: optimize database query for quiz results #6286
+11096. perf: reduce image load time #11096
