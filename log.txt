@@ -6049,3 +6049,4 @@
 81725. docs: document token refresh logic #81725
 11228. feat: add user authentication #11228
 2586. fix: prevent crash on empty input #2586
+15765. test: increase coverage on auth module #15765
