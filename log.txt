@@ -19871,3 +19871,4 @@
 11096. perf: reduce image load time #11096
 46192. fix: prevent crash on empty input #46192
 88536. fix: fix broken CSS in mobile view #88536
+12689. test: increase coverage on auth module #12689
