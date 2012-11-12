@@ -20855,3 +20855,4 @@
 14995. test: test user registration edge cases #14995
 28220. perf: lazy-load components #28220
 30850. feat: implement quiz timer feature #30850
+94391. test: increase coverage on auth module #94391
