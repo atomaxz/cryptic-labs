@@ -20853,3 +20853,4 @@
 68910. test: add integration test for /submit endpoint #68910
 38055. chore: clean up unused files #38055
 14995. test: test user registration edge cases #14995
+28220. perf: lazy-load components #28220
