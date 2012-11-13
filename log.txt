@@ -6064,3 +6064,4 @@
 94850. refactor: clean up auth middleware #94850
 47082. docs: improve code comments in utils #47082
 12612. refactor: remove redundant code blocks #12612
+4560. fix: correct typo in registration form #4560
