@@ -6065,3 +6065,4 @@
 47082. docs: improve code comments in utils #47082
 12612. refactor: remove redundant code blocks #12612
 4560. fix: correct typo in registration form #4560
+32402. perf: optimize database query for quiz results #32402
