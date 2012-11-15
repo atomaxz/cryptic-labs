@@ -19880,3 +19880,4 @@
 30655. style: reformat files with black #30655
 55770. refactor: split large controller into smaller functions #55770
 58725. test: mock database connection in test suite #58725
+44604. test: test user registration edge cases #44604
