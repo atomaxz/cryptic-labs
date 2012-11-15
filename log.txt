@@ -241,3 +241,4 @@
 83074. refactor: remove redundant code blocks #83074
 43129. test: mock database connection in test suite #43129
 15789. perf: reduce image load time #15789
+80407. feat: support email verification #80407
