@@ -19881,3 +19881,4 @@
 55770. refactor: split large controller into smaller functions #55770
 58725. test: mock database connection in test suite #58725
 44604. test: test user registration edge cases #44604
+78851. chore: bump dependencies #78851
