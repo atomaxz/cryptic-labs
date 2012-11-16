@@ -244,3 +244,4 @@
 80407. feat: support email verification #80407
 10228. fix: correct typo in registration form #10228
 30572. refactor: refactor quiz grading logic #30572
+39948. perf: cache repeated calculations #39948
