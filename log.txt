@@ -19884,3 +19884,4 @@
 78851. chore: bump dependencies #78851
 12777. chore: clean up unused files #12777
 97655. test: test user registration edge cases #97655
+80483. style: reformat files with black #80483
