@@ -20871,3 +20871,4 @@
 47987. refactor: remove redundant code blocks #47987
 53458. fix: fix null pointer exception on login #53458
 12406. test: add integration test for /submit endpoint #12406
+57723. perf: optimize database query for quiz results #57723
