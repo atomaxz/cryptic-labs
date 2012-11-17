@@ -6074,3 +6074,4 @@
 50058. refactor: refactor quiz grading logic #50058
 55339. chore: rename env.example #55339
 78817. style: remove trailing whitespace #78817
+30191. test: increase coverage on auth module #30191
