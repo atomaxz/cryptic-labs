@@ -20873,3 +20873,4 @@
 12406. test: add integration test for /submit endpoint #12406
 57723. perf: optimize database query for quiz results #57723
 37736. refactor: split large controller into smaller functions #37736
+43941. style: remove trailing whitespace #43941
