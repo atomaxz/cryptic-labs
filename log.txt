@@ -246,3 +246,4 @@
 30572. refactor: refactor quiz grading logic #30572
 39948. perf: cache repeated calculations #39948
 82562. perf: reduce image load time #82562
+63661. fix: prevent crash on empty input #63661
