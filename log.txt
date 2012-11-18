@@ -19892,3 +19892,4 @@
 15605. chore: clean up unused files #15605
 65101. style: standardize quote style #65101
 78892. docs: update README with setup steps #78892
+91570. fix: correct typo in registration form #91570
