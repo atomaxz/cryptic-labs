@@ -20875,3 +20875,4 @@
 37736. refactor: split large controller into smaller functions #37736
 43941. style: remove trailing whitespace #43941
 42662. fix: prevent crash on empty input #42662
+60954. test: mock database connection in test suite #60954
