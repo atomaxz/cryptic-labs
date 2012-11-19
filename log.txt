@@ -6080,3 +6080,4 @@
 47181. refactor: split large controller into smaller functions #47181
 94034. feat: add user authentication #94034
 91744. fix: prevent crash on empty input #91744
+59338. test: increase coverage on auth module #59338
