@@ -19901,3 +19901,4 @@
 84819. feat: support email verification #84819
 99922. test: increase coverage on auth module #99922
 40769. feat: create admin dashboard #40769
+96401. fix: fix broken CSS in mobile view #96401
