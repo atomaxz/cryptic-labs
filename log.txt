@@ -19898,3 +19898,4 @@
 21040. refactor: remove redundant code blocks #21040
 85544. perf: reduce image load time #85544
 72798. style: reformat files with black #72798
+84819. feat: support email verification #84819
