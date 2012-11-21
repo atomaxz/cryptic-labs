@@ -20883,3 +20883,4 @@
 71673. docs: update README with setup steps #71673
 1531. chore: clean up unused files #1531
 10125. feat: support email verification #10125
+49931. chore: add GitHub actions badge #49931
