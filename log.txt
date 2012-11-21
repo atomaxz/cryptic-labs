@@ -19903,3 +19903,4 @@
 40769. feat: create admin dashboard #40769
 96401. fix: fix broken CSS in mobile view #96401
 10071. chore: rename env.example #10071
+11619. style: apply consistent indentation #11619
