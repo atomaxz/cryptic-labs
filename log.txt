@@ -20884,3 +20884,4 @@
 1531. chore: clean up unused files #1531
 10125. feat: support email verification #10125
 49931. chore: add GitHub actions badge #49931
+14866. docs: clarify environment setup #14866
