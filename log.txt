@@ -20888,3 +20888,4 @@
 94945. refactor: refactor quiz grading logic #94945
 92020. fix: correct typo in registration form #92020
 5944. refactor: refactor quiz grading logic #5944
+28446. test: test user registration edge cases #28446
