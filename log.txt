@@ -19908,3 +19908,4 @@
 4590. test: add integration test for /submit endpoint #4590
 5009. refactor: refactor quiz grading logic #5009
 55447. perf: optimize database query for quiz results #55447
+46872. feat: create admin dashboard #46872
