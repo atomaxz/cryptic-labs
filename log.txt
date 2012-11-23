@@ -6089,3 +6089,4 @@
 55594. style: rename variables for clarity #55594
 80154. test: add integration test for /submit endpoint #80154
 75525. perf: lazy-load components #75525
+81212. fix: handle 500 error in quiz API #81212
