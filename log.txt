@@ -19912,3 +19912,4 @@
 97975. feat: enable dark mode toggle #97975
 85922. chore: clean up unused files #85922
 40450. docs: write FAQ section #40450
+27766. docs: document token refresh logic #27766
