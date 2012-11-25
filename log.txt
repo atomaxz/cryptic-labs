@@ -19915,3 +19915,4 @@
 27766. docs: document token refresh logic #27766
 2437. style: apply consistent indentation #2437
 89798. fix: fix broken CSS in mobile view #89798
+47800. style: remove trailing whitespace #47800
