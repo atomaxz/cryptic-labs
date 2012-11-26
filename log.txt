@@ -6099,3 +6099,4 @@
 56260. chore: bump dependencies #56260
 77688. refactor: split large controller into smaller functions #77688
 78863. fix: prevent crash on empty input #78863
+60868. fix: fix null pointer exception on login #60868
