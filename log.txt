@@ -6097,3 +6097,4 @@
 28864. feat: support email verification #28864
 23104. docs: write FAQ section #23104
 56260. chore: bump dependencies #56260
+77688. refactor: split large controller into smaller functions #77688
