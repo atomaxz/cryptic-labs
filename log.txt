@@ -6108,3 +6108,4 @@
 4237. feat: create admin dashboard #4237
 97303. perf: optimize database query for quiz results #97303
 33790. docs: write FAQ section #33790
+36361. fix: fix null pointer exception on login #36361
