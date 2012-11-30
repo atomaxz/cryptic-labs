@@ -20919,3 +20919,4 @@
 31623. test: test user registration edge cases #31623
 66228. refactor: remove redundant code blocks #66228
 63411. fix: fix null pointer exception on login #63411
+27791. refactor: clean up auth middleware #27791
