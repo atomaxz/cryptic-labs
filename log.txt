@@ -20916,3 +20916,4 @@
 31943. chore: rename env.example #31943
 49101. refactor: split large controller into smaller functions #49101
 59316. fix: fix broken CSS in mobile view #59316
+31623. test: test user registration edge cases #31623
