@@ -19928,3 +19928,4 @@
 48954. feat: enable dark mode toggle #48954
 59327. perf: reduce image load time #59327
 28600. chore: clean up unused files #28600
+31902. fix: handle 500 error in quiz API #31902
