@@ -20924,3 +20924,4 @@
 89861. chore: add GitHub actions badge #89861
 31753. feat: support email verification #31753
 23773. test: add integration test for /submit endpoint #23773
+8614. fix: prevent crash on empty input #8614
