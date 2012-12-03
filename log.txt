@@ -20926,3 +20926,4 @@
 23773. test: add integration test for /submit endpoint #23773
 8614. fix: prevent crash on empty input #8614
 15119. perf: optimize database query for quiz results #15119
+9399. style: apply consistent indentation #9399
