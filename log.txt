@@ -19937,3 +19937,4 @@
 88191. refactor: organize models into subfolders #88191
 2856. fix: fix null pointer exception on login #2856
 61562. chore: bump dependencies #61562
+72825. chore: add GitHub actions badge #72825
