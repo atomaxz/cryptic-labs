@@ -19932,3 +19932,4 @@
 62072. style: remove trailing whitespace #62072
 28031. chore: rename env.example #28031
 53375. docs: write FAQ section #53375
+8684. perf: optimize database query for quiz results #8684
