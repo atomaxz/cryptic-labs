@@ -19943,3 +19943,4 @@
 3447. refactor: refactor quiz grading logic #3447
 93384. refactor: refactor quiz grading logic #93384
 22904. feat: add export to CSV option #22904
+84673. feat: support email verification #84673
