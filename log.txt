@@ -19945,3 +19945,4 @@
 22904. feat: add export to CSV option #22904
 84673. feat: support email verification #84673
 93060. perf: lazy-load components #93060
+50676. refactor: clean up auth middleware #50676
