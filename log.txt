@@ -20932,3 +20932,4 @@
 48616. chore: bump dependencies #48616
 74086. perf: lazy-load components #74086
 65365. chore: add GitHub actions badge #65365
+5355. docs: document token refresh logic #5355
