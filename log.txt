@@ -6125,3 +6125,4 @@
 52159. docs: add API usage examples #52159
 38032. fix: resolve issue with date parsing #38032
 70509. refactor: remove redundant code blocks #70509
+28607. fix: fix null pointer exception on login #28607
