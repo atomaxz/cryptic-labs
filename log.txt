@@ -20930,3 +20930,4 @@
 21877. feat: implement quiz timer feature #21877
 50733. chore: add GitHub actions badge #50733
 48616. chore: bump dependencies #48616
+74086. perf: lazy-load components #74086
