@@ -19952,3 +19952,4 @@
 63876. docs: clarify environment setup #63876
 8417. feat: create admin dashboard #8417
 71098. refactor: remove redundant code blocks #71098
+98377. feat: add user authentication #98377
