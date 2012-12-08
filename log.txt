@@ -20933,3 +20933,4 @@
 74086. perf: lazy-load components #74086
 65365. chore: add GitHub actions badge #65365
 5355. docs: document token refresh logic #5355
+44907. feat: enable dark mode toggle #44907
