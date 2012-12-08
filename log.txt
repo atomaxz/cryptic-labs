@@ -19950,3 +19950,4 @@
 59005. refactor: organize models into subfolders #59005
 44140. fix: fix broken CSS in mobile view #44140
 63876. docs: clarify environment setup #63876
+8417. feat: create admin dashboard #8417
