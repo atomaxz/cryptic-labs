@@ -20934,3 +20934,4 @@
 65365. chore: add GitHub actions badge #65365
 5355. docs: document token refresh logic #5355
 44907. feat: enable dark mode toggle #44907
+11484. fix: fix broken CSS in mobile view #11484
