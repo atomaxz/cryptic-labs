@@ -6134,3 +6134,4 @@
 95563. perf: lazy-load components #95563
 49067. chore: bump dependencies #49067
 71558. feat: add user authentication #71558
+13450. docs: update README with setup steps #13450
