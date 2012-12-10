@@ -6137,3 +6137,4 @@
 13450. docs: update README with setup steps #13450
 89462. feat: support email verification #89462
 52330. style: standardize quote style #52330
+29729. fix: handle 500 error in quiz API #29729
