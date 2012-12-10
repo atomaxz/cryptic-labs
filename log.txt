@@ -6138,3 +6138,4 @@
 89462. feat: support email verification #89462
 52330. style: standardize quote style #52330
 29729. fix: handle 500 error in quiz API #29729
+22870. test: test user registration edge cases #22870
