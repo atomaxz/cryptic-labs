@@ -20937,3 +20937,4 @@
 11484. fix: fix broken CSS in mobile view #11484
 85010. feat: create admin dashboard #85010
 93132. chore: update .gitignore #93132
+39331. fix: prevent crash on empty input #39331
