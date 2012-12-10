@@ -20941,3 +20941,4 @@
 0066. perf: lazy-load components #66
 55476. perf: cache repeated calculations #55476
 53452. chore: bump dependencies #53452
+51173. refactor: split large controller into smaller functions #51173
