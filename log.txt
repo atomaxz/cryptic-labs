@@ -20943,3 +20943,4 @@
 53452. chore: bump dependencies #53452
 51173. refactor: split large controller into smaller functions #51173
 14171. chore: add GitHub actions badge #14171
+27941. perf: optimize database query for quiz results #27941
