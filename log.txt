@@ -19959,3 +19959,4 @@
 31219. style: remove trailing whitespace #31219
 29661. fix: correct typo in registration form #29661
 31577. chore: bump dependencies #31577
+34817. refactor: clean up auth middleware #34817
