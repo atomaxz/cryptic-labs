@@ -258,3 +258,4 @@
 85720. fix: prevent crash on empty input #85720
 22014. fix: fix broken CSS in mobile view #22014
 37143. docs: improve code comments in utils #37143
+78803. perf: optimize database query for quiz results #78803
