@@ -20945,3 +20945,4 @@
 14171. chore: add GitHub actions badge #14171
 27941. perf: optimize database query for quiz results #27941
 32960. fix: fix null pointer exception on login #32960
+60825. style: remove trailing whitespace #60825
