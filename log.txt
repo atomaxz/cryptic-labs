@@ -6146,3 +6146,4 @@
 0330. chore: rename env.example #330
 33122. refactor: remove redundant code blocks #33122
 2386. style: standardize quote style #2386
+87225. fix: correct typo in registration form #87225
