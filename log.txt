@@ -6149,3 +6149,4 @@
 87225. fix: correct typo in registration form #87225
 82558. refactor: clean up auth middleware #82558
 90500. style: rename variables for clarity #90500
+43649. fix: handle 500 error in quiz API #43649
