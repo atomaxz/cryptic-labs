@@ -260,3 +260,4 @@
 37143. docs: improve code comments in utils #37143
 78803. perf: optimize database query for quiz results #78803
 71636. feat: create admin dashboard #71636
+43764. style: reformat files with black #43764
