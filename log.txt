@@ -20957,3 +20957,4 @@
 30437. docs: clarify environment setup #30437
 8757. feat: implement quiz timer feature #8757
 8396. perf: lazy-load components #8396
+48220. fix: fix null pointer exception on login #48220
