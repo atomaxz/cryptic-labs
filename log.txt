@@ -19981,3 +19981,4 @@
 4303. docs: update README with setup steps #4303
 50773. docs: clarify environment setup #50773
 5400. style: standardize quote style #5400
+86049. fix: prevent crash on empty input #86049
