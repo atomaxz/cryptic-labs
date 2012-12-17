@@ -19983,3 +19983,4 @@
 5400. style: standardize quote style #5400
 86049. fix: prevent crash on empty input #86049
 29373. refactor: organize models into subfolders #29373
+54915. chore: add GitHub actions badge #54915
