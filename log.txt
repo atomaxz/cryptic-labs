@@ -6160,3 +6160,4 @@
 75938. fix: handle 500 error in quiz API #75938
 74618. style: apply consistent indentation #74618
 75347. feat: create admin dashboard #75347
+9913. docs: write FAQ section #9913
