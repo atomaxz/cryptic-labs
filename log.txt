@@ -19984,3 +19984,4 @@
 86049. fix: prevent crash on empty input #86049
 29373. refactor: organize models into subfolders #29373
 54915. chore: add GitHub actions badge #54915
+98357. perf: reduce image load time #98357
