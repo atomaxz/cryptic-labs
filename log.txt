@@ -6161,3 +6161,4 @@
 74618. style: apply consistent indentation #74618
 75347. feat: create admin dashboard #75347
 9913. docs: write FAQ section #9913
+15351. test: mock database connection in test suite #15351
