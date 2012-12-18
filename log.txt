@@ -19990,3 +19990,4 @@
 21904. perf: cache repeated calculations #21904
 13930. feat: add export to CSV option #13930
 1744. refactor: clean up auth middleware #1744
+88491. test: mock database connection in test suite #88491
