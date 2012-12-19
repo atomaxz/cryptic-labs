@@ -265,3 +265,4 @@
 10090. docs: clarify environment setup #10090
 63326. style: rename variables for clarity #63326
 3090. chore: update .gitignore #3090
+42834. chore: bump dependencies #42834
