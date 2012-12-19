@@ -20961,3 +20961,4 @@
 63128. fix: fix null pointer exception on login #63128
 51079. docs: document token refresh logic #51079
 57790. fix: handle 500 error in quiz API #57790
+7698. perf: optimize database query for quiz results #7698
