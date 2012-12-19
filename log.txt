@@ -20964,3 +20964,4 @@
 7698. perf: optimize database query for quiz results #7698
 17105. fix: handle 500 error in quiz API #17105
 39441. feat: enable dark mode toggle #39441
+20403. perf: cache repeated calculations #20403
