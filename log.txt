@@ -19992,3 +19992,4 @@
 1744. refactor: clean up auth middleware #1744
 88491. test: mock database connection in test suite #88491
 80390. chore: add GitHub actions badge #80390
+65488. refactor: organize models into subfolders #65488
