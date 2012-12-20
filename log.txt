@@ -20965,3 +20965,4 @@
 17105. fix: handle 500 error in quiz API #17105
 39441. feat: enable dark mode toggle #39441
 20403. perf: cache repeated calculations #20403
+49802. docs: write FAQ section #49802
