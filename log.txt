@@ -19996,3 +19996,4 @@
 66557. docs: write FAQ section #66557
 48396. fix: correct typo in registration form #48396
 69379. chore: rename env.example #69379
+41682. feat: create admin dashboard #41682
