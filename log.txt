@@ -19995,3 +19995,4 @@
 65488. refactor: organize models into subfolders #65488
 66557. docs: write FAQ section #66557
 48396. fix: correct typo in registration form #48396
+69379. chore: rename env.example #69379
