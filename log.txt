@@ -6170,3 +6170,4 @@
 13488. refactor: remove redundant code blocks #13488
 75598. refactor: clean up auth middleware #75598
 2074. refactor: clean up auth middleware #2074
+59264. refactor: remove redundant code blocks #59264
