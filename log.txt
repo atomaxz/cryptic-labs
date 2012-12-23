@@ -6174,3 +6174,4 @@
 81459. perf: reduce image load time #81459
 96919. perf: cache repeated calculations #96919
 89214. style: reformat files with black #89214
+79324. refactor: organize models into subfolders #79324
