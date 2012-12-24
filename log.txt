@@ -269,3 +269,4 @@
 36840. chore: rename env.example #36840
 22960. docs: add API usage examples #22960
 50898. feat: enable dark mode toggle #50898
+74521. docs: update README with setup steps #74521
