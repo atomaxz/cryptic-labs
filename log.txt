@@ -6178,3 +6178,4 @@
 87020. docs: write FAQ section #87020
 83771. fix: correct typo in registration form #83771
 91401. docs: write FAQ section #91401
+91282. refactor: clean up auth middleware #91282
