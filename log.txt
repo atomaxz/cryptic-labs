@@ -6180,3 +6180,4 @@
 91401. docs: write FAQ section #91401
 91282. refactor: clean up auth middleware #91282
 31231. test: increase coverage on auth module #31231
+12224. docs: write FAQ section #12224
