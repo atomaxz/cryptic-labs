@@ -6183,3 +6183,4 @@
 12224. docs: write FAQ section #12224
 33084. fix: correct typo in registration form #33084
 52407. feat: add user authentication #52407
+85489. docs: document token refresh logic #85489
