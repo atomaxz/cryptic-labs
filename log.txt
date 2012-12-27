@@ -20986,3 +20986,4 @@
 79255. chore: add GitHub actions badge #79255
 1733. chore: update .gitignore #1733
 46833. fix: handle 500 error in quiz API #46833
+71436. test: mock database connection in test suite #71436
