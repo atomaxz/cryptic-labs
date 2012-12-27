@@ -20988,3 +20988,4 @@
 46833. fix: handle 500 error in quiz API #46833
 71436. test: mock database connection in test suite #71436
 13573. chore: rename env.example #13573
+0100. perf: optimize database query for quiz results #100
