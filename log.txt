@@ -6186,3 +6186,4 @@
 85489. docs: document token refresh logic #85489
 78531. test: test user registration edge cases #78531
 41679. style: apply consistent indentation #41679
+45022. style: rename variables for clarity #45022
