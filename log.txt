@@ -6190,3 +6190,4 @@
 91130. refactor: refactor quiz grading logic #91130
 2062. perf: optimize database query for quiz results #2062
 60574. docs: improve code comments in utils #60574
+21148. test: increase coverage on auth module #21148
