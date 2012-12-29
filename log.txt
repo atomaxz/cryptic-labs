@@ -20994,3 +20994,4 @@
 74994. test: increase coverage on auth module #74994
 31703. docs: improve code comments in utils #31703
 14787. perf: lazy-load components #14787
+50284. chore: add GitHub actions badge #50284
