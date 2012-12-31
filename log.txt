@@ -271,3 +271,4 @@
 50898. feat: enable dark mode toggle #50898
 74521. docs: update README with setup steps #74521
 96210. docs: write FAQ section #96210
+43181. chore: bump dependencies #43181
