@@ -20997,3 +20997,4 @@
 50284. chore: add GitHub actions badge #50284
 48816. fix: prevent crash on empty input #48816
 41637. feat: add user authentication #41637
+44401. chore: bump dependencies #44401
