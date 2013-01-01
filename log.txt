@@ -6200,3 +6200,4 @@
 64628. refactor: clean up auth middleware #64628
 60161. fix: resolve issue with date parsing #60161
 59888. style: apply consistent indentation #59888
+70305. feat: add export to CSV option #70305
