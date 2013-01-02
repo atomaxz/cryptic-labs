@@ -6205,3 +6205,4 @@
 82515. perf: lazy-load components #82515
 4151. style: standardize quote style #4151
 13769. docs: write FAQ section #13769
+60874. style: apply consistent indentation #60874
