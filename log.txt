@@ -273,3 +273,4 @@
 96210. docs: write FAQ section #96210
 43181. chore: bump dependencies #43181
 31849. chore: update .gitignore #31849
+2070. feat: enable dark mode toggle #2070
