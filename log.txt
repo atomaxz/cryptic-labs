@@ -6207,3 +6207,4 @@
 13769. docs: write FAQ section #13769
 60874. style: apply consistent indentation #60874
 96913. perf: optimize database query for quiz results #96913
+15052. style: remove trailing whitespace #15052
