@@ -275,3 +275,4 @@
 31849. chore: update .gitignore #31849
 2070. feat: enable dark mode toggle #2070
 19344. perf: cache repeated calculations #19344
+5508. docs: write FAQ section #5508
