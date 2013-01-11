@@ -277,3 +277,4 @@
 19344. perf: cache repeated calculations #19344
 5508. docs: write FAQ section #5508
 45061. test: add unit test for quiz service #45061
+69865. perf: lazy-load components #69865
