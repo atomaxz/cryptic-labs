@@ -6219,3 +6219,4 @@
 48583. style: apply consistent indentation #48583
 96901. docs: update README with setup steps #96901
 4981. feat: support email verification #4981
+86069. feat: add user authentication #86069
