@@ -6226,3 +6226,4 @@
 42482. test: test user registration edge cases #42482
 47417. chore: update .gitignore #47417
 73452. feat: support email verification #73452
+34693. feat: support email verification #34693
