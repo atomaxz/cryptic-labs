@@ -6229,3 +6229,4 @@
 34693. feat: support email verification #34693
 91310. perf: reduce image load time #91310
 44326. feat: implement quiz timer feature #44326
+23033. test: test user registration edge cases #23033
