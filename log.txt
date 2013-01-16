@@ -281,3 +281,4 @@
 90675. perf: reduce image load time #90675
 91986. docs: improve code comments in utils #91986
 59938. fix: fix broken CSS in mobile view #59938
+90542. perf: lazy-load components #90542
