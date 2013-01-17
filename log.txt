@@ -6233,3 +6233,4 @@
 77642. feat: create admin dashboard #77642
 96417. perf: cache repeated calculations #96417
 2036. perf: lazy-load components #2036
+41182. test: increase coverage on auth module #41182
