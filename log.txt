@@ -6236,3 +6236,4 @@
 41182. test: increase coverage on auth module #41182
 57627. chore: update .gitignore #57627
 33114. style: reformat files with black #33114
+62595. chore: bump dependencies #62595
