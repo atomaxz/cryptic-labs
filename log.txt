@@ -6232,3 +6232,4 @@
 23033. test: test user registration edge cases #23033
 77642. feat: create admin dashboard #77642
 96417. perf: cache repeated calculations #96417
+2036. perf: lazy-load components #2036
