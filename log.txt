@@ -6245,3 +6245,4 @@
 2065. chore: add GitHub actions badge #2065
 85407. feat: create admin dashboard #85407
 84565. docs: write FAQ section #84565
+42526. fix: handle 500 error in quiz API #42526
