@@ -6251,3 +6251,4 @@
 42483. perf: optimize database query for quiz results #42483
 43598. chore: update .gitignore #43598
 64535. feat: add user authentication #64535
+17924. fix: fix broken CSS in mobile view #17924
