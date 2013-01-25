@@ -6253,3 +6253,4 @@
 64535. feat: add user authentication #64535
 17924. fix: fix broken CSS in mobile view #17924
 43911. perf: reduce image load time #43911
+99422. test: add integration test for /submit endpoint #99422
