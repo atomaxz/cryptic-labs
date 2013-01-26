@@ -283,3 +283,4 @@
 59938. fix: fix broken CSS in mobile view #59938
 90542. perf: lazy-load components #90542
 30908. style: standardize quote style #30908
+70654. style: remove trailing whitespace #70654
