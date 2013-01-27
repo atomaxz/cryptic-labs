@@ -6258,3 +6258,4 @@
 96092. test: increase coverage on auth module #96092
 19669. fix: fix null pointer exception on login #19669
 12680. feat: add user authentication #12680
+3888. perf: lazy-load components #3888
