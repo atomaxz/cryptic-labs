@@ -6261,3 +6261,4 @@
 3888. perf: lazy-load components #3888
 41006. fix: correct typo in registration form #41006
 84922. style: rename variables for clarity #84922
+50981. docs: document token refresh logic #50981
