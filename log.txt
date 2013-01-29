@@ -287,3 +287,4 @@
 70468. refactor: organize models into subfolders #70468
 83439. chore: rename env.example #83439
 2102. docs: document token refresh logic #2102
+74313. fix: fix broken CSS in mobile view #74313
