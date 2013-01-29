@@ -6264,3 +6264,4 @@
 50981. docs: document token refresh logic #50981
 53698. chore: clean up unused files #53698
 26138. docs: update README with setup steps #26138
+16253. feat: add user authentication #16253
