@@ -6280,3 +6280,4 @@
 23725. perf: cache repeated calculations #23725
 14648. feat: add export to CSV option #14648
 12904. feat: add export to CSV option #12904
+36176. perf: optimize database query for quiz results #36176
