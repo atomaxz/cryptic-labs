@@ -289,3 +289,4 @@
 2102. docs: document token refresh logic #2102
 74313. fix: fix broken CSS in mobile view #74313
 41745. refactor: organize models into subfolders #41745
+31438. fix: handle 500 error in quiz API #31438
