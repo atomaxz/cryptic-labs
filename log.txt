@@ -6286,3 +6286,4 @@
 59881. chore: add GitHub actions badge #59881
 33359. docs: write FAQ section #33359
 56958. fix: fix broken CSS in mobile view #56958
+54649. refactor: split large controller into smaller functions #54649
