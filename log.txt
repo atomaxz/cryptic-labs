@@ -6291,3 +6291,4 @@
 95348. fix: handle 500 error in quiz API #95348
 91183. docs: update README with setup steps #91183
 21705. fix: correct typo in registration form #21705
+93138. refactor: clean up auth middleware #93138
