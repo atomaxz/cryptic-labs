@@ -6293,3 +6293,4 @@
 21705. fix: correct typo in registration form #21705
 93138. refactor: clean up auth middleware #93138
 1891. refactor: refactor quiz grading logic #1891
+81182. test: add integration test for /submit endpoint #81182
