@@ -6296,3 +6296,4 @@
 81182. test: add integration test for /submit endpoint #81182
 90015. perf: optimize database query for quiz results #90015
 79686. style: remove trailing whitespace #79686
+70682. perf: optimize database query for quiz results #70682
