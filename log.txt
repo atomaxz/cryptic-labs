@@ -6294,3 +6294,4 @@
 93138. refactor: clean up auth middleware #93138
 1891. refactor: refactor quiz grading logic #1891
 81182. test: add integration test for /submit endpoint #81182
+90015. perf: optimize database query for quiz results #90015
