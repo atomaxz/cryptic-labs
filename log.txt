@@ -6299,3 +6299,4 @@
 70682. perf: optimize database query for quiz results #70682
 46177. test: test user registration edge cases #46177
 25577. style: rename variables for clarity #25577
+14768. feat: enable dark mode toggle #14768
