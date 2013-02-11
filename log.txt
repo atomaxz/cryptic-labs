@@ -6304,3 +6304,4 @@
 18067. test: increase coverage on auth module #18067
 78997. docs: improve code comments in utils #78997
 9478. perf: lazy-load components #9478
+49417. feat: add user authentication #49417
