@@ -6307,3 +6307,4 @@
 49417. feat: add user authentication #49417
 47905. feat: implement quiz timer feature #47905
 77237. chore: rename env.example #77237
+96720. refactor: clean up auth middleware #96720
