@@ -6310,3 +6310,4 @@
 96720. refactor: clean up auth middleware #96720
 79598. fix: fix broken CSS in mobile view #79598
 22126. perf: reduce image load time #22126
+8791. style: standardize quote style #8791
