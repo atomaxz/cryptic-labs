@@ -6309,3 +6309,4 @@
 77237. chore: rename env.example #77237
 96720. refactor: clean up auth middleware #96720
 79598. fix: fix broken CSS in mobile view #79598
+22126. perf: reduce image load time #22126
