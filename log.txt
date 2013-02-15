@@ -6311,3 +6311,4 @@
 79598. fix: fix broken CSS in mobile view #79598
 22126. perf: reduce image load time #22126
 8791. style: standardize quote style #8791
+84354. test: add unit test for quiz service #84354
