@@ -6316,3 +6316,4 @@
 40174. chore: rename env.example #40174
 70303. docs: add API usage examples #70303
 46989. chore: rename env.example #46989
+47239. docs: document token refresh logic #47239
