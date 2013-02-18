@@ -6320,3 +6320,4 @@
 64648. docs: write FAQ section #64648
 79218. refactor: organize models into subfolders #79218
 64098. chore: clean up unused files #64098
+1557. perf: optimize database query for quiz results #1557
