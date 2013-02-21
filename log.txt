@@ -298,3 +298,4 @@
 9833. style: rename variables for clarity #9833
 73395. style: remove trailing whitespace #73395
 82671. docs: clarify environment setup #82671
+22049. fix: fix broken CSS in mobile view #22049
