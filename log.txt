@@ -6333,3 +6333,4 @@
 82786. test: add integration test for /submit endpoint #82786
 45107. fix: prevent crash on empty input #45107
 17634. feat: support email verification #17634
+24784. perf: lazy-load components #24784
