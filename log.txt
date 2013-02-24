@@ -6330,3 +6330,4 @@
 31360. feat: implement quiz timer feature #31360
 64554. test: add integration test for /submit endpoint #64554
 65590. test: increase coverage on auth module #65590
+82786. test: add integration test for /submit endpoint #82786
