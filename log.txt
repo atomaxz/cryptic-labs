@@ -6338,3 +6338,4 @@
 62019. style: apply consistent indentation #62019
 3419. test: increase coverage on auth module #3419
 42368. test: add unit test for quiz service #42368
+34671. refactor: refactor quiz grading logic #34671
