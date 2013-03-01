@@ -6343,3 +6343,4 @@
 32182. fix: fix null pointer exception on login #32182
 29718. docs: improve code comments in utils #29718
 56598. fix: handle 500 error in quiz API #56598
+20657. feat: enable dark mode toggle #20657
