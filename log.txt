@@ -6346,3 +6346,4 @@
 20657. feat: enable dark mode toggle #20657
 34347. refactor: clean up auth middleware #34347
 79001. fix: resolve issue with date parsing #79001
+77771. fix: handle 500 error in quiz API #77771
