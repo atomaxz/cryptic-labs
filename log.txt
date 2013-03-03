@@ -6348,3 +6348,4 @@
 79001. fix: resolve issue with date parsing #79001
 77771. fix: handle 500 error in quiz API #77771
 73296. chore: bump dependencies #73296
+67705. fix: fix broken CSS in mobile view #67705
