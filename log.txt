@@ -6350,3 +6350,4 @@
 73296. chore: bump dependencies #73296
 67705. fix: fix broken CSS in mobile view #67705
 75748. feat: add user authentication #75748
+16006. fix: fix broken CSS in mobile view #16006
