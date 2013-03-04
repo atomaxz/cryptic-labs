@@ -302,3 +302,4 @@
 6924. chore: update .gitignore #6924
 46727. style: standardize quote style #46727
 90056. docs: improve code comments in utils #90056
+61420. fix: handle 500 error in quiz API #61420
