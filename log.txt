@@ -6353,3 +6353,4 @@
 16006. fix: fix broken CSS in mobile view #16006
 29962. feat: create admin dashboard #29962
 77139. chore: bump dependencies #77139
+37163. perf: lazy-load components #37163
