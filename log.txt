@@ -6355,3 +6355,4 @@
 77139. chore: bump dependencies #77139
 37163. perf: lazy-load components #37163
 85839. chore: bump dependencies #85839
+60052. test: test user registration edge cases #60052
