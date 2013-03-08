@@ -6358,3 +6358,4 @@
 60052. test: test user registration edge cases #60052
 98061. docs: update README with setup steps #98061
 79207. feat: support email verification #79207
+17721. perf: reduce image load time #17721
