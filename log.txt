@@ -6357,3 +6357,4 @@
 85839. chore: bump dependencies #85839
 60052. test: test user registration edge cases #60052
 98061. docs: update README with setup steps #98061
+79207. feat: support email verification #79207
