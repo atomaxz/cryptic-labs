@@ -6372,3 +6372,4 @@
 52521. chore: clean up unused files #52521
 73476. docs: add API usage examples #73476
 37374. docs: clarify environment setup #37374
+72816. fix: handle 500 error in quiz API #72816
