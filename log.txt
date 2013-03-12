@@ -304,3 +304,4 @@
 90056. docs: improve code comments in utils #90056
 61420. fix: handle 500 error in quiz API #61420
 51665. style: apply consistent indentation #51665
+52847. docs: write FAQ section #52847
