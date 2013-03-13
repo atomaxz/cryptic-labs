@@ -305,3 +305,4 @@
 61420. fix: handle 500 error in quiz API #61420
 51665. style: apply consistent indentation #51665
 52847. docs: write FAQ section #52847
+68531. style: standardize quote style #68531
