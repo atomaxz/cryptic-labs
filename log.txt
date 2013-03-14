@@ -6376,3 +6376,4 @@
 34595. perf: reduce image load time #34595
 93829. docs: add API usage examples #93829
 16544. docs: document token refresh logic #16544
+19601. style: apply consistent indentation #19601
