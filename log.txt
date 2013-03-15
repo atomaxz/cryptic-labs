@@ -6380,3 +6380,4 @@
 84703. feat: support email verification #84703
 33134. style: apply consistent indentation #33134
 64713. fix: correct typo in registration form #64713
+40029. fix: fix broken CSS in mobile view #40029
