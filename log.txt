@@ -6383,3 +6383,4 @@
 40029. fix: fix broken CSS in mobile view #40029
 74658. fix: prevent crash on empty input #74658
 45330. feat: enable dark mode toggle #45330
+35076. test: increase coverage on auth module #35076
