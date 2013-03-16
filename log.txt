@@ -6385,3 +6385,4 @@
 45330. feat: enable dark mode toggle #45330
 35076. test: increase coverage on auth module #35076
 58806. test: mock database connection in test suite #58806
+96051. docs: document token refresh logic #96051
