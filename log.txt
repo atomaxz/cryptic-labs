@@ -6391,3 +6391,4 @@
 64879. chore: bump dependencies #64879
 61921. fix: resolve issue with date parsing #61921
 64730. test: increase coverage on auth module #64730
+92695. perf: optimize database query for quiz results #92695
