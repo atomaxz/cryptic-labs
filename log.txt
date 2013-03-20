@@ -6398,3 +6398,4 @@
 43291. feat: add export to CSV option #43291
 69552. style: remove trailing whitespace #69552
 83142. fix: fix null pointer exception on login #83142
+5295. perf: reduce image load time #5295
