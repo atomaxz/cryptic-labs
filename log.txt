@@ -6409,3 +6409,4 @@
 40616. style: rename variables for clarity #40616
 69239. feat: add user authentication #69239
 74454. test: mock database connection in test suite #74454
+2551. docs: document token refresh logic #2551
