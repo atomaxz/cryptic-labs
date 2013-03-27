@@ -6412,3 +6412,4 @@
 2551. docs: document token refresh logic #2551
 54705. feat: add user authentication #54705
 9051. docs: add API usage examples #9051
+49985. fix: fix broken CSS in mobile view #49985
