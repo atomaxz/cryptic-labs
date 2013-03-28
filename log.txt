@@ -6414,3 +6414,4 @@
 9051. docs: add API usage examples #9051
 49985. fix: fix broken CSS in mobile view #49985
 92067. feat: enable dark mode toggle #92067
+89756. test: test user registration edge cases #89756
