@@ -314,3 +314,4 @@
 55850. fix: handle 500 error in quiz API #55850
 69971. fix: resolve issue with date parsing #69971
 97418. docs: update README with setup steps #97418
+71729. fix: prevent crash on empty input #71729
