@@ -6425,3 +6425,4 @@
 80887. perf: cache repeated calculations #80887
 59719. feat: implement quiz timer feature #59719
 12767. perf: reduce image load time #12767
+86385. docs: write FAQ section #86385
