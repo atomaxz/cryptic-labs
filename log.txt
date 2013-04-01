@@ -6428,3 +6428,4 @@
 86385. docs: write FAQ section #86385
 24415. fix: prevent crash on empty input #24415
 60175. perf: reduce image load time #60175
+37720. test: mock database connection in test suite #37720
