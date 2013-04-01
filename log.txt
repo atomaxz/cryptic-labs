@@ -6427,3 +6427,4 @@
 12767. perf: reduce image load time #12767
 86385. docs: write FAQ section #86385
 24415. fix: prevent crash on empty input #24415
+60175. perf: reduce image load time #60175
