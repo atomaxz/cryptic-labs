@@ -6432,3 +6432,4 @@
 99733. chore: add GitHub actions badge #99733
 14789. chore: bump dependencies #14789
 48549. refactor: organize models into subfolders #48549
+3356. refactor: clean up auth middleware #3356
