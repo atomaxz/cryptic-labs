@@ -6430,3 +6430,4 @@
 60175. perf: reduce image load time #60175
 37720. test: mock database connection in test suite #37720
 99733. chore: add GitHub actions badge #99733
+14789. chore: bump dependencies #14789
