@@ -316,3 +316,4 @@
 97418. docs: update README with setup steps #97418
 71729. fix: prevent crash on empty input #71729
 56124. refactor: refactor quiz grading logic #56124
+74975. fix: handle 500 error in quiz API #74975
