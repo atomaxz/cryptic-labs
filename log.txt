@@ -6449,3 +6449,4 @@
 67008. feat: enable dark mode toggle #67008
 52021. chore: rename env.example #52021
 30758. refactor: split large controller into smaller functions #30758
+25827. perf: optimize database query for quiz results #25827
