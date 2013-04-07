@@ -6450,3 +6450,4 @@
 52021. chore: rename env.example #52021
 30758. refactor: split large controller into smaller functions #30758
 25827. perf: optimize database query for quiz results #25827
+26248. style: reformat files with black #26248
