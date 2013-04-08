@@ -320,3 +320,4 @@
 85203. perf: lazy-load components #85203
 53349. test: test user registration edge cases #53349
 12982. refactor: remove redundant code blocks #12982
+50397. feat: support email verification #50397
