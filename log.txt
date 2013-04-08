@@ -6453,3 +6453,4 @@
 26248. style: reformat files with black #26248
 16403. docs: add API usage examples #16403
 88526. perf: cache repeated calculations #88526
+97099. feat: enable dark mode toggle #97099
