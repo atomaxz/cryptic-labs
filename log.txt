@@ -6459,3 +6459,4 @@
 78953. test: mock database connection in test suite #78953
 97888. refactor: remove redundant code blocks #97888
 43757. refactor: refactor quiz grading logic #43757
+98812. chore: update .gitignore #98812
