@@ -6463,3 +6463,4 @@
 27720. style: remove trailing whitespace #27720
 93181. fix: prevent crash on empty input #93181
 23652. perf: cache repeated calculations #23652
+91296. fix: prevent crash on empty input #91296
