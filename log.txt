@@ -6465,3 +6465,4 @@
 23652. perf: cache repeated calculations #23652
 91296. fix: prevent crash on empty input #91296
 25566. test: increase coverage on auth module #25566
+52059. style: remove trailing whitespace #52059
