@@ -6468,3 +6468,4 @@
 52059. style: remove trailing whitespace #52059
 84801. docs: add API usage examples #84801
 54100. feat: support email verification #54100
+9276. fix: correct typo in registration form #9276
