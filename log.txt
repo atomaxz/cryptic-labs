@@ -6470,3 +6470,4 @@
 54100. feat: support email verification #54100
 9276. fix: correct typo in registration form #9276
 67142. style: rename variables for clarity #67142
+70211. refactor: organize models into subfolders #70211
