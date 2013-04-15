@@ -6479,3 +6479,4 @@
 23996. feat: create admin dashboard #23996
 11833. docs: improve code comments in utils #11833
 80897. chore: clean up unused files #80897
+14108. fix: fix null pointer exception on login #14108
