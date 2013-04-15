@@ -6476,3 +6476,4 @@
 54209. perf: reduce image load time #54209
 18292. feat: add export to CSV option #18292
 87393. fix: fix broken CSS in mobile view #87393
+23996. feat: create admin dashboard #23996
