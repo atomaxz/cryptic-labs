@@ -327,3 +327,4 @@
 16923. refactor: organize models into subfolders #16923
 95515. feat: implement quiz timer feature #95515
 94282. docs: clarify environment setup #94282
+82354. perf: lazy-load components #82354
