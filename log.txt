@@ -328,3 +328,4 @@
 95515. feat: implement quiz timer feature #95515
 94282. docs: clarify environment setup #94282
 82354. perf: lazy-load components #82354
+58646. fix: prevent crash on empty input #58646
