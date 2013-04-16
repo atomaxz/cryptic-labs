@@ -6482,3 +6482,4 @@
 14108. fix: fix null pointer exception on login #14108
 53554. fix: resolve issue with date parsing #53554
 57069. fix: correct typo in registration form #57069
+9727. docs: write FAQ section #9727
