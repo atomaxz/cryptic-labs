@@ -6488,3 +6488,4 @@
 86488. docs: clarify environment setup #86488
 68495. feat: create admin dashboard #68495
 81665. docs: add API usage examples #81665
+89769. chore: bump dependencies #89769
