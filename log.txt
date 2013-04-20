@@ -6492,3 +6492,4 @@
 23175. fix: fix broken CSS in mobile view #23175
 83090. perf: lazy-load components #83090
 17170. docs: improve code comments in utils #17170
+19250. feat: create admin dashboard #19250
