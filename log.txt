@@ -6495,3 +6495,4 @@
 19250. feat: create admin dashboard #19250
 91960. test: add integration test for /submit endpoint #91960
 60209. refactor: clean up auth middleware #60209
+61285. fix: handle 500 error in quiz API #61285
