@@ -6497,3 +6497,4 @@
 60209. refactor: clean up auth middleware #60209
 61285. fix: handle 500 error in quiz API #61285
 3853. test: test user registration edge cases #3853
+84358. refactor: split large controller into smaller functions #84358
