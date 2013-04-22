@@ -331,3 +331,4 @@
 58646. fix: prevent crash on empty input #58646
 27841. style: standardize quote style #27841
 92053. fix: fix broken CSS in mobile view #92053
+91235. feat: enable dark mode toggle #91235
