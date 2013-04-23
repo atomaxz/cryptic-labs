@@ -6503,3 +6503,4 @@
 30924. docs: clarify environment setup #30924
 28383. refactor: refactor quiz grading logic #28383
 61884. chore: add GitHub actions badge #61884
+24307. refactor: clean up auth middleware #24307
