@@ -333,3 +333,4 @@
 92053. fix: fix broken CSS in mobile view #92053
 91235. feat: enable dark mode toggle #91235
 69935. perf: lazy-load components #69935
+29967. perf: optimize database query for quiz results #29967
