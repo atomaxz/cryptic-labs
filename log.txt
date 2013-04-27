@@ -6513,3 +6513,4 @@
 69452. feat: implement quiz timer feature #69452
 30731. docs: improve code comments in utils #30731
 35988. perf: cache repeated calculations #35988
+64982. perf: optimize database query for quiz results #64982
