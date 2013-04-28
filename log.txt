@@ -6515,3 +6515,4 @@
 35988. perf: cache repeated calculations #35988
 64982. perf: optimize database query for quiz results #64982
 27761. docs: write FAQ section #27761
+54712. chore: add GitHub actions badge #54712
