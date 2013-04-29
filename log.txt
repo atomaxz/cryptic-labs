@@ -338,3 +338,4 @@
 18555. chore: rename env.example #18555
 59811. fix: fix broken CSS in mobile view #59811
 33920. fix: prevent crash on empty input #33920
+10950. docs: write FAQ section #10950
