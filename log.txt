@@ -6521,3 +6521,4 @@
 73931. fix: correct typo in registration form #73931
 12917. style: rename variables for clarity #12917
 90359. refactor: refactor quiz grading logic #90359
+70428. test: increase coverage on auth module #70428
