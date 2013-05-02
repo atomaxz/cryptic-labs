@@ -6527,3 +6527,4 @@
 80300. docs: clarify environment setup #80300
 40389. refactor: refactor quiz grading logic #40389
 52231. refactor: clean up auth middleware #52231
+83550. test: add integration test for /submit endpoint #83550
