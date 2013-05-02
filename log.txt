@@ -6523,3 +6523,4 @@
 90359. refactor: refactor quiz grading logic #90359
 70428. test: increase coverage on auth module #70428
 90603. refactor: organize models into subfolders #90603
+3845. fix: fix null pointer exception on login #3845
