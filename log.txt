@@ -6531,3 +6531,4 @@
 30379. fix: fix broken CSS in mobile view #30379
 60878. fix: prevent crash on empty input #60878
 8588. feat: add user authentication #8588
+73442. feat: enable dark mode toggle #73442
