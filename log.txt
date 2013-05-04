@@ -341,3 +341,4 @@
 10950. docs: write FAQ section #10950
 88703. test: test user registration edge cases #88703
 71156. docs: improve code comments in utils #71156
+39522. perf: lazy-load components #39522
