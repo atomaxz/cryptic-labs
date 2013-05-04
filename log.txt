@@ -6530,3 +6530,4 @@
 83550. test: add integration test for /submit endpoint #83550
 30379. fix: fix broken CSS in mobile view #30379
 60878. fix: prevent crash on empty input #60878
+8588. feat: add user authentication #8588
