@@ -6536,3 +6536,4 @@
 33245. chore: add GitHub actions badge #33245
 16558. feat: support email verification #16558
 52731. perf: optimize database query for quiz results #52731
+51165. test: add unit test for quiz service #51165
