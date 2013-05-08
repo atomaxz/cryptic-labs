@@ -6540,3 +6540,4 @@
 47474. feat: implement quiz timer feature #47474
 63212. fix: correct typo in registration form #63212
 62146. refactor: organize models into subfolders #62146
+5799. feat: support email verification #5799
