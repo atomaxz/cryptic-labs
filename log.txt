@@ -6545,3 +6545,4 @@
 51653. style: remove trailing whitespace #51653
 25261. docs: improve code comments in utils #25261
 91473. docs: write FAQ section #91473
+67354. feat: enable dark mode toggle #67354
