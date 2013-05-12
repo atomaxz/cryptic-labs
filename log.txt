@@ -6549,3 +6549,4 @@
 62411. test: increase coverage on auth module #62411
 12361. refactor: refactor quiz grading logic #12361
 48410. refactor: remove redundant code blocks #48410
+36539. style: standardize quote style #36539
