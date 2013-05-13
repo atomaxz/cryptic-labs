@@ -6553,3 +6553,4 @@
 49875. style: reformat files with black #49875
 72379. feat: enable dark mode toggle #72379
 81378. docs: clarify environment setup #81378
+10181. style: standardize quote style #10181
