@@ -348,3 +348,4 @@
 11196. chore: add GitHub actions badge #11196
 16205. test: test user registration edge cases #16205
 91739. docs: document token refresh logic #91739
+57619. perf: lazy-load components #57619
