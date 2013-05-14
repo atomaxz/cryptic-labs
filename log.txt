@@ -347,3 +347,4 @@
 88087. chore: clean up unused files #88087
 11196. chore: add GitHub actions badge #11196
 16205. test: test user registration edge cases #16205
+91739. docs: document token refresh logic #91739
