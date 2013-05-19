@@ -6568,3 +6568,4 @@
 31236. style: standardize quote style #31236
 34980. refactor: clean up auth middleware #34980
 9020. chore: add GitHub actions badge #9020
+33841. fix: handle 500 error in quiz API #33841
