@@ -6570,3 +6570,4 @@
 9020. chore: add GitHub actions badge #9020
 33841. fix: handle 500 error in quiz API #33841
 64012. fix: fix broken CSS in mobile view #64012
+72706. perf: reduce image load time #72706
