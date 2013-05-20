@@ -6577,3 +6577,4 @@
 46880. perf: cache repeated calculations #46880
 9456. test: increase coverage on auth module #9456
 9533. style: reformat files with black #9533
+27420. refactor: split large controller into smaller functions #27420
