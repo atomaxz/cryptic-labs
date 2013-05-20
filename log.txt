@@ -6574,3 +6574,4 @@
 89913. docs: write FAQ section #89913
 72310. docs: write FAQ section #72310
 55992. docs: add API usage examples #55992
+46880. perf: cache repeated calculations #46880
