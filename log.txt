@@ -6578,3 +6578,4 @@
 9456. test: increase coverage on auth module #9456
 9533. style: reformat files with black #9533
 27420. refactor: split large controller into smaller functions #27420
+59291. fix: prevent crash on empty input #59291
