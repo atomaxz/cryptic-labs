@@ -6592,3 +6592,4 @@
 38215. fix: fix null pointer exception on login #38215
 77958. fix: handle 500 error in quiz API #77958
 34507. feat: create admin dashboard #34507
+93688. fix: prevent crash on empty input #93688
