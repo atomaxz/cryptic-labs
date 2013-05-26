@@ -359,3 +359,4 @@
 16869. feat: create admin dashboard #16869
 66748. chore: bump dependencies #66748
 43115. docs: write FAQ section #43115
+71304. chore: add GitHub actions badge #71304
