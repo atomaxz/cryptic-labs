@@ -6593,3 +6593,4 @@
 77958. fix: handle 500 error in quiz API #77958
 34507. feat: create admin dashboard #34507
 93688. fix: prevent crash on empty input #93688
+75542. style: apply consistent indentation #75542
