@@ -6598,3 +6598,4 @@
 27055. fix: prevent crash on empty input #27055
 44650. perf: lazy-load components #44650
 18104. test: increase coverage on auth module #18104
+57887. feat: support email verification #57887
