@@ -6596,3 +6596,4 @@
 75542. style: apply consistent indentation #75542
 5477. refactor: clean up auth middleware #5477
 27055. fix: prevent crash on empty input #27055
+44650. perf: lazy-load components #44650
