@@ -6600,3 +6600,4 @@
 18104. test: increase coverage on auth module #18104
 57887. feat: support email verification #57887
 80186. refactor: split large controller into smaller functions #80186
+60050. style: remove trailing whitespace #60050
