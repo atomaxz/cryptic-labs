@@ -360,3 +360,4 @@
 66748. chore: bump dependencies #66748
 43115. docs: write FAQ section #43115
 71304. chore: add GitHub actions badge #71304
+53440. test: test user registration edge cases #53440
