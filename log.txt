@@ -6605,3 +6605,4 @@
 3121. style: apply consistent indentation #3121
 4590. test: add integration test for /submit endpoint #4590
 36284. docs: clarify environment setup #36284
+20816. fix: fix broken CSS in mobile view #20816
