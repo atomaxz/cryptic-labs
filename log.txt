@@ -362,3 +362,4 @@
 71304. chore: add GitHub actions badge #71304
 53440. test: test user registration edge cases #53440
 39820. test: add integration test for /submit endpoint #39820
+99757. refactor: clean up auth middleware #99757
