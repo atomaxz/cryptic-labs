@@ -6615,3 +6615,4 @@
 56487. docs: clarify environment setup #56487
 91834. fix: correct typo in registration form #91834
 41414. fix: handle 500 error in quiz API #41414
+6355. refactor: remove redundant code blocks #6355
