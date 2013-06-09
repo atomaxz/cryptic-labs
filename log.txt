@@ -6623,3 +6623,4 @@
 1806. docs: add API usage examples #1806
 98102. style: reformat files with black #98102
 3445. chore: add GitHub actions badge #3445
+17033. docs: write FAQ section #17033
