@@ -6627,3 +6627,4 @@
 38536. docs: write FAQ section #38536
 49806. fix: fix null pointer exception on login #49806
 48930. chore: update .gitignore #48930
+75789. test: test user registration edge cases #75789
