@@ -368,3 +368,4 @@
 60067. fix: correct typo in registration form #60067
 83500. docs: improve code comments in utils #83500
 23354. docs: clarify environment setup #23354
+65305. test: test user registration edge cases #65305
