@@ -6629,3 +6629,4 @@
 48930. chore: update .gitignore #48930
 75789. test: test user registration edge cases #75789
 2211. style: reformat files with black #2211
+66686. chore: add GitHub actions badge #66686
