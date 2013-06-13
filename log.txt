@@ -370,3 +370,4 @@
 23354. docs: clarify environment setup #23354
 65305. test: test user registration edge cases #65305
 97233. refactor: refactor quiz grading logic #97233
+3958. refactor: remove redundant code blocks #3958
