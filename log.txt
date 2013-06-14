@@ -6637,3 +6637,4 @@
 95031. test: add unit test for quiz service #95031
 46257. docs: document token refresh logic #46257
 10301. feat: implement quiz timer feature #10301
+48632. fix: prevent crash on empty input #48632
