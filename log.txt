@@ -6641,3 +6641,4 @@
 86374. test: add integration test for /submit endpoint #86374
 98079. perf: reduce image load time #98079
 82900. style: rename variables for clarity #82900
+19751. refactor: split large controller into smaller functions #19751
