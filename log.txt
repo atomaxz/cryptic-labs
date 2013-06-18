@@ -6649,3 +6649,4 @@
 87984. feat: create admin dashboard #87984
 21831. test: add integration test for /submit endpoint #21831
 39207. style: standardize quote style #39207
+0956. chore: add GitHub actions badge #956
