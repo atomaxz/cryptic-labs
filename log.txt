@@ -6652,3 +6652,4 @@
 0956. chore: add GitHub actions badge #956
 41475. chore: clean up unused files #41475
 78139. feat: add user authentication #78139
+45972. docs: write FAQ section #45972
