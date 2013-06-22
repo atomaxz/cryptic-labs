@@ -378,3 +378,4 @@
 21774. feat: add export to CSV option #21774
 22827. docs: document token refresh logic #22827
 91992. feat: enable dark mode toggle #91992
+3927. fix: fix broken CSS in mobile view #3927
