@@ -380,3 +380,4 @@
 91992. feat: enable dark mode toggle #91992
 3927. fix: fix broken CSS in mobile view #3927
 7318. refactor: clean up auth middleware #7318
+8656. fix: resolve issue with date parsing #8656
