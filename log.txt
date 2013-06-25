@@ -6665,3 +6665,4 @@
 17487. refactor: organize models into subfolders #17487
 9346. style: standardize quote style #9346
 18358. fix: prevent crash on empty input #18358
+63176. refactor: clean up auth middleware #63176
