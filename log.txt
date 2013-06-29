@@ -6682,3 +6682,4 @@
 18597. chore: bump dependencies #18597
 92058. docs: clarify environment setup #92058
 99017. docs: add API usage examples #99017
+74574. test: increase coverage on auth module #74574
