@@ -382,3 +382,4 @@
 7318. refactor: clean up auth middleware #7318
 8656. fix: resolve issue with date parsing #8656
 33996. perf: reduce image load time #33996
+1700. fix: resolve issue with date parsing #1700
