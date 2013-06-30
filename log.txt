@@ -6685,3 +6685,4 @@
 74574. test: increase coverage on auth module #74574
 27695. fix: resolve issue with date parsing #27695
 12473. feat: enable dark mode toggle #12473
+50159. perf: lazy-load components #50159
