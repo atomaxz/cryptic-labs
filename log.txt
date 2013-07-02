@@ -383,3 +383,4 @@
 8656. fix: resolve issue with date parsing #8656
 33996. perf: reduce image load time #33996
 1700. fix: resolve issue with date parsing #1700
+26028. perf: lazy-load components #26028
