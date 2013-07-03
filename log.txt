@@ -6693,3 +6693,4 @@
 35301. fix: correct typo in registration form #35301
 45601. refactor: remove redundant code blocks #45601
 44768. fix: fix broken CSS in mobile view #44768
+0900. perf: optimize database query for quiz results #900
