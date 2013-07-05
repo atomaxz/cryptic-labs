@@ -385,3 +385,4 @@
 1700. fix: resolve issue with date parsing #1700
 26028. perf: lazy-load components #26028
 12151. test: increase coverage on auth module #12151
+83334. fix: fix null pointer exception on login #83334
