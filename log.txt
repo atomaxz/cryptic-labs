@@ -6700,3 +6700,4 @@
 50250. feat: enable dark mode toggle #50250
 19904. docs: write FAQ section #19904
 62540. style: remove trailing whitespace #62540
+9664. docs: update README with setup steps #9664
