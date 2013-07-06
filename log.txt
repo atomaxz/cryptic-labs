@@ -6701,3 +6701,4 @@
 19904. docs: write FAQ section #19904
 62540. style: remove trailing whitespace #62540
 9664. docs: update README with setup steps #9664
+14644. perf: lazy-load components #14644
