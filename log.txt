@@ -6703,3 +6703,4 @@
 9664. docs: update README with setup steps #9664
 14644. perf: lazy-load components #14644
 14394. fix: correct typo in registration form #14394
+64171. chore: bump dependencies #64171
