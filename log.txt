@@ -6704,3 +6704,4 @@
 14644. perf: lazy-load components #14644
 14394. fix: correct typo in registration form #14394
 64171. chore: bump dependencies #64171
+17540. chore: clean up unused files #17540
