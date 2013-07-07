@@ -387,3 +387,4 @@
 12151. test: increase coverage on auth module #12151
 83334. fix: fix null pointer exception on login #83334
 24297. docs: add API usage examples #24297
+28476. test: test user registration edge cases #28476
