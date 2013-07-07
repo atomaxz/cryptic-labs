@@ -6705,3 +6705,4 @@
 14394. fix: correct typo in registration form #14394
 64171. chore: bump dependencies #64171
 17540. chore: clean up unused files #17540
+18161. perf: cache repeated calculations #18161
