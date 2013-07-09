@@ -6710,3 +6710,4 @@
 42991. chore: clean up unused files #42991
 95203. refactor: clean up auth middleware #95203
 26296. docs: document token refresh logic #26296
+88103. test: test user registration edge cases #88103
