@@ -6713,3 +6713,4 @@
 88103. test: test user registration edge cases #88103
 6573. fix: fix null pointer exception on login #6573
 4203. chore: rename env.example #4203
+82048. docs: clarify environment setup #82048
