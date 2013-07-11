@@ -390,3 +390,4 @@
 28476. test: test user registration edge cases #28476
 25315. chore: update .gitignore #25315
 36046. fix: correct typo in registration form #36046
+52361. test: test user registration edge cases #52361
