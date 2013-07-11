@@ -389,3 +389,4 @@
 24297. docs: add API usage examples #24297
 28476. test: test user registration edge cases #28476
 25315. chore: update .gitignore #25315
+36046. fix: correct typo in registration form #36046
