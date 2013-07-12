@@ -391,3 +391,4 @@
 25315. chore: update .gitignore #25315
 36046. fix: correct typo in registration form #36046
 52361. test: test user registration edge cases #52361
+20518. fix: resolve issue with date parsing #20518
