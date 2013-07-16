@@ -394,3 +394,4 @@
 20518. fix: resolve issue with date parsing #20518
 87619. docs: document token refresh logic #87619
 77403. perf: optimize database query for quiz results #77403
+62716. fix: fix broken CSS in mobile view #62716
