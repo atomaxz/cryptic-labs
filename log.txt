@@ -6734,3 +6734,4 @@
 79491. feat: support email verification #79491
 85917. test: mock database connection in test suite #85917
 12053. chore: update .gitignore #12053
+17898. perf: optimize database query for quiz results #17898
