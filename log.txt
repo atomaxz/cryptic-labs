@@ -6736,3 +6736,4 @@
 12053. chore: update .gitignore #12053
 17898. perf: optimize database query for quiz results #17898
 56419. perf: lazy-load components #56419
+84997. feat: enable dark mode toggle #84997
