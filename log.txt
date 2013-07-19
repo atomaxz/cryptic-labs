@@ -397,3 +397,4 @@
 62716. fix: fix broken CSS in mobile view #62716
 32831. refactor: clean up auth middleware #32831
 52691. test: test user registration edge cases #52691
+45510. chore: bump dependencies #45510
