@@ -399,3 +399,4 @@
 52691. test: test user registration edge cases #52691
 45510. chore: bump dependencies #45510
 18869. perf: cache repeated calculations #18869
+37080. perf: reduce image load time #37080
