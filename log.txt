@@ -401,3 +401,4 @@
 18869. perf: cache repeated calculations #18869
 37080. perf: reduce image load time #37080
 91529. perf: reduce image load time #91529
+31629. style: standardize quote style #31629
