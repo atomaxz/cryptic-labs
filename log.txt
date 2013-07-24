@@ -6753,3 +6753,4 @@
 34761. fix: fix null pointer exception on login #34761
 21072. style: apply consistent indentation #21072
 89819. fix: correct typo in registration form #89819
+18862. style: reformat files with black #18862
