@@ -6755,3 +6755,4 @@
 89819. fix: correct typo in registration form #89819
 18862. style: reformat files with black #18862
 68372. feat: add export to CSV option #68372
+45341. refactor: organize models into subfolders #45341
