@@ -6756,3 +6756,4 @@
 18862. style: reformat files with black #18862
 68372. feat: add export to CSV option #68372
 45341. refactor: organize models into subfolders #45341
+81337. chore: update .gitignore #81337
