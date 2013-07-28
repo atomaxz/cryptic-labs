@@ -6762,3 +6762,4 @@
 60225. feat: add user authentication #60225
 55974. fix: resolve issue with date parsing #55974
 43950. feat: add export to CSV option #43950
+48036. fix: correct typo in registration form #48036
