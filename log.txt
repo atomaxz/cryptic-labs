@@ -6763,3 +6763,4 @@
 55974. fix: resolve issue with date parsing #55974
 43950. feat: add export to CSV option #43950
 48036. fix: correct typo in registration form #48036
+96075. chore: add GitHub actions badge #96075
