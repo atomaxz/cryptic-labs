@@ -406,3 +406,4 @@
 38897. docs: write FAQ section #38897
 64447. chore: bump dependencies #64447
 51046. fix: handle 500 error in quiz API #51046
+36140. docs: update README with setup steps #36140
