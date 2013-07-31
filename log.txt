@@ -6770,3 +6770,4 @@
 69385. style: reformat files with black #69385
 16381. style: rename variables for clarity #16381
 72108. docs: clarify environment setup #72108
+33248. feat: support email verification #33248
