@@ -6788,3 +6788,4 @@
 1336. refactor: remove redundant code blocks #1336
 81321. test: add integration test for /submit endpoint #81321
 57383. refactor: remove redundant code blocks #57383
+59073. test: test user registration edge cases #59073
