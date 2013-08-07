@@ -6795,3 +6795,4 @@
 96686. fix: fix broken CSS in mobile view #96686
 59066. feat: enable dark mode toggle #59066
 37001. fix: resolve issue with date parsing #37001
+4766. perf: reduce image load time #4766
