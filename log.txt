@@ -6792,3 +6792,4 @@
 51045. refactor: split large controller into smaller functions #51045
 91226. docs: write FAQ section #91226
 29805. feat: create admin dashboard #29805
+96686. fix: fix broken CSS in mobile view #96686
