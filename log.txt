@@ -414,3 +414,4 @@
 94941. perf: optimize database query for quiz results #94941
 83673. fix: resolve issue with date parsing #83673
 55597. style: reformat files with black #55597
+6961. perf: lazy-load components #6961
