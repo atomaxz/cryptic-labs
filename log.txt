@@ -6797,3 +6797,4 @@
 37001. fix: resolve issue with date parsing #37001
 4766. perf: reduce image load time #4766
 90768. docs: improve code comments in utils #90768
+71377. test: mock database connection in test suite #71377
