@@ -6801,3 +6801,4 @@
 66745. style: standardize quote style #66745
 68064. feat: add export to CSV option #68064
 38230. refactor: organize models into subfolders #38230
+13826. fix: correct typo in registration form #13826
