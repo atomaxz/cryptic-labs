@@ -6804,3 +6804,4 @@
 13826. fix: correct typo in registration form #13826
 84088. docs: document token refresh logic #84088
 63554. perf: reduce image load time #63554
+15792. chore: bump dependencies #15792
