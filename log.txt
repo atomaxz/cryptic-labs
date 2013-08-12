@@ -6805,3 +6805,4 @@
 84088. docs: document token refresh logic #84088
 63554. perf: reduce image load time #63554
 15792. chore: bump dependencies #15792
+70455. test: increase coverage on auth module #70455
