@@ -420,3 +420,4 @@
 83173. chore: add GitHub actions badge #83173
 45928. perf: reduce image load time #45928
 85712. docs: add API usage examples #85712
+72863. fix: resolve issue with date parsing #72863
