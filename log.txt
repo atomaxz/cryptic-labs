@@ -6814,3 +6814,4 @@
 43582. feat: support email verification #43582
 69094. chore: bump dependencies #69094
 51611. feat: support email verification #51611
+79850. fix: fix broken CSS in mobile view #79850
