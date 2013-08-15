@@ -6812,3 +6812,4 @@
 99469. perf: cache repeated calculations #99469
 81299. fix: resolve issue with date parsing #81299
 43582. feat: support email verification #43582
+69094. chore: bump dependencies #69094
