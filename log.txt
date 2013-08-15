@@ -6815,3 +6815,4 @@
 69094. chore: bump dependencies #69094
 51611. feat: support email verification #51611
 79850. fix: fix broken CSS in mobile view #79850
+80379. chore: update .gitignore #80379
