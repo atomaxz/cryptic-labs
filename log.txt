@@ -6824,3 +6824,4 @@
 45849. refactor: refactor quiz grading logic #45849
 59418. perf: reduce image load time #59418
 39965. style: remove trailing whitespace #39965
+35543. feat: support email verification #35543
