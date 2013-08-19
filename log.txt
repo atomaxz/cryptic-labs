@@ -6826,3 +6826,4 @@
 39965. style: remove trailing whitespace #39965
 35543. feat: support email verification #35543
 46419. docs: update README with setup steps #46419
+80760. feat: create admin dashboard #80760
