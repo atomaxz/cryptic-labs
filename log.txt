@@ -6831,3 +6831,4 @@
 31399. test: add integration test for /submit endpoint #31399
 41579. test: add integration test for /submit endpoint #41579
 1233. fix: correct typo in registration form #1233
+99495. docs: document token refresh logic #99495
