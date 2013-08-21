@@ -6833,3 +6833,4 @@
 1233. fix: correct typo in registration form #1233
 99495. docs: document token refresh logic #99495
 39676. style: rename variables for clarity #39676
+24742. perf: cache repeated calculations #24742
