@@ -6837,3 +6837,4 @@
 95865. chore: bump dependencies #95865
 12866. style: apply consistent indentation #12866
 44475. fix: fix broken CSS in mobile view #44475
+38142. style: apply consistent indentation #38142
