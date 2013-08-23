@@ -6842,3 +6842,4 @@
 71214. refactor: refactor quiz grading logic #71214
 0719. refactor: remove redundant code blocks #719
 66576. fix: fix null pointer exception on login #66576
+5580. test: add integration test for /submit endpoint #5580
