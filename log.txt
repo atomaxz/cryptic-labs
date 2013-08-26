@@ -428,3 +428,4 @@
 71835. perf: lazy-load components #71835
 65472. fix: fix broken CSS in mobile view #65472
 38789. fix: fix broken CSS in mobile view #38789
+49198. fix: fix broken CSS in mobile view #49198
