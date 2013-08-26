@@ -429,3 +429,4 @@
 65472. fix: fix broken CSS in mobile view #65472
 38789. fix: fix broken CSS in mobile view #38789
 49198. fix: fix broken CSS in mobile view #49198
+62169. perf: reduce image load time #62169
