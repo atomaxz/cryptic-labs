@@ -430,3 +430,4 @@
 38789. fix: fix broken CSS in mobile view #38789
 49198. fix: fix broken CSS in mobile view #49198
 62169. perf: reduce image load time #62169
+98042. test: mock database connection in test suite #98042
