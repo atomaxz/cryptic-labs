@@ -6860,3 +6860,4 @@
 94988. perf: reduce image load time #94988
 92414. feat: implement quiz timer feature #92414
 18995. refactor: refactor quiz grading logic #18995
+88179. fix: fix broken CSS in mobile view #88179
