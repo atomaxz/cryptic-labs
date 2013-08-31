@@ -6863,3 +6863,4 @@
 88179. fix: fix broken CSS in mobile view #88179
 97167. refactor: split large controller into smaller functions #97167
 8966. style: rename variables for clarity #8966
+51487. perf: optimize database query for quiz results #51487
