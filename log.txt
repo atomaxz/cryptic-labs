@@ -6867,3 +6867,4 @@
 77867. refactor: remove redundant code blocks #77867
 38007. feat: support email verification #38007
 49747. fix: correct typo in registration form #49747
+51096. docs: update README with setup steps #51096
