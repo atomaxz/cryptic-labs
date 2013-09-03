@@ -434,3 +434,4 @@
 95200. test: add unit test for quiz service #95200
 86273. feat: create admin dashboard #86273
 69066. style: standardize quote style #69066
+17222. fix: fix null pointer exception on login #17222
