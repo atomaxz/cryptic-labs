@@ -6870,3 +6870,4 @@
 51096. docs: update README with setup steps #51096
 40953. feat: add export to CSV option #40953
 9096. feat: add export to CSV option #9096
+39890. test: increase coverage on auth module #39890
