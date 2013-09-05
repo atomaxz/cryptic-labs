@@ -6872,3 +6872,4 @@
 9096. feat: add export to CSV option #9096
 39890. test: increase coverage on auth module #39890
 33629. feat: create admin dashboard #33629
+32240. feat: enable dark mode toggle #32240
