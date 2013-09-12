@@ -441,3 +441,4 @@
 68608. refactor: organize models into subfolders #68608
 62053. docs: clarify environment setup #62053
 72272. perf: reduce image load time #72272
+21853. feat: support email verification #21853
