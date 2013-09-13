@@ -6889,3 +6889,4 @@
 49635. style: rename variables for clarity #49635
 17281. refactor: remove redundant code blocks #17281
 27587. refactor: organize models into subfolders #27587
+10829. perf: lazy-load components #10829
