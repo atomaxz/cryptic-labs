@@ -6890,3 +6890,4 @@
 17281. refactor: remove redundant code blocks #17281
 27587. refactor: organize models into subfolders #27587
 10829. perf: lazy-load components #10829
+68519. chore: add GitHub actions badge #68519
