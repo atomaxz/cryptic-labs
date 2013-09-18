@@ -6900,3 +6900,4 @@
 46577. style: reformat files with black #46577
 88589. refactor: clean up auth middleware #88589
 24004. refactor: organize models into subfolders #24004
+71294. style: standardize quote style #71294
