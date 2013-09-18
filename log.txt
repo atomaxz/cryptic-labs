@@ -6903,3 +6903,4 @@
 71294. style: standardize quote style #71294
 50972. feat: add user authentication #50972
 71158. chore: rename env.example #71158
+35121. fix: prevent crash on empty input #35121
