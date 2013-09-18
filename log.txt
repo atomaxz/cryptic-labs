@@ -6901,3 +6901,4 @@
 88589. refactor: clean up auth middleware #88589
 24004. refactor: organize models into subfolders #24004
 71294. style: standardize quote style #71294
+50972. feat: add user authentication #50972
