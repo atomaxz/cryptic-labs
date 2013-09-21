@@ -6911,3 +6911,4 @@
 97982. feat: enable dark mode toggle #97982
 33715. perf: cache repeated calculations #33715
 23313. refactor: split large controller into smaller functions #23313
+35060. test: add integration test for /submit endpoint #35060
