@@ -445,3 +445,4 @@
 51619. refactor: remove redundant code blocks #51619
 37680. perf: optimize database query for quiz results #37680
 83756. feat: add export to CSV option #83756
+55590. perf: cache repeated calculations #55590
