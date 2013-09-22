@@ -6915,3 +6915,4 @@
 15107. docs: add API usage examples #15107
 33741. docs: clarify environment setup #33741
 37823. perf: lazy-load components #37823
+36759. refactor: split large controller into smaller functions #36759
