@@ -6914,3 +6914,4 @@
 35060. test: add integration test for /submit endpoint #35060
 15107. docs: add API usage examples #15107
 33741. docs: clarify environment setup #33741
+37823. perf: lazy-load components #37823
