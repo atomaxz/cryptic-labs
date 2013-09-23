@@ -6919,3 +6919,4 @@
 39250. fix: fix broken CSS in mobile view #39250
 36833. chore: clean up unused files #36833
 48229. refactor: refactor quiz grading logic #48229
+58677. test: add unit test for quiz service #58677
