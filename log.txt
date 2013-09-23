@@ -6922,3 +6922,4 @@
 58677. test: add unit test for quiz service #58677
 11822. fix: handle 500 error in quiz API #11822
 91040. test: mock database connection in test suite #91040
+3712. test: add integration test for /submit endpoint #3712
