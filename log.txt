@@ -6924,3 +6924,4 @@
 91040. test: mock database connection in test suite #91040
 3712. test: add integration test for /submit endpoint #3712
 87274. feat: enable dark mode toggle #87274
+59672. chore: update .gitignore #59672
