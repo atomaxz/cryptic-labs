@@ -6930,3 +6930,4 @@
 40424. perf: reduce image load time #40424
 40487. refactor: remove redundant code blocks #40487
 80735. feat: implement quiz timer feature #80735
+80632. test: add integration test for /submit endpoint #80632
