@@ -6932,3 +6932,4 @@
 80735. feat: implement quiz timer feature #80735
 80632. test: add integration test for /submit endpoint #80632
 17426. style: apply consistent indentation #17426
+19497. test: test user registration edge cases #19497
