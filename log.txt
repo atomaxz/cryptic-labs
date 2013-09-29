@@ -449,3 +449,4 @@
 96930. docs: document token refresh logic #96930
 18120. chore: clean up unused files #18120
 17486. chore: rename env.example #17486
+13264. fix: fix broken CSS in mobile view #13264
