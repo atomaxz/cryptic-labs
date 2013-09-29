@@ -6941,3 +6941,4 @@
 83337. feat: enable dark mode toggle #83337
 41158. fix: resolve issue with date parsing #41158
 24531. refactor: organize models into subfolders #24531
+46968. refactor: clean up auth middleware #46968
