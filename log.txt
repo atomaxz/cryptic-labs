@@ -6949,3 +6949,4 @@
 83261. feat: support email verification #83261
 24662. fix: fix null pointer exception on login #24662
 46358. fix: fix null pointer exception on login #46358
+69598. refactor: clean up auth middleware #69598
