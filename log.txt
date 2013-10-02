@@ -450,3 +450,4 @@
 18120. chore: clean up unused files #18120
 17486. chore: rename env.example #17486
 13264. fix: fix broken CSS in mobile view #13264
+61116. fix: fix null pointer exception on login #61116
