@@ -6951,3 +6951,4 @@
 46358. fix: fix null pointer exception on login #46358
 69598. refactor: clean up auth middleware #69598
 92560. fix: fix broken CSS in mobile view #92560
+91717. style: reformat files with black #91717
