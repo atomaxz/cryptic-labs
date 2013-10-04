@@ -6955,3 +6955,4 @@
 56059. perf: optimize database query for quiz results #56059
 41172. fix: handle 500 error in quiz API #41172
 55044. fix: prevent crash on empty input #55044
+37321. fix: fix broken CSS in mobile view #37321
