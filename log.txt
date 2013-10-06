@@ -6959,3 +6959,4 @@
 96471. refactor: clean up auth middleware #96471
 86096. refactor: refactor quiz grading logic #86096
 24919. perf: lazy-load components #24919
+46092. style: reformat files with black #46092
