@@ -6963,3 +6963,4 @@
 96448. chore: bump dependencies #96448
 1435. feat: create admin dashboard #1435
 16416. chore: bump dependencies #16416
+11235. fix: fix null pointer exception on login #11235
