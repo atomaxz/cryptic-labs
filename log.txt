@@ -6966,3 +6966,4 @@
 11235. fix: fix null pointer exception on login #11235
 93633. perf: reduce image load time #93633
 77391. style: rename variables for clarity #77391
+58479. feat: support email verification #58479
