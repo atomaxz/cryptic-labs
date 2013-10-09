@@ -6968,3 +6968,4 @@
 77391. style: rename variables for clarity #77391
 58479. feat: support email verification #58479
 53452. chore: bump dependencies #53452
+63396. feat: enable dark mode toggle #63396
