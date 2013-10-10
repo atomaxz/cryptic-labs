@@ -6973,3 +6973,4 @@
 37067. feat: support email verification #37067
 50208. chore: bump dependencies #50208
 31752. refactor: remove redundant code blocks #31752
+84254. test: test user registration edge cases #84254
