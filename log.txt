@@ -6971,3 +6971,4 @@
 63396. feat: enable dark mode toggle #63396
 90160. feat: add user authentication #90160
 37067. feat: support email verification #37067
+50208. chore: bump dependencies #50208
