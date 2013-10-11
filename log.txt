@@ -6974,3 +6974,4 @@
 50208. chore: bump dependencies #50208
 31752. refactor: remove redundant code blocks #31752
 84254. test: test user registration edge cases #84254
+8842. docs: add API usage examples #8842
