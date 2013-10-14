@@ -6979,3 +6979,4 @@
 80373. chore: rename env.example #80373
 93221. chore: update .gitignore #93221
 17096. refactor: organize models into subfolders #17096
+66504. feat: support email verification #66504
