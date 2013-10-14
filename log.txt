@@ -6978,3 +6978,4 @@
 19443. style: remove trailing whitespace #19443
 80373. chore: rename env.example #80373
 93221. chore: update .gitignore #93221
+17096. refactor: organize models into subfolders #17096
