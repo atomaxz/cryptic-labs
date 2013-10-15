@@ -6980,3 +6980,4 @@
 93221. chore: update .gitignore #93221
 17096. refactor: organize models into subfolders #17096
 66504. feat: support email verification #66504
+7797. test: mock database connection in test suite #7797
