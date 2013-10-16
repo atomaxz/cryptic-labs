@@ -6984,3 +6984,4 @@
 39796. style: reformat files with black #39796
 2464. docs: update README with setup steps #2464
 8135. test: test user registration edge cases #8135
+58828. docs: document token refresh logic #58828
