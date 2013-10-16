@@ -456,3 +456,4 @@
 44714. perf: optimize database query for quiz results #44714
 27908. test: add unit test for quiz service #27908
 74961. chore: add GitHub actions badge #74961
+59640. perf: optimize database query for quiz results #59640
