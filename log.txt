@@ -6993,3 +6993,4 @@
 92734. docs: add API usage examples #92734
 6289. perf: cache repeated calculations #6289
 45803. docs: document token refresh logic #45803
+62907. feat: enable dark mode toggle #62907
