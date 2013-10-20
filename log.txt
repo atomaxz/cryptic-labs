@@ -6992,3 +6992,4 @@
 2510. docs: clarify environment setup #2510
 92734. docs: add API usage examples #92734
 6289. perf: cache repeated calculations #6289
+45803. docs: document token refresh logic #45803
