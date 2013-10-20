@@ -6998,3 +6998,4 @@
 21606. chore: bump dependencies #21606
 75752. test: increase coverage on auth module #75752
 45781. docs: add API usage examples #45781
+83736. perf: reduce image load time #83736
