@@ -6999,3 +6999,4 @@
 75752. test: increase coverage on auth module #75752
 45781. docs: add API usage examples #45781
 83736. perf: reduce image load time #83736
+88641. feat: enable dark mode toggle #88641
