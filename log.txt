@@ -460,3 +460,4 @@
 38684. style: reformat files with black #38684
 54134. perf: cache repeated calculations #54134
 42320. fix: fix null pointer exception on login #42320
+89610. perf: optimize database query for quiz results #89610
