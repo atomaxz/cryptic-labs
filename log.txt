@@ -7005,3 +7005,4 @@
 62414. feat: add export to CSV option #62414
 84158. fix: resolve issue with date parsing #84158
 88600. test: add integration test for /submit endpoint #88600
+42382. perf: lazy-load components #42382
