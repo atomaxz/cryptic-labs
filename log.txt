@@ -7004,3 +7004,4 @@
 58815. refactor: refactor quiz grading logic #58815
 62414. feat: add export to CSV option #62414
 84158. fix: resolve issue with date parsing #84158
+88600. test: add integration test for /submit endpoint #88600
