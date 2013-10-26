@@ -7020,3 +7020,4 @@
 15148. perf: lazy-load components #15148
 87165. refactor: remove redundant code blocks #87165
 63109. refactor: organize models into subfolders #63109
+97206. docs: update README with setup steps #97206
