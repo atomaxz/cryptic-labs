@@ -7023,3 +7023,4 @@
 97206. docs: update README with setup steps #97206
 93672. style: remove trailing whitespace #93672
 16680. test: add integration test for /submit endpoint #16680
+25652. fix: fix null pointer exception on login #25652
