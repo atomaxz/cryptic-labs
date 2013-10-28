@@ -7025,3 +7025,4 @@
 16680. test: add integration test for /submit endpoint #16680
 25652. fix: fix null pointer exception on login #25652
 55860. test: add unit test for quiz service #55860
+1594. chore: rename env.example #1594
