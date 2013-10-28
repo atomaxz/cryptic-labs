@@ -464,3 +464,4 @@
 96545. docs: document token refresh logic #96545
 77693. perf: cache repeated calculations #77693
 92610. chore: update .gitignore #92610
+54281. test: test user registration edge cases #54281
