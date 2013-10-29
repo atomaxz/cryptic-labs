@@ -7029,3 +7029,4 @@
 29519. chore: clean up unused files #29519
 18173. fix: resolve issue with date parsing #18173
 62557. docs: clarify environment setup #62557
+81262. fix: fix null pointer exception on login #81262
