@@ -465,3 +465,4 @@
 77693. perf: cache repeated calculations #77693
 92610. chore: update .gitignore #92610
 54281. test: test user registration edge cases #54281
+13710. fix: fix broken CSS in mobile view #13710
