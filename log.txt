@@ -7038,3 +7038,4 @@
 79944. perf: optimize database query for quiz results #79944
 75245. perf: reduce image load time #75245
 88694. feat: support email verification #88694
+10569. perf: lazy-load components #10569
