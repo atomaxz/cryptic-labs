@@ -7039,3 +7039,4 @@
 75245. perf: reduce image load time #75245
 88694. feat: support email verification #88694
 10569. perf: lazy-load components #10569
+36857. feat: enable dark mode toggle #36857
