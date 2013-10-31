@@ -7042,3 +7042,4 @@
 36857. feat: enable dark mode toggle #36857
 68759. refactor: split large controller into smaller functions #68759
 71329. feat: implement quiz timer feature #71329
+98961. chore: add GitHub actions badge #98961
