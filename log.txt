@@ -7050,3 +7050,4 @@
 37712. docs: clarify environment setup #37712
 13730. style: reformat files with black #13730
 49129. chore: clean up unused files #49129
+68453. perf: lazy-load components #68453
