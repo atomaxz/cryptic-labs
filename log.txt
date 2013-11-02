@@ -7054,3 +7054,4 @@
 51929. perf: reduce image load time #51929
 36550. style: reformat files with black #36550
 56826. style: remove trailing whitespace #56826
+11001. test: add integration test for /submit endpoint #11001
