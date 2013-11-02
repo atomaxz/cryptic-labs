@@ -7046,3 +7046,4 @@
 52424. test: increase coverage on auth module #52424
 32171. style: reformat files with black #32171
 42254. style: rename variables for clarity #42254
+7787. docs: document token refresh logic #7787
