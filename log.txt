@@ -7055,3 +7055,4 @@
 36550. style: reformat files with black #36550
 56826. style: remove trailing whitespace #56826
 11001. test: add integration test for /submit endpoint #11001
+61666. perf: lazy-load components #61666
