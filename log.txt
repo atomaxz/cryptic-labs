@@ -468,3 +468,4 @@
 13710. fix: fix broken CSS in mobile view #13710
 82557. refactor: refactor quiz grading logic #82557
 97505. chore: add GitHub actions badge #97505
+99829. feat: support email verification #99829
