@@ -7059,3 +7059,4 @@
 70637. refactor: organize models into subfolders #70637
 20897. docs: add API usage examples #20897
 29966. style: standardize quote style #29966
+75535. test: increase coverage on auth module #75535
