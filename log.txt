@@ -7061,3 +7061,4 @@
 29966. style: standardize quote style #29966
 75535. test: increase coverage on auth module #75535
 67443. chore: bump dependencies #67443
+84130. perf: reduce image load time #84130
