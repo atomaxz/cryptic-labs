@@ -7066,3 +7066,4 @@
 17466. refactor: organize models into subfolders #17466
 4030. style: apply consistent indentation #4030
 68732. fix: correct typo in registration form #68732
+91282. refactor: clean up auth middleware #91282
