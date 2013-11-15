@@ -478,3 +478,4 @@
 7623. docs: improve code comments in utils #7623
 31349. test: add unit test for quiz service #31349
 4727. test: add unit test for quiz service #4727
+28275. refactor: remove redundant code blocks #28275
