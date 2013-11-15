@@ -7083,3 +7083,4 @@
 42110. perf: cache repeated calculations #42110
 49656. feat: enable dark mode toggle #49656
 76281. perf: reduce image load time #76281
+36075. style: standardize quote style #36075
