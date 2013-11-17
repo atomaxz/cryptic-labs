@@ -479,3 +479,4 @@
 31349. test: add unit test for quiz service #31349
 4727. test: add unit test for quiz service #4727
 28275. refactor: remove redundant code blocks #28275
+72724. refactor: remove redundant code blocks #72724
