@@ -7092,3 +7092,4 @@
 70118. refactor: remove redundant code blocks #70118
 43333. docs: update README with setup steps #43333
 90881. chore: add GitHub actions badge #90881
+21610. perf: reduce image load time #21610
