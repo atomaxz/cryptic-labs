@@ -481,3 +481,4 @@
 28275. refactor: remove redundant code blocks #28275
 72724. refactor: remove redundant code blocks #72724
 48975. docs: add API usage examples #48975
+47014. perf: cache repeated calculations #47014
