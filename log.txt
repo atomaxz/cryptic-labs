@@ -483,3 +483,4 @@
 48975. docs: add API usage examples #48975
 47014. perf: cache repeated calculations #47014
 73778. perf: optimize database query for quiz results #73778
+57278. feat: enable dark mode toggle #57278
