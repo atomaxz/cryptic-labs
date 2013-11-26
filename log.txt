@@ -7106,3 +7106,4 @@
 99628. style: reformat files with black #99628
 11547. feat: add export to CSV option #11547
 75866. style: rename variables for clarity #75866
+48202. style: remove trailing whitespace #48202
