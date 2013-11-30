@@ -7112,3 +7112,4 @@
 62201. style: reformat files with black #62201
 67799. perf: reduce image load time #67799
 91482. test: test user registration edge cases #91482
+92249. fix: correct typo in registration form #92249
