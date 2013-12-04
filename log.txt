@@ -7122,3 +7122,4 @@
 89546. test: test user registration edge cases #89546
 78055. perf: reduce image load time #78055
 75701. perf: reduce image load time #75701
+95705. test: add integration test for /submit endpoint #95705
