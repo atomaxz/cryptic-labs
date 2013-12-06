@@ -7130,3 +7130,4 @@
 7965. test: add unit test for quiz service #7965
 13245. chore: update .gitignore #13245
 39702. fix: resolve issue with date parsing #39702
+64351. refactor: clean up auth middleware #64351
