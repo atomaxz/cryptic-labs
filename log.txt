@@ -7137,3 +7137,4 @@
 11393. style: apply consistent indentation #11393
 92031. perf: reduce image load time #92031
 43254. style: remove trailing whitespace #43254
+47135. fix: fix null pointer exception on login #47135
