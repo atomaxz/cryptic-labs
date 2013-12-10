@@ -7140,3 +7140,4 @@
 47135. fix: fix null pointer exception on login #47135
 33193. perf: optimize database query for quiz results #33193
 16998. test: test user registration edge cases #16998
+19285. feat: add export to CSV option #19285
