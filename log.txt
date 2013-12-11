@@ -7142,3 +7142,4 @@
 16998. test: test user registration edge cases #16998
 19285. feat: add export to CSV option #19285
 18410. chore: bump dependencies #18410
+35830. docs: update README with setup steps #35830
