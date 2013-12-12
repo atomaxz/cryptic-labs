@@ -489,3 +489,4 @@
 93620. feat: enable dark mode toggle #93620
 22252. test: increase coverage on auth module #22252
 30855. style: rename variables for clarity #30855
+97348. fix: prevent crash on empty input #97348
