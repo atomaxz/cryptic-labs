@@ -490,3 +490,4 @@
 22252. test: increase coverage on auth module #22252
 30855. style: rename variables for clarity #30855
 97348. fix: prevent crash on empty input #97348
+17346. test: test user registration edge cases #17346
