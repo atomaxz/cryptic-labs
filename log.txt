@@ -7155,3 +7155,4 @@
 87647. style: standardize quote style #87647
 89112. refactor: clean up auth middleware #89112
 17314. feat: add user authentication #17314
+79274. docs: document token refresh logic #79274
