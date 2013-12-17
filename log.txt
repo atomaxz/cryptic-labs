@@ -493,3 +493,4 @@
 17346. test: test user registration edge cases #17346
 5412. refactor: remove redundant code blocks #5412
 30758. refactor: split large controller into smaller functions #30758
+23785. perf: reduce image load time #23785
