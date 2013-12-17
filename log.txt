@@ -7157,3 +7157,4 @@
 17314. feat: add user authentication #17314
 79274. docs: document token refresh logic #79274
 60177. refactor: remove redundant code blocks #60177
+31023. fix: handle 500 error in quiz API #31023
