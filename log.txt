@@ -7164,3 +7164,4 @@
 64820. chore: clean up unused files #64820
 0750. chore: rename env.example #750
 93757. test: add integration test for /submit endpoint #93757
+77713. chore: add GitHub actions badge #77713
