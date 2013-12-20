@@ -495,3 +495,4 @@
 30758. refactor: split large controller into smaller functions #30758
 23785. perf: reduce image load time #23785
 39707. docs: add API usage examples #39707
+86383. style: rename variables for clarity #86383
