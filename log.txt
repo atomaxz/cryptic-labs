@@ -496,3 +496,4 @@
 23785. perf: reduce image load time #23785
 39707. docs: add API usage examples #39707
 86383. style: rename variables for clarity #86383
+8817. chore: bump dependencies #8817
