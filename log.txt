@@ -499,3 +499,4 @@
 8817. chore: bump dependencies #8817
 16713. feat: implement quiz timer feature #16713
 58184. chore: bump dependencies #58184
+29494. feat: enable dark mode toggle #29494
