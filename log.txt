@@ -7171,3 +7171,4 @@
 33225. fix: handle 500 error in quiz API #33225
 56872. chore: add GitHub actions badge #56872
 18224. fix: correct typo in registration form #18224
+10377. test: increase coverage on auth module #10377
