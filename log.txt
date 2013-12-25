@@ -7176,3 +7176,4 @@
 28485. fix: prevent crash on empty input #28485
 73835. fix: fix broken CSS in mobile view #73835
 75081. perf: cache repeated calculations #75081
+18873. fix: resolve issue with date parsing #18873
