@@ -7174,3 +7174,4 @@
 10377. test: increase coverage on auth module #10377
 37321. fix: fix broken CSS in mobile view #37321
 28485. fix: prevent crash on empty input #28485
+73835. fix: fix broken CSS in mobile view #73835
