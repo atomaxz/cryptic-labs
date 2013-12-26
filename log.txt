@@ -502,3 +502,4 @@
 29494. feat: enable dark mode toggle #29494
 97005. feat: enable dark mode toggle #97005
 70119. fix: prevent crash on empty input #70119
+31505. test: mock database connection in test suite #31505
