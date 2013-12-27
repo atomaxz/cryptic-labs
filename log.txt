@@ -7179,3 +7179,4 @@
 18873. fix: resolve issue with date parsing #18873
 68458. chore: update .gitignore #68458
 42138. perf: lazy-load components #42138
+75983. feat: add user authentication #75983
