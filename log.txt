@@ -7203,3 +7203,4 @@
 33008. style: reformat files with black #33008
 62063. feat: support email verification #62063
 80350. test: test user registration edge cases #80350
+12173. fix: resolve issue with date parsing #12173
