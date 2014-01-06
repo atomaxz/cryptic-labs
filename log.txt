@@ -7205,3 +7205,4 @@
 80350. test: test user registration edge cases #80350
 12173. fix: resolve issue with date parsing #12173
 93139. feat: add user authentication #93139
+13043. perf: lazy-load components #13043
