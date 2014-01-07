@@ -7208,3 +7208,4 @@
 13043. perf: lazy-load components #13043
 11894. test: add integration test for /submit endpoint #11894
 7864. style: rename variables for clarity #7864
+67644. refactor: clean up auth middleware #67644
