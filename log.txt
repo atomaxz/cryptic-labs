@@ -7213,3 +7213,4 @@
 12598. refactor: split large controller into smaller functions #12598
 66855. fix: handle 500 error in quiz API #66855
 61129. style: standardize quote style #61129
+88112. refactor: clean up auth middleware #88112
