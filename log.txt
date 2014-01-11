@@ -7216,3 +7216,4 @@
 88112. refactor: clean up auth middleware #88112
 39647. refactor: organize models into subfolders #39647
 72543. style: rename variables for clarity #72543
+83419. feat: add export to CSV option #83419
