@@ -507,3 +507,4 @@
 67263. style: reformat files with black #67263
 27280. chore: clean up unused files #27280
 86743. style: remove trailing whitespace #86743
+78826. fix: fix broken CSS in mobile view #78826
