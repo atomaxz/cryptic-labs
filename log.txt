@@ -7221,3 +7221,4 @@
 47211. feat: create admin dashboard #47211
 47034. perf: reduce image load time #47034
 5260. style: reformat files with black #5260
+54663. chore: rename env.example #54663
