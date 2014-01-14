@@ -7222,3 +7222,4 @@
 47034. perf: reduce image load time #47034
 5260. style: reformat files with black #5260
 54663. chore: rename env.example #54663
+2375. test: increase coverage on auth module #2375
