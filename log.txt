@@ -7225,3 +7225,4 @@
 2375. test: increase coverage on auth module #2375
 86536. docs: document token refresh logic #86536
 76624. test: increase coverage on auth module #76624
+37593. docs: document token refresh logic #37593
