@@ -7224,3 +7224,4 @@
 54663. chore: rename env.example #54663
 2375. test: increase coverage on auth module #2375
 86536. docs: document token refresh logic #86536
+76624. test: increase coverage on auth module #76624
