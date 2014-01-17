@@ -7231,3 +7231,4 @@
 42331. style: remove trailing whitespace #42331
 63225. refactor: remove redundant code blocks #63225
 43948. style: standardize quote style #43948
+80726. fix: fix broken CSS in mobile view #80726
