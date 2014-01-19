@@ -7234,3 +7234,4 @@
 80726. fix: fix broken CSS in mobile view #80726
 13847. chore: clean up unused files #13847
 58895. test: add integration test for /submit endpoint #58895
+71245. feat: enable dark mode toggle #71245
