@@ -514,3 +514,4 @@
 30949. refactor: remove redundant code blocks #30949
 88028. fix: fix null pointer exception on login #88028
 13580. test: increase coverage on auth module #13580
+92186. fix: prevent crash on empty input #92186
