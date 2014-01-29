@@ -7250,3 +7250,4 @@
 50102. docs: add API usage examples #50102
 91593. perf: reduce image load time #91593
 1908. docs: update README with setup steps #1908
+74525. docs: write FAQ section #74525
