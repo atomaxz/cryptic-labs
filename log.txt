@@ -517,3 +517,4 @@
 92186. fix: prevent crash on empty input #92186
 39877. docs: clarify environment setup #39877
 34069. docs: add API usage examples #34069
+11640. feat: enable dark mode toggle #11640
