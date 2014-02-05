@@ -7267,3 +7267,4 @@
 73971. fix: fix null pointer exception on login #73971
 93992. perf: cache repeated calculations #93992
 38014. feat: enable dark mode toggle #38014
+7470. chore: rename env.example #7470
