@@ -7269,3 +7269,4 @@
 38014. feat: enable dark mode toggle #38014
 7470. chore: rename env.example #7470
 68253. style: reformat files with black #68253
+47970. fix: fix broken CSS in mobile view #47970
