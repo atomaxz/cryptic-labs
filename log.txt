@@ -7275,3 +7275,4 @@
 98437. fix: correct typo in registration form #98437
 17843. refactor: split large controller into smaller functions #17843
 22441. style: remove trailing whitespace #22441
+21209. test: add integration test for /submit endpoint #21209
