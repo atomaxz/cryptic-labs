@@ -521,3 +521,4 @@
 42948. style: standardize quote style #42948
 68273. test: mock database connection in test suite #68273
 1966. feat: support email verification #1966
+63045. test: mock database connection in test suite #63045
