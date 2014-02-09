@@ -522,3 +522,4 @@
 68273. test: mock database connection in test suite #68273
 1966. feat: support email verification #1966
 63045. test: mock database connection in test suite #63045
+28567. fix: fix null pointer exception on login #28567
