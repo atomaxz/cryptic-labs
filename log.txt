@@ -523,3 +523,4 @@
 1966. feat: support email verification #1966
 63045. test: mock database connection in test suite #63045
 28567. fix: fix null pointer exception on login #28567
+73203. fix: correct typo in registration form #73203
