@@ -7299,3 +7299,4 @@
 38099. feat: add export to CSV option #38099
 78863. fix: prevent crash on empty input #78863
 23324. chore: rename env.example #23324
+73766. style: rename variables for clarity #73766
