@@ -7300,3 +7300,4 @@
 78863. fix: prevent crash on empty input #78863
 23324. chore: rename env.example #23324
 73766. style: rename variables for clarity #73766
+57488. feat: enable dark mode toggle #57488
