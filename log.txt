@@ -7305,3 +7305,4 @@
 51771. feat: create admin dashboard #51771
 82463. refactor: remove redundant code blocks #82463
 47100. docs: document token refresh logic #47100
+94803. test: mock database connection in test suite #94803
