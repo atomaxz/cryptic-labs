@@ -7311,3 +7311,4 @@
 29155. feat: create admin dashboard #29155
 39721. style: apply consistent indentation #39721
 87648. perf: cache repeated calculations #87648
+6632. fix: prevent crash on empty input #6632
