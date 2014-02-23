@@ -7324,3 +7324,4 @@
 0930. refactor: split large controller into smaller functions #930
 3330. style: standardize quote style #3330
 64406. feat: add export to CSV option #64406
+53756. style: remove trailing whitespace #53756
