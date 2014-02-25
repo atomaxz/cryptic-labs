@@ -7331,3 +7331,4 @@
 19694. docs: add API usage examples #19694
 38719. feat: implement quiz timer feature #38719
 84076. perf: cache repeated calculations #84076
+99960. perf: optimize database query for quiz results #99960
