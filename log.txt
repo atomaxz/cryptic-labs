@@ -7342,3 +7342,4 @@
 44317. docs: improve code comments in utils #44317
 67029. refactor: refactor quiz grading logic #67029
 3623. feat: support email verification #3623
+30378. refactor: clean up auth middleware #30378
