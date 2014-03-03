@@ -7343,3 +7343,4 @@
 67029. refactor: refactor quiz grading logic #67029
 3623. feat: support email verification #3623
 30378. refactor: clean up auth middleware #30378
+58259. refactor: organize models into subfolders #58259
