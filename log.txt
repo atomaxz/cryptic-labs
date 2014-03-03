@@ -7344,3 +7344,4 @@
 3623. feat: support email verification #3623
 30378. refactor: clean up auth middleware #30378
 58259. refactor: organize models into subfolders #58259
+8378. test: test user registration edge cases #8378
