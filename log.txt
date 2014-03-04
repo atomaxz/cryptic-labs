@@ -7352,3 +7352,4 @@
 87625. test: increase coverage on auth module #87625
 15536. fix: fix broken CSS in mobile view #15536
 86130. fix: resolve issue with date parsing #86130
+66648. test: increase coverage on auth module #66648
