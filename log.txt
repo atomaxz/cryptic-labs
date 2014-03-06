@@ -7357,3 +7357,4 @@
 54017. test: mock database connection in test suite #54017
 8162. style: reformat files with black #8162
 27671. test: test user registration edge cases #27671
+23579. test: test user registration edge cases #23579
