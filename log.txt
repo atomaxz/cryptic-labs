@@ -7355,3 +7355,4 @@
 66648. test: increase coverage on auth module #66648
 80455. refactor: split large controller into smaller functions #80455
 54017. test: mock database connection in test suite #54017
+8162. style: reformat files with black #8162
