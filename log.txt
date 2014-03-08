@@ -7362,3 +7362,4 @@
 29030. style: remove trailing whitespace #29030
 6203. style: standardize quote style #6203
 52618. fix: correct typo in registration form #52618
+25708. chore: update .gitignore #25708
