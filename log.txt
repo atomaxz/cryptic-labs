@@ -7364,3 +7364,4 @@
 52618. fix: correct typo in registration form #52618
 25708. chore: update .gitignore #25708
 52854. perf: reduce image load time #52854
+47300. test: increase coverage on auth module #47300
