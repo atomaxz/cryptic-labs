@@ -7367,3 +7367,4 @@
 47300. test: increase coverage on auth module #47300
 28546. style: rename variables for clarity #28546
 30655. style: reformat files with black #30655
+44608. test: mock database connection in test suite #44608
