@@ -7368,3 +7368,4 @@
 28546. style: rename variables for clarity #28546
 30655. style: reformat files with black #30655
 44608. test: mock database connection in test suite #44608
+88738. feat: enable dark mode toggle #88738
