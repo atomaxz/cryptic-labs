@@ -531,3 +531,4 @@
 33817. style: apply consistent indentation #33817
 38573. feat: create admin dashboard #38573
 14852. docs: update README with setup steps #14852
+90254. test: test user registration edge cases #90254
