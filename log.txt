@@ -534,3 +534,4 @@
 90254. test: test user registration edge cases #90254
 55073. refactor: refactor quiz grading logic #55073
 11980. chore: clean up unused files #11980
+5306. chore: update .gitignore #5306
