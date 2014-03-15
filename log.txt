@@ -536,3 +536,4 @@
 11980. chore: clean up unused files #11980
 5306. chore: update .gitignore #5306
 91637. style: apply consistent indentation #91637
+85089. fix: fix null pointer exception on login #85089
