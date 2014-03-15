@@ -7384,3 +7384,4 @@
 99719. feat: support email verification #99719
 65565. test: test user registration edge cases #65565
 75324. docs: write FAQ section #75324
+69021. refactor: remove redundant code blocks #69021
