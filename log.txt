@@ -7383,3 +7383,4 @@
 41547. test: add unit test for quiz service #41547
 99719. feat: support email verification #99719
 65565. test: test user registration edge cases #65565
+75324. docs: write FAQ section #75324
