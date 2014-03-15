@@ -7385,3 +7385,4 @@
 65565. test: test user registration edge cases #65565
 75324. docs: write FAQ section #75324
 69021. refactor: remove redundant code blocks #69021
+22738. fix: fix broken CSS in mobile view #22738
