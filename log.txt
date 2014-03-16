@@ -7390,3 +7390,4 @@
 35282. perf: cache repeated calculations #35282
 14410. style: rename variables for clarity #14410
 8896. perf: cache repeated calculations #8896
+49272. chore: bump dependencies #49272
