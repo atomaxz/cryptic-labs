@@ -538,3 +538,4 @@
 91637. style: apply consistent indentation #91637
 85089. fix: fix null pointer exception on login #85089
 74922. feat: add user authentication #74922
+20485. perf: lazy-load components #20485
