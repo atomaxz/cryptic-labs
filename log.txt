@@ -7386,3 +7386,4 @@
 75324. docs: write FAQ section #75324
 69021. refactor: remove redundant code blocks #69021
 22738. fix: fix broken CSS in mobile view #22738
+0340. docs: write FAQ section #340
