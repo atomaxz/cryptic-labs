@@ -7389,3 +7389,4 @@
 0340. docs: write FAQ section #340
 35282. perf: cache repeated calculations #35282
 14410. style: rename variables for clarity #14410
+8896. perf: cache repeated calculations #8896
