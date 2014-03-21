@@ -7400,3 +7400,4 @@
 82977. style: rename variables for clarity #82977
 62297. test: mock database connection in test suite #62297
 33832. style: rename variables for clarity #33832
+72938. chore: rename env.example #72938
