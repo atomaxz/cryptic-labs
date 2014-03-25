@@ -543,3 +543,4 @@
 5841. test: mock database connection in test suite #5841
 1551. feat: support email verification #1551
 87164. docs: write FAQ section #87164
+92080. chore: clean up unused files #92080
