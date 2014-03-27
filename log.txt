@@ -544,3 +544,4 @@
 1551. feat: support email verification #1551
 87164. docs: write FAQ section #87164
 92080. chore: clean up unused files #92080
+10125. feat: support email verification #10125
