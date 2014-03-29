@@ -7416,3 +7416,4 @@
 8976. style: standardize quote style #8976
 2176. feat: create admin dashboard #2176
 97693. test: increase coverage on auth module #97693
+52635. test: increase coverage on auth module #52635
