@@ -547,3 +547,4 @@
 10125. feat: support email verification #10125
 22411. test: add integration test for /submit endpoint #22411
 48800. refactor: clean up auth middleware #48800
+28075. style: rename variables for clarity #28075
