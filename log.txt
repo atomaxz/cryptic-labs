@@ -7417,3 +7417,4 @@
 2176. feat: create admin dashboard #2176
 97693. test: increase coverage on auth module #97693
 52635. test: increase coverage on auth module #52635
+27764. perf: reduce image load time #27764
