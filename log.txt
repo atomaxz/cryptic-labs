@@ -7420,3 +7420,4 @@
 27764. perf: reduce image load time #27764
 51292. style: apply consistent indentation #51292
 83644. feat: create admin dashboard #83644
+56945. feat: enable dark mode toggle #56945
