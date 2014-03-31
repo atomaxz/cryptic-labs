@@ -7423,3 +7423,4 @@
 56945. feat: enable dark mode toggle #56945
 91950. chore: rename env.example #91950
 82851. test: add integration test for /submit endpoint #82851
+99066. chore: add GitHub actions badge #99066
