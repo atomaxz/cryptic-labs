@@ -7425,3 +7425,4 @@
 82851. test: add integration test for /submit endpoint #82851
 99066. chore: add GitHub actions badge #99066
 68112. refactor: organize models into subfolders #68112
+71744. test: add integration test for /submit endpoint #71744
