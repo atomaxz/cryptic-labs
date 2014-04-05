@@ -7432,3 +7432,4 @@
 72530. docs: add API usage examples #72530
 22122. chore: clean up unused files #22122
 95563. perf: lazy-load components #95563
+59481. fix: prevent crash on empty input #59481
