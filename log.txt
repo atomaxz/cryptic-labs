@@ -553,3 +553,4 @@
 17710. test: mock database connection in test suite #17710
 71351. refactor: split large controller into smaller functions #71351
 75237. refactor: remove redundant code blocks #75237
+46245. fix: fix null pointer exception on login #46245
