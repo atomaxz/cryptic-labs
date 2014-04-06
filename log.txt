@@ -7433,3 +7433,4 @@
 22122. chore: clean up unused files #22122
 95563. perf: lazy-load components #95563
 59481. fix: prevent crash on empty input #59481
+83106. perf: optimize database query for quiz results #83106
