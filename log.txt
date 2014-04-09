@@ -7443,3 +7443,4 @@
 6557. perf: reduce image load time #6557
 72383. perf: cache repeated calculations #72383
 79829. fix: prevent crash on empty input #79829
+73473. chore: add GitHub actions badge #73473
