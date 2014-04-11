@@ -7451,3 +7451,4 @@
 53597. refactor: remove redundant code blocks #53597
 87534. style: rename variables for clarity #87534
 26329. style: rename variables for clarity #26329
+90255. style: remove trailing whitespace #90255
