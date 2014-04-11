@@ -559,3 +559,4 @@
 99623. chore: bump dependencies #99623
 95108. perf: optimize database query for quiz results #95108
 88855. perf: lazy-load components #88855
+90537. style: reformat files with black #90537
