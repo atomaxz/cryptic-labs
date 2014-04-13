@@ -7457,3 +7457,4 @@
 58789. chore: clean up unused files #58789
 30039. feat: enable dark mode toggle #30039
 7096. chore: rename env.example #7096
+65972. chore: bump dependencies #65972
