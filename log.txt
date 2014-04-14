@@ -7460,3 +7460,4 @@
 65972. chore: bump dependencies #65972
 37169. refactor: clean up auth middleware #37169
 37302. fix: resolve issue with date parsing #37302
+69533. fix: correct typo in registration form #69533
