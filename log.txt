@@ -561,3 +561,4 @@
 88855. perf: lazy-load components #88855
 90537. style: reformat files with black #90537
 40194. refactor: split large controller into smaller functions #40194
+49690. fix: prevent crash on empty input #49690
