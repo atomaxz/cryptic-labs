@@ -564,3 +564,4 @@
 49690. fix: prevent crash on empty input #49690
 33443. style: apply consistent indentation #33443
 62476. docs: update README with setup steps #62476
+43051. feat: support email verification #43051
