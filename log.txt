@@ -7477,3 +7477,4 @@
 64272. chore: clean up unused files #64272
 74634. fix: resolve issue with date parsing #74634
 13414. test: test user registration edge cases #13414
+4510. chore: rename env.example #4510
