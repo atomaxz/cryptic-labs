@@ -7478,3 +7478,4 @@
 74634. fix: resolve issue with date parsing #74634
 13414. test: test user registration edge cases #13414
 4510. chore: rename env.example #4510
+30129. test: increase coverage on auth module #30129
