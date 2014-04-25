@@ -7485,3 +7485,4 @@
 28082. feat: enable dark mode toggle #28082
 85246. chore: update .gitignore #85246
 58621. feat: support email verification #58621
+93170. refactor: clean up auth middleware #93170
