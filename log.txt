@@ -7487,3 +7487,4 @@
 58621. feat: support email verification #58621
 93170. refactor: clean up auth middleware #93170
 64530. docs: update README with setup steps #64530
+10412. style: apply consistent indentation #10412
