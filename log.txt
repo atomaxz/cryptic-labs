@@ -569,3 +569,4 @@
 94226. fix: fix broken CSS in mobile view #94226
 11842. fix: prevent crash on empty input #11842
 73435. chore: rename env.example #73435
+36819. chore: bump dependencies #36819
