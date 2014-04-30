@@ -570,3 +570,4 @@
 11842. fix: prevent crash on empty input #11842
 73435. chore: rename env.example #73435
 36819. chore: bump dependencies #36819
+45789. refactor: remove redundant code blocks #45789
