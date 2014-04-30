@@ -7496,3 +7496,4 @@
 62816. fix: fix broken CSS in mobile view #62816
 0162. style: reformat files with black #162
 32730. style: standardize quote style #32730
+57751. style: reformat files with black #57751
