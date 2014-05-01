@@ -7498,3 +7498,4 @@
 32730. style: standardize quote style #32730
 57751. style: reformat files with black #57751
 18518. chore: bump dependencies #18518
+99298. refactor: organize models into subfolders #99298
