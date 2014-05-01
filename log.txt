@@ -7500,3 +7500,4 @@
 18518. chore: bump dependencies #18518
 99298. refactor: organize models into subfolders #99298
 26259. perf: lazy-load components #26259
+96223. test: increase coverage on auth module #96223
