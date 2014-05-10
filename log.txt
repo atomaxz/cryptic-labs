@@ -7515,3 +7515,4 @@
 64663. chore: update .gitignore #64663
 27125. docs: clarify environment setup #27125
 86506. test: increase coverage on auth module #86506
+3653. perf: optimize database query for quiz results #3653
