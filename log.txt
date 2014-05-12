@@ -7520,3 +7520,4 @@
 40403. chore: bump dependencies #40403
 84579. chore: update .gitignore #84579
 38331. fix: fix null pointer exception on login #38331
+15265. test: add unit test for quiz service #15265
