@@ -577,3 +577,4 @@
 80297. fix: fix broken CSS in mobile view #80297
 1025. feat: add export to CSV option #1025
 55922. style: reformat files with black #55922
+82990. feat: enable dark mode toggle #82990
