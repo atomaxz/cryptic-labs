@@ -7532,3 +7532,4 @@
 8511. feat: implement quiz timer feature #8511
 97177. chore: update .gitignore #97177
 84691. chore: clean up unused files #84691
+52497. perf: optimize database query for quiz results #52497
