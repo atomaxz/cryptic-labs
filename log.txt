@@ -7540,3 +7540,4 @@
 43946. refactor: split large controller into smaller functions #43946
 39055. docs: improve code comments in utils #39055
 10937. test: add unit test for quiz service #10937
+7365. fix: handle 500 error in quiz API #7365
