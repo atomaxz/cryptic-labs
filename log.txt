@@ -7541,3 +7541,4 @@
 39055. docs: improve code comments in utils #39055
 10937. test: add unit test for quiz service #10937
 7365. fix: handle 500 error in quiz API #7365
+53344. test: mock database connection in test suite #53344
