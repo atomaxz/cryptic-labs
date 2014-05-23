@@ -581,3 +581,4 @@
 77606. style: reformat files with black #77606
 47712. feat: create admin dashboard #47712
 85772. test: test user registration edge cases #85772
+11041. chore: bump dependencies #11041
