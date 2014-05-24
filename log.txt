@@ -7550,3 +7550,4 @@
 75452. refactor: split large controller into smaller functions #75452
 88592. feat: implement quiz timer feature #88592
 80413. perf: optimize database query for quiz results #80413
+45776. refactor: refactor quiz grading logic #45776
