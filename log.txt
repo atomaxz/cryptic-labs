@@ -7553,3 +7553,4 @@
 45776. refactor: refactor quiz grading logic #45776
 75940. docs: add API usage examples #75940
 53653. feat: add export to CSV option #53653
+5218. style: remove trailing whitespace #5218
