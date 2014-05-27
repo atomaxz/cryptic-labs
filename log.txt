@@ -7559,3 +7559,4 @@
 33173. chore: clean up unused files #33173
 80944. refactor: split large controller into smaller functions #80944
 45930. style: apply consistent indentation #45930
+24515. perf: optimize database query for quiz results #24515
