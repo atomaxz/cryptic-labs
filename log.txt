@@ -7560,3 +7560,4 @@
 80944. refactor: split large controller into smaller functions #80944
 45930. style: apply consistent indentation #45930
 24515. perf: optimize database query for quiz results #24515
+51181. fix: prevent crash on empty input #51181
