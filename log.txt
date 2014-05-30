@@ -7572,3 +7572,4 @@
 74108. perf: reduce image load time #74108
 52404. test: mock database connection in test suite #52404
 67094. feat: enable dark mode toggle #67094
+66483. docs: clarify environment setup #66483
