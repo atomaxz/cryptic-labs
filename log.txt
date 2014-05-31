@@ -7577,3 +7577,4 @@
 99172. docs: clarify environment setup #99172
 13165. chore: rename env.example #13165
 7509. test: increase coverage on auth module #7509
+18266. refactor: remove redundant code blocks #18266
