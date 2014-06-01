@@ -586,3 +586,4 @@
 43276. perf: lazy-load components #43276
 65544. style: reformat files with black #65544
 18032. style: apply consistent indentation #18032
+41971. docs: document token refresh logic #41971
