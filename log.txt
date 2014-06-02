@@ -7582,3 +7582,4 @@
 63317. perf: optimize database query for quiz results #63317
 12382. refactor: split large controller into smaller functions #12382
 8611. docs: write FAQ section #8611
+42239. feat: support email verification #42239
