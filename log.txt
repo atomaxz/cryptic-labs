@@ -7579,3 +7579,4 @@
 7509. test: increase coverage on auth module #7509
 18266. refactor: remove redundant code blocks #18266
 31469. style: apply consistent indentation #31469
+63317. perf: optimize database query for quiz results #63317
