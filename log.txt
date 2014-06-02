@@ -7581,3 +7581,4 @@
 31469. style: apply consistent indentation #31469
 63317. perf: optimize database query for quiz results #63317
 12382. refactor: split large controller into smaller functions #12382
+8611. docs: write FAQ section #8611
