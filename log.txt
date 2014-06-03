@@ -7584,3 +7584,4 @@
 8611. docs: write FAQ section #8611
 42239. feat: support email verification #42239
 59022. feat: add export to CSV option #59022
+24393. chore: rename env.example #24393
