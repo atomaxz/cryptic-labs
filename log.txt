@@ -7590,3 +7590,4 @@
 23298. fix: handle 500 error in quiz API #23298
 61671. style: standardize quote style #61671
 45176. style: apply consistent indentation #45176
+6469. test: increase coverage on auth module #6469
