@@ -7594,3 +7594,4 @@
 6467. perf: reduce image load time #6467
 79252. style: reformat files with black #79252
 82733. feat: create admin dashboard #82733
+29039. chore: update .gitignore #29039
