@@ -7597,3 +7597,4 @@
 29039. chore: update .gitignore #29039
 18691. perf: lazy-load components #18691
 95850. feat: support email verification #95850
+86458. perf: reduce image load time #86458
