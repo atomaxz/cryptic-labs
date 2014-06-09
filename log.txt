@@ -7599,3 +7599,4 @@
 95850. feat: support email verification #95850
 86458. perf: reduce image load time #86458
 74435. feat: add user authentication #74435
+35044. refactor: refactor quiz grading logic #35044
