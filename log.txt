@@ -7604,3 +7604,4 @@
 59589. perf: optimize database query for quiz results #59589
 6546. fix: fix null pointer exception on login #6546
 18661. fix: fix broken CSS in mobile view #18661
+36941. feat: add user authentication #36941
