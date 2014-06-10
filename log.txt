@@ -7607,3 +7607,4 @@
 36941. feat: add user authentication #36941
 83332. perf: reduce image load time #83332
 72161. perf: reduce image load time #72161
+36652. chore: update .gitignore #36652
