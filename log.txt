@@ -7613,3 +7613,4 @@
 36805. docs: update README with setup steps #36805
 23492. chore: bump dependencies #23492
 82981. docs: add API usage examples #82981
+22810. fix: fix broken CSS in mobile view #22810
