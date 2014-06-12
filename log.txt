@@ -7614,3 +7614,4 @@
 23492. chore: bump dependencies #23492
 82981. docs: add API usage examples #82981
 22810. fix: fix broken CSS in mobile view #22810
+10604. feat: add export to CSV option #10604
