@@ -7617,3 +7617,4 @@
 10604. feat: add export to CSV option #10604
 63116. feat: implement quiz timer feature #63116
 48086. chore: update .gitignore #48086
+48827. fix: handle 500 error in quiz API #48827
