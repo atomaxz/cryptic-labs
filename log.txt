@@ -7624,3 +7624,4 @@
 82254. style: reformat files with black #82254
 29620. docs: clarify environment setup #29620
 42993. feat: add export to CSV option #42993
+72746. docs: update README with setup steps #72746
