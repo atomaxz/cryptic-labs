@@ -7628,3 +7628,4 @@
 56715. docs: improve code comments in utils #56715
 90008. test: add unit test for quiz service #90008
 54513. test: add integration test for /submit endpoint #54513
+77874. test: increase coverage on auth module #77874
