@@ -7634,3 +7634,4 @@
 4890. refactor: organize models into subfolders #4890
 79057. fix: fix broken CSS in mobile view #79057
 85576. feat: implement quiz timer feature #85576
+24283. style: standardize quote style #24283
