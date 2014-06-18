@@ -7638,3 +7638,4 @@
 99350. test: increase coverage on auth module #99350
 29271. style: remove trailing whitespace #29271
 69108. test: add unit test for quiz service #69108
+74334. fix: fix null pointer exception on login #74334
