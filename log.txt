@@ -7640,3 +7640,4 @@
 69108. test: add unit test for quiz service #69108
 74334. fix: fix null pointer exception on login #74334
 99462. test: mock database connection in test suite #99462
+11635. perf: optimize database query for quiz results #11635
