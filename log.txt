@@ -601,3 +601,4 @@
 39676. style: rename variables for clarity #39676
 38924. refactor: remove redundant code blocks #38924
 50490. fix: fix null pointer exception on login #50490
+96286. chore: add GitHub actions badge #96286
