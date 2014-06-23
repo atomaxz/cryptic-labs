@@ -7652,3 +7652,4 @@
 46147. fix: resolve issue with date parsing #46147
 33796. test: mock database connection in test suite #33796
 4907. fix: correct typo in registration form #4907
+12797. fix: prevent crash on empty input #12797
