@@ -603,3 +603,4 @@
 50490. fix: fix null pointer exception on login #50490
 96286. chore: add GitHub actions badge #96286
 40098. feat: add user authentication #40098
+47694. docs: clarify environment setup #47694
