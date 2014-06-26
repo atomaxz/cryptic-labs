@@ -7659,3 +7659,4 @@
 36455. chore: rename env.example #36455
 15580. style: apply consistent indentation #15580
 27138. docs: write FAQ section #27138
+54726. style: remove trailing whitespace #54726
