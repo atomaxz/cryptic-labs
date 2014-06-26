@@ -7657,3 +7657,4 @@
 68490. feat: enable dark mode toggle #68490
 93165. fix: fix broken CSS in mobile view #93165
 36455. chore: rename env.example #36455
+15580. style: apply consistent indentation #15580
