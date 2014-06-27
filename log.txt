@@ -7661,3 +7661,4 @@
 27138. docs: write FAQ section #27138
 54726. style: remove trailing whitespace #54726
 59107. style: standardize quote style #59107
+96621. docs: clarify environment setup #96621
