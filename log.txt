@@ -7676,3 +7676,4 @@
 97542. style: apply consistent indentation #97542
 76303. fix: fix broken CSS in mobile view #76303
 62603. chore: add GitHub actions badge #62603
+1630. feat: add user authentication #1630
