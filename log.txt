@@ -7681,3 +7681,4 @@
 91764. chore: bump dependencies #91764
 76897. chore: add GitHub actions badge #76897
 74427. test: add integration test for /submit endpoint #74427
+69597. refactor: clean up auth middleware #69597
