@@ -609,3 +609,4 @@
 61850. test: add unit test for quiz service #61850
 71807. docs: clarify environment setup #71807
 3480. docs: improve code comments in utils #3480
+57072. test: test user registration edge cases #57072
