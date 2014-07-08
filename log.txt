@@ -7695,3 +7695,4 @@
 71648. test: add integration test for /submit endpoint #71648
 96776. feat: add export to CSV option #96776
 11175. feat: support email verification #11175
+20704. perf: cache repeated calculations #20704
