@@ -7697,3 +7697,4 @@
 11175. feat: support email verification #11175
 20704. perf: cache repeated calculations #20704
 90211. fix: handle 500 error in quiz API #90211
+43505. chore: bump dependencies #43505
