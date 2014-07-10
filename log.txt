@@ -612,3 +612,4 @@
 57072. test: test user registration edge cases #57072
 80135. feat: enable dark mode toggle #80135
 23893. chore: rename env.example #23893
+8992. test: increase coverage on auth module #8992
