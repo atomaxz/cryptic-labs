@@ -616,3 +616,4 @@
 83408. style: apply consistent indentation #83408
 48965. docs: add API usage examples #48965
 5961. feat: create admin dashboard #5961
+94322. refactor: organize models into subfolders #94322
