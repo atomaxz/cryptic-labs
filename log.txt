@@ -7727,3 +7727,4 @@
 25729. chore: clean up unused files #25729
 46817. refactor: refactor quiz grading logic #46817
 87777. feat: add export to CSV option #87777
+96649. test: test user registration edge cases #96649
