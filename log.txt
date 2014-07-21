@@ -7730,3 +7730,4 @@
 96649. test: test user registration edge cases #96649
 58458. style: apply consistent indentation #58458
 48976. refactor: clean up auth middleware #48976
+52604. feat: create admin dashboard #52604
