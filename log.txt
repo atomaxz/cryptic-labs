@@ -7741,3 +7741,4 @@
 52170. docs: clarify environment setup #52170
 74837. feat: implement quiz timer feature #74837
 58407. docs: document token refresh logic #58407
+37410. fix: fix null pointer exception on login #37410
