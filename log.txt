@@ -621,3 +621,4 @@
 68745. chore: bump dependencies #68745
 63753. refactor: remove redundant code blocks #63753
 6680. fix: fix broken CSS in mobile view #6680
+58453. fix: fix null pointer exception on login #58453
