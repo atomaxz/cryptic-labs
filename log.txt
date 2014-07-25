@@ -7745,3 +7745,4 @@
 44474. docs: update README with setup steps #44474
 14020. refactor: refactor quiz grading logic #14020
 41942. docs: clarify environment setup #41942
+6309. test: increase coverage on auth module #6309
