@@ -624,3 +624,4 @@
 58453. fix: fix null pointer exception on login #58453
 34281. docs: improve code comments in utils #34281
 39217. test: mock database connection in test suite #39217
+92480. refactor: remove redundant code blocks #92480
