@@ -7767,3 +7767,4 @@
 80282. docs: update README with setup steps #80282
 24128. fix: fix broken CSS in mobile view #24128
 66531. chore: add GitHub actions badge #66531
+18954. perf: optimize database query for quiz results #18954
