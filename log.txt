@@ -7765,3 +7765,4 @@
 59415. style: remove trailing whitespace #59415
 95841. feat: add export to CSV option #95841
 80282. docs: update README with setup steps #80282
+24128. fix: fix broken CSS in mobile view #24128
