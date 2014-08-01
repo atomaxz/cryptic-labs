@@ -7778,3 +7778,4 @@
 43039. docs: update README with setup steps #43039
 88491. test: mock database connection in test suite #88491
 32807. test: test user registration edge cases #32807
+98860. perf: reduce image load time #98860
