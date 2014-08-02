@@ -7783,3 +7783,4 @@
 57589. docs: improve code comments in utils #57589
 27717. feat: add user authentication #27717
 1361. perf: optimize database query for quiz results #1361
+25523. test: increase coverage on auth module #25523
