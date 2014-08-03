@@ -7786,3 +7786,4 @@
 25523. test: increase coverage on auth module #25523
 2476. style: rename variables for clarity #2476
 33731. style: apply consistent indentation #33731
+23309. perf: optimize database query for quiz results #23309
