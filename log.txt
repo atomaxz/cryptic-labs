@@ -7789,3 +7789,4 @@
 23309. perf: optimize database query for quiz results #23309
 28334. perf: reduce image load time #28334
 23030. perf: reduce image load time #23030
+66239. perf: lazy-load components #66239
