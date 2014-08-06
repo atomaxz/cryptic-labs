@@ -7793,3 +7793,4 @@
 86071. refactor: split large controller into smaller functions #86071
 44434. docs: clarify environment setup #44434
 31849. chore: update .gitignore #31849
+20700. perf: reduce image load time #20700
