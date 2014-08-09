@@ -633,3 +633,4 @@
 15185. refactor: clean up auth middleware #15185
 91472. chore: bump dependencies #91472
 49537. perf: lazy-load components #49537
+19195. fix: correct typo in registration form #19195
