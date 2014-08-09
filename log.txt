@@ -7799,3 +7799,4 @@
 3538. chore: bump dependencies #3538
 2821. chore: rename env.example #2821
 45018. refactor: organize models into subfolders #45018
+72039. docs: update README with setup steps #72039
