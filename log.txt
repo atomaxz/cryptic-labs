@@ -7800,3 +7800,4 @@
 2821. chore: rename env.example #2821
 45018. refactor: organize models into subfolders #45018
 72039. docs: update README with setup steps #72039
+97042. style: remove trailing whitespace #97042
