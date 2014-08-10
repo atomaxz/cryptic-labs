@@ -7806,3 +7806,4 @@
 23871. chore: bump dependencies #23871
 31928. perf: optimize database query for quiz results #31928
 17070. chore: bump dependencies #17070
+48662. fix: prevent crash on empty input #48662
