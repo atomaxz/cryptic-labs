@@ -7808,3 +7808,4 @@
 17070. chore: bump dependencies #17070
 48662. fix: prevent crash on empty input #48662
 5863. chore: bump dependencies #5863
+35073. test: add integration test for /submit endpoint #35073
