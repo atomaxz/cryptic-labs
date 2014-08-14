@@ -7815,3 +7815,4 @@
 41266. fix: fix broken CSS in mobile view #41266
 44445. docs: write FAQ section #44445
 53014. perf: cache repeated calculations #53014
+45947. fix: fix null pointer exception on login #45947
