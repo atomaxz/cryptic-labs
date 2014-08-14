@@ -7813,3 +7813,4 @@
 83451. refactor: refactor quiz grading logic #83451
 63886. fix: correct typo in registration form #63886
 41266. fix: fix broken CSS in mobile view #41266
+44445. docs: write FAQ section #44445
