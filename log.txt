@@ -7814,3 +7814,4 @@
 63886. fix: correct typo in registration form #63886
 41266. fix: fix broken CSS in mobile view #41266
 44445. docs: write FAQ section #44445
+53014. perf: cache repeated calculations #53014
