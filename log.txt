@@ -7816,3 +7816,4 @@
 44445. docs: write FAQ section #44445
 53014. perf: cache repeated calculations #53014
 45947. fix: fix null pointer exception on login #45947
+83132. refactor: clean up auth middleware #83132
