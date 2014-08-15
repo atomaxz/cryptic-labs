@@ -7818,3 +7818,4 @@
 45947. fix: fix null pointer exception on login #45947
 83132. refactor: clean up auth middleware #83132
 90786. test: mock database connection in test suite #90786
+1214. docs: update README with setup steps #1214
