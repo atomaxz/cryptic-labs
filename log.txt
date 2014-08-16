@@ -7821,3 +7821,4 @@
 1214. docs: update README with setup steps #1214
 0947. refactor: remove redundant code blocks #947
 40624. fix: prevent crash on empty input #40624
+12482. perf: reduce image load time #12482
