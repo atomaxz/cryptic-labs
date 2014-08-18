@@ -7824,3 +7824,4 @@
 12482. perf: reduce image load time #12482
 73561. fix: prevent crash on empty input #73561
 88515. chore: bump dependencies #88515
+31523. refactor: split large controller into smaller functions #31523
