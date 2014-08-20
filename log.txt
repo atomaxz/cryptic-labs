@@ -7831,3 +7831,4 @@
 60043. perf: reduce image load time #60043
 83862. docs: add API usage examples #83862
 61086. test: test user registration edge cases #61086
+18770. fix: fix broken CSS in mobile view #18770
