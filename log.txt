@@ -7835,3 +7835,4 @@
 13505. perf: reduce image load time #13505
 33373. refactor: remove redundant code blocks #33373
 82173. chore: rename env.example #82173
+7746. style: apply consistent indentation #7746
