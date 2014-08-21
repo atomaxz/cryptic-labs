@@ -7833,3 +7833,4 @@
 61086. test: test user registration edge cases #61086
 18770. fix: fix broken CSS in mobile view #18770
 13505. perf: reduce image load time #13505
+33373. refactor: remove redundant code blocks #33373
