@@ -7847,3 +7847,4 @@
 20158. feat: implement quiz timer feature #20158
 88783. docs: document token refresh logic #88783
 82324. docs: improve code comments in utils #82324
+21869. test: mock database connection in test suite #21869
