@@ -7857,3 +7857,4 @@
 84837. feat: support email verification #84837
 98151. docs: improve code comments in utils #98151
 11621. feat: create admin dashboard #11621
+37722. docs: write FAQ section #37722
