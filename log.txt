@@ -7860,3 +7860,4 @@
 37722. docs: write FAQ section #37722
 88160. test: add unit test for quiz service #88160
 97900. test: increase coverage on auth module #97900
+92473. fix: fix null pointer exception on login #92473
