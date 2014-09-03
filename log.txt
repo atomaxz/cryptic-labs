@@ -7862,3 +7862,4 @@
 97900. test: increase coverage on auth module #97900
 92473. fix: fix null pointer exception on login #92473
 34843. fix: correct typo in registration form #34843
+94888. refactor: remove redundant code blocks #94888
