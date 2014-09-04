@@ -7864,3 +7864,4 @@
 34843. fix: correct typo in registration form #34843
 94888. refactor: remove redundant code blocks #94888
 50361. docs: clarify environment setup #50361
+97156. chore: bump dependencies #97156
