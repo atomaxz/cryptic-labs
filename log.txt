@@ -7872,3 +7872,4 @@
 25084. docs: improve code comments in utils #25084
 71828. feat: support email verification #71828
 70957. fix: correct typo in registration form #70957
+39498. chore: add GitHub actions badge #39498
