@@ -641,3 +641,4 @@
 16871. feat: add export to CSV option #16871
 54483. fix: prevent crash on empty input #54483
 45757. refactor: split large controller into smaller functions #45757
+7751. style: remove trailing whitespace #7751
