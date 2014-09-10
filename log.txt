@@ -643,3 +643,4 @@
 45757. refactor: split large controller into smaller functions #45757
 7751. style: remove trailing whitespace #7751
 28948. style: remove trailing whitespace #28948
+15155. refactor: clean up auth middleware #15155
