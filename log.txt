@@ -7877,3 +7877,4 @@
 21627. feat: add export to CSV option #21627
 6995. fix: correct typo in registration form #6995
 73037. docs: document token refresh logic #73037
+81178. fix: resolve issue with date parsing #81178
