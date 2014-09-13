@@ -7883,3 +7883,4 @@
 13201. perf: optimize database query for quiz results #13201
 47326. docs: document token refresh logic #47326
 95696. fix: correct typo in registration form #95696
+67459. docs: write FAQ section #67459
