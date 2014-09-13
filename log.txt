@@ -7885,3 +7885,4 @@
 95696. fix: correct typo in registration form #95696
 67459. docs: write FAQ section #67459
 97084. fix: handle 500 error in quiz API #97084
+57231. perf: reduce image load time #57231
