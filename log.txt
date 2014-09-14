@@ -7886,3 +7886,4 @@
 67459. docs: write FAQ section #67459
 97084. fix: handle 500 error in quiz API #97084
 57231. perf: reduce image load time #57231
+94084. docs: write FAQ section #94084
