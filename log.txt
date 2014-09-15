@@ -646,3 +646,4 @@
 15155. refactor: clean up auth middleware #15155
 86667. style: standardize quote style #86667
 51746. docs: improve code comments in utils #51746
+4891. fix: correct typo in registration form #4891
