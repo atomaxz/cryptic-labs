@@ -7899,3 +7899,4 @@
 6043. style: remove trailing whitespace #6043
 96536. docs: update README with setup steps #96536
 64848. docs: add API usage examples #64848
+97505. chore: add GitHub actions badge #97505
