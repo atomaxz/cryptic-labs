@@ -7908,3 +7908,4 @@
 19725. fix: correct typo in registration form #19725
 9748. chore: update .gitignore #9748
 48961. fix: prevent crash on empty input #48961
+49578. refactor: organize models into subfolders #49578
