@@ -7901,3 +7901,4 @@
 64848. docs: add API usage examples #64848
 97505. chore: add GitHub actions badge #97505
 40896. perf: reduce image load time #40896
+28751. refactor: clean up auth middleware #28751
