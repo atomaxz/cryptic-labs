@@ -649,3 +649,4 @@
 4891. fix: correct typo in registration form #4891
 54848. style: apply consistent indentation #54848
 20484. docs: write FAQ section #20484
+96711. test: add integration test for /submit endpoint #96711
