@@ -7910,3 +7910,4 @@
 48961. fix: prevent crash on empty input #48961
 49578. refactor: organize models into subfolders #49578
 74338. perf: reduce image load time #74338
+24872. perf: cache repeated calculations #24872
