@@ -7912,3 +7912,4 @@
 74338. perf: reduce image load time #74338
 24872. perf: cache repeated calculations #24872
 14226. fix: handle 500 error in quiz API #14226
+15762. chore: clean up unused files #15762
