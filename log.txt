@@ -7916,3 +7916,4 @@
 45181. chore: clean up unused files #45181
 42429. perf: lazy-load components #42429
 16099. chore: bump dependencies #16099
+18452. perf: lazy-load components #18452
