@@ -7918,3 +7918,4 @@
 16099. chore: bump dependencies #16099
 18452. perf: lazy-load components #18452
 61542. fix: fix broken CSS in mobile view #61542
+97069. perf: lazy-load components #97069
