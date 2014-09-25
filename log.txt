@@ -7921,3 +7921,4 @@
 97069. perf: lazy-load components #97069
 1459. test: increase coverage on auth module #1459
 18076. test: test user registration edge cases #18076
+4850. refactor: clean up auth middleware #4850
