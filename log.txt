@@ -651,3 +651,4 @@
 20484. docs: write FAQ section #20484
 96711. test: add integration test for /submit endpoint #96711
 22793. feat: enable dark mode toggle #22793
+58434. test: mock database connection in test suite #58434
