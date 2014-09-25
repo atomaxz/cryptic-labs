@@ -7920,3 +7920,4 @@
 61542. fix: fix broken CSS in mobile view #61542
 97069. perf: lazy-load components #97069
 1459. test: increase coverage on auth module #1459
+18076. test: test user registration edge cases #18076
