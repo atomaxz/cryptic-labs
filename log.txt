@@ -652,3 +652,4 @@
 96711. test: add integration test for /submit endpoint #96711
 22793. feat: enable dark mode toggle #22793
 58434. test: mock database connection in test suite #58434
+70096. test: mock database connection in test suite #70096
