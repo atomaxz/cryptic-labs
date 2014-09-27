@@ -7928,3 +7928,4 @@
 64307. docs: update README with setup steps #64307
 6863. chore: update .gitignore #6863
 9423. docs: add API usage examples #9423
+25137. docs: write FAQ section #25137
