@@ -655,3 +655,4 @@
 70096. test: mock database connection in test suite #70096
 40270. fix: fix broken CSS in mobile view #40270
 8954. style: apply consistent indentation #8954
+9445. fix: resolve issue with date parsing #9445
