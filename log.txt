@@ -656,3 +656,4 @@
 40270. fix: fix broken CSS in mobile view #40270
 8954. style: apply consistent indentation #8954
 9445. fix: resolve issue with date parsing #9445
+79328. style: reformat files with black #79328
