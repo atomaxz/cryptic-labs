@@ -7933,3 +7933,4 @@
 23371. feat: add export to CSV option #23371
 60881. feat: implement quiz timer feature #60881
 57369. perf: cache repeated calculations #57369
+81721. fix: fix null pointer exception on login #81721
