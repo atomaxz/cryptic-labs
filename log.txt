@@ -7938,3 +7938,4 @@
 63251. chore: add GitHub actions badge #63251
 82307. style: standardize quote style #82307
 51365. refactor: remove redundant code blocks #51365
+54995. fix: handle 500 error in quiz API #54995
