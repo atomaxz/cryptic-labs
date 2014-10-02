@@ -660,3 +660,4 @@
 78086. docs: clarify environment setup #78086
 85621. style: standardize quote style #85621
 11121. style: reformat files with black #11121
+73363. style: remove trailing whitespace #73363
