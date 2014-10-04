@@ -7946,3 +7946,4 @@
 19600. feat: create admin dashboard #19600
 11110. fix: resolve issue with date parsing #11110
 50654. refactor: remove redundant code blocks #50654
+67181. test: increase coverage on auth module #67181
