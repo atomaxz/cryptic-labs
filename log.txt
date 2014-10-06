@@ -7951,3 +7951,4 @@
 46201. docs: add API usage examples #46201
 31886. perf: lazy-load components #31886
 35647. chore: bump dependencies #35647
+96996. fix: correct typo in registration form #96996
