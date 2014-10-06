@@ -7953,3 +7953,4 @@
 35647. chore: bump dependencies #35647
 96996. fix: correct typo in registration form #96996
 56680. chore: rename env.example #56680
+69190. style: reformat files with black #69190
