@@ -7958,3 +7958,4 @@
 4407. refactor: refactor quiz grading logic #4407
 27931. docs: update README with setup steps #27931
 69467. test: test user registration edge cases #69467
+58374. fix: handle 500 error in quiz API #58374
