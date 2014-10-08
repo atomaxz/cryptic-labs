@@ -7963,3 +7963,4 @@
 6215. docs: clarify environment setup #6215
 6363. chore: clean up unused files #6363
 69720. chore: update .gitignore #69720
+25450. refactor: organize models into subfolders #25450
