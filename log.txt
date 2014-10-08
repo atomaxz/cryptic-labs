@@ -7960,3 +7960,4 @@
 69467. test: test user registration edge cases #69467
 58374. fix: handle 500 error in quiz API #58374
 53460. test: mock database connection in test suite #53460
+6215. docs: clarify environment setup #6215
