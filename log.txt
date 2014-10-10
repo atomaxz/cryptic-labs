@@ -7968,3 +7968,4 @@
 32801. refactor: organize models into subfolders #32801
 64906. docs: document token refresh logic #64906
 82294. test: add unit test for quiz service #82294
+7524. test: increase coverage on auth module #7524
