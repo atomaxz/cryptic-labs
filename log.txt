@@ -7970,3 +7970,4 @@
 82294. test: add unit test for quiz service #82294
 7524. test: increase coverage on auth module #7524
 11624. docs: write FAQ section #11624
+68967. docs: document token refresh logic #68967
