@@ -7972,3 +7972,4 @@
 11624. docs: write FAQ section #11624
 68967. docs: document token refresh logic #68967
 41829. refactor: remove redundant code blocks #41829
+20483. perf: optimize database query for quiz results #20483
