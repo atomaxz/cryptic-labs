@@ -7975,3 +7975,4 @@
 20483. perf: optimize database query for quiz results #20483
 57010. chore: rename env.example #57010
 76699. refactor: clean up auth middleware #76699
+60705. style: remove trailing whitespace #60705
