@@ -7982,3 +7982,4 @@
 97893. docs: update README with setup steps #97893
 53853. chore: bump dependencies #53853
 53297. chore: add GitHub actions badge #53297
+28507. fix: prevent crash on empty input #28507
