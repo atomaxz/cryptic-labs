@@ -667,3 +667,4 @@
 51321. test: add unit test for quiz service #51321
 60845. style: reformat files with black #60845
 68134. perf: optimize database query for quiz results #68134
+8673. refactor: refactor quiz grading logic #8673
