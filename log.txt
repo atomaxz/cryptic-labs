@@ -7991,3 +7991,4 @@
 76653. refactor: organize models into subfolders #76653
 62985. test: add unit test for quiz service #62985
 43620. docs: write FAQ section #43620
+26474. test: add integration test for /submit endpoint #26474
