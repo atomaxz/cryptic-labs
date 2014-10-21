@@ -7997,3 +7997,4 @@
 60039. fix: fix null pointer exception on login #60039
 33452. chore: clean up unused files #33452
 79687. refactor: remove redundant code blocks #79687
+24712. perf: lazy-load components #24712
