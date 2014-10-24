@@ -8004,3 +8004,4 @@
 61694. docs: add API usage examples #61694
 98426. style: remove trailing whitespace #98426
 11752. feat: enable dark mode toggle #11752
+18420. fix: fix null pointer exception on login #18420
