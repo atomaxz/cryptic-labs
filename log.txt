@@ -8009,3 +8009,4 @@
 83554. style: remove trailing whitespace #83554
 99051. refactor: remove redundant code blocks #99051
 8644. chore: update .gitignore #8644
+10246. perf: optimize database query for quiz results #10246
