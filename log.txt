@@ -8012,3 +8012,4 @@
 10246. perf: optimize database query for quiz results #10246
 29502. chore: bump dependencies #29502
 48999. test: add unit test for quiz service #48999
+65292. fix: handle 500 error in quiz API #65292
