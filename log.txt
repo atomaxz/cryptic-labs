@@ -8015,3 +8015,4 @@
 65292. fix: handle 500 error in quiz API #65292
 28740. chore: bump dependencies #28740
 79987. style: standardize quote style #79987
+38394. docs: write FAQ section #38394
