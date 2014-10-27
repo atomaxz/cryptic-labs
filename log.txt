@@ -8020,3 +8020,4 @@
 96916. docs: clarify environment setup #96916
 31244. feat: enable dark mode toggle #31244
 29040. style: apply consistent indentation #29040
+65767. fix: fix null pointer exception on login #65767
