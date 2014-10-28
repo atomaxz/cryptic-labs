@@ -8023,3 +8023,4 @@
 65767. fix: fix null pointer exception on login #65767
 91342. test: increase coverage on auth module #91342
 8763. feat: add user authentication #8763
+75484. style: standardize quote style #75484
