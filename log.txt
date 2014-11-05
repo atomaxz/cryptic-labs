@@ -673,3 +673,4 @@
 27993. refactor: refactor quiz grading logic #27993
 4333. docs: write FAQ section #4333
 62304. style: apply consistent indentation #62304
+84961. test: mock database connection in test suite #84961
