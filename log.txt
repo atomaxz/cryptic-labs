@@ -8035,3 +8035,4 @@
 35884. fix: fix null pointer exception on login #35884
 68312. refactor: clean up auth middleware #68312
 2231. refactor: split large controller into smaller functions #2231
+83299. style: reformat files with black #83299
