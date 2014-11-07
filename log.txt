@@ -8033,3 +8033,4 @@
 99340. docs: improve code comments in utils #99340
 64515. feat: add user authentication #64515
 35884. fix: fix null pointer exception on login #35884
+68312. refactor: clean up auth middleware #68312
