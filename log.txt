@@ -8039,3 +8039,4 @@
 18487. style: standardize quote style #18487
 71189. test: increase coverage on auth module #71189
 97377. style: reformat files with black #97377
+93905. perf: lazy-load components #93905
