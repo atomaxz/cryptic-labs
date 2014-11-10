@@ -8042,3 +8042,4 @@
 93905. perf: lazy-load components #93905
 30134. feat: support email verification #30134
 65108. refactor: split large controller into smaller functions #65108
+69759. perf: lazy-load components #69759
