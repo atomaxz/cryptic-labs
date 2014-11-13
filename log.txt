@@ -680,3 +680,4 @@
 86048. fix: prevent crash on empty input #86048
 82559. feat: support email verification #82559
 44057. feat: add user authentication #44057
+98063. test: test user registration edge cases #98063
