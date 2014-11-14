@@ -8054,3 +8054,4 @@
 45718. fix: handle 500 error in quiz API #45718
 3257. fix: resolve issue with date parsing #3257
 36114. style: rename variables for clarity #36114
+77691. fix: prevent crash on empty input #77691
