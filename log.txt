@@ -683,3 +683,4 @@
 98063. test: test user registration edge cases #98063
 18280. perf: lazy-load components #18280
 80733. docs: clarify environment setup #80733
+81628. fix: fix null pointer exception on login #81628
