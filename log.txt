@@ -8052,3 +8052,4 @@
 1581. style: reformat files with black #1581
 43564. test: add integration test for /submit endpoint #43564
 45718. fix: handle 500 error in quiz API #45718
+3257. fix: resolve issue with date parsing #3257
