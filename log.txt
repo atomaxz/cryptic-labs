@@ -685,3 +685,4 @@
 80733. docs: clarify environment setup #80733
 81628. fix: fix null pointer exception on login #81628
 51236. test: mock database connection in test suite #51236
+57737. chore: bump dependencies #57737
