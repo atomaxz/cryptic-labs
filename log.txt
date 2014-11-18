@@ -8068,3 +8068,4 @@
 15153. refactor: clean up auth middleware #15153
 81057. feat: add export to CSV option #81057
 37506. perf: lazy-load components #37506
+72195. chore: add GitHub actions badge #72195
