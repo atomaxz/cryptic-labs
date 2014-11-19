@@ -8071,3 +8071,4 @@
 72195. chore: add GitHub actions badge #72195
 17843. refactor: split large controller into smaller functions #17843
 11703. refactor: split large controller into smaller functions #11703
+74339. feat: create admin dashboard #74339
