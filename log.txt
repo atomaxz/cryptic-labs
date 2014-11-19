@@ -687,3 +687,4 @@
 51236. test: mock database connection in test suite #51236
 57737. chore: bump dependencies #57737
 81992. test: add integration test for /submit endpoint #81992
+67143. feat: add user authentication #67143
