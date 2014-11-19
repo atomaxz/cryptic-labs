@@ -8073,3 +8073,4 @@
 11703. refactor: split large controller into smaller functions #11703
 74339. feat: create admin dashboard #74339
 55729. style: reformat files with black #55729
+54620. test: increase coverage on auth module #54620
