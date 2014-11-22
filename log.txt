@@ -8076,3 +8076,4 @@
 54620. test: increase coverage on auth module #54620
 39305. fix: fix broken CSS in mobile view #39305
 79260. docs: write FAQ section #79260
+96993. test: mock database connection in test suite #96993
