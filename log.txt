@@ -8078,3 +8078,4 @@
 79260. docs: write FAQ section #79260
 96993. test: mock database connection in test suite #96993
 54247. test: increase coverage on auth module #54247
+21540. perf: lazy-load components #21540
