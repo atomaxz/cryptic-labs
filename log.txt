@@ -8086,3 +8086,4 @@
 65189. test: add unit test for quiz service #65189
 50047. docs: document token refresh logic #50047
 40949. chore: update .gitignore #40949
+21352. fix: fix broken CSS in mobile view #21352
