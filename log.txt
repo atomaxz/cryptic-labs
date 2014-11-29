@@ -696,3 +696,4 @@
 52087. feat: enable dark mode toggle #52087
 39950. chore: bump dependencies #39950
 69728. feat: create admin dashboard #69728
+82675. fix: fix broken CSS in mobile view #82675
