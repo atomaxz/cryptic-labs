@@ -8089,3 +8089,4 @@
 21352. fix: fix broken CSS in mobile view #21352
 55749. fix: fix null pointer exception on login #55749
 58172. fix: fix broken CSS in mobile view #58172
+17949. test: mock database connection in test suite #17949
