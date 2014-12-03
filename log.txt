@@ -8099,3 +8099,4 @@
 23519. feat: enable dark mode toggle #23519
 30679. perf: cache repeated calculations #30679
 53854. fix: correct typo in registration form #53854
+0902. refactor: clean up auth middleware #902
