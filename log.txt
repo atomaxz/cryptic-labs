@@ -698,3 +698,4 @@
 69728. feat: create admin dashboard #69728
 82675. fix: fix broken CSS in mobile view #82675
 30410. chore: rename env.example #30410
+88881. docs: update README with setup steps #88881
