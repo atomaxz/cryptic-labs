@@ -8101,3 +8101,4 @@
 53854. fix: correct typo in registration form #53854
 0902. refactor: clean up auth middleware #902
 49022. feat: add export to CSV option #49022
+45330. feat: enable dark mode toggle #45330
