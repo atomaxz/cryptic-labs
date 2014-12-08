@@ -8108,3 +8108,4 @@
 81227. chore: rename env.example #81227
 55760. perf: cache repeated calculations #55760
 92799. perf: reduce image load time #92799
+60012. feat: enable dark mode toggle #60012
