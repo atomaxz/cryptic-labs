@@ -8111,3 +8111,4 @@
 60012. feat: enable dark mode toggle #60012
 12130. perf: reduce image load time #12130
 72227. style: reformat files with black #72227
+49891. fix: fix null pointer exception on login #49891
