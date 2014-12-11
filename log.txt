@@ -704,3 +704,4 @@
 0747. docs: document token refresh logic #747
 65971. style: reformat files with black #65971
 81707. feat: create admin dashboard #81707
+3816. test: test user registration edge cases #3816
