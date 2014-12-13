@@ -8120,3 +8120,4 @@
 60435. feat: implement quiz timer feature #60435
 53576. refactor: refactor quiz grading logic #53576
 13710. fix: fix broken CSS in mobile view #13710
+84502. test: test user registration edge cases #84502
