@@ -8121,3 +8121,4 @@
 53576. refactor: refactor quiz grading logic #53576
 13710. fix: fix broken CSS in mobile view #13710
 84502. test: test user registration edge cases #84502
+77794. chore: add GitHub actions badge #77794
