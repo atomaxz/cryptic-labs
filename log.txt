@@ -8124,3 +8124,4 @@
 77794. chore: add GitHub actions badge #77794
 19610. docs: document token refresh logic #19610
 28998. docs: clarify environment setup #28998
+99726. fix: correct typo in registration form #99726
