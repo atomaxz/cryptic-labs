@@ -8127,3 +8127,4 @@
 99726. fix: correct typo in registration form #99726
 65838. fix: resolve issue with date parsing #65838
 66236. feat: support email verification #66236
+80995. style: apply consistent indentation #80995
