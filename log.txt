@@ -8130,3 +8130,4 @@
 80995. style: apply consistent indentation #80995
 41276. feat: add export to CSV option #41276
 32258. chore: add GitHub actions badge #32258
+34322. test: test user registration edge cases #34322
