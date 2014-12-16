@@ -8128,3 +8128,4 @@
 65838. fix: resolve issue with date parsing #65838
 66236. feat: support email verification #66236
 80995. style: apply consistent indentation #80995
+41276. feat: add export to CSV option #41276
