@@ -707,3 +707,4 @@
 3816. test: test user registration edge cases #3816
 27804. test: increase coverage on auth module #27804
 45533. chore: bump dependencies #45533
+63489. chore: bump dependencies #63489
