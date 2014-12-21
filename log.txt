@@ -708,3 +708,4 @@
 27804. test: increase coverage on auth module #27804
 45533. chore: bump dependencies #45533
 63489. chore: bump dependencies #63489
+32873. feat: add user authentication #32873
