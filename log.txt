@@ -8155,3 +8155,4 @@
 16462. chore: update .gitignore #16462
 82165. perf: cache repeated calculations #82165
 55109. chore: rename env.example #55109
+64356. perf: lazy-load components #64356
