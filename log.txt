@@ -8157,3 +8157,4 @@
 55109. chore: rename env.example #55109
 64356. perf: lazy-load components #64356
 15186. refactor: refactor quiz grading logic #15186
+86674. chore: bump dependencies #86674
