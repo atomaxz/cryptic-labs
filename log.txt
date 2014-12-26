@@ -713,3 +713,4 @@
 4013. chore: add GitHub actions badge #4013
 26057. docs: clarify environment setup #26057
 62301. fix: prevent crash on empty input #62301
+18195. docs: update README with setup steps #18195
