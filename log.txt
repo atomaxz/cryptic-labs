@@ -8172,3 +8172,4 @@
 1603. feat: implement quiz timer feature #1603
 4594. feat: implement quiz timer feature #4594
 98038. feat: create admin dashboard #98038
+91977. style: remove trailing whitespace #91977
