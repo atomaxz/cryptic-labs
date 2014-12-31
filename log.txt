@@ -8175,3 +8175,4 @@
 91977. style: remove trailing whitespace #91977
 70836. fix: handle 500 error in quiz API #70836
 11474. chore: bump dependencies #11474
+4907. fix: correct typo in registration form #4907
