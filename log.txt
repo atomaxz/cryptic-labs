@@ -8176,3 +8176,4 @@
 70836. fix: handle 500 error in quiz API #70836
 11474. chore: bump dependencies #11474
 4907. fix: correct typo in registration form #4907
+70315. style: reformat files with black #70315
