@@ -8173,3 +8173,4 @@
 4594. feat: implement quiz timer feature #4594
 98038. feat: create admin dashboard #98038
 91977. style: remove trailing whitespace #91977
+70836. fix: handle 500 error in quiz API #70836
