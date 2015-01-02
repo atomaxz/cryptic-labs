@@ -8181,3 +8181,4 @@
 61618. feat: add user authentication #61618
 69870. docs: document token refresh logic #69870
 79797. chore: rename env.example #79797
+68861. test: mock database connection in test suite #68861
