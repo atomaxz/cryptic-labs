@@ -8179,3 +8179,4 @@
 70315. style: reformat files with black #70315
 45279. feat: enable dark mode toggle #45279
 61618. feat: add user authentication #61618
+69870. docs: document token refresh logic #69870
