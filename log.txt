@@ -8183,3 +8183,4 @@
 79797. chore: rename env.example #79797
 68861. test: mock database connection in test suite #68861
 12498. test: test user registration edge cases #12498
+57209. fix: prevent crash on empty input #57209
