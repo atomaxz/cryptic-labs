@@ -8186,3 +8186,4 @@
 57209. fix: prevent crash on empty input #57209
 47356. style: standardize quote style #47356
 63795. feat: add export to CSV option #63795
+62448. feat: add user authentication #62448
