@@ -8190,3 +8190,4 @@
 36935. test: mock database connection in test suite #36935
 86036. test: test user registration edge cases #86036
 8179. fix: handle 500 error in quiz API #8179
+0585. style: standardize quote style #585
