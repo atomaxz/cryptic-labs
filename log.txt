@@ -717,3 +717,4 @@
 35966. docs: improve code comments in utils #35966
 46625. test: increase coverage on auth module #46625
 57147. refactor: clean up auth middleware #57147
+0999. feat: support email verification #999
