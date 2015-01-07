@@ -8192,3 +8192,4 @@
 8179. fix: handle 500 error in quiz API #8179
 0585. style: standardize quote style #585
 88209. perf: cache repeated calculations #88209
+68808. fix: fix broken CSS in mobile view #68808
