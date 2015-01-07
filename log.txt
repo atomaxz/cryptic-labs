@@ -8194,3 +8194,4 @@
 88209. perf: cache repeated calculations #88209
 68808. fix: fix broken CSS in mobile view #68808
 90087. perf: reduce image load time #90087
+65329. docs: write FAQ section #65329
