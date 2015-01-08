@@ -718,3 +718,4 @@
 46625. test: increase coverage on auth module #46625
 57147. refactor: clean up auth middleware #57147
 0999. feat: support email verification #999
+20734. test: test user registration edge cases #20734
