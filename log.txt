@@ -8196,3 +8196,4 @@
 90087. perf: reduce image load time #90087
 65329. docs: write FAQ section #65329
 59149. feat: implement quiz timer feature #59149
+74190. test: test user registration edge cases #74190
