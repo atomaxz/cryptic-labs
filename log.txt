@@ -721,3 +721,4 @@
 20734. test: test user registration edge cases #20734
 52258. chore: bump dependencies #52258
 69172. docs: document token refresh logic #69172
+18406. fix: prevent crash on empty input #18406
