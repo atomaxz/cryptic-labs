@@ -8216,3 +8216,4 @@
 38851. feat: support email verification #38851
 22015. perf: reduce image load time #22015
 3640. test: test user registration edge cases #3640
+91561. refactor: remove redundant code blocks #91561
