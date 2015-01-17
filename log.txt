@@ -723,3 +723,4 @@
 69172. docs: document token refresh logic #69172
 18406. fix: prevent crash on empty input #18406
 31518. fix: correct typo in registration form #31518
+75494. fix: fix broken CSS in mobile view #75494
