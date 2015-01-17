@@ -8219,3 +8219,4 @@
 91561. refactor: remove redundant code blocks #91561
 3950. test: mock database connection in test suite #3950
 59915. feat: add user authentication #59915
+36741. docs: clarify environment setup #36741
