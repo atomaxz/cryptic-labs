@@ -8223,3 +8223,4 @@
 29115. style: apply consistent indentation #29115
 72420. test: increase coverage on auth module #72420
 2120. fix: prevent crash on empty input #2120
+74166. perf: lazy-load components #74166
