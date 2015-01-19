@@ -8222,3 +8222,4 @@
 36741. docs: clarify environment setup #36741
 29115. style: apply consistent indentation #29115
 72420. test: increase coverage on auth module #72420
+2120. fix: prevent crash on empty input #2120
