@@ -8225,3 +8225,4 @@
 2120. fix: prevent crash on empty input #2120
 74166. perf: lazy-load components #74166
 13702. perf: reduce image load time #13702
+69721. fix: correct typo in registration form #69721
