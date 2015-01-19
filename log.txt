@@ -725,3 +725,4 @@
 31518. fix: correct typo in registration form #31518
 75494. fix: fix broken CSS in mobile view #75494
 48855. refactor: split large controller into smaller functions #48855
+77491. style: reformat files with black #77491
