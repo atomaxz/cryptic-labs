@@ -8235,3 +8235,4 @@
 23101. style: rename variables for clarity #23101
 41108. docs: add API usage examples #41108
 45915. test: test user registration edge cases #45915
+57496. chore: rename env.example #57496
