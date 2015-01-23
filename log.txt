@@ -8238,3 +8238,4 @@
 57496. chore: rename env.example #57496
 6941. docs: clarify environment setup #6941
 37019. feat: implement quiz timer feature #37019
+26409. fix: handle 500 error in quiz API #26409
