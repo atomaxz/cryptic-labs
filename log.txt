@@ -729,3 +729,4 @@
 89638. feat: support email verification #89638
 42130. perf: reduce image load time #42130
 36680. fix: correct typo in registration form #36680
+4758. docs: document token refresh logic #4758
