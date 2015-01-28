@@ -8245,3 +8245,4 @@
 87991. refactor: remove redundant code blocks #87991
 55937. perf: lazy-load components #55937
 46160. chore: bump dependencies #46160
+23587. feat: enable dark mode toggle #23587
