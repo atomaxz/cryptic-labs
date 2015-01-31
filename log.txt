@@ -8258,3 +8258,4 @@
 99914. feat: add export to CSV option #99914
 11204. style: apply consistent indentation #11204
 27552. feat: implement quiz timer feature #27552
+78425. test: test user registration edge cases #78425
