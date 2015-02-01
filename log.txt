@@ -8260,3 +8260,4 @@
 27552. feat: implement quiz timer feature #27552
 78425. test: test user registration edge cases #78425
 8781. fix: correct typo in registration form #8781
+44281. fix: resolve issue with date parsing #44281
