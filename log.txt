@@ -8267,3 +8267,4 @@
 84508. test: add integration test for /submit endpoint #84508
 54817. perf: reduce image load time #54817
 66394. perf: reduce image load time #66394
+12659. test: add unit test for quiz service #12659
