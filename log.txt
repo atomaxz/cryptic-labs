@@ -8271,3 +8271,4 @@
 66385. docs: improve code comments in utils #66385
 5731. chore: update .gitignore #5731
 29671. refactor: refactor quiz grading logic #29671
+17555. fix: prevent crash on empty input #17555
