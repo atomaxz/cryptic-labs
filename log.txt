@@ -8269,3 +8269,4 @@
 66394. perf: reduce image load time #66394
 12659. test: add unit test for quiz service #12659
 66385. docs: improve code comments in utils #66385
+5731. chore: update .gitignore #5731
