@@ -8273,3 +8273,4 @@
 29671. refactor: refactor quiz grading logic #29671
 17555. fix: prevent crash on empty input #17555
 61745. style: reformat files with black #61745
+82840. refactor: clean up auth middleware #82840
