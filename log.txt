@@ -8276,3 +8276,4 @@
 82840. refactor: clean up auth middleware #82840
 90038. feat: add user authentication #90038
 81112. perf: reduce image load time #81112
+87411. feat: add export to CSV option #87411
