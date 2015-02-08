@@ -8278,3 +8278,4 @@
 81112. perf: reduce image load time #81112
 87411. feat: add export to CSV option #87411
 0540. test: test user registration edge cases #540
+74316. test: increase coverage on auth module #74316
