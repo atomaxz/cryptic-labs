@@ -8279,3 +8279,4 @@
 87411. feat: add export to CSV option #87411
 0540. test: test user registration edge cases #540
 74316. test: increase coverage on auth module #74316
+45909. docs: document token refresh logic #45909
