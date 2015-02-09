@@ -8280,3 +8280,4 @@
 0540. test: test user registration edge cases #540
 74316. test: increase coverage on auth module #74316
 45909. docs: document token refresh logic #45909
+62090. refactor: split large controller into smaller functions #62090
