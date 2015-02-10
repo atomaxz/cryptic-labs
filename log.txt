@@ -8283,3 +8283,4 @@
 62090. refactor: split large controller into smaller functions #62090
 70337. test: add unit test for quiz service #70337
 38880. feat: add export to CSV option #38880
+49840. fix: resolve issue with date parsing #49840
