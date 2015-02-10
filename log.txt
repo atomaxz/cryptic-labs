@@ -8287,3 +8287,4 @@
 17509. chore: add GitHub actions badge #17509
 87200. style: rename variables for clarity #87200
 24696. style: apply consistent indentation #24696
+94710. fix: handle 500 error in quiz API #94710
