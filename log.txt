@@ -8295,3 +8295,4 @@
 19107. perf: optimize database query for quiz results #19107
 79793. refactor: clean up auth middleware #79793
 90197. refactor: refactor quiz grading logic #90197
+98552. chore: bump dependencies #98552
