@@ -8297,3 +8297,4 @@
 90197. refactor: refactor quiz grading logic #90197
 98552. chore: bump dependencies #98552
 65394. chore: bump dependencies #65394
+61390. fix: prevent crash on empty input #61390
