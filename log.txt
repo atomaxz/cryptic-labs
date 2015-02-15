@@ -737,3 +737,4 @@
 95093. chore: clean up unused files #95093
 93591. feat: enable dark mode toggle #93591
 9178. docs: add API usage examples #9178
+72059. style: remove trailing whitespace #72059
