@@ -8303,3 +8303,4 @@
 17559. refactor: refactor quiz grading logic #17559
 29374. chore: update .gitignore #29374
 11578. docs: document token refresh logic #11578
+68572. fix: fix null pointer exception on login #68572
