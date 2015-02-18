@@ -8305,3 +8305,4 @@
 11578. docs: document token refresh logic #11578
 68572. fix: fix null pointer exception on login #68572
 55887. test: add unit test for quiz service #55887
+43085. fix: handle 500 error in quiz API #43085
