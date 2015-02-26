@@ -8321,3 +8321,4 @@
 93195. docs: add API usage examples #93195
 88111. refactor: remove redundant code blocks #88111
 82510. refactor: refactor quiz grading logic #82510
+83750. test: add integration test for /submit endpoint #83750
