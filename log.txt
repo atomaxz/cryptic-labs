@@ -741,3 +741,4 @@
 27729. fix: fix broken CSS in mobile view #27729
 19879. refactor: remove redundant code blocks #19879
 72833. perf: reduce image load time #72833
+55189. chore: rename env.example #55189
