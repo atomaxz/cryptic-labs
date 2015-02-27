@@ -8324,3 +8324,4 @@
 83750. test: add integration test for /submit endpoint #83750
 63561. test: test user registration edge cases #63561
 35272. fix: fix null pointer exception on login #35272
+93045. style: reformat files with black #93045
