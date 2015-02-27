@@ -8322,3 +8322,4 @@
 88111. refactor: remove redundant code blocks #88111
 82510. refactor: refactor quiz grading logic #82510
 83750. test: add integration test for /submit endpoint #83750
+63561. test: test user registration edge cases #63561
