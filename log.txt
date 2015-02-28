@@ -8325,3 +8325,4 @@
 63561. test: test user registration edge cases #63561
 35272. fix: fix null pointer exception on login #35272
 93045. style: reformat files with black #93045
+51844. feat: add export to CSV option #51844
