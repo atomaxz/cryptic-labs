@@ -8330,3 +8330,4 @@
 56325. docs: clarify environment setup #56325
 22239. style: apply consistent indentation #22239
 49853. docs: clarify environment setup #49853
+80889. perf: lazy-load components #80889
