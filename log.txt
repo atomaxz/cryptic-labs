@@ -8335,3 +8335,4 @@
 28111. perf: cache repeated calculations #28111
 19614. refactor: split large controller into smaller functions #19614
 51518. fix: prevent crash on empty input #51518
+52683. refactor: organize models into subfolders #52683
