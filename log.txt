@@ -742,3 +742,4 @@
 19879. refactor: remove redundant code blocks #19879
 72833. perf: reduce image load time #72833
 55189. chore: rename env.example #55189
+70524. refactor: organize models into subfolders #70524
