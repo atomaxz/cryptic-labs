@@ -8339,3 +8339,4 @@
 73848. docs: write FAQ section #73848
 85488. fix: prevent crash on empty input #85488
 45609. fix: fix broken CSS in mobile view #45609
+45505. style: remove trailing whitespace #45505
