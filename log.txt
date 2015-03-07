@@ -8344,3 +8344,4 @@
 34477. fix: handle 500 error in quiz API #34477
 49613. refactor: remove redundant code blocks #49613
 25273. chore: update .gitignore #25273
+14849. perf: cache repeated calculations #14849
