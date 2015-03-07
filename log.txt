@@ -8341,3 +8341,4 @@
 45609. fix: fix broken CSS in mobile view #45609
 45505. style: remove trailing whitespace #45505
 61689. docs: add API usage examples #61689
+34477. fix: handle 500 error in quiz API #34477
