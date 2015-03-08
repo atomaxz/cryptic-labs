@@ -8347,3 +8347,4 @@
 14849. perf: cache repeated calculations #14849
 9451. chore: bump dependencies #9451
 31191. fix: fix null pointer exception on login #31191
+73840. fix: resolve issue with date parsing #73840
