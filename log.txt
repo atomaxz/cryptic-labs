@@ -8349,3 +8349,4 @@
 31191. fix: fix null pointer exception on login #31191
 73840. fix: resolve issue with date parsing #73840
 91913. perf: cache repeated calculations #91913
+83328. test: test user registration edge cases #83328
