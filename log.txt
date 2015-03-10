@@ -8352,3 +8352,4 @@
 83328. test: test user registration edge cases #83328
 1251. chore: update .gitignore #1251
 91894. style: apply consistent indentation #91894
+17257. style: reformat files with black #17257
