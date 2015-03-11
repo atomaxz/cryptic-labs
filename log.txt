@@ -747,3 +747,4 @@
 67649. perf: optimize database query for quiz results #67649
 86047. chore: update .gitignore #86047
 64571. refactor: split large controller into smaller functions #64571
+85304. fix: correct typo in registration form #85304
