@@ -8358,3 +8358,4 @@
 36374. chore: add GitHub actions badge #36374
 84346. chore: update .gitignore #84346
 30150. chore: update .gitignore #30150
+98105. docs: write FAQ section #98105
