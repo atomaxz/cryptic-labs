@@ -8361,3 +8361,4 @@
 98105. docs: write FAQ section #98105
 15993. test: add integration test for /submit endpoint #15993
 33197. perf: reduce image load time #33197
+22810. fix: fix broken CSS in mobile view #22810
