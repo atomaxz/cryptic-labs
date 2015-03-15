@@ -751,3 +751,4 @@
 68804. chore: bump dependencies #68804
 75250. fix: correct typo in registration form #75250
 50569. chore: update .gitignore #50569
+99268. perf: cache repeated calculations #99268
