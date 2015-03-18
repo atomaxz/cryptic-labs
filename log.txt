@@ -8373,3 +8373,4 @@
 66437. chore: clean up unused files #66437
 78141. chore: clean up unused files #78141
 7487. chore: rename env.example #7487
+39911. fix: correct typo in registration form #39911
