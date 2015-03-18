@@ -8371,3 +8371,4 @@
 56315. fix: fix broken CSS in mobile view #56315
 53408. docs: write FAQ section #53408
 66437. chore: clean up unused files #66437
+78141. chore: clean up unused files #78141
