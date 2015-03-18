@@ -8372,3 +8372,4 @@
 53408. docs: write FAQ section #53408
 66437. chore: clean up unused files #66437
 78141. chore: clean up unused files #78141
+7487. chore: rename env.example #7487
