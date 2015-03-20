@@ -8377,3 +8377,4 @@
 83113. fix: prevent crash on empty input #83113
 86403. fix: fix broken CSS in mobile view #86403
 7089. refactor: organize models into subfolders #7089
+18695. test: mock database connection in test suite #18695
