@@ -8390,3 +8390,4 @@
 82946. refactor: clean up auth middleware #82946
 16356. test: add unit test for quiz service #16356
 59679. refactor: split large controller into smaller functions #59679
+56451. feat: support email verification #56451
