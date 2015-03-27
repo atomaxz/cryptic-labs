@@ -8396,3 +8396,4 @@
 36344. feat: enable dark mode toggle #36344
 42999. style: standardize quote style #42999
 96554. docs: write FAQ section #96554
+16549. test: mock database connection in test suite #16549
