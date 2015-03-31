@@ -8407,3 +8407,4 @@
 21638. test: add unit test for quiz service #21638
 96363. refactor: refactor quiz grading logic #96363
 48262. refactor: organize models into subfolders #48262
+37205. style: remove trailing whitespace #37205
