@@ -8410,3 +8410,4 @@
 37205. style: remove trailing whitespace #37205
 57687. style: apply consistent indentation #57687
 80285. docs: clarify environment setup #80285
+65701. fix: prevent crash on empty input #65701
