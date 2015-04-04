@@ -8415,3 +8415,4 @@
 24073. refactor: remove redundant code blocks #24073
 27656. test: add integration test for /submit endpoint #27656
 20272. chore: rename env.example #20272
+42023. fix: correct typo in registration form #42023
