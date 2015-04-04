@@ -758,3 +758,4 @@
 62680. refactor: clean up auth middleware #62680
 19040. feat: add user authentication #19040
 55560. fix: fix null pointer exception on login #55560
+99632. feat: support email verification #99632
