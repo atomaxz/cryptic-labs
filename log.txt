@@ -8418,3 +8418,4 @@
 42023. fix: correct typo in registration form #42023
 12394. refactor: remove redundant code blocks #12394
 83976. feat: implement quiz timer feature #83976
+24776. perf: optimize database query for quiz results #24776
