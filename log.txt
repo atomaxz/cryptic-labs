@@ -8421,3 +8421,4 @@
 24776. perf: optimize database query for quiz results #24776
 48012. chore: bump dependencies #48012
 95168. feat: enable dark mode toggle #95168
+83505. style: standardize quote style #83505
