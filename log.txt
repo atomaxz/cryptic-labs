@@ -8422,3 +8422,4 @@
 48012. chore: bump dependencies #48012
 95168. feat: enable dark mode toggle #95168
 83505. style: standardize quote style #83505
+20525. test: test user registration edge cases #20525
