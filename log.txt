@@ -8423,3 +8423,4 @@
 95168. feat: enable dark mode toggle #95168
 83505. style: standardize quote style #83505
 20525. test: test user registration edge cases #20525
+12604. style: reformat files with black #12604
