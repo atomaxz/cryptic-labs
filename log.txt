@@ -8428,3 +8428,4 @@
 65408. chore: clean up unused files #65408
 15182. perf: reduce image load time #15182
 25990. chore: update .gitignore #25990
+43477. fix: fix broken CSS in mobile view #43477
