@@ -8426,3 +8426,4 @@
 12604. style: reformat files with black #12604
 29662. style: remove trailing whitespace #29662
 65408. chore: clean up unused files #65408
+15182. perf: reduce image load time #15182
