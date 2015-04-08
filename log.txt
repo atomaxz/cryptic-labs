@@ -8432,3 +8432,4 @@
 77426. style: reformat files with black #77426
 62759. fix: correct typo in registration form #62759
 26339. test: add unit test for quiz service #26339
+76293. style: remove trailing whitespace #76293
