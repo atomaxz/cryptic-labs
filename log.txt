@@ -8430,3 +8430,4 @@
 25990. chore: update .gitignore #25990
 43477. fix: fix broken CSS in mobile view #43477
 77426. style: reformat files with black #77426
+62759. fix: correct typo in registration form #62759
