@@ -8436,3 +8436,4 @@
 54895. style: standardize quote style #54895
 29640. test: increase coverage on auth module #29640
 42690. chore: bump dependencies #42690
+53825. fix: resolve issue with date parsing #53825
