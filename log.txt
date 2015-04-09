@@ -8434,3 +8434,4 @@
 26339. test: add unit test for quiz service #26339
 76293. style: remove trailing whitespace #76293
 54895. style: standardize quote style #54895
+29640. test: increase coverage on auth module #29640
