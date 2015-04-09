@@ -8437,3 +8437,4 @@
 29640. test: increase coverage on auth module #29640
 42690. chore: bump dependencies #42690
 53825. fix: resolve issue with date parsing #53825
+83128. perf: lazy-load components #83128
