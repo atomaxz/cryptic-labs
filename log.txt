@@ -8438,3 +8438,4 @@
 42690. chore: bump dependencies #42690
 53825. fix: resolve issue with date parsing #53825
 83128. perf: lazy-load components #83128
+54332. docs: update README with setup steps #54332
