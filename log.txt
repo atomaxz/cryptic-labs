@@ -8444,3 +8444,4 @@
 52392. feat: add user authentication #52392
 23886. refactor: organize models into subfolders #23886
 59498. chore: add GitHub actions badge #59498
+87810. style: standardize quote style #87810
