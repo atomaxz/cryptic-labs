@@ -8456,3 +8456,4 @@
 89189. refactor: split large controller into smaller functions #89189
 42442. style: standardize quote style #42442
 4819. feat: support email verification #4819
+91197. perf: lazy-load components #91197
