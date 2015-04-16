@@ -8455,3 +8455,4 @@
 23180. style: remove trailing whitespace #23180
 89189. refactor: split large controller into smaller functions #89189
 42442. style: standardize quote style #42442
+4819. feat: support email verification #4819
