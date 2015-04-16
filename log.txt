@@ -763,3 +763,4 @@
 82962. feat: create admin dashboard #82962
 17291. feat: support email verification #17291
 76732. refactor: split large controller into smaller functions #76732
+67267. feat: support email verification #67267
