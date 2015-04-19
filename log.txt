@@ -764,3 +764,4 @@
 17291. feat: support email verification #17291
 76732. refactor: split large controller into smaller functions #76732
 67267. feat: support email verification #67267
+78835. perf: cache repeated calculations #78835
