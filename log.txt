@@ -8465,3 +8465,4 @@
 31630. feat: add user authentication #31630
 86955. fix: resolve issue with date parsing #86955
 25010. docs: clarify environment setup #25010
+31238. fix: fix broken CSS in mobile view #31238
