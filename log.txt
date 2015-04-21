@@ -8467,3 +8467,4 @@
 25010. docs: clarify environment setup #25010
 31238. fix: fix broken CSS in mobile view #31238
 98358. style: apply consistent indentation #98358
+90387. fix: fix broken CSS in mobile view #90387
