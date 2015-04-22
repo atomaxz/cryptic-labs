@@ -8471,3 +8471,4 @@
 95616. chore: clean up unused files #95616
 39240. refactor: clean up auth middleware #39240
 38769. feat: implement quiz timer feature #38769
+14838. docs: write FAQ section #14838
