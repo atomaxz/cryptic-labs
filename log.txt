@@ -8472,3 +8472,4 @@
 39240. refactor: clean up auth middleware #39240
 38769. feat: implement quiz timer feature #38769
 14838. docs: write FAQ section #14838
+82849. perf: reduce image load time #82849
