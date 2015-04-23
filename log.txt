@@ -8476,3 +8476,4 @@
 0692. style: standardize quote style #692
 44912. docs: update README with setup steps #44912
 26080. perf: optimize database query for quiz results #26080
+71288. perf: lazy-load components #71288
