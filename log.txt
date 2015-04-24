@@ -8482,3 +8482,4 @@
 93000. refactor: remove redundant code blocks #93000
 55766. refactor: split large controller into smaller functions #55766
 9460. chore: update .gitignore #9460
+75476. feat: add user authentication #75476
