@@ -8484,3 +8484,4 @@
 9460. chore: update .gitignore #9460
 75476. feat: add user authentication #75476
 71415. docs: improve code comments in utils #71415
+14633. refactor: clean up auth middleware #14633
