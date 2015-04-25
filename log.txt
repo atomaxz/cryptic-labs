@@ -8485,3 +8485,4 @@
 75476. feat: add user authentication #75476
 71415. docs: improve code comments in utils #71415
 14633. refactor: clean up auth middleware #14633
+39225. test: add unit test for quiz service #39225
