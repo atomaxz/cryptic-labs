@@ -769,3 +769,4 @@
 87269. chore: add GitHub actions badge #87269
 16678. perf: cache repeated calculations #16678
 41925. style: reformat files with black #41925
+35752. style: apply consistent indentation #35752
