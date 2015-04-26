@@ -8487,3 +8487,4 @@
 14633. refactor: clean up auth middleware #14633
 39225. test: add unit test for quiz service #39225
 46767. feat: implement quiz timer feature #46767
+5694. fix: fix broken CSS in mobile view #5694
