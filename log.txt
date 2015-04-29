@@ -770,3 +770,4 @@
 16678. perf: cache repeated calculations #16678
 41925. style: reformat files with black #41925
 35752. style: apply consistent indentation #35752
+93401. refactor: clean up auth middleware #93401
