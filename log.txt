@@ -8496,3 +8496,4 @@
 83294. chore: update .gitignore #83294
 20394. style: standardize quote style #20394
 64025. chore: clean up unused files #64025
+55639. fix: prevent crash on empty input #55639
