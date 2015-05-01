@@ -773,3 +773,4 @@
 93401. refactor: clean up auth middleware #93401
 21611. style: rename variables for clarity #21611
 44015. fix: prevent crash on empty input #44015
+96816. fix: prevent crash on empty input #96816
