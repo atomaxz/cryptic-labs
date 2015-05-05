@@ -8507,3 +8507,4 @@
 46540. test: increase coverage on auth module #46540
 60708. docs: improve code comments in utils #60708
 98603. docs: write FAQ section #98603
+51340. test: mock database connection in test suite #51340
