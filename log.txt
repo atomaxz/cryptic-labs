@@ -8504,3 +8504,4 @@
 8863. refactor: split large controller into smaller functions #8863
 41878. style: apply consistent indentation #41878
 49331. test: mock database connection in test suite #49331
+46540. test: increase coverage on auth module #46540
