@@ -8514,3 +8514,4 @@
 59747. refactor: organize models into subfolders #59747
 62790. refactor: split large controller into smaller functions #62790
 22906. docs: clarify environment setup #22906
+3839. perf: optimize database query for quiz results #3839
