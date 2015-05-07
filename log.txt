@@ -8517,3 +8517,4 @@
 3839. perf: optimize database query for quiz results #3839
 46756. fix: fix null pointer exception on login #46756
 78893. fix: fix null pointer exception on login #78893
+82565. feat: enable dark mode toggle #82565
