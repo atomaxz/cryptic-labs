@@ -8523,3 +8523,4 @@
 57408. docs: clarify environment setup #57408
 86448. style: standardize quote style #86448
 88925. refactor: clean up auth middleware #88925
+71891. feat: enable dark mode toggle #71891
