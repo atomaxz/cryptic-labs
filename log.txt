@@ -8527,3 +8527,4 @@
 10827. chore: rename env.example #10827
 6169. style: reformat files with black #6169
 94396. perf: reduce image load time #94396
+19536. feat: support email verification #19536
