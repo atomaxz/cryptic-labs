@@ -8525,3 +8525,4 @@
 88925. refactor: clean up auth middleware #88925
 71891. feat: enable dark mode toggle #71891
 10827. chore: rename env.example #10827
+6169. style: reformat files with black #6169
