@@ -8529,3 +8529,4 @@
 94396. perf: reduce image load time #94396
 19536. feat: support email verification #19536
 33767. test: increase coverage on auth module #33767
+74767. perf: lazy-load components #74767
