@@ -8532,3 +8532,4 @@
 74767. perf: lazy-load components #74767
 33157. feat: create admin dashboard #33157
 29569. fix: fix broken CSS in mobile view #29569
+54869. test: mock database connection in test suite #54869
