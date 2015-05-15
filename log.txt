@@ -8535,3 +8535,4 @@
 54869. test: mock database connection in test suite #54869
 36239. fix: fix null pointer exception on login #36239
 76552. refactor: clean up auth middleware #76552
+21778. fix: fix broken CSS in mobile view #21778
