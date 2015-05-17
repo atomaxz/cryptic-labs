@@ -8545,3 +8545,4 @@
 75471. docs: write FAQ section #75471
 17852. refactor: organize models into subfolders #17852
 61700. feat: support email verification #61700
+19936. perf: optimize database query for quiz results #19936
