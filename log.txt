@@ -8543,3 +8543,4 @@
 87577. chore: rename env.example #87577
 42342. perf: lazy-load components #42342
 75471. docs: write FAQ section #75471
+17852. refactor: organize models into subfolders #17852
