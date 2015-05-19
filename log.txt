@@ -780,3 +780,4 @@
 81123. fix: fix broken CSS in mobile view #81123
 42856. style: standardize quote style #42856
 54565. feat: add user authentication #54565
+67687. style: apply consistent indentation #67687
