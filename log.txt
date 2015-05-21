@@ -783,3 +783,4 @@
 67687. style: apply consistent indentation #67687
 88093. chore: add GitHub actions badge #88093
 73359. refactor: remove redundant code blocks #73359
+76664. perf: lazy-load components #76664
