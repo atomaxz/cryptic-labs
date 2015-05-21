@@ -8554,3 +8554,4 @@
 81671. style: reformat files with black #81671
 79290. chore: add GitHub actions badge #79290
 40104. feat: enable dark mode toggle #40104
+5816. test: add integration test for /submit endpoint #5816
