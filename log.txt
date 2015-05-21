@@ -8560,3 +8560,4 @@
 60173. refactor: split large controller into smaller functions #60173
 69916. feat: implement quiz timer feature #69916
 16060. docs: add API usage examples #16060
+87771. docs: write FAQ section #87771
