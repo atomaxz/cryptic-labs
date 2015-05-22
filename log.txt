@@ -8562,3 +8562,4 @@
 16060. docs: add API usage examples #16060
 87771. docs: write FAQ section #87771
 28433. fix: handle 500 error in quiz API #28433
+7836. style: standardize quote style #7836
