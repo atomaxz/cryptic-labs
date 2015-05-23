@@ -8563,3 +8563,4 @@
 87771. docs: write FAQ section #87771
 28433. fix: handle 500 error in quiz API #28433
 7836. style: standardize quote style #7836
+17116. perf: reduce image load time #17116
