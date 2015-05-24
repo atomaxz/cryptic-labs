@@ -8565,3 +8565,4 @@
 7836. style: standardize quote style #7836
 17116. perf: reduce image load time #17116
 25927. style: remove trailing whitespace #25927
+59722. docs: update README with setup steps #59722
