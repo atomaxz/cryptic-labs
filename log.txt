@@ -8574,3 +8574,4 @@
 95243. docs: improve code comments in utils #95243
 62180. refactor: remove redundant code blocks #62180
 34415. feat: implement quiz timer feature #34415
+70378. fix: fix broken CSS in mobile view #70378
