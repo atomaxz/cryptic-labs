@@ -8582,3 +8582,4 @@
 42658. feat: create admin dashboard #42658
 37868. style: standardize quote style #37868
 38798. feat: implement quiz timer feature #38798
+93218. feat: support email verification #93218
