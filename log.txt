@@ -8584,3 +8584,4 @@
 38798. feat: implement quiz timer feature #38798
 93218. feat: support email verification #93218
 61152. perf: reduce image load time #61152
+13188. perf: reduce image load time #13188
