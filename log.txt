@@ -8591,3 +8591,4 @@
 2615. fix: handle 500 error in quiz API #2615
 9256. perf: cache repeated calculations #9256
 9124. perf: reduce image load time #9124
+25599. feat: add user authentication #25599
