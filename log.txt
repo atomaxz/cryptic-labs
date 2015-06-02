@@ -8592,3 +8592,4 @@
 9256. perf: cache repeated calculations #9256
 9124. perf: reduce image load time #9124
 25599. feat: add user authentication #25599
+74242. refactor: clean up auth middleware #74242
