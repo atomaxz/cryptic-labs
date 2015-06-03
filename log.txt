@@ -8594,3 +8594,4 @@
 25599. feat: add user authentication #25599
 74242. refactor: clean up auth middleware #74242
 58072. chore: add GitHub actions badge #58072
+71591. style: standardize quote style #71591
