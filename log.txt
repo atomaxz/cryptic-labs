@@ -8598,3 +8598,4 @@
 82630. chore: clean up unused files #82630
 80440. chore: add GitHub actions badge #80440
 19515. refactor: split large controller into smaller functions #19515
+63587. docs: document token refresh logic #63587
