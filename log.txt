@@ -8601,3 +8601,4 @@
 63587. docs: document token refresh logic #63587
 81450. refactor: clean up auth middleware #81450
 68305. feat: enable dark mode toggle #68305
+23543. test: test user registration edge cases #23543
