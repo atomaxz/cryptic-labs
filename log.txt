@@ -8602,3 +8602,4 @@
 81450. refactor: clean up auth middleware #81450
 68305. feat: enable dark mode toggle #68305
 23543. test: test user registration edge cases #23543
+96539. test: add unit test for quiz service #96539
