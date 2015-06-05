@@ -8600,3 +8600,4 @@
 19515. refactor: split large controller into smaller functions #19515
 63587. docs: document token refresh logic #63587
 81450. refactor: clean up auth middleware #81450
+68305. feat: enable dark mode toggle #68305
