@@ -8608,3 +8608,4 @@
 43740. feat: support email verification #43740
 28848. perf: cache repeated calculations #28848
 59991. style: remove trailing whitespace #59991
+30589. refactor: organize models into subfolders #30589
