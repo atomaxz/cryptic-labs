@@ -8609,3 +8609,4 @@
 28848. perf: cache repeated calculations #28848
 59991. style: remove trailing whitespace #59991
 30589. refactor: organize models into subfolders #30589
+64008. test: increase coverage on auth module #64008
