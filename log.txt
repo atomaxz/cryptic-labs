@@ -8612,3 +8612,4 @@
 64008. test: increase coverage on auth module #64008
 31595. feat: add export to CSV option #31595
 66077. style: apply consistent indentation #66077
+0114. fix: fix broken CSS in mobile view #114
