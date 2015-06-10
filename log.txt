@@ -8613,3 +8613,4 @@
 31595. feat: add export to CSV option #31595
 66077. style: apply consistent indentation #66077
 0114. fix: fix broken CSS in mobile view #114
+17381. fix: prevent crash on empty input #17381
