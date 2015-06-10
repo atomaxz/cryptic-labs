@@ -798,3 +798,4 @@
 61094. style: apply consistent indentation #61094
 82994. test: add integration test for /submit endpoint #82994
 59465. fix: prevent crash on empty input #59465
+1417. style: standardize quote style #1417
