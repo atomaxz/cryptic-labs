@@ -802,3 +802,4 @@
 10499. style: reformat files with black #10499
 51015. style: apply consistent indentation #51015
 88494. test: mock database connection in test suite #88494
+85635. style: rename variables for clarity #85635
