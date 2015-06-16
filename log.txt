@@ -8629,3 +8629,4 @@
 91235. feat: enable dark mode toggle #91235
 89964. test: test user registration edge cases #89964
 8567. docs: document token refresh logic #8567
+51317. docs: update README with setup steps #51317
