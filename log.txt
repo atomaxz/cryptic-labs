@@ -8631,3 +8631,4 @@
 8567. docs: document token refresh logic #8567
 51317. docs: update README with setup steps #51317
 54906. refactor: remove redundant code blocks #54906
+53208. fix: prevent crash on empty input #53208
