@@ -8639,3 +8639,4 @@
 70190. test: mock database connection in test suite #70190
 13617. chore: update .gitignore #13617
 83626. perf: optimize database query for quiz results #83626
+22291. chore: bump dependencies #22291
