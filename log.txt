@@ -804,3 +804,4 @@
 88494. test: mock database connection in test suite #88494
 85635. style: rename variables for clarity #85635
 23672. style: reformat files with black #23672
+61270. fix: correct typo in registration form #61270
