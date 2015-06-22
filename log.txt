@@ -8642,3 +8642,4 @@
 22291. chore: bump dependencies #22291
 73438. refactor: clean up auth middleware #73438
 39746. test: test user registration edge cases #39746
+10350. style: remove trailing whitespace #10350
