@@ -8641,3 +8641,4 @@
 83626. perf: optimize database query for quiz results #83626
 22291. chore: bump dependencies #22291
 73438. refactor: clean up auth middleware #73438
+39746. test: test user registration edge cases #39746
