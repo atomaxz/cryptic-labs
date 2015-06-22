@@ -8643,3 +8643,4 @@
 73438. refactor: clean up auth middleware #73438
 39746. test: test user registration edge cases #39746
 10350. style: remove trailing whitespace #10350
+50595. fix: handle 500 error in quiz API #50595
