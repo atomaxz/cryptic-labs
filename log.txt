@@ -8647,3 +8647,4 @@
 78751. refactor: split large controller into smaller functions #78751
 25629. feat: add export to CSV option #25629
 75865. feat: add user authentication #75865
+47524. style: remove trailing whitespace #47524
