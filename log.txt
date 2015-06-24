@@ -8649,3 +8649,4 @@
 75865. feat: add user authentication #75865
 47524. style: remove trailing whitespace #47524
 65020. chore: clean up unused files #65020
+49272. chore: bump dependencies #49272
