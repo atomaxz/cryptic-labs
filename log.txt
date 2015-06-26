@@ -8656,3 +8656,4 @@
 42489. test: add integration test for /submit endpoint #42489
 89131. style: rename variables for clarity #89131
 93401. refactor: clean up auth middleware #93401
+56249. fix: fix null pointer exception on login #56249
