@@ -8665,3 +8665,4 @@
 86715. test: increase coverage on auth module #86715
 38533. chore: add GitHub actions badge #38533
 28663. docs: update README with setup steps #28663
+76209. chore: bump dependencies #76209
