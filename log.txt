@@ -8664,3 +8664,4 @@
 77103. fix: correct typo in registration form #77103
 86715. test: increase coverage on auth module #86715
 38533. chore: add GitHub actions badge #38533
+28663. docs: update README with setup steps #28663
