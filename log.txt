@@ -8673,3 +8673,4 @@
 1929. chore: clean up unused files #1929
 97509. feat: add user authentication #97509
 33022. perf: lazy-load components #33022
+48084. test: increase coverage on auth module #48084
