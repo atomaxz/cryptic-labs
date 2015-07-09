@@ -8683,3 +8683,4 @@
 68775. fix: handle 500 error in quiz API #68775
 6870. chore: update .gitignore #6870
 85356. test: add unit test for quiz service #85356
+91198. test: add integration test for /submit endpoint #91198
