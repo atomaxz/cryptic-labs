@@ -8682,3 +8682,4 @@
 7289. refactor: organize models into subfolders #7289
 68775. fix: handle 500 error in quiz API #68775
 6870. chore: update .gitignore #6870
+85356. test: add unit test for quiz service #85356
