@@ -8684,3 +8684,4 @@
 6870. chore: update .gitignore #6870
 85356. test: add unit test for quiz service #85356
 91198. test: add integration test for /submit endpoint #91198
+37644. chore: add GitHub actions badge #37644
