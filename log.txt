@@ -8693,3 +8693,4 @@
 72286. refactor: remove redundant code blocks #72286
 29004. fix: correct typo in registration form #29004
 48115. style: remove trailing whitespace #48115
+43428. fix: handle 500 error in quiz API #43428
