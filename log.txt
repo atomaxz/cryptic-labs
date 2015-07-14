@@ -8699,3 +8699,4 @@
 42860. fix: handle 500 error in quiz API #42860
 11284. fix: handle 500 error in quiz API #11284
 41357. chore: clean up unused files #41357
+91459. perf: lazy-load components #91459
