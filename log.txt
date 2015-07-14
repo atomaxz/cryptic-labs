@@ -8697,3 +8697,4 @@
 35457. fix: resolve issue with date parsing #35457
 48793. refactor: split large controller into smaller functions #48793
 42860. fix: handle 500 error in quiz API #42860
+11284. fix: handle 500 error in quiz API #11284
