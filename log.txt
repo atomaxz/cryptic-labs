@@ -8702,3 +8702,4 @@
 91459. perf: lazy-load components #91459
 78079. fix: correct typo in registration form #78079
 31433. chore: bump dependencies #31433
+76972. test: add integration test for /submit endpoint #76972
