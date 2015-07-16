@@ -8707,3 +8707,4 @@
 79725. refactor: clean up auth middleware #79725
 31991. feat: implement quiz timer feature #31991
 56163. fix: handle 500 error in quiz API #56163
+47847. refactor: refactor quiz grading logic #47847
