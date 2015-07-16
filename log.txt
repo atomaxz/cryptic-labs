@@ -8706,3 +8706,4 @@
 93900. test: add integration test for /submit endpoint #93900
 79725. refactor: clean up auth middleware #79725
 31991. feat: implement quiz timer feature #31991
+56163. fix: handle 500 error in quiz API #56163
