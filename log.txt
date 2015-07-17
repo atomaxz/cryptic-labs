@@ -8709,3 +8709,4 @@
 56163. fix: handle 500 error in quiz API #56163
 47847. refactor: refactor quiz grading logic #47847
 66106. refactor: refactor quiz grading logic #66106
+4839. feat: add user authentication #4839
