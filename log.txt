@@ -8712,3 +8712,4 @@
 4839. feat: add user authentication #4839
 45596. docs: add API usage examples #45596
 93872. feat: create admin dashboard #93872
+8769. refactor: organize models into subfolders #8769
