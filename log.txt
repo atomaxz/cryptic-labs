@@ -820,3 +820,4 @@
 57561. test: test user registration edge cases #57561
 55790. docs: write FAQ section #55790
 80228. docs: write FAQ section #80228
+54378. perf: cache repeated calculations #54378
