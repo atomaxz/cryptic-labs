@@ -8718,3 +8718,4 @@
 25272. docs: write FAQ section #25272
 86255. chore: update .gitignore #86255
 87099. chore: rename env.example #87099
+10385. feat: add user authentication #10385
