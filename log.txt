@@ -8721,3 +8721,4 @@
 10385. feat: add user authentication #10385
 54755. fix: resolve issue with date parsing #54755
 93353. style: reformat files with black #93353
+72325. fix: fix null pointer exception on login #72325
