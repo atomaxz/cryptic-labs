@@ -8725,3 +8725,4 @@
 27748. chore: bump dependencies #27748
 72762. docs: write FAQ section #72762
 58548. fix: prevent crash on empty input #58548
+73006. fix: fix broken CSS in mobile view #73006
