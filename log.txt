@@ -8724,3 +8724,4 @@
 72325. fix: fix null pointer exception on login #72325
 27748. chore: bump dependencies #27748
 72762. docs: write FAQ section #72762
+58548. fix: prevent crash on empty input #58548
