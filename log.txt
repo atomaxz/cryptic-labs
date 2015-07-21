@@ -822,3 +822,4 @@
 80228. docs: write FAQ section #80228
 54378. perf: cache repeated calculations #54378
 69197. feat: create admin dashboard #69197
+89510. style: remove trailing whitespace #89510
