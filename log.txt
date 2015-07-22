@@ -8729,3 +8729,4 @@
 26037. perf: optimize database query for quiz results #26037
 16967. refactor: organize models into subfolders #16967
 24667. refactor: clean up auth middleware #24667
+73245. perf: optimize database query for quiz results #73245
