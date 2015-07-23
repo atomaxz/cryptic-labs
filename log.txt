@@ -8731,3 +8731,4 @@
 24667. refactor: clean up auth middleware #24667
 73245. perf: optimize database query for quiz results #73245
 60076. refactor: split large controller into smaller functions #60076
+15126. test: mock database connection in test suite #15126
