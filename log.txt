@@ -8734,3 +8734,4 @@
 15126. test: mock database connection in test suite #15126
 92086. style: apply consistent indentation #92086
 79840. fix: fix null pointer exception on login #79840
+87631. perf: lazy-load components #87631
