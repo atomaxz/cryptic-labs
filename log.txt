@@ -827,3 +827,4 @@
 51079. docs: document token refresh logic #51079
 32655. style: standardize quote style #32655
 13537. test: test user registration edge cases #13537
+65970. chore: update .gitignore #65970
