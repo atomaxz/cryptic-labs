@@ -8738,3 +8738,4 @@
 15069. chore: rename env.example #15069
 50593. test: mock database connection in test suite #50593
 84192. test: test user registration edge cases #84192
+86853. perf: optimize database query for quiz results #86853
