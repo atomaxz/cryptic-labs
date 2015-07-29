@@ -8745,3 +8745,4 @@
 95325. chore: clean up unused files #95325
 23143. fix: handle 500 error in quiz API #23143
 71159. fix: fix broken CSS in mobile view #71159
+99499. refactor: remove redundant code blocks #99499
