@@ -8743,3 +8743,4 @@
 78187. feat: enable dark mode toggle #78187
 91029. fix: prevent crash on empty input #91029
 95325. chore: clean up unused files #95325
+23143. fix: handle 500 error in quiz API #23143
