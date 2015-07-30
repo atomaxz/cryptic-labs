@@ -8747,3 +8747,4 @@
 71159. fix: fix broken CSS in mobile view #71159
 99499. refactor: remove redundant code blocks #99499
 6841. refactor: organize models into subfolders #6841
+53969. docs: update README with setup steps #53969
