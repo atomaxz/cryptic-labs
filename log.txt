@@ -8748,3 +8748,4 @@
 99499. refactor: remove redundant code blocks #99499
 6841. refactor: organize models into subfolders #6841
 53969. docs: update README with setup steps #53969
+96549. fix: prevent crash on empty input #96549
