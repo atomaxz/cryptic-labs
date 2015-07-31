@@ -8750,3 +8750,4 @@
 53969. docs: update README with setup steps #53969
 96549. fix: prevent crash on empty input #96549
 47335. chore: add GitHub actions badge #47335
+9977. fix: fix null pointer exception on login #9977
