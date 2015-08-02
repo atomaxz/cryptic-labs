@@ -8757,3 +8757,4 @@
 40077. refactor: refactor quiz grading logic #40077
 10310. docs: clarify environment setup #10310
 30965. style: standardize quote style #30965
+6700. perf: reduce image load time #6700
