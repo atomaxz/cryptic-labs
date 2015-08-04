@@ -8761,3 +8761,4 @@
 89802. test: add integration test for /submit endpoint #89802
 20524. style: rename variables for clarity #20524
 87341. test: increase coverage on auth module #87341
+94374. refactor: split large controller into smaller functions #94374
