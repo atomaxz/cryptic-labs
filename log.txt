@@ -8763,3 +8763,4 @@
 87341. test: increase coverage on auth module #87341
 94374. refactor: split large controller into smaller functions #94374
 66783. docs: improve code comments in utils #66783
+76908. fix: fix broken CSS in mobile view #76908
