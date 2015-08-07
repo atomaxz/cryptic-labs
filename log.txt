@@ -835,3 +835,4 @@
 57618. style: reformat files with black #57618
 4643. refactor: refactor quiz grading logic #4643
 10204. perf: optimize database query for quiz results #10204
+93351. feat: support email verification #93351
