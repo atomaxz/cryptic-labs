@@ -8768,3 +8768,4 @@
 59043. chore: rename env.example #59043
 19546. feat: support email verification #19546
 74436. test: increase coverage on auth module #74436
+22806. docs: update README with setup steps #22806
