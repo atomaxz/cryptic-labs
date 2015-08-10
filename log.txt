@@ -8773,3 +8773,4 @@
 79118. chore: add GitHub actions badge #79118
 21513. docs: improve code comments in utils #21513
 93016. perf: optimize database query for quiz results #93016
+80826. style: reformat files with black #80826
