@@ -836,3 +836,4 @@
 4643. refactor: refactor quiz grading logic #4643
 10204. perf: optimize database query for quiz results #10204
 93351. feat: support email verification #93351
+7272. refactor: remove redundant code blocks #7272
