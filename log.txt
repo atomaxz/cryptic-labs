@@ -8785,3 +8785,4 @@
 18926. perf: lazy-load components #18926
 31837. docs: add API usage examples #31837
 30416. perf: cache repeated calculations #30416
+91920. feat: add export to CSV option #91920
