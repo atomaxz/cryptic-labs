@@ -8789,3 +8789,4 @@
 0572. docs: document token refresh logic #572
 38318. test: add unit test for quiz service #38318
 35757. style: reformat files with black #35757
+63475. perf: optimize database query for quiz results #63475
