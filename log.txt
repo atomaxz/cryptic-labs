@@ -8805,3 +8805,4 @@
 9061. chore: add GitHub actions badge #9061
 50114. refactor: refactor quiz grading logic #50114
 97783. docs: write FAQ section #97783
+73560. feat: support email verification #73560
