@@ -8811,3 +8811,4 @@
 90744. style: standardize quote style #90744
 18018. perf: optimize database query for quiz results #18018
 17107. test: test user registration edge cases #17107
+72949. refactor: clean up auth middleware #72949
