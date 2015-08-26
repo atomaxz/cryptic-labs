@@ -8813,3 +8813,4 @@
 17107. test: test user registration edge cases #17107
 72949. refactor: clean up auth middleware #72949
 18840. perf: reduce image load time #18840
+81866. refactor: remove redundant code blocks #81866
