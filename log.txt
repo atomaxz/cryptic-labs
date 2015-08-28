@@ -8820,3 +8820,4 @@
 5304. style: apply consistent indentation #5304
 46341. style: apply consistent indentation #46341
 75668. feat: add export to CSV option #75668
+48968. docs: write FAQ section #48968
