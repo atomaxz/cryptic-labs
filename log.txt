@@ -8817,3 +8817,4 @@
 86783. docs: improve code comments in utils #86783
 88503. perf: cache repeated calculations #88503
 56132. chore: bump dependencies #56132
+5304. style: apply consistent indentation #5304
