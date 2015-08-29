@@ -8821,3 +8821,4 @@
 46341. style: apply consistent indentation #46341
 75668. feat: add export to CSV option #75668
 48968. docs: write FAQ section #48968
+35425. chore: rename env.example #35425
