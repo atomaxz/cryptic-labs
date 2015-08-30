@@ -8825,3 +8825,4 @@
 92753. feat: add user authentication #92753
 9806. fix: resolve issue with date parsing #9806
 94821. perf: reduce image load time #94821
+37150. fix: prevent crash on empty input #37150
