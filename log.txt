@@ -8829,3 +8829,4 @@
 15994. perf: reduce image load time #15994
 47114. perf: optimize database query for quiz results #47114
 28147. refactor: organize models into subfolders #28147
+14546. chore: clean up unused files #14546
