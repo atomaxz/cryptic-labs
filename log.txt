@@ -8835,3 +8835,4 @@
 55354. style: standardize quote style #55354
 68159. chore: add GitHub actions badge #68159
 49603. chore: bump dependencies #49603
+10377. test: increase coverage on auth module #10377
