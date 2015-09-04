@@ -8839,3 +8839,4 @@
 61703. perf: cache repeated calculations #61703
 50631. perf: lazy-load components #50631
 66568. test: add integration test for /submit endpoint #66568
+11316. test: test user registration edge cases #11316
