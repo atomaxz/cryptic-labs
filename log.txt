@@ -8844,3 +8844,4 @@
 25655. chore: rename env.example #25655
 34125. perf: reduce image load time #34125
 3833. fix: handle 500 error in quiz API #3833
+8664. style: rename variables for clarity #8664
