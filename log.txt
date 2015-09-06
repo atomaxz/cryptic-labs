@@ -8848,3 +8848,4 @@
 13757. perf: optimize database query for quiz results #13757
 39466. fix: fix null pointer exception on login #39466
 95744. refactor: refactor quiz grading logic #95744
+78060. chore: clean up unused files #78060
