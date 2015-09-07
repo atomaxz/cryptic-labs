@@ -8852,3 +8852,4 @@
 95231. chore: update .gitignore #95231
 93544. chore: rename env.example #93544
 17542. style: reformat files with black #17542
+24424. refactor: clean up auth middleware #24424
