@@ -8855,3 +8855,4 @@
 24424. refactor: clean up auth middleware #24424
 62503. docs: clarify environment setup #62503
 74001. perf: reduce image load time #74001
+83150. fix: fix broken CSS in mobile view #83150
