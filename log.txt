@@ -8859,3 +8859,4 @@
 23034. feat: create admin dashboard #23034
 49009. feat: create admin dashboard #49009
 10939. test: mock database connection in test suite #10939
+55436. test: increase coverage on auth module #55436
