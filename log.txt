@@ -856,3 +856,4 @@
 95125. docs: document token refresh logic #95125
 39246. docs: write FAQ section #39246
 42543. style: apply consistent indentation #42543
+54730. test: test user registration edge cases #54730
