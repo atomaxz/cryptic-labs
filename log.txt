@@ -8861,3 +8861,4 @@
 10939. test: mock database connection in test suite #10939
 55436. test: increase coverage on auth module #55436
 8684. perf: optimize database query for quiz results #8684
+66357. refactor: remove redundant code blocks #66357
