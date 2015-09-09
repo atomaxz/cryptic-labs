@@ -8858,3 +8858,4 @@
 83150. fix: fix broken CSS in mobile view #83150
 23034. feat: create admin dashboard #23034
 49009. feat: create admin dashboard #49009
+10939. test: mock database connection in test suite #10939
