@@ -8863,3 +8863,4 @@
 8684. perf: optimize database query for quiz results #8684
 66357. refactor: remove redundant code blocks #66357
 85869. fix: fix broken CSS in mobile view #85869
+46574. refactor: refactor quiz grading logic #46574
