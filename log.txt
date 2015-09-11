@@ -8864,3 +8864,4 @@
 66357. refactor: remove redundant code blocks #66357
 85869. fix: fix broken CSS in mobile view #85869
 46574. refactor: refactor quiz grading logic #46574
+32391. feat: add export to CSV option #32391
