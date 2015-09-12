@@ -8866,3 +8866,4 @@
 46574. refactor: refactor quiz grading logic #46574
 32391. feat: add export to CSV option #32391
 91404. test: add integration test for /submit endpoint #91404
+46389. style: remove trailing whitespace #46389
