@@ -8870,3 +8870,4 @@
 58490. chore: clean up unused files #58490
 43114. perf: lazy-load components #43114
 2789. docs: write FAQ section #2789
+24616. docs: document token refresh logic #24616
