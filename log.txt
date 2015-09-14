@@ -8874,3 +8874,4 @@
 80487. feat: add export to CSV option #80487
 13731. style: standardize quote style #13731
 11799. test: increase coverage on auth module #11799
+9701. style: remove trailing whitespace #9701
