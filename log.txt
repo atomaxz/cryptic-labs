@@ -8876,3 +8876,4 @@
 11799. test: increase coverage on auth module #11799
 9701. style: remove trailing whitespace #9701
 18257. refactor: remove redundant code blocks #18257
+78448. chore: rename env.example #78448
