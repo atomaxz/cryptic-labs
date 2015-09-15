@@ -8878,3 +8878,4 @@
 18257. refactor: remove redundant code blocks #18257
 78448. chore: rename env.example #78448
 82651. feat: support email verification #82651
+83855. test: mock database connection in test suite #83855
