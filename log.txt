@@ -8881,3 +8881,4 @@
 83855. test: mock database connection in test suite #83855
 44399. docs: improve code comments in utils #44399
 54470. chore: update .gitignore #54470
+34693. feat: support email verification #34693
