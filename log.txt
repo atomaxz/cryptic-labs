@@ -8882,3 +8882,4 @@
 44399. docs: improve code comments in utils #44399
 54470. chore: update .gitignore #54470
 34693. feat: support email verification #34693
+62032. fix: fix broken CSS in mobile view #62032
