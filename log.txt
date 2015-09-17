@@ -8884,3 +8884,4 @@
 34693. feat: support email verification #34693
 62032. fix: fix broken CSS in mobile view #62032
 95148. test: add integration test for /submit endpoint #95148
+2367. perf: cache repeated calculations #2367
