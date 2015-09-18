@@ -8889,3 +8889,4 @@
 71215. feat: create admin dashboard #71215
 74105. docs: improve code comments in utils #74105
 5154. style: standardize quote style #5154
+4446. test: increase coverage on auth module #4446
