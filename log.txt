@@ -8897,3 +8897,4 @@
 7669. test: mock database connection in test suite #7669
 77785. perf: reduce image load time #77785
 60270. feat: add user authentication #60270
+86987. fix: fix null pointer exception on login #86987
