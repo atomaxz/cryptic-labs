@@ -8895,3 +8895,4 @@
 27166. docs: improve code comments in utils #27166
 89921. test: add unit test for quiz service #89921
 7669. test: mock database connection in test suite #7669
+77785. perf: reduce image load time #77785
