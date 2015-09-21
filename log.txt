@@ -8901,3 +8901,4 @@
 37806. test: add integration test for /submit endpoint #37806
 48967. test: increase coverage on auth module #48967
 53528. chore: clean up unused files #53528
+66359. feat: enable dark mode toggle #66359
