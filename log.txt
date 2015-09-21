@@ -8905,3 +8905,4 @@
 22362. feat: add export to CSV option #22362
 28311. chore: update .gitignore #28311
 33940. test: mock database connection in test suite #33940
+66942. feat: create admin dashboard #66942
