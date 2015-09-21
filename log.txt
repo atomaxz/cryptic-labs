@@ -8904,3 +8904,4 @@
 66359. feat: enable dark mode toggle #66359
 22362. feat: add export to CSV option #22362
 28311. chore: update .gitignore #28311
+33940. test: mock database connection in test suite #33940
