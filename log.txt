@@ -8907,3 +8907,4 @@
 33940. test: mock database connection in test suite #33940
 66942. feat: create admin dashboard #66942
 10397. fix: correct typo in registration form #10397
+19034. chore: add GitHub actions badge #19034
