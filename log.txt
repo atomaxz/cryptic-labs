@@ -865,3 +865,4 @@
 69668. docs: write FAQ section #69668
 22015. perf: reduce image load time #22015
 90957. perf: cache repeated calculations #90957
+61460. chore: add GitHub actions badge #61460
