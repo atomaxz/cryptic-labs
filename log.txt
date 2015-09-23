@@ -866,3 +866,4 @@
 22015. perf: reduce image load time #22015
 90957. perf: cache repeated calculations #90957
 61460. chore: add GitHub actions badge #61460
+59854. feat: enable dark mode toggle #59854
