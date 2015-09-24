@@ -867,3 +867,4 @@
 90957. perf: cache repeated calculations #90957
 61460. chore: add GitHub actions badge #61460
 59854. feat: enable dark mode toggle #59854
+70472. docs: document token refresh logic #70472
