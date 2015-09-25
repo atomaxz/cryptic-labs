@@ -8917,3 +8917,4 @@
 46664. perf: lazy-load components #46664
 59041. refactor: refactor quiz grading logic #59041
 34376. chore: clean up unused files #34376
+92758. fix: fix broken CSS in mobile view #92758
