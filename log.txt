@@ -8921,3 +8921,4 @@
 95781. refactor: clean up auth middleware #95781
 69734. perf: cache repeated calculations #69734
 8455. style: reformat files with black #8455
+87913. style: remove trailing whitespace #87913
