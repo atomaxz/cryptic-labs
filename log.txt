@@ -8924,3 +8924,4 @@
 87913. style: remove trailing whitespace #87913
 16248. chore: update .gitignore #16248
 94712. test: mock database connection in test suite #94712
+69308. docs: update README with setup steps #69308
