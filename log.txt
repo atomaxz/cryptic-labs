@@ -8930,3 +8930,4 @@
 63978. chore: bump dependencies #63978
 81724. chore: bump dependencies #81724
 25551. chore: clean up unused files #25551
+6911. perf: cache repeated calculations #6911
