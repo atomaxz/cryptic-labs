@@ -8938,3 +8938,4 @@
 1087. style: reformat files with black #1087
 95614. feat: enable dark mode toggle #95614
 94666. test: increase coverage on auth module #94666
+85031. refactor: clean up auth middleware #85031
