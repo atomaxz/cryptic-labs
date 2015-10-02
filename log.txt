@@ -873,3 +873,4 @@
 58077. feat: support email verification #58077
 84455. chore: add GitHub actions badge #84455
 76066. fix: prevent crash on empty input #76066
+46827. docs: clarify environment setup #46827
