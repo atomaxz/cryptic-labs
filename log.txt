@@ -8945,3 +8945,4 @@
 54569. style: apply consistent indentation #54569
 19860. docs: clarify environment setup #19860
 26405. docs: document token refresh logic #26405
+55429. feat: add user authentication #55429
