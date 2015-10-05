@@ -876,3 +876,4 @@
 46827. docs: clarify environment setup #46827
 97111. fix: resolve issue with date parsing #97111
 48207. chore: clean up unused files #48207
+56494. feat: enable dark mode toggle #56494
