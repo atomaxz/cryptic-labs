@@ -879,3 +879,4 @@
 56494. feat: enable dark mode toggle #56494
 6013. feat: add user authentication #6013
 13484. feat: implement quiz timer feature #13484
+39278. style: standardize quote style #39278
