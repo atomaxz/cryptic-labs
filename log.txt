@@ -8957,3 +8957,4 @@
 45129. perf: cache repeated calculations #45129
 36314. test: add unit test for quiz service #36314
 26278. docs: document token refresh logic #26278
+45052. perf: lazy-load components #45052
