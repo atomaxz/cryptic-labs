@@ -8955,3 +8955,4 @@
 69978. test: increase coverage on auth module #69978
 5526. feat: support email verification #5526
 45129. perf: cache repeated calculations #45129
+36314. test: add unit test for quiz service #36314
