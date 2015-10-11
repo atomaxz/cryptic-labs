@@ -8966,3 +8966,4 @@
 51925. refactor: organize models into subfolders #51925
 37095. fix: resolve issue with date parsing #37095
 94914. perf: reduce image load time #94914
+62406. refactor: clean up auth middleware #62406
