@@ -8969,3 +8969,4 @@
 62406. refactor: clean up auth middleware #62406
 94015. style: apply consistent indentation #94015
 20603. chore: rename env.example #20603
+90338. docs: update README with setup steps #90338
