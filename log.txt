@@ -882,3 +882,4 @@
 39278. style: standardize quote style #39278
 60868. fix: fix null pointer exception on login #60868
 99116. perf: reduce image load time #99116
+13309. refactor: split large controller into smaller functions #13309
