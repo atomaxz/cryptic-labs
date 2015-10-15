@@ -8976,3 +8976,4 @@
 66221. refactor: organize models into subfolders #66221
 26857. test: increase coverage on auth module #26857
 74152. test: add unit test for quiz service #74152
+23057. feat: enable dark mode toggle #23057
