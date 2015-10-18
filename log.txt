@@ -8990,3 +8990,4 @@
 65945. fix: fix null pointer exception on login #65945
 98155. docs: clarify environment setup #98155
 99561. fix: handle 500 error in quiz API #99561
+11990. fix: fix broken CSS in mobile view #11990
