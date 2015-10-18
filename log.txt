@@ -8992,3 +8992,4 @@
 99561. fix: handle 500 error in quiz API #99561
 11990. fix: fix broken CSS in mobile view #11990
 72789. test: test user registration edge cases #72789
+90631. feat: add export to CSV option #90631
