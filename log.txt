@@ -887,3 +887,4 @@
 27164. docs: update README with setup steps #27164
 71004. fix: handle 500 error in quiz API #71004
 25851. fix: prevent crash on empty input #25851
+9550. style: apply consistent indentation #9550
