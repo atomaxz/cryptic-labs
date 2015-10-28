@@ -9012,3 +9012,4 @@
 20035. feat: enable dark mode toggle #20035
 54433. chore: rename env.example #54433
 35686. chore: update .gitignore #35686
+27625. refactor: clean up auth middleware #27625
