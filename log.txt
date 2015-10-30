@@ -9018,3 +9018,4 @@
 20653. style: standardize quote style #20653
 11926. fix: prevent crash on empty input #11926
 54961. perf: lazy-load components #54961
+8482. test: add integration test for /submit endpoint #8482
