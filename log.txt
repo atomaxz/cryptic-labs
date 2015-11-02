@@ -891,3 +891,4 @@
 49226. test: test user registration edge cases #49226
 13851. chore: add GitHub actions badge #13851
 64382. chore: rename env.example #64382
+7633. test: increase coverage on auth module #7633
