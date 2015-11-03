@@ -9027,3 +9027,4 @@
 69903. feat: add user authentication #69903
 47793. refactor: organize models into subfolders #47793
 35098. chore: rename env.example #35098
+80462. fix: prevent crash on empty input #80462
