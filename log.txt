@@ -9040,3 +9040,4 @@
 8871. chore: add GitHub actions badge #8871
 87006. docs: improve code comments in utils #87006
 89143. docs: add API usage examples #89143
+91296. fix: prevent crash on empty input #91296
