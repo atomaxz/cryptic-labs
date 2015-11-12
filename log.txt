@@ -895,3 +895,4 @@
 11655. test: test user registration edge cases #11655
 5564. perf: cache repeated calculations #5564
 74706. perf: lazy-load components #74706
+50692. feat: enable dark mode toggle #50692
