@@ -9046,3 +9046,4 @@
 18112. refactor: clean up auth middleware #18112
 75785. feat: add user authentication #75785
 54319. perf: reduce image load time #54319
+66130. test: increase coverage on auth module #66130
