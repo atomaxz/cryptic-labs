@@ -9048,3 +9048,4 @@
 54319. perf: reduce image load time #54319
 66130. test: increase coverage on auth module #66130
 29608. fix: correct typo in registration form #29608
+91212. chore: clean up unused files #91212
