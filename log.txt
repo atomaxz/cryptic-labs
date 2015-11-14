@@ -9047,3 +9047,4 @@
 75785. feat: add user authentication #75785
 54319. perf: reduce image load time #54319
 66130. test: increase coverage on auth module #66130
+29608. fix: correct typo in registration form #29608
