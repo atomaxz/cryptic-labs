@@ -9050,3 +9050,4 @@
 29608. fix: correct typo in registration form #29608
 91212. chore: clean up unused files #91212
 35392. refactor: split large controller into smaller functions #35392
+56434. test: increase coverage on auth module #56434
