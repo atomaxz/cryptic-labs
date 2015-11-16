@@ -9052,3 +9052,4 @@
 35392. refactor: split large controller into smaller functions #35392
 56434. test: increase coverage on auth module #56434
 39624. chore: add GitHub actions badge #39624
+40269. docs: document token refresh logic #40269
