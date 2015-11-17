@@ -9057,3 +9057,4 @@
 45325. style: apply consistent indentation #45325
 64115. docs: improve code comments in utils #64115
 64476. test: add unit test for quiz service #64476
+12156. feat: support email verification #12156
