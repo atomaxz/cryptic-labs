@@ -9058,3 +9058,4 @@
 64115. docs: improve code comments in utils #64115
 64476. test: add unit test for quiz service #64476
 12156. feat: support email verification #12156
+36285. docs: update README with setup steps #36285
