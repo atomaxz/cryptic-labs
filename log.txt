@@ -898,3 +898,4 @@
 50692. feat: enable dark mode toggle #50692
 20176. style: remove trailing whitespace #20176
 72861. refactor: split large controller into smaller functions #72861
+54637. style: standardize quote style #54637
