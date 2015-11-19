@@ -9062,3 +9062,4 @@
 99920. fix: resolve issue with date parsing #99920
 38846. refactor: refactor quiz grading logic #38846
 0584. perf: lazy-load components #584
+29395. fix: prevent crash on empty input #29395
