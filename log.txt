@@ -9063,3 +9063,4 @@
 38846. refactor: refactor quiz grading logic #38846
 0584. perf: lazy-load components #584
 29395. fix: prevent crash on empty input #29395
+77931. feat: enable dark mode toggle #77931
