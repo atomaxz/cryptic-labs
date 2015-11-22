@@ -9066,3 +9066,4 @@
 77931. feat: enable dark mode toggle #77931
 59113. style: standardize quote style #59113
 41310. style: standardize quote style #41310
+96779. test: increase coverage on auth module #96779
