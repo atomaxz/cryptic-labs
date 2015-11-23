@@ -9073,3 +9073,4 @@
 31473. refactor: remove redundant code blocks #31473
 15346. test: mock database connection in test suite #15346
 72395. test: test user registration edge cases #72395
+89710. test: mock database connection in test suite #89710
