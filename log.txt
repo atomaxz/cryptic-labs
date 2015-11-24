@@ -9079,3 +9079,4 @@
 96744. style: standardize quote style #96744
 84922. style: rename variables for clarity #84922
 84141. perf: lazy-load components #84141
+4626. feat: support email verification #4626
