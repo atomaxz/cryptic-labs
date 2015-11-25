@@ -9081,3 +9081,4 @@
 84141. perf: lazy-load components #84141
 4626. feat: support email verification #4626
 95360. docs: write FAQ section #95360
+70064. fix: fix null pointer exception on login #70064
