@@ -9084,3 +9084,4 @@
 70064. fix: fix null pointer exception on login #70064
 98263. test: mock database connection in test suite #98263
 23720. test: increase coverage on auth module #23720
+72811. chore: update .gitignore #72811
