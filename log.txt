@@ -9091,3 +9091,4 @@
 66688. test: add integration test for /submit endpoint #66688
 65928. perf: cache repeated calculations #65928
 44481. test: test user registration edge cases #44481
+78418. test: increase coverage on auth module #78418
