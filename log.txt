@@ -9092,3 +9092,4 @@
 65928. perf: cache repeated calculations #65928
 44481. test: test user registration edge cases #44481
 78418. test: increase coverage on auth module #78418
+63994. feat: create admin dashboard #63994
