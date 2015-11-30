@@ -9095,3 +9095,4 @@
 63994. feat: create admin dashboard #63994
 5607. perf: lazy-load components #5607
 48542. fix: resolve issue with date parsing #48542
+13411. fix: fix null pointer exception on login #13411
