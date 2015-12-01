@@ -9097,3 +9097,4 @@
 48542. fix: resolve issue with date parsing #48542
 13411. fix: fix null pointer exception on login #13411
 46108. perf: reduce image load time #46108
+49922. chore: bump dependencies #49922
