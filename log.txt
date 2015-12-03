@@ -9104,3 +9104,4 @@
 1929. chore: clean up unused files #1929
 65936. perf: cache repeated calculations #65936
 53312. chore: rename env.example #53312
+57944. test: test user registration edge cases #57944
