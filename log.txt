@@ -9108,3 +9108,4 @@
 52070. fix: fix broken CSS in mobile view #52070
 53656. test: increase coverage on auth module #53656
 70581. docs: clarify environment setup #70581
+6898. chore: update .gitignore #6898
