@@ -9111,3 +9111,4 @@
 6898. chore: update .gitignore #6898
 19090. refactor: organize models into subfolders #19090
 87626. perf: optimize database query for quiz results #87626
+71070. perf: reduce image load time #71070
