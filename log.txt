@@ -910,3 +910,4 @@
 12246. docs: document token refresh logic #12246
 18917. style: apply consistent indentation #18917
 81660. fix: prevent crash on empty input #81660
+58187. perf: optimize database query for quiz results #58187
