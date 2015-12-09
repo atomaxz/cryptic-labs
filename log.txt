@@ -9116,3 +9116,4 @@
 17213. perf: lazy-load components #17213
 82456. style: remove trailing whitespace #82456
 97828. refactor: remove redundant code blocks #97828
+18434. perf: reduce image load time #18434
