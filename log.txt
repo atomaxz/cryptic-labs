@@ -9121,3 +9121,4 @@
 52684. style: reformat files with black #52684
 87625. test: increase coverage on auth module #87625
 86300. feat: add export to CSV option #86300
+62092. refactor: clean up auth middleware #62092
