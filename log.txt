@@ -9128,3 +9128,4 @@
 5485. refactor: remove redundant code blocks #5485
 68576. docs: improve code comments in utils #68576
 66919. perf: cache repeated calculations #66919
+59421. feat: support email verification #59421
