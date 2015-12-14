@@ -9130,3 +9130,4 @@
 66919. perf: cache repeated calculations #66919
 59421. feat: support email verification #59421
 51691. feat: enable dark mode toggle #51691
+19734. docs: add API usage examples #19734
