@@ -9142,3 +9142,4 @@
 29575. test: add unit test for quiz service #29575
 9078. fix: fix null pointer exception on login #9078
 20426. chore: clean up unused files #20426
+19094. test: test user registration edge cases #19094
