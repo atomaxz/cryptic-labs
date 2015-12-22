@@ -9152,3 +9152,4 @@
 3271. style: apply consistent indentation #3271
 35113. feat: create admin dashboard #35113
 72870. docs: update README with setup steps #72870
+87767. docs: write FAQ section #87767
