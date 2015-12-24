@@ -917,3 +917,4 @@
 14554. fix: prevent crash on empty input #14554
 71526. perf: cache repeated calculations #71526
 56156. style: remove trailing whitespace #56156
+12764. chore: bump dependencies #12764
