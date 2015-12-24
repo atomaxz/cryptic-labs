@@ -9158,3 +9158,4 @@
 56721. chore: update .gitignore #56721
 85086. docs: write FAQ section #85086
 55891. feat: implement quiz timer feature #55891
+49452. refactor: clean up auth middleware #49452
