@@ -918,3 +918,4 @@
 71526. perf: cache repeated calculations #71526
 56156. style: remove trailing whitespace #56156
 12764. chore: bump dependencies #12764
+17384. refactor: clean up auth middleware #17384
