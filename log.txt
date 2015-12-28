@@ -9167,3 +9167,4 @@
 72372. style: rename variables for clarity #72372
 73363. style: remove trailing whitespace #73363
 4255. feat: create admin dashboard #4255
+17674. refactor: refactor quiz grading logic #17674
