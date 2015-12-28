@@ -920,3 +920,4 @@
 12764. chore: bump dependencies #12764
 17384. refactor: clean up auth middleware #17384
 76184. fix: prevent crash on empty input #76184
+81025. fix: correct typo in registration form #81025
