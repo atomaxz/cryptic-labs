@@ -9169,3 +9169,4 @@
 4255. feat: create admin dashboard #4255
 17674. refactor: refactor quiz grading logic #17674
 78307. chore: bump dependencies #78307
+52436. test: add integration test for /submit endpoint #52436
