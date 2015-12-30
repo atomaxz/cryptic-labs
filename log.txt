@@ -9171,3 +9171,4 @@
 78307. chore: bump dependencies #78307
 52436. test: add integration test for /submit endpoint #52436
 95680. feat: create admin dashboard #95680
+44250. perf: lazy-load components #44250
