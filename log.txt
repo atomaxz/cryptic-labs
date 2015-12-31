@@ -9176,3 +9176,4 @@
 11738. feat: support email verification #11738
 73801. chore: update .gitignore #73801
 81938. docs: add API usage examples #81938
+17731. test: mock database connection in test suite #17731
