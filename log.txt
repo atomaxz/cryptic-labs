@@ -9173,3 +9173,4 @@
 95680. feat: create admin dashboard #95680
 44250. perf: lazy-load components #44250
 6204. chore: add GitHub actions badge #6204
+11738. feat: support email verification #11738
