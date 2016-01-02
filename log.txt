@@ -9179,3 +9179,4 @@
 17731. test: mock database connection in test suite #17731
 40833. chore: update .gitignore #40833
 87282. docs: add API usage examples #87282
+42525. refactor: clean up auth middleware #42525
