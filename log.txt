@@ -9180,3 +9180,4 @@
 40833. chore: update .gitignore #40833
 87282. docs: add API usage examples #87282
 42525. refactor: clean up auth middleware #42525
+46200. test: test user registration edge cases #46200
