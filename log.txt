@@ -9188,3 +9188,4 @@
 19179. test: increase coverage on auth module #19179
 38001. fix: prevent crash on empty input #38001
 1173. test: add unit test for quiz service #1173
+20263. test: test user registration edge cases #20263
