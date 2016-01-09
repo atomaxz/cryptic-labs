@@ -923,3 +923,4 @@
 81025. fix: correct typo in registration form #81025
 67717. fix: fix null pointer exception on login #67717
 26968. style: rename variables for clarity #26968
+22005. feat: create admin dashboard #22005
