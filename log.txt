@@ -925,3 +925,4 @@
 26968. style: rename variables for clarity #26968
 22005. feat: create admin dashboard #22005
 11493. docs: add API usage examples #11493
+40699. fix: fix broken CSS in mobile view #40699
