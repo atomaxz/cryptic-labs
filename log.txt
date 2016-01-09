@@ -9197,3 +9197,4 @@
 62375. chore: rename env.example #62375
 16815. test: add integration test for /submit endpoint #16815
 57718. test: add integration test for /submit endpoint #57718
+96175. fix: correct typo in registration form #96175
