@@ -9201,3 +9201,4 @@
 30797. style: rename variables for clarity #30797
 1755. perf: optimize database query for quiz results #1755
 25842. feat: add export to CSV option #25842
+80637. chore: update .gitignore #80637
