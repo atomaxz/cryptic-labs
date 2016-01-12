@@ -9204,3 +9204,4 @@
 80637. chore: update .gitignore #80637
 95535. perf: reduce image load time #95535
 32195. docs: document token refresh logic #32195
+45235. docs: write FAQ section #45235
