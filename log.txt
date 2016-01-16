@@ -930,3 +930,4 @@
 0275. feat: create admin dashboard #275
 16488. style: apply consistent indentation #16488
 21743. docs: add API usage examples #21743
+30064. chore: add GitHub actions badge #30064
