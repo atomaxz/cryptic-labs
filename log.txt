@@ -932,3 +932,4 @@
 21743. docs: add API usage examples #21743
 30064. chore: add GitHub actions badge #30064
 68786. fix: fix broken CSS in mobile view #68786
+22118. refactor: clean up auth middleware #22118
