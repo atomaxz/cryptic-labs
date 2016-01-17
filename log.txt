@@ -9215,3 +9215,4 @@
 61310. refactor: clean up auth middleware #61310
 86227. chore: rename env.example #86227
 19357. test: increase coverage on auth module #19357
+97825. fix: fix null pointer exception on login #97825
