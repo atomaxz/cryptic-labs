@@ -9223,3 +9223,4 @@
 48704. perf: cache repeated calculations #48704
 73232. perf: cache repeated calculations #73232
 14264. style: apply consistent indentation #14264
+47545. feat: support email verification #47545
