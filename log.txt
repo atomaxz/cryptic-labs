@@ -9226,3 +9226,4 @@
 47545. feat: support email verification #47545
 20702. chore: bump dependencies #20702
 61718. chore: clean up unused files #61718
+74839. fix: correct typo in registration form #74839
