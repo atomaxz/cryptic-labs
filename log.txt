@@ -9235,3 +9235,4 @@
 55500. fix: resolve issue with date parsing #55500
 30002. fix: resolve issue with date parsing #30002
 5354. fix: handle 500 error in quiz API #5354
+32951. docs: write FAQ section #32951
