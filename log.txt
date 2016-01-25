@@ -9237,3 +9237,4 @@
 5354. fix: handle 500 error in quiz API #5354
 32951. docs: write FAQ section #32951
 98527. test: test user registration edge cases #98527
+44069. chore: rename env.example #44069
