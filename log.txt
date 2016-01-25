@@ -9238,3 +9238,4 @@
 32951. docs: write FAQ section #32951
 98527. test: test user registration edge cases #98527
 44069. chore: rename env.example #44069
+42949. fix: fix null pointer exception on login #42949
