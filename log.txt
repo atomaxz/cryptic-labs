@@ -935,3 +935,4 @@
 22118. refactor: clean up auth middleware #22118
 78521. refactor: refactor quiz grading logic #78521
 70677. perf: cache repeated calculations #70677
+11485. perf: optimize database query for quiz results #11485
