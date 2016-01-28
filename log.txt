@@ -9251,3 +9251,4 @@
 62129. feat: create admin dashboard #62129
 69295. style: standardize quote style #69295
 33653. fix: fix broken CSS in mobile view #33653
+92448. refactor: clean up auth middleware #92448
