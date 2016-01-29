@@ -9253,3 +9253,4 @@
 33653. fix: fix broken CSS in mobile view #33653
 92448. refactor: clean up auth middleware #92448
 63599. feat: enable dark mode toggle #63599
+24352. test: add unit test for quiz service #24352
