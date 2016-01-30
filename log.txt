@@ -940,3 +940,4 @@
 20696. feat: support email verification #20696
 14885. docs: add API usage examples #14885
 12370. docs: document token refresh logic #12370
+20736. perf: cache repeated calculations #20736
