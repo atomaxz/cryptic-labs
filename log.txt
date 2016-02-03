@@ -9273,3 +9273,4 @@
 47711. refactor: remove redundant code blocks #47711
 14657. feat: support email verification #14657
 92414. feat: implement quiz timer feature #92414
+71892. perf: reduce image load time #71892
