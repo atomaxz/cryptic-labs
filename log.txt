@@ -9278,3 +9278,4 @@
 19786. chore: update .gitignore #19786
 39661. feat: add export to CSV option #39661
 34468. style: reformat files with black #34468
+98733. fix: handle 500 error in quiz API #98733
