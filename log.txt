@@ -9281,3 +9281,4 @@
 98733. fix: handle 500 error in quiz API #98733
 59300. perf: lazy-load components #59300
 42190. fix: resolve issue with date parsing #42190
+76368. chore: update .gitignore #76368
