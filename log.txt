@@ -943,3 +943,4 @@
 20736. perf: cache repeated calculations #20736
 86054. chore: update .gitignore #86054
 77347. docs: write FAQ section #77347
+93917. perf: lazy-load components #93917
