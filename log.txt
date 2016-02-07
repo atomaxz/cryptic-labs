@@ -9286,3 +9286,4 @@
 74809. chore: rename env.example #74809
 33949. test: increase coverage on auth module #33949
 86864. refactor: organize models into subfolders #86864
+70993. test: mock database connection in test suite #70993
