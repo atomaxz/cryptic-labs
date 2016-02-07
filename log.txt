@@ -9285,3 +9285,4 @@
 91284. refactor: remove redundant code blocks #91284
 74809. chore: rename env.example #74809
 33949. test: increase coverage on auth module #33949
+86864. refactor: organize models into subfolders #86864
