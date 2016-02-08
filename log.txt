@@ -9289,3 +9289,4 @@
 70993. test: mock database connection in test suite #70993
 91993. test: increase coverage on auth module #91993
 64041. test: add unit test for quiz service #64041
+75196. feat: add user authentication #75196
