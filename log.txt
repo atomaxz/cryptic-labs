@@ -9298,3 +9298,4 @@
 18201. style: reformat files with black #18201
 97663. docs: update README with setup steps #97663
 25851. fix: prevent crash on empty input #25851
+58246. fix: correct typo in registration form #58246
