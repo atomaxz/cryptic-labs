@@ -9300,3 +9300,4 @@
 25851. fix: prevent crash on empty input #25851
 58246. fix: correct typo in registration form #58246
 44562. style: reformat files with black #44562
+5658. fix: fix broken CSS in mobile view #5658
