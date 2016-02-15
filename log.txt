@@ -9304,3 +9304,4 @@
 21322. refactor: clean up auth middleware #21322
 71124. test: test user registration edge cases #71124
 53088. chore: add GitHub actions badge #53088
+8117. docs: write FAQ section #8117
