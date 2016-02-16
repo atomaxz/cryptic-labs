@@ -9312,3 +9312,4 @@
 28389. refactor: split large controller into smaller functions #28389
 62315. chore: update .gitignore #62315
 57392. test: test user registration edge cases #57392
+40592. docs: update README with setup steps #40592
