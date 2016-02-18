@@ -9317,3 +9317,4 @@
 93950. test: add unit test for quiz service #93950
 78757. refactor: split large controller into smaller functions #78757
 74302. refactor: clean up auth middleware #74302
+28908. chore: bump dependencies #28908
