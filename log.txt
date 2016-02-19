@@ -9321,3 +9321,4 @@
 77373. fix: handle 500 error in quiz API #77373
 0628. docs: add API usage examples #628
 64972. style: standardize quote style #64972
+62530. docs: document token refresh logic #62530
