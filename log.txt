@@ -9324,3 +9324,4 @@
 62530. docs: document token refresh logic #62530
 43311. chore: bump dependencies #43311
 74971. docs: write FAQ section #74971
+58399. perf: reduce image load time #58399
