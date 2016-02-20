@@ -9325,3 +9325,4 @@
 43311. chore: bump dependencies #43311
 74971. docs: write FAQ section #74971
 58399. perf: reduce image load time #58399
+49214. test: mock database connection in test suite #49214
