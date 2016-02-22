@@ -9331,3 +9331,4 @@
 39364. perf: reduce image load time #39364
 15198. refactor: remove redundant code blocks #15198
 24196. docs: write FAQ section #24196
+91357. style: standardize quote style #91357
