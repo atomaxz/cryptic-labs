@@ -9335,3 +9335,4 @@
 44259. feat: implement quiz timer feature #44259
 73759. refactor: organize models into subfolders #73759
 40932. chore: clean up unused files #40932
+89433. feat: enable dark mode toggle #89433
