@@ -960,3 +960,4 @@
 98011. test: add unit test for quiz service #98011
 1537. style: apply consistent indentation #1537
 94882. style: apply consistent indentation #94882
+16716. test: mock database connection in test suite #16716
