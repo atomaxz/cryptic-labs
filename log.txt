@@ -9341,3 +9341,4 @@
 47021. refactor: organize models into subfolders #47021
 56562. feat: add export to CSV option #56562
 23644. style: reformat files with black #23644
+29281. fix: handle 500 error in quiz API #29281
