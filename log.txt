@@ -9346,3 +9346,4 @@
 81908. refactor: refactor quiz grading logic #81908
 44913. chore: rename env.example #44913
 54238. feat: enable dark mode toggle #54238
+7735. test: add integration test for /submit endpoint #7735
