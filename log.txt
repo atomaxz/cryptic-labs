@@ -9357,3 +9357,4 @@
 9185. chore: rename env.example #9185
 84196. refactor: split large controller into smaller functions #84196
 29033. feat: create admin dashboard #29033
+59085. test: test user registration edge cases #59085
