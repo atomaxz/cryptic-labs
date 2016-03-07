@@ -964,3 +964,4 @@
 8052. refactor: split large controller into smaller functions #8052
 66860. style: rename variables for clarity #66860
 55246. test: increase coverage on auth module #55246
+3553. feat: add export to CSV option #3553
