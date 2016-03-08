@@ -9362,3 +9362,4 @@
 99256. refactor: split large controller into smaller functions #99256
 35591. feat: create admin dashboard #35591
 54861. fix: resolve issue with date parsing #54861
+94048. fix: prevent crash on empty input #94048
