@@ -965,3 +965,4 @@
 66860. style: rename variables for clarity #66860
 55246. test: increase coverage on auth module #55246
 3553. feat: add export to CSV option #3553
+72696. fix: fix broken CSS in mobile view #72696
