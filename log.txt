@@ -9367,3 +9367,4 @@
 79740. style: apply consistent indentation #79740
 37264. docs: update README with setup steps #37264
 37183. refactor: clean up auth middleware #37183
+46557. docs: document token refresh logic #46557
