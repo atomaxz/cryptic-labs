@@ -9376,3 +9376,4 @@
 13029. test: add integration test for /submit endpoint #13029
 4414. test: increase coverage on auth module #4414
 17779. feat: add user authentication #17779
+42780. chore: update .gitignore #42780
