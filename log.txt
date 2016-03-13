@@ -9374,3 +9374,4 @@
 52034. test: mock database connection in test suite #52034
 58968. perf: lazy-load components #58968
 13029. test: add integration test for /submit endpoint #13029
+4414. test: increase coverage on auth module #4414
