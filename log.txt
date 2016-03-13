@@ -967,3 +967,4 @@
 3553. feat: add export to CSV option #3553
 72696. fix: fix broken CSS in mobile view #72696
 70134. feat: add export to CSV option #70134
+9571. perf: lazy-load components #9571
