@@ -9377,3 +9377,4 @@
 4414. test: increase coverage on auth module #4414
 17779. feat: add user authentication #17779
 42780. chore: update .gitignore #42780
+52592. docs: document token refresh logic #52592
