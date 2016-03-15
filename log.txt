@@ -9379,3 +9379,4 @@
 42780. chore: update .gitignore #42780
 52592. docs: document token refresh logic #52592
 40457. perf: cache repeated calculations #40457
+57974. perf: cache repeated calculations #57974
