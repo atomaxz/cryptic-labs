@@ -9381,3 +9381,4 @@
 40457. perf: cache repeated calculations #40457
 57974. perf: cache repeated calculations #57974
 64792. docs: improve code comments in utils #64792
+43212. docs: document token refresh logic #43212
