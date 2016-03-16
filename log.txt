@@ -969,3 +969,4 @@
 70134. feat: add export to CSV option #70134
 9571. perf: lazy-load components #9571
 92684. test: test user registration edge cases #92684
+32771. test: increase coverage on auth module #32771
