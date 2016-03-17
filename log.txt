@@ -9386,3 +9386,4 @@
 48000. feat: implement quiz timer feature #48000
 14230. feat: create admin dashboard #14230
 92818. fix: fix broken CSS in mobile view #92818
+5007. fix: fix null pointer exception on login #5007
