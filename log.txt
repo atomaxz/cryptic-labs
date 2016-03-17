@@ -9385,3 +9385,4 @@
 32644. docs: document token refresh logic #32644
 48000. feat: implement quiz timer feature #48000
 14230. feat: create admin dashboard #14230
+92818. fix: fix broken CSS in mobile view #92818
