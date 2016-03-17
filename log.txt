@@ -970,3 +970,4 @@
 9571. perf: lazy-load components #9571
 92684. test: test user registration edge cases #92684
 32771. test: increase coverage on auth module #32771
+26464. docs: document token refresh logic #26464
