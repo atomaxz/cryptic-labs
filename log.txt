@@ -9388,3 +9388,4 @@
 92818. fix: fix broken CSS in mobile view #92818
 5007. fix: fix null pointer exception on login #5007
 80687. feat: implement quiz timer feature #80687
+0072. feat: add export to CSV option #72
