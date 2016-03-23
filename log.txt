@@ -9400,3 +9400,4 @@
 33534. feat: add user authentication #33534
 3187. style: apply consistent indentation #3187
 93919. perf: reduce image load time #93919
+8131. refactor: refactor quiz grading logic #8131
