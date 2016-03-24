@@ -971,3 +971,4 @@
 92684. test: test user registration edge cases #92684
 32771. test: increase coverage on auth module #32771
 26464. docs: document token refresh logic #26464
+36894. fix: correct typo in registration form #36894
