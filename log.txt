@@ -9416,3 +9416,4 @@
 58769. docs: add API usage examples #58769
 92601. docs: improve code comments in utils #92601
 53403. feat: support email verification #53403
+57470. test: test user registration edge cases #57470
