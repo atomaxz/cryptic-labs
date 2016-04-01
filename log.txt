@@ -9419,3 +9419,4 @@
 57470. test: test user registration edge cases #57470
 24832. test: add unit test for quiz service #24832
 50887. feat: add export to CSV option #50887
+69267. perf: reduce image load time #69267
