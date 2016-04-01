@@ -9417,3 +9417,4 @@
 92601. docs: improve code comments in utils #92601
 53403. feat: support email verification #53403
 57470. test: test user registration edge cases #57470
+24832. test: add unit test for quiz service #24832
