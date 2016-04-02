@@ -9420,3 +9420,4 @@
 24832. test: add unit test for quiz service #24832
 50887. feat: add export to CSV option #50887
 69267. perf: reduce image load time #69267
+95985. feat: add user authentication #95985
