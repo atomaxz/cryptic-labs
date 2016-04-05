@@ -9427,3 +9427,4 @@
 77941. test: increase coverage on auth module #77941
 69178. test: add unit test for quiz service #69178
 48785. docs: write FAQ section #48785
+52696. perf: reduce image load time #52696
