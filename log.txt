@@ -9432,3 +9432,4 @@
 16459. refactor: clean up auth middleware #16459
 85999. style: remove trailing whitespace #85999
 9509. perf: cache repeated calculations #9509
+10092. fix: fix broken CSS in mobile view #10092
