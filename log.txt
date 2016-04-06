@@ -9436,3 +9436,4 @@
 69673. fix: handle 500 error in quiz API #69673
 86583. refactor: clean up auth middleware #86583
 76101. perf: reduce image load time #76101
+70592. fix: correct typo in registration form #70592
