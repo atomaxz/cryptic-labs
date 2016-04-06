@@ -9437,3 +9437,4 @@
 86583. refactor: clean up auth middleware #86583
 76101. perf: reduce image load time #76101
 70592. fix: correct typo in registration form #70592
+57809. feat: support email verification #57809
