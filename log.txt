@@ -9435,3 +9435,4 @@
 10092. fix: fix broken CSS in mobile view #10092
 69673. fix: handle 500 error in quiz API #69673
 86583. refactor: clean up auth middleware #86583
+76101. perf: reduce image load time #76101
