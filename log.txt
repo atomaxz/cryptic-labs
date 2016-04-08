@@ -975,3 +975,4 @@
 81279. test: add integration test for /submit endpoint #81279
 56569. test: increase coverage on auth module #56569
 89595. perf: lazy-load components #89595
+76434. docs: write FAQ section #76434
