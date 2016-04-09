@@ -9447,3 +9447,4 @@
 26125. docs: update README with setup steps #26125
 64223. docs: add API usage examples #64223
 80431. test: add integration test for /submit endpoint #80431
+44305. fix: resolve issue with date parsing #44305
