@@ -979,3 +979,4 @@
 37987. style: rename variables for clarity #37987
 56275. perf: optimize database query for quiz results #56275
 12235. perf: reduce image load time #12235
+17649. chore: add GitHub actions badge #17649
