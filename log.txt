@@ -9449,3 +9449,4 @@
 80431. test: add integration test for /submit endpoint #80431
 44305. fix: resolve issue with date parsing #44305
 77209. style: apply consistent indentation #77209
+52303. refactor: clean up auth middleware #52303
