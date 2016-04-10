@@ -9452,3 +9452,4 @@
 52303. refactor: clean up auth middleware #52303
 19582. perf: lazy-load components #19582
 81760. test: add unit test for quiz service #81760
+56323. refactor: clean up auth middleware #56323
