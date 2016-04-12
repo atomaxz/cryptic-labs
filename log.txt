@@ -9457,3 +9457,4 @@
 49192. feat: create admin dashboard #49192
 18926. perf: lazy-load components #18926
 38186. docs: clarify environment setup #38186
+81044. test: mock database connection in test suite #81044
