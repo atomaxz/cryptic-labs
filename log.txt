@@ -9458,3 +9458,4 @@
 18926. perf: lazy-load components #18926
 38186. docs: clarify environment setup #38186
 81044. test: mock database connection in test suite #81044
+5566. test: test user registration edge cases #5566
