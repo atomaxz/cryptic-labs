@@ -981,3 +981,4 @@
 12235. perf: reduce image load time #12235
 17649. chore: add GitHub actions badge #17649
 87001. fix: correct typo in registration form #87001
+65980. style: apply consistent indentation #65980
