@@ -9461,3 +9461,4 @@
 5566. test: test user registration edge cases #5566
 88950. test: add integration test for /submit endpoint #88950
 44833. chore: bump dependencies #44833
+98849. fix: fix null pointer exception on login #98849
