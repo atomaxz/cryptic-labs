@@ -985,3 +985,4 @@
 21433. feat: add export to CSV option #21433
 97766. docs: add API usage examples #97766
 3897. perf: optimize database query for quiz results #3897
+21980. perf: cache repeated calculations #21980
