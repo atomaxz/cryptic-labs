@@ -9477,3 +9477,4 @@
 53573. refactor: organize models into subfolders #53573
 50667. style: standardize quote style #50667
 8979. style: reformat files with black #8979
+10683. perf: lazy-load components #10683
