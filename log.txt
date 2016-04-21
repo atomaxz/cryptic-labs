@@ -9481,3 +9481,4 @@
 45870. feat: add export to CSV option #45870
 49940. perf: optimize database query for quiz results #49940
 28058. fix: fix broken CSS in mobile view #28058
+80699. fix: handle 500 error in quiz API #80699
