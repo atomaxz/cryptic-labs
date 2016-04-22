@@ -9483,3 +9483,4 @@
 28058. fix: fix broken CSS in mobile view #28058
 80699. fix: handle 500 error in quiz API #80699
 86789. feat: add user authentication #86789
+51099. chore: update .gitignore #51099
