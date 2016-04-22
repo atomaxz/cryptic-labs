@@ -9482,3 +9482,4 @@
 49940. perf: optimize database query for quiz results #49940
 28058. fix: fix broken CSS in mobile view #28058
 80699. fix: handle 500 error in quiz API #80699
+86789. feat: add user authentication #86789
