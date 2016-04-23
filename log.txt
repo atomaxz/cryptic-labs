@@ -9484,3 +9484,4 @@
 80699. fix: handle 500 error in quiz API #80699
 86789. feat: add user authentication #86789
 51099. chore: update .gitignore #51099
+73469. test: add unit test for quiz service #73469
