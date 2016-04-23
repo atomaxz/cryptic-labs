@@ -9485,3 +9485,4 @@
 86789. feat: add user authentication #86789
 51099. chore: update .gitignore #51099
 73469. test: add unit test for quiz service #73469
+93522. fix: fix null pointer exception on login #93522
