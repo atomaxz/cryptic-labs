@@ -9491,3 +9491,4 @@
 61680. chore: clean up unused files #61680
 56462. docs: update README with setup steps #56462
 69318. chore: clean up unused files #69318
+95090. feat: support email verification #95090
