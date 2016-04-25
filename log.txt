@@ -9492,3 +9492,4 @@
 56462. docs: update README with setup steps #56462
 69318. chore: clean up unused files #69318
 95090. feat: support email verification #95090
+77913. fix: fix null pointer exception on login #77913
