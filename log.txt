@@ -9495,3 +9495,4 @@
 77913. fix: fix null pointer exception on login #77913
 22120. fix: fix broken CSS in mobile view #22120
 86093. test: add unit test for quiz service #86093
+5049. style: reformat files with black #5049
