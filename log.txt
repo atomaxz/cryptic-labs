@@ -9505,3 +9505,4 @@
 26276. fix: correct typo in registration form #26276
 80050. perf: lazy-load components #80050
 4850. refactor: clean up auth middleware #4850
+45470. fix: handle 500 error in quiz API #45470
