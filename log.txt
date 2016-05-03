@@ -9514,3 +9514,4 @@
 48658. chore: bump dependencies #48658
 30912. perf: reduce image load time #30912
 92425. fix: correct typo in registration form #92425
+98221. chore: rename env.example #98221
