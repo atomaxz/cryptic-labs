@@ -9518,3 +9518,4 @@
 35635. feat: add user authentication #35635
 34165. perf: cache repeated calculations #34165
 36950. chore: update .gitignore #36950
+90511. docs: document token refresh logic #90511
