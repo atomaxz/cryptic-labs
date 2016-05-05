@@ -9521,3 +9521,4 @@
 90511. docs: document token refresh logic #90511
 10312. docs: improve code comments in utils #10312
 74153. chore: add GitHub actions badge #74153
+70606. fix: handle 500 error in quiz API #70606
