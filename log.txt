@@ -9524,3 +9524,4 @@
 70606. fix: handle 500 error in quiz API #70606
 34938. perf: optimize database query for quiz results #34938
 20291. docs: clarify environment setup #20291
+31970. feat: support email verification #31970
