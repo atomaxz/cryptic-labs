@@ -9525,3 +9525,4 @@
 34938. perf: optimize database query for quiz results #34938
 20291. docs: clarify environment setup #20291
 31970. feat: support email verification #31970
+42415. perf: cache repeated calculations #42415
