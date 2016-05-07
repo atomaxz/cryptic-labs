@@ -9529,3 +9529,4 @@
 61019. chore: rename env.example #61019
 67622. chore: clean up unused files #67622
 29761. docs: add API usage examples #29761
+33720. chore: add GitHub actions badge #33720
