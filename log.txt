@@ -995,3 +995,4 @@
 27369. feat: create admin dashboard #27369
 88907. style: rename variables for clarity #88907
 81228. feat: support email verification #81228
+51945. style: reformat files with black #51945
