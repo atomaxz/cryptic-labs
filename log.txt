@@ -9535,3 +9535,4 @@
 14588. feat: create admin dashboard #14588
 68290. style: reformat files with black #68290
 25112. refactor: split large controller into smaller functions #25112
+34510. feat: create admin dashboard #34510
