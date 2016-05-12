@@ -9539,3 +9539,4 @@
 69648. perf: cache repeated calculations #69648
 73962. feat: enable dark mode toggle #73962
 77232. refactor: split large controller into smaller functions #77232
+84765. style: apply consistent indentation #84765
