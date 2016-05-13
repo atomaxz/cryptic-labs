@@ -9541,3 +9541,4 @@
 77232. refactor: split large controller into smaller functions #77232
 84765. style: apply consistent indentation #84765
 78338. test: mock database connection in test suite #78338
+96287. refactor: organize models into subfolders #96287
