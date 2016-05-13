@@ -9545,3 +9545,4 @@
 65643. fix: handle 500 error in quiz API #65643
 40967. refactor: remove redundant code blocks #40967
 61480. test: add unit test for quiz service #61480
+71931. perf: optimize database query for quiz results #71931
