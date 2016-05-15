@@ -1000,3 +1000,4 @@
 81942. refactor: organize models into subfolders #81942
 90632. chore: rename env.example #90632
 44185. style: standardize quote style #44185
+26123. style: remove trailing whitespace #26123
