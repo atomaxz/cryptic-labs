@@ -9549,3 +9549,4 @@
 65970. chore: update .gitignore #65970
 57174. fix: prevent crash on empty input #57174
 0793. refactor: organize models into subfolders #793
+70364. fix: prevent crash on empty input #70364
