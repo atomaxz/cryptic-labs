@@ -9554,3 +9554,4 @@
 24776. perf: optimize database query for quiz results #24776
 38646. refactor: clean up auth middleware #38646
 32745. docs: add API usage examples #32745
+91949. fix: prevent crash on empty input #91949
