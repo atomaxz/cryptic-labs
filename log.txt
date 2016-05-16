@@ -9552,3 +9552,4 @@
 70364. fix: prevent crash on empty input #70364
 39064. refactor: remove redundant code blocks #39064
 24776. perf: optimize database query for quiz results #24776
+38646. refactor: clean up auth middleware #38646
