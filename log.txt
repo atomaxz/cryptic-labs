@@ -9560,3 +9560,4 @@
 33078. test: test user registration edge cases #33078
 25484. refactor: split large controller into smaller functions #25484
 76911. feat: support email verification #76911
+31517. perf: optimize database query for quiz results #31517
