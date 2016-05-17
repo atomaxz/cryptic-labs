@@ -9557,3 +9557,4 @@
 91949. fix: prevent crash on empty input #91949
 23016. style: apply consistent indentation #23016
 43397. chore: add GitHub actions badge #43397
+33078. test: test user registration edge cases #33078
