@@ -9559,3 +9559,4 @@
 43397. chore: add GitHub actions badge #43397
 33078. test: test user registration edge cases #33078
 25484. refactor: split large controller into smaller functions #25484
+76911. feat: support email verification #76911
