@@ -9556,3 +9556,4 @@
 32745. docs: add API usage examples #32745
 91949. fix: prevent crash on empty input #91949
 23016. style: apply consistent indentation #23016
+43397. chore: add GitHub actions badge #43397
