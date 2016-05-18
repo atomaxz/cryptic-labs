@@ -1006,3 +1006,4 @@
 54130. feat: enable dark mode toggle #54130
 5053. perf: reduce image load time #5053
 16100. perf: cache repeated calculations #16100
+21733. perf: optimize database query for quiz results #21733
