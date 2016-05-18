@@ -9565,3 +9565,4 @@
 57218. docs: improve code comments in utils #57218
 4713. docs: document token refresh logic #4713
 97106. feat: create admin dashboard #97106
+98546. feat: enable dark mode toggle #98546
