@@ -9563,3 +9563,4 @@
 31517. perf: optimize database query for quiz results #31517
 65104. fix: handle 500 error in quiz API #65104
 57218. docs: improve code comments in utils #57218
+4713. docs: document token refresh logic #4713
