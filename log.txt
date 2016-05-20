@@ -9571,3 +9571,4 @@
 20640. refactor: organize models into subfolders #20640
 7721. fix: prevent crash on empty input #7721
 21038. docs: document token refresh logic #21038
+12676. docs: update README with setup steps #12676
