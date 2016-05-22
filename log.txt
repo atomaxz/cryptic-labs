@@ -9573,3 +9573,4 @@
 21038. docs: document token refresh logic #21038
 12676. docs: update README with setup steps #12676
 36704. feat: add user authentication #36704
+5116. chore: update .gitignore #5116
