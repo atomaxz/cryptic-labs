@@ -9580,3 +9580,4 @@
 28050. refactor: split large controller into smaller functions #28050
 10781. docs: clarify environment setup #10781
 99793. chore: add GitHub actions badge #99793
+47940. docs: add API usage examples #47940
