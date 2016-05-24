@@ -9583,3 +9583,4 @@
 47940. docs: add API usage examples #47940
 67527. docs: add API usage examples #67527
 18440. feat: create admin dashboard #18440
+2585. refactor: clean up auth middleware #2585
