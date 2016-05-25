@@ -9585,3 +9585,4 @@
 18440. feat: create admin dashboard #18440
 2585. refactor: clean up auth middleware #2585
 30518. docs: update README with setup steps #30518
+11039. feat: support email verification #11039
