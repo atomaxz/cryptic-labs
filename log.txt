@@ -9587,3 +9587,4 @@
 30518. docs: update README with setup steps #30518
 11039. feat: support email verification #11039
 34798. refactor: remove redundant code blocks #34798
+9382. chore: bump dependencies #9382
