@@ -9589,3 +9589,4 @@
 34798. refactor: remove redundant code blocks #34798
 9382. chore: bump dependencies #9382
 51158. perf: lazy-load components #51158
+46132. perf: cache repeated calculations #46132
