@@ -1013,3 +1013,4 @@
 29425. test: test user registration edge cases #29425
 67590. refactor: refactor quiz grading logic #67590
 76318. feat: support email verification #76318
+11874. test: add integration test for /submit endpoint #11874
