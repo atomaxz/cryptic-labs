@@ -9599,3 +9599,4 @@
 6869. fix: correct typo in registration form #6869
 68240. feat: enable dark mode toggle #68240
 33344. docs: document token refresh logic #33344
+54034. style: apply consistent indentation #54034
