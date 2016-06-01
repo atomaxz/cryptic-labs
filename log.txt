@@ -9601,3 +9601,4 @@
 33344. docs: document token refresh logic #33344
 54034. style: apply consistent indentation #54034
 27450. test: increase coverage on auth module #27450
+9309. chore: bump dependencies #9309
