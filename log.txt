@@ -9605,3 +9605,4 @@
 9850. perf: cache repeated calculations #9850
 13891. fix: fix null pointer exception on login #13891
 70752. perf: cache repeated calculations #70752
+12762. chore: clean up unused files #12762
