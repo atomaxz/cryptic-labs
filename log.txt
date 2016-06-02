@@ -9603,3 +9603,4 @@
 27450. test: increase coverage on auth module #27450
 9309. chore: bump dependencies #9309
 9850. perf: cache repeated calculations #9850
+13891. fix: fix null pointer exception on login #13891
