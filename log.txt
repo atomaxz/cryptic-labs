@@ -9612,3 +9612,4 @@
 48409. feat: support email verification #48409
 62446. fix: fix broken CSS in mobile view #62446
 95710. test: add integration test for /submit endpoint #95710
+51662. perf: optimize database query for quiz results #51662
