@@ -9611,3 +9611,4 @@
 76642. style: reformat files with black #76642
 48409. feat: support email verification #48409
 62446. fix: fix broken CSS in mobile view #62446
+95710. test: add integration test for /submit endpoint #95710
