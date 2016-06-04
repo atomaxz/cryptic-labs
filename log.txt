@@ -9614,3 +9614,4 @@
 95710. test: add integration test for /submit endpoint #95710
 51662. perf: optimize database query for quiz results #51662
 92407. fix: handle 500 error in quiz API #92407
+46962. refactor: remove redundant code blocks #46962
