@@ -9621,3 +9621,4 @@
 62535. feat: create admin dashboard #62535
 65047. test: increase coverage on auth module #65047
 37923. style: reformat files with black #37923
+89420. fix: prevent crash on empty input #89420
