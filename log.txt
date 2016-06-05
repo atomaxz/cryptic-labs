@@ -9619,3 +9619,4 @@
 54409. style: apply consistent indentation #54409
 93468. refactor: split large controller into smaller functions #93468
 62535. feat: create admin dashboard #62535
+65047. test: increase coverage on auth module #65047
