@@ -1016,3 +1016,4 @@
 11874. test: add integration test for /submit endpoint #11874
 88002. fix: fix broken CSS in mobile view #88002
 3628. feat: implement quiz timer feature #3628
+51187. fix: fix null pointer exception on login #51187
