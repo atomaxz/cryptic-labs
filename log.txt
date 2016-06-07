@@ -1017,3 +1017,4 @@
 88002. fix: fix broken CSS in mobile view #88002
 3628. feat: implement quiz timer feature #3628
 51187. fix: fix null pointer exception on login #51187
+16841. test: mock database connection in test suite #16841
