@@ -9626,3 +9626,4 @@
 36795. docs: document token refresh logic #36795
 33606. refactor: remove redundant code blocks #33606
 90391. docs: document token refresh logic #90391
+17846. test: increase coverage on auth module #17846
