@@ -9623,3 +9623,4 @@
 37923. style: reformat files with black #37923
 89420. fix: prevent crash on empty input #89420
 47779. fix: fix broken CSS in mobile view #47779
+36795. docs: document token refresh logic #36795
