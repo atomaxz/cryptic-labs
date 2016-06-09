@@ -9629,3 +9629,4 @@
 17846. test: increase coverage on auth module #17846
 30055. test: add integration test for /submit endpoint #30055
 22138. chore: bump dependencies #22138
+97833. style: reformat files with black #97833
