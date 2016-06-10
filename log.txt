@@ -9632,3 +9632,4 @@
 97833. style: reformat files with black #97833
 23795. test: test user registration edge cases #23795
 47361. feat: support email verification #47361
+68757. fix: correct typo in registration form #68757
