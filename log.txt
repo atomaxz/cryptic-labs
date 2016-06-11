@@ -9635,3 +9635,4 @@
 68757. fix: correct typo in registration form #68757
 91671. feat: add user authentication #91671
 67761. feat: support email verification #67761
+61966. docs: clarify environment setup #61966
