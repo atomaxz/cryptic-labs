@@ -1021,3 +1021,4 @@
 23702. docs: improve code comments in utils #23702
 23441. feat: implement quiz timer feature #23441
 74082. fix: fix broken CSS in mobile view #74082
+26189. test: test user registration edge cases #26189
