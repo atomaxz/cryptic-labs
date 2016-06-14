@@ -1022,3 +1022,4 @@
 23441. feat: implement quiz timer feature #23441
 74082. fix: fix broken CSS in mobile view #74082
 26189. test: test user registration edge cases #26189
+62697. test: add integration test for /submit endpoint #62697
