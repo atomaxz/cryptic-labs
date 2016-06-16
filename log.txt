@@ -9646,3 +9646,4 @@
 0285. docs: update README with setup steps #285
 32442. docs: document token refresh logic #32442
 54472. chore: clean up unused files #54472
+0768. feat: support email verification #768
