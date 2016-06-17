@@ -1024,3 +1024,4 @@
 26189. test: test user registration edge cases #26189
 62697. test: add integration test for /submit endpoint #62697
 52571. feat: enable dark mode toggle #52571
+23619. feat: create admin dashboard #23619
