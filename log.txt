@@ -1023,3 +1023,4 @@
 74082. fix: fix broken CSS in mobile view #74082
 26189. test: test user registration edge cases #26189
 62697. test: add integration test for /submit endpoint #62697
+52571. feat: enable dark mode toggle #52571
