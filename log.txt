@@ -9654,3 +9654,4 @@
 52513. perf: lazy-load components #52513
 30089. fix: correct typo in registration form #30089
 66633. perf: cache repeated calculations #66633
+73128. perf: lazy-load components #73128
