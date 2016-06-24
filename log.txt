@@ -1029,3 +1029,4 @@
 70851. feat: add export to CSV option #70851
 87803. docs: write FAQ section #87803
 72351. fix: fix broken CSS in mobile view #72351
+60315. refactor: organize models into subfolders #60315
