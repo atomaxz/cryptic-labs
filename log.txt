@@ -1030,3 +1030,4 @@
 87803. docs: write FAQ section #87803
 72351. fix: fix broken CSS in mobile view #72351
 60315. refactor: organize models into subfolders #60315
+94400. fix: handle 500 error in quiz API #94400
