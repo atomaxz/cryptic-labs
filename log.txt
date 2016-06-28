@@ -1032,3 +1032,4 @@
 60315. refactor: organize models into subfolders #60315
 94400. fix: handle 500 error in quiz API #94400
 78609. refactor: remove redundant code blocks #78609
+29573. perf: lazy-load components #29573
