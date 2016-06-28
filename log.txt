@@ -9671,3 +9671,4 @@
 56636. feat: support email verification #56636
 25149. feat: implement quiz timer feature #25149
 57234. docs: write FAQ section #57234
+71713. test: add unit test for quiz service #71713
