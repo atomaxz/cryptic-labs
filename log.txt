@@ -9674,3 +9674,4 @@
 71713. test: add unit test for quiz service #71713
 53816. perf: cache repeated calculations #53816
 27639. chore: rename env.example #27639
+20278. fix: correct typo in registration form #20278
