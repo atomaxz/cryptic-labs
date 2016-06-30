@@ -9676,3 +9676,4 @@
 27639. chore: rename env.example #27639
 20278. fix: correct typo in registration form #20278
 42637. feat: create admin dashboard #42637
+37376. feat: add user authentication #37376
