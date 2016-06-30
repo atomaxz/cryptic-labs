@@ -9679,3 +9679,4 @@
 37376. feat: add user authentication #37376
 65131. fix: correct typo in registration form #65131
 75956. test: increase coverage on auth module #75956
+81940. chore: rename env.example #81940
