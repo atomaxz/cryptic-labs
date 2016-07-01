@@ -9681,3 +9681,4 @@
 75956. test: increase coverage on auth module #75956
 81940. chore: rename env.example #81940
 46658. feat: add user authentication #46658
+30750. chore: clean up unused files #30750
