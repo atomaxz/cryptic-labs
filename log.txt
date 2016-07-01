@@ -9684,3 +9684,4 @@
 30750. chore: clean up unused files #30750
 1219. refactor: refactor quiz grading logic #1219
 6987. fix: handle 500 error in quiz API #6987
+1386. feat: enable dark mode toggle #1386
