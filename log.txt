@@ -9689,3 +9689,4 @@
 12511. refactor: clean up auth middleware #12511
 39883. refactor: remove redundant code blocks #39883
 40141. fix: resolve issue with date parsing #40141
+16447. fix: fix broken CSS in mobile view #16447
