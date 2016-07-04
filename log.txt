@@ -9690,3 +9690,4 @@
 39883. refactor: remove redundant code blocks #39883
 40141. fix: resolve issue with date parsing #40141
 16447. fix: fix broken CSS in mobile view #16447
+30189. fix: fix broken CSS in mobile view #30189
