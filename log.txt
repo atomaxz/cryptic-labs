@@ -9692,3 +9692,4 @@
 16447. fix: fix broken CSS in mobile view #16447
 30189. fix: fix broken CSS in mobile view #30189
 54918. test: add unit test for quiz service #54918
+34159. refactor: refactor quiz grading logic #34159
