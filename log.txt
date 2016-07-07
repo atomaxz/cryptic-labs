@@ -1038,3 +1038,4 @@
 15924. feat: support email verification #15924
 16312. chore: clean up unused files #16312
 90299. style: reformat files with black #90299
+79246. refactor: clean up auth middleware #79246
