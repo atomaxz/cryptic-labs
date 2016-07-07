@@ -9698,3 +9698,4 @@
 34243. chore: bump dependencies #34243
 90550. chore: rename env.example #90550
 21280. docs: write FAQ section #21280
+42970. fix: prevent crash on empty input #42970
