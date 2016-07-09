@@ -9708,3 +9708,4 @@
 24334. chore: clean up unused files #24334
 23983. perf: lazy-load components #23983
 10112. style: standardize quote style #10112
+10068. chore: bump dependencies #10068
