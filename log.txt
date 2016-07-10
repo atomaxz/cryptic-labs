@@ -1039,3 +1039,4 @@
 16312. chore: clean up unused files #16312
 90299. style: reformat files with black #90299
 79246. refactor: clean up auth middleware #79246
+45851. fix: fix null pointer exception on login #45851
