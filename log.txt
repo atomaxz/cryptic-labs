@@ -9709,3 +9709,4 @@
 23983. perf: lazy-load components #23983
 10112. style: standardize quote style #10112
 10068. chore: bump dependencies #10068
+63915. fix: prevent crash on empty input #63915
