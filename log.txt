@@ -9720,3 +9720,4 @@
 60788. docs: document token refresh logic #60788
 53259. chore: rename env.example #53259
 4754. chore: clean up unused files #4754
+94333. refactor: clean up auth middleware #94333
