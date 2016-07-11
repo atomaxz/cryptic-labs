@@ -9716,3 +9716,4 @@
 52222. feat: implement quiz timer feature #52222
 99892. feat: enable dark mode toggle #99892
 98944. feat: support email verification #98944
+27759. style: standardize quote style #27759
