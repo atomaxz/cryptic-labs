@@ -1041,3 +1041,4 @@
 79246. refactor: clean up auth middleware #79246
 45851. fix: fix null pointer exception on login #45851
 83025. perf: optimize database query for quiz results #83025
+69994. refactor: split large controller into smaller functions #69994
