@@ -9721,3 +9721,4 @@
 53259. chore: rename env.example #53259
 4754. chore: clean up unused files #4754
 94333. refactor: clean up auth middleware #94333
+21615. fix: fix broken CSS in mobile view #21615
