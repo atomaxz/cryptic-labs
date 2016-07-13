@@ -9725,3 +9725,4 @@
 36605. feat: enable dark mode toggle #36605
 59436. test: increase coverage on auth module #59436
 48784. perf: reduce image load time #48784
+1166. refactor: refactor quiz grading logic #1166
