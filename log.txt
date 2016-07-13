@@ -9724,3 +9724,4 @@
 21615. fix: fix broken CSS in mobile view #21615
 36605. feat: enable dark mode toggle #36605
 59436. test: increase coverage on auth module #59436
+48784. perf: reduce image load time #48784
