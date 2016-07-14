@@ -1043,3 +1043,4 @@
 83025. perf: optimize database query for quiz results #83025
 69994. refactor: split large controller into smaller functions #69994
 2635. test: add integration test for /submit endpoint #2635
+79722. perf: reduce image load time #79722
