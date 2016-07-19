@@ -9738,3 +9738,4 @@
 21190. feat: support email verification #21190
 18585. feat: implement quiz timer feature #18585
 71483. test: test user registration edge cases #71483
+60767. refactor: refactor quiz grading logic #60767
