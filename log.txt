@@ -9740,3 +9740,4 @@
 71483. test: test user registration edge cases #71483
 60767. refactor: refactor quiz grading logic #60767
 94970. docs: add API usage examples #94970
+32349. fix: fix null pointer exception on login #32349
