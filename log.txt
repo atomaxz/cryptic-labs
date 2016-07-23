@@ -1049,3 +1049,4 @@
 66402. refactor: clean up auth middleware #66402
 19303. chore: bump dependencies #19303
 16824. refactor: remove redundant code blocks #16824
+60926. test: increase coverage on auth module #60926
