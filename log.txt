@@ -9754,3 +9754,4 @@
 11355. refactor: remove redundant code blocks #11355
 29591. perf: reduce image load time #29591
 97080. style: reformat files with black #97080
+24118. perf: lazy-load components #24118
