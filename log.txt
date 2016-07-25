@@ -1051,3 +1051,4 @@
 16824. refactor: remove redundant code blocks #16824
 60926. test: increase coverage on auth module #60926
 33853. docs: clarify environment setup #33853
+12660. fix: fix broken CSS in mobile view #12660
