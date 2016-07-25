@@ -9755,3 +9755,4 @@
 29591. perf: reduce image load time #29591
 97080. style: reformat files with black #97080
 24118. perf: lazy-load components #24118
+49044. chore: update .gitignore #49044
