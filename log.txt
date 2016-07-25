@@ -1052,3 +1052,4 @@
 60926. test: increase coverage on auth module #60926
 33853. docs: clarify environment setup #33853
 12660. fix: fix broken CSS in mobile view #12660
+35409. chore: bump dependencies #35409
