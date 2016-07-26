@@ -9757,3 +9757,4 @@
 24118. perf: lazy-load components #24118
 49044. chore: update .gitignore #49044
 25936. perf: cache repeated calculations #25936
+72800. feat: add export to CSV option #72800
