@@ -9766,3 +9766,4 @@
 67849. refactor: clean up auth middleware #67849
 33227. chore: bump dependencies #33227
 23774. chore: rename env.example #23774
+78919. fix: prevent crash on empty input #78919
