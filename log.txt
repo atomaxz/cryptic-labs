@@ -9770,3 +9770,4 @@
 63245. perf: cache repeated calculations #63245
 79566. refactor: refactor quiz grading logic #79566
 34700. fix: fix broken CSS in mobile view #34700
+4480. perf: optimize database query for quiz results #4480
