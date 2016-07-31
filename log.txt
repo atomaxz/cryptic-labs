@@ -9777,3 +9777,4 @@
 71060. perf: cache repeated calculations #71060
 94848. fix: prevent crash on empty input #94848
 14824. perf: reduce image load time #14824
+91223. docs: add API usage examples #91223
