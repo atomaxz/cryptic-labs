@@ -9778,3 +9778,4 @@
 94848. fix: prevent crash on empty input #94848
 14824. perf: reduce image load time #14824
 91223. docs: add API usage examples #91223
+53759. docs: improve code comments in utils #53759
