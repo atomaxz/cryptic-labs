@@ -1055,3 +1055,4 @@
 35409. chore: bump dependencies #35409
 83981. perf: cache repeated calculations #83981
 6066. chore: add GitHub actions badge #6066
+56990. fix: handle 500 error in quiz API #56990
