@@ -1057,3 +1057,4 @@
 6066. chore: add GitHub actions badge #6066
 56990. fix: handle 500 error in quiz API #56990
 75128. perf: lazy-load components #75128
+35883. docs: write FAQ section #35883
