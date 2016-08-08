@@ -9790,3 +9790,4 @@
 78295. style: apply consistent indentation #78295
 58703. style: apply consistent indentation #58703
 49221. perf: cache repeated calculations #49221
+0481. docs: document token refresh logic #481
