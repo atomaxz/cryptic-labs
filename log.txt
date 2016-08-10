@@ -9794,3 +9794,4 @@
 68441. style: apply consistent indentation #68441
 88449. test: increase coverage on auth module #88449
 84194. test: add unit test for quiz service #84194
+71081. refactor: organize models into subfolders #71081
