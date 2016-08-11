@@ -9796,3 +9796,4 @@
 84194. test: add unit test for quiz service #84194
 71081. refactor: organize models into subfolders #71081
 48013. perf: optimize database query for quiz results #48013
+18759. fix: handle 500 error in quiz API #18759
