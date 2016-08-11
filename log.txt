@@ -9798,3 +9798,4 @@
 48013. perf: optimize database query for quiz results #48013
 18759. fix: handle 500 error in quiz API #18759
 47162. docs: document token refresh logic #47162
+26253. feat: create admin dashboard #26253
