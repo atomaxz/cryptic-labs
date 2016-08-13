@@ -9803,3 +9803,4 @@
 6480. perf: optimize database query for quiz results #6480
 43839. perf: lazy-load components #43839
 88810. docs: update README with setup steps #88810
+60875. fix: fix broken CSS in mobile view #60875
