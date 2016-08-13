@@ -9800,3 +9800,4 @@
 47162. docs: document token refresh logic #47162
 26253. feat: create admin dashboard #26253
 68656. refactor: remove redundant code blocks #68656
+6480. perf: optimize database query for quiz results #6480
