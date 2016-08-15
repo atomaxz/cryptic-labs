@@ -1066,3 +1066,4 @@
 40751. refactor: split large controller into smaller functions #40751
 96466. docs: add API usage examples #96466
 15499. feat: create admin dashboard #15499
+88421. test: mock database connection in test suite #88421
