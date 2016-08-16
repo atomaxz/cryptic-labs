@@ -1067,3 +1067,4 @@
 96466. docs: add API usage examples #96466
 15499. feat: create admin dashboard #15499
 88421. test: mock database connection in test suite #88421
+68791. chore: update .gitignore #68791
