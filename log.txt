@@ -9817,3 +9817,4 @@
 58764. fix: fix broken CSS in mobile view #58764
 18160. style: apply consistent indentation #18160
 68227. style: reformat files with black #68227
+3623. feat: support email verification #3623
