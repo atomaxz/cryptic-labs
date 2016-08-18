@@ -9819,3 +9819,4 @@
 68227. style: reformat files with black #68227
 3623. feat: support email verification #3623
 9081. test: mock database connection in test suite #9081
+95487. refactor: organize models into subfolders #95487
