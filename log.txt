@@ -9821,3 +9821,4 @@
 9081. test: mock database connection in test suite #9081
 95487. refactor: organize models into subfolders #95487
 39847. chore: update .gitignore #39847
+59966. test: increase coverage on auth module #59966
