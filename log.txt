@@ -9814,3 +9814,4 @@
 50490. fix: fix null pointer exception on login #50490
 41371. test: test user registration edge cases #41371
 5870. style: standardize quote style #5870
+58764. fix: fix broken CSS in mobile view #58764
