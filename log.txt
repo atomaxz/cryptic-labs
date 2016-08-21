@@ -9827,3 +9827,4 @@
 86310. test: mock database connection in test suite #86310
 57013. feat: create admin dashboard #57013
 46357. test: add unit test for quiz service #46357
+95935. perf: lazy-load components #95935
