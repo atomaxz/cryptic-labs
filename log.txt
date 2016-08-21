@@ -1069,3 +1069,4 @@
 88421. test: mock database connection in test suite #88421
 68791. chore: update .gitignore #68791
 87835. style: standardize quote style #87835
+64625. docs: write FAQ section #64625
