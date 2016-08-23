@@ -9834,3 +9834,4 @@
 82734. style: reformat files with black #82734
 28864. feat: support email verification #28864
 78771. fix: fix null pointer exception on login #78771
+62533. docs: document token refresh logic #62533
