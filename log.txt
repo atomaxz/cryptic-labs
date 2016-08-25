@@ -1070,3 +1070,4 @@
 68791. chore: update .gitignore #68791
 87835. style: standardize quote style #87835
 64625. docs: write FAQ section #64625
+83597. test: test user registration edge cases #83597
