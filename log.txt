@@ -9844,3 +9844,4 @@
 35632. docs: document token refresh logic #35632
 76795. refactor: clean up auth middleware #76795
 77375. test: add integration test for /submit endpoint #77375
+36144. fix: fix null pointer exception on login #36144
