@@ -9841,3 +9841,4 @@
 34190. chore: update .gitignore #34190
 11691. refactor: split large controller into smaller functions #11691
 0446. chore: clean up unused files #446
+35632. docs: document token refresh logic #35632
