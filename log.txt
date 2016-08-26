@@ -9843,3 +9843,4 @@
 0446. chore: clean up unused files #446
 35632. docs: document token refresh logic #35632
 76795. refactor: clean up auth middleware #76795
+77375. test: add integration test for /submit endpoint #77375
