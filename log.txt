@@ -9845,3 +9845,4 @@
 76795. refactor: clean up auth middleware #76795
 77375. test: add integration test for /submit endpoint #77375
 36144. fix: fix null pointer exception on login #36144
+53712. style: apply consistent indentation #53712
