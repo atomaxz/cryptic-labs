@@ -1073,3 +1073,4 @@
 83597. test: test user registration edge cases #83597
 92922. refactor: clean up auth middleware #92922
 22558. test: test user registration edge cases #22558
+29376. test: increase coverage on auth module #29376
