@@ -9856,3 +9856,4 @@
 84554. docs: write FAQ section #84554
 66913. chore: add GitHub actions badge #66913
 7256. test: test user registration edge cases #7256
+55681. fix: prevent crash on empty input #55681
