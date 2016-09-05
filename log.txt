@@ -9868,3 +9868,4 @@
 16282. fix: resolve issue with date parsing #16282
 15762. chore: clean up unused files #15762
 59697. fix: handle 500 error in quiz API #59697
+27472. fix: fix broken CSS in mobile view #27472
