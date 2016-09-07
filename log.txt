@@ -9875,3 +9875,4 @@
 92398. perf: cache repeated calculations #92398
 4088. docs: update README with setup steps #4088
 26509. fix: correct typo in registration form #26509
+76961. perf: lazy-load components #76961
