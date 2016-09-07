@@ -9873,3 +9873,4 @@
 64210. docs: clarify environment setup #64210
 28930. feat: create admin dashboard #28930
 92398. perf: cache repeated calculations #92398
+4088. docs: update README with setup steps #4088
