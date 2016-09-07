@@ -1078,3 +1078,4 @@
 33575. test: test user registration edge cases #33575
 28125. refactor: clean up auth middleware #28125
 17890. feat: add export to CSV option #17890
+22978. perf: cache repeated calculations #22978
