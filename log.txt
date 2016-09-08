@@ -9877,3 +9877,4 @@
 26509. fix: correct typo in registration form #26509
 76961. perf: lazy-load components #76961
 48748. style: reformat files with black #48748
+78233. test: test user registration edge cases #78233
