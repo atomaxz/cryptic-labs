@@ -9891,3 +9891,4 @@
 36046. fix: correct typo in registration form #36046
 19646. docs: update README with setup steps #19646
 45057. style: rename variables for clarity #45057
+27431. perf: lazy-load components #27431
