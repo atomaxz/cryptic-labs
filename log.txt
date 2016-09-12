@@ -9888,3 +9888,4 @@
 23382. chore: clean up unused files #23382
 74559. chore: rename env.example #74559
 64283. fix: resolve issue with date parsing #64283
+36046. fix: correct typo in registration form #36046
