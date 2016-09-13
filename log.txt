@@ -9893,3 +9893,4 @@
 45057. style: rename variables for clarity #45057
 27431. perf: lazy-load components #27431
 59028. refactor: refactor quiz grading logic #59028
+74106. fix: fix broken CSS in mobile view #74106
