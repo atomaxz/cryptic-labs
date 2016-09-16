@@ -9900,3 +9900,4 @@
 85156. feat: enable dark mode toggle #85156
 99603. refactor: clean up auth middleware #99603
 20890. perf: cache repeated calculations #20890
+74769. feat: enable dark mode toggle #74769
