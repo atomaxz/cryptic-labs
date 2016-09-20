@@ -9911,3 +9911,4 @@
 94244. style: standardize quote style #94244
 29536. chore: update .gitignore #29536
 38215. fix: fix null pointer exception on login #38215
+49581. chore: rename env.example #49581
