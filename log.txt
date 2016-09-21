@@ -9913,3 +9913,4 @@
 38215. fix: fix null pointer exception on login #38215
 49581. chore: rename env.example #49581
 11283. test: test user registration edge cases #11283
+2960. test: increase coverage on auth module #2960
