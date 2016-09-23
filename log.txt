@@ -1083,3 +1083,4 @@
 97990. refactor: remove redundant code blocks #97990
 5931. refactor: split large controller into smaller functions #5931
 46154. style: apply consistent indentation #46154
+99964. perf: optimize database query for quiz results #99964
