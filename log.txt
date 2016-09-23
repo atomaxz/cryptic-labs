@@ -9920,3 +9920,4 @@
 83823. fix: prevent crash on empty input #83823
 48567. feat: add user authentication #48567
 1407. fix: handle 500 error in quiz API #1407
+45073. fix: handle 500 error in quiz API #45073
