@@ -9928,3 +9928,4 @@
 66492. fix: correct typo in registration form #66492
 45598. style: reformat files with black #45598
 14603. refactor: remove redundant code blocks #14603
+62761. perf: optimize database query for quiz results #62761
