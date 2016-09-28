@@ -9934,3 +9934,4 @@
 5704. test: add unit test for quiz service #5704
 59112. fix: correct typo in registration form #59112
 60403. perf: lazy-load components #60403
+51399. fix: prevent crash on empty input #51399
