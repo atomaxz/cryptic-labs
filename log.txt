@@ -9942,3 +9942,4 @@
 26004. fix: handle 500 error in quiz API #26004
 33422. feat: enable dark mode toggle #33422
 74475. perf: reduce image load time #74475
+28742. docs: document token refresh logic #28742
