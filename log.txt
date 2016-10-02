@@ -9947,3 +9947,4 @@
 31621. style: apply consistent indentation #31621
 40852. test: mock database connection in test suite #40852
 81754. chore: rename env.example #81754
+62210. refactor: organize models into subfolders #62210
