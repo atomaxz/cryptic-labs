@@ -9951,3 +9951,4 @@
 11018. test: add integration test for /submit endpoint #11018
 94224. docs: document token refresh logic #94224
 79773. test: add integration test for /submit endpoint #79773
+8434. test: test user registration edge cases #8434
