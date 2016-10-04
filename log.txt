@@ -9954,3 +9954,4 @@
 8434. test: test user registration edge cases #8434
 38192. chore: rename env.example #38192
 45157. feat: create admin dashboard #45157
+4034. style: reformat files with black #4034
