@@ -1088,3 +1088,4 @@
 29300. refactor: refactor quiz grading logic #29300
 82100. test: add unit test for quiz service #82100
 62389. perf: optimize database query for quiz results #62389
+35484. test: add unit test for quiz service #35484
