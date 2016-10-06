@@ -9957,3 +9957,4 @@
 4034. style: reformat files with black #4034
 89072. perf: optimize database query for quiz results #89072
 4394. docs: improve code comments in utils #4394
+0598. perf: lazy-load components #598
