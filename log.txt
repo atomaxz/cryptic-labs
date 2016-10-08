@@ -9960,3 +9960,4 @@
 0598. perf: lazy-load components #598
 1398. test: test user registration edge cases #1398
 86569. docs: clarify environment setup #86569
+58004. fix: fix broken CSS in mobile view #58004
