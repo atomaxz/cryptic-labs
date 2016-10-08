@@ -9962,3 +9962,4 @@
 86569. docs: clarify environment setup #86569
 58004. fix: fix broken CSS in mobile view #58004
 71447. style: remove trailing whitespace #71447
+48851. chore: bump dependencies #48851
