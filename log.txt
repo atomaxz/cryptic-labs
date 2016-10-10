@@ -9965,3 +9965,4 @@
 48851. chore: bump dependencies #48851
 51839. docs: clarify environment setup #51839
 45358. perf: reduce image load time #45358
+70524. refactor: organize models into subfolders #70524
