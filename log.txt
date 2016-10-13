@@ -1092,3 +1092,4 @@
 17884. test: add integration test for /submit endpoint #17884
 3106. feat: create admin dashboard #3106
 90481. feat: implement quiz timer feature #90481
+22019. feat: add user authentication #22019
