@@ -9979,3 +9979,4 @@
 42242. chore: rename env.example #42242
 15400. docs: write FAQ section #15400
 2278. test: add unit test for quiz service #2278
+22419. test: test user registration edge cases #22419
