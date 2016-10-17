@@ -9984,3 +9984,4 @@
 44619. perf: optimize database query for quiz results #44619
 20996. docs: document token refresh logic #20996
 96844. test: increase coverage on auth module #96844
+16682. fix: correct typo in registration form #16682
