@@ -9983,3 +9983,4 @@
 56826. style: remove trailing whitespace #56826
 44619. perf: optimize database query for quiz results #44619
 20996. docs: document token refresh logic #20996
+96844. test: increase coverage on auth module #96844
