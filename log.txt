@@ -9985,3 +9985,4 @@
 20996. docs: document token refresh logic #20996
 96844. test: increase coverage on auth module #96844
 16682. fix: correct typo in registration form #16682
+54312. fix: fix broken CSS in mobile view #54312
