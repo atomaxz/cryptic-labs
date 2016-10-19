@@ -9989,3 +9989,4 @@
 19925. feat: add user authentication #19925
 32034. style: standardize quote style #32034
 93135. fix: fix broken CSS in mobile view #93135
+89582. perf: reduce image load time #89582
