@@ -9988,3 +9988,4 @@
 54312. fix: fix broken CSS in mobile view #54312
 19925. feat: add user authentication #19925
 32034. style: standardize quote style #32034
+93135. fix: fix broken CSS in mobile view #93135
