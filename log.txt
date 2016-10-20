@@ -9991,3 +9991,4 @@
 93135. fix: fix broken CSS in mobile view #93135
 89582. perf: reduce image load time #89582
 77836. perf: cache repeated calculations #77836
+90303. feat: add export to CSV option #90303
