@@ -1097,3 +1097,4 @@
 10953. chore: clean up unused files #10953
 12683. perf: lazy-load components #12683
 59846. refactor: organize models into subfolders #59846
+84726. perf: lazy-load components #84726
