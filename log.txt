@@ -1100,3 +1100,4 @@
 84726. perf: lazy-load components #84726
 63069. fix: correct typo in registration form #63069
 86084. feat: create admin dashboard #86084
+7605. chore: clean up unused files #7605
