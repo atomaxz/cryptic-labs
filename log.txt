@@ -9994,3 +9994,4 @@
 90303. feat: add export to CSV option #90303
 86817. chore: update .gitignore #86817
 97754. refactor: remove redundant code blocks #97754
+89281. chore: add GitHub actions badge #89281
