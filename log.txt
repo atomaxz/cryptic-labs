@@ -9997,3 +9997,4 @@
 89281. chore: add GitHub actions badge #89281
 97238. chore: update .gitignore #97238
 81228. feat: support email verification #81228
+11605. test: increase coverage on auth module #11605
