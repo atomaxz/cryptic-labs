@@ -9995,3 +9995,4 @@
 86817. chore: update .gitignore #86817
 97754. refactor: remove redundant code blocks #97754
 89281. chore: add GitHub actions badge #89281
+97238. chore: update .gitignore #97238
