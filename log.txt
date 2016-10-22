@@ -10000,3 +10000,4 @@
 11605. test: increase coverage on auth module #11605
 58637. feat: add export to CSV option #58637
 43453. fix: resolve issue with date parsing #43453
+74384. feat: add export to CSV option #74384
