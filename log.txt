@@ -1102,3 +1102,4 @@
 86084. feat: create admin dashboard #86084
 7605. chore: clean up unused files #7605
 33712. test: add unit test for quiz service #33712
+1795. chore: add GitHub actions badge #1795
