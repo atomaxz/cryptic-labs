@@ -10008,3 +10008,4 @@
 86833. refactor: clean up auth middleware #86833
 15660. test: add unit test for quiz service #15660
 6632. fix: prevent crash on empty input #6632
+81480. docs: write FAQ section #81480
