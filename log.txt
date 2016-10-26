@@ -10011,3 +10011,4 @@
 81480. docs: write FAQ section #81480
 97605. refactor: split large controller into smaller functions #97605
 38440. perf: lazy-load components #38440
+78104. fix: prevent crash on empty input #78104
