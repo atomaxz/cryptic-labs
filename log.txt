@@ -10019,3 +10019,4 @@
 90780. refactor: split large controller into smaller functions #90780
 44079. refactor: refactor quiz grading logic #44079
 72107. refactor: split large controller into smaller functions #72107
+42726. refactor: clean up auth middleware #42726
