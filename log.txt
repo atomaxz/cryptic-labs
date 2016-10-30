@@ -10023,3 +10023,4 @@
 29032. docs: document token refresh logic #29032
 4154. docs: improve code comments in utils #4154
 99202. chore: update .gitignore #99202
+96830. perf: lazy-load components #96830
