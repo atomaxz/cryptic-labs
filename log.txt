@@ -10024,3 +10024,4 @@
 4154. docs: improve code comments in utils #4154
 99202. chore: update .gitignore #99202
 96830. perf: lazy-load components #96830
+63964. fix: correct typo in registration form #63964
