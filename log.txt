@@ -1110,3 +1110,4 @@
 58283. perf: cache repeated calculations #58283
 20504. refactor: clean up auth middleware #20504
 96990. feat: add user authentication #96990
+1809. feat: support email verification #1809
