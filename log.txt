@@ -10025,3 +10025,4 @@
 99202. chore: update .gitignore #99202
 96830. perf: lazy-load components #96830
 63964. fix: correct typo in registration form #63964
+92556. refactor: organize models into subfolders #92556
