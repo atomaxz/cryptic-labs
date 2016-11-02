@@ -10027,3 +10027,4 @@
 63964. fix: correct typo in registration form #63964
 92556. refactor: organize models into subfolders #92556
 82738. docs: clarify environment setup #82738
+30782. test: mock database connection in test suite #30782
