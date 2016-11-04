@@ -10035,3 +10035,4 @@
 24579. style: standardize quote style #24579
 16511. docs: add API usage examples #16511
 55968. refactor: clean up auth middleware #55968
+64256. fix: fix broken CSS in mobile view #64256
