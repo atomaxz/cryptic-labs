@@ -10036,3 +10036,4 @@
 16511. docs: add API usage examples #16511
 55968. refactor: clean up auth middleware #55968
 64256. fix: fix broken CSS in mobile view #64256
+86014. style: apply consistent indentation #86014
