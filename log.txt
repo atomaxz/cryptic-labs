@@ -10044,3 +10044,4 @@
 88424. feat: enable dark mode toggle #88424
 54493. test: add integration test for /submit endpoint #54493
 53080. chore: update .gitignore #53080
+99896. perf: optimize database query for quiz results #99896
