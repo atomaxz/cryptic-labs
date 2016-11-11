@@ -10051,3 +10051,4 @@
 76010. docs: write FAQ section #76010
 94332. docs: document token refresh logic #94332
 58657. style: reformat files with black #58657
+80403. feat: add user authentication #80403
