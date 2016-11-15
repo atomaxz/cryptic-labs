@@ -10070,3 +10070,4 @@
 6457. refactor: organize models into subfolders #6457
 40917. docs: update README with setup steps #40917
 33187. chore: bump dependencies #33187
+19388. fix: prevent crash on empty input #19388
