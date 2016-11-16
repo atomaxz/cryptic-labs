@@ -10071,3 +10071,4 @@
 40917. docs: update README with setup steps #40917
 33187. chore: bump dependencies #33187
 19388. fix: prevent crash on empty input #19388
+99218. test: mock database connection in test suite #99218
