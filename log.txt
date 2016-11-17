@@ -10074,3 +10074,4 @@
 99218. test: mock database connection in test suite #99218
 73159. perf: reduce image load time #73159
 37855. style: remove trailing whitespace #37855
+47717. test: increase coverage on auth module #47717
