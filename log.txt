@@ -10081,3 +10081,4 @@
 22196. docs: clarify environment setup #22196
 2297. perf: cache repeated calculations #2297
 91391. fix: fix broken CSS in mobile view #91391
+57786. refactor: clean up auth middleware #57786
