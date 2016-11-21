@@ -10084,3 +10084,4 @@
 57786. refactor: clean up auth middleware #57786
 79761. style: standardize quote style #79761
 89280. perf: optimize database query for quiz results #89280
+67021. fix: fix null pointer exception on login #67021
