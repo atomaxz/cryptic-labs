@@ -10082,3 +10082,4 @@
 2297. perf: cache repeated calculations #2297
 91391. fix: fix broken CSS in mobile view #91391
 57786. refactor: clean up auth middleware #57786
+79761. style: standardize quote style #79761
