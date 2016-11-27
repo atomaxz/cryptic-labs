@@ -10095,3 +10095,4 @@
 72135. style: apply consistent indentation #72135
 84138. refactor: split large controller into smaller functions #84138
 53142. fix: handle 500 error in quiz API #53142
+22651. chore: add GitHub actions badge #22651
