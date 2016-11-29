@@ -10100,3 +10100,4 @@
 91545. chore: clean up unused files #91545
 84771. chore: add GitHub actions badge #84771
 44497. style: apply consistent indentation #44497
+92358. feat: enable dark mode toggle #92358
