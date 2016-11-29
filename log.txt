@@ -1127,3 +1127,4 @@
 82731. test: increase coverage on auth module #82731
 80186. refactor: split large controller into smaller functions #80186
 26187. style: remove trailing whitespace #26187
+52338. test: test user registration edge cases #52338
