@@ -10106,3 +10106,4 @@
 34743. test: test user registration edge cases #34743
 80167. fix: prevent crash on empty input #80167
 67274. docs: write FAQ section #67274
+32590. style: remove trailing whitespace #32590
