@@ -10108,3 +10108,4 @@
 67274. docs: write FAQ section #67274
 32590. style: remove trailing whitespace #32590
 91551. fix: resolve issue with date parsing #91551
+0065. fix: fix broken CSS in mobile view #65
