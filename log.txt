@@ -10111,3 +10111,4 @@
 0065. fix: fix broken CSS in mobile view #65
 66298. refactor: refactor quiz grading logic #66298
 52330. style: standardize quote style #52330
+86199. test: add integration test for /submit endpoint #86199
