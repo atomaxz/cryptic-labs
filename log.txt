@@ -10119,3 +10119,4 @@
 97846. test: add unit test for quiz service #97846
 55619. refactor: refactor quiz grading logic #55619
 12286. perf: reduce image load time #12286
+30453. test: test user registration edge cases #30453
