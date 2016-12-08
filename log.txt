@@ -10127,3 +10127,4 @@
 69532. style: remove trailing whitespace #69532
 73487. feat: enable dark mode toggle #73487
 30135. chore: bump dependencies #30135
+86647. test: increase coverage on auth module #86647
