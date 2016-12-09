@@ -10130,3 +10130,4 @@
 86647. test: increase coverage on auth module #86647
 20281. feat: implement quiz timer feature #20281
 72736. docs: write FAQ section #72736
+56745. refactor: split large controller into smaller functions #56745
