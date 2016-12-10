@@ -1137,3 +1137,4 @@
 20358. perf: reduce image load time #20358
 73613. fix: prevent crash on empty input #73613
 16254. refactor: remove redundant code blocks #16254
+21502. refactor: split large controller into smaller functions #21502
