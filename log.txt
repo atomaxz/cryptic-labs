@@ -10137,3 +10137,4 @@
 7345. docs: clarify environment setup #7345
 79853. feat: support email verification #79853
 78512. chore: rename env.example #78512
+13273. perf: cache repeated calculations #13273
