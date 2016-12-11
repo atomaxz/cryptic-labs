@@ -1140,3 +1140,4 @@
 21502. refactor: split large controller into smaller functions #21502
 10882. feat: enable dark mode toggle #10882
 16503. fix: prevent crash on empty input #16503
+4774. fix: handle 500 error in quiz API #4774
