@@ -1139,3 +1139,4 @@
 16254. refactor: remove redundant code blocks #16254
 21502. refactor: split large controller into smaller functions #21502
 10882. feat: enable dark mode toggle #10882
+16503. fix: prevent crash on empty input #16503
