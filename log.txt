@@ -10139,3 +10139,4 @@
 78512. chore: rename env.example #78512
 13273. perf: cache repeated calculations #13273
 89482. refactor: split large controller into smaller functions #89482
+1812. perf: reduce image load time #1812
