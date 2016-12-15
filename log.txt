@@ -10144,3 +10144,4 @@
 43485. test: test user registration edge cases #43485
 44126. style: standardize quote style #44126
 88453. refactor: refactor quiz grading logic #88453
+2166. fix: handle 500 error in quiz API #2166
