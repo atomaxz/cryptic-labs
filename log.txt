@@ -10148,3 +10148,4 @@
 1571. fix: fix broken CSS in mobile view #1571
 84177. docs: add API usage examples #84177
 19285. feat: add export to CSV option #19285
+84159. feat: support email verification #84159
