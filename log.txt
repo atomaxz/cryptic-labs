@@ -10155,3 +10155,4 @@
 9715. test: add unit test for quiz service #9715
 59723. refactor: split large controller into smaller functions #59723
 14458. test: add integration test for /submit endpoint #14458
+18727. chore: add GitHub actions badge #18727
