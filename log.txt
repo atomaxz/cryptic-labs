@@ -10158,3 +10158,4 @@
 18727. chore: add GitHub actions badge #18727
 7724. perf: lazy-load components #7724
 39834. feat: enable dark mode toggle #39834
+6466. chore: bump dependencies #6466
