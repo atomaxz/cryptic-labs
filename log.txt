@@ -10160,3 +10160,4 @@
 39834. feat: enable dark mode toggle #39834
 6466. chore: bump dependencies #6466
 27366. perf: reduce image load time #27366
+79393. docs: update README with setup steps #79393
