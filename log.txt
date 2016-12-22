@@ -10166,3 +10166,4 @@
 54311. fix: correct typo in registration form #54311
 68548. refactor: remove redundant code blocks #68548
 69834. perf: lazy-load components #69834
+36534. docs: write FAQ section #36534
