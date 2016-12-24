@@ -1146,3 +1146,4 @@
 97234. refactor: split large controller into smaller functions #97234
 54755. fix: resolve issue with date parsing #54755
 58006. test: add integration test for /submit endpoint #58006
+96938. style: remove trailing whitespace #96938
