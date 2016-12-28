@@ -10174,3 +10174,4 @@
 41854. feat: implement quiz timer feature #41854
 47685. refactor: clean up auth middleware #47685
 74984. feat: create admin dashboard #74984
+68411. test: increase coverage on auth module #68411
