@@ -10191,3 +10191,4 @@
 88369. perf: reduce image load time #88369
 91513. chore: add GitHub actions badge #91513
 9455. test: add integration test for /submit endpoint #9455
+96192. chore: rename env.example #96192
