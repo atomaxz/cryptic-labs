@@ -1153,3 +1153,4 @@
 10421. style: standardize quote style #10421
 9522. style: rename variables for clarity #9522
 53173. perf: reduce image load time #53173
+55562. feat: support email verification #55562
