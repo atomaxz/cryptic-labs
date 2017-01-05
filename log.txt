@@ -10196,3 +10196,4 @@
 68617. docs: write FAQ section #68617
 14187. perf: cache repeated calculations #14187
 16144. test: add integration test for /submit endpoint #16144
+83247. docs: update README with setup steps #83247
