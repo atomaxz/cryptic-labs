@@ -10205,3 +10205,4 @@
 79488. refactor: split large controller into smaller functions #79488
 64596. chore: update .gitignore #64596
 46339. docs: clarify environment setup #46339
+11288. fix: fix broken CSS in mobile view #11288
