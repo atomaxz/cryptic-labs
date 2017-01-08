@@ -1156,3 +1156,4 @@
 55562. feat: support email verification #55562
 91434. fix: fix broken CSS in mobile view #91434
 12086. refactor: organize models into subfolders #12086
+95902. feat: add export to CSV option #95902
