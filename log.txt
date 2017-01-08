@@ -10207,3 +10207,4 @@
 46339. docs: clarify environment setup #46339
 11288. fix: fix broken CSS in mobile view #11288
 49936. fix: prevent crash on empty input #49936
+72244. fix: correct typo in registration form #72244
