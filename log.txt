@@ -10214,3 +10214,4 @@
 46470. fix: prevent crash on empty input #46470
 19252. fix: handle 500 error in quiz API #19252
 63469. chore: bump dependencies #63469
+79096. perf: optimize database query for quiz results #79096
