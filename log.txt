@@ -10222,3 +10222,4 @@
 84856. style: apply consistent indentation #84856
 14769. style: reformat files with black #14769
 16644. chore: add GitHub actions badge #16644
+53940. style: remove trailing whitespace #53940
