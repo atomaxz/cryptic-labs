@@ -10227,3 +10227,4 @@
 2750. chore: clean up unused files #2750
 44471. docs: document token refresh logic #44471
 5640. perf: reduce image load time #5640
+90852. perf: lazy-load components #90852
