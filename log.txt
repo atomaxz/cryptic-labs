@@ -10231,3 +10231,4 @@
 90191. test: test user registration edge cases #90191
 6159. feat: create admin dashboard #6159
 66667. docs: update README with setup steps #66667
+80252. fix: correct typo in registration form #80252
