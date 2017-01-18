@@ -10235,3 +10235,4 @@
 91847. fix: fix null pointer exception on login #91847
 4535. perf: optimize database query for quiz results #4535
 82609. chore: bump dependencies #82609
+98627. refactor: remove redundant code blocks #98627
