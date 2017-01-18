@@ -10233,3 +10233,4 @@
 66667. docs: update README with setup steps #66667
 80252. fix: correct typo in registration form #80252
 91847. fix: fix null pointer exception on login #91847
+4535. perf: optimize database query for quiz results #4535
