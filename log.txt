@@ -10236,3 +10236,4 @@
 4535. perf: optimize database query for quiz results #4535
 82609. chore: bump dependencies #82609
 98627. refactor: remove redundant code blocks #98627
+17419. perf: cache repeated calculations #17419
