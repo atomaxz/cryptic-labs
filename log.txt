@@ -10239,3 +10239,4 @@
 17419. perf: cache repeated calculations #17419
 55372. test: test user registration edge cases #55372
 73539. style: reformat files with black #73539
+26773. refactor: organize models into subfolders #26773
