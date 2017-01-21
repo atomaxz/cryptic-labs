@@ -10241,3 +10241,4 @@
 73539. style: reformat files with black #73539
 26773. refactor: organize models into subfolders #26773
 28753. test: test user registration edge cases #28753
+36976. test: add unit test for quiz service #36976
