@@ -1158,3 +1158,4 @@
 12086. refactor: organize models into subfolders #12086
 95902. feat: add export to CSV option #95902
 1153. perf: optimize database query for quiz results #1153
+61600. refactor: remove redundant code blocks #61600
