@@ -10248,3 +10248,4 @@
 17794. perf: optimize database query for quiz results #17794
 70566. test: add unit test for quiz service #70566
 67557. refactor: split large controller into smaller functions #67557
+40609. docs: write FAQ section #40609
