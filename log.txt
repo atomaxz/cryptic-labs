@@ -1161,3 +1161,4 @@
 61600. refactor: remove redundant code blocks #61600
 63628. test: mock database connection in test suite #63628
 62120. refactor: remove redundant code blocks #62120
+40604. fix: handle 500 error in quiz API #40604
