@@ -10272,3 +10272,4 @@
 31918. chore: rename env.example #31918
 38923. test: test user registration edge cases #38923
 44651. test: add unit test for quiz service #44651
+19830. chore: update .gitignore #19830
