@@ -10275,3 +10275,4 @@
 19830. chore: update .gitignore #19830
 96204. test: mock database connection in test suite #96204
 52660. docs: update README with setup steps #52660
+10757. style: apply consistent indentation #10757
