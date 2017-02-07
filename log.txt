@@ -10284,3 +10284,4 @@
 58753. fix: fix broken CSS in mobile view #58753
 65846. docs: update README with setup steps #65846
 33563. chore: bump dependencies #33563
+74421. docs: write FAQ section #74421
