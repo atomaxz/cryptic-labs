@@ -10283,3 +10283,4 @@
 62119. style: rename variables for clarity #62119
 58753. fix: fix broken CSS in mobile view #58753
 65846. docs: update README with setup steps #65846
+33563. chore: bump dependencies #33563
