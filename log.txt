@@ -1169,3 +1169,4 @@
 88454. fix: resolve issue with date parsing #88454
 72273. style: apply consistent indentation #72273
 37689. refactor: remove redundant code blocks #37689
+15301. feat: add export to CSV option #15301
