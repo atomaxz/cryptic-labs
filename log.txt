@@ -10286,3 +10286,4 @@
 33563. chore: bump dependencies #33563
 74421. docs: write FAQ section #74421
 53313. docs: write FAQ section #53313
+65963. fix: prevent crash on empty input #65963
