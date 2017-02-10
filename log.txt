@@ -10290,3 +10290,4 @@
 88755. refactor: refactor quiz grading logic #88755
 66897. refactor: split large controller into smaller functions #66897
 28042. style: apply consistent indentation #28042
+71591. style: standardize quote style #71591
