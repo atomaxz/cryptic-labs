@@ -1172,3 +1172,4 @@
 15301. feat: add export to CSV option #15301
 51728. fix: correct typo in registration form #51728
 29065. docs: improve code comments in utils #29065
+77716. perf: reduce image load time #77716
