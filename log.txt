@@ -10296,3 +10296,4 @@
 83034. refactor: refactor quiz grading logic #83034
 71099. fix: resolve issue with date parsing #71099
 63378. style: rename variables for clarity #63378
+42150. perf: optimize database query for quiz results #42150
