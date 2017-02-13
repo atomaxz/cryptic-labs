@@ -10302,3 +10302,4 @@
 19400. perf: lazy-load components #19400
 26592. fix: fix null pointer exception on login #26592
 62300. perf: cache repeated calculations #62300
+66104. fix: correct typo in registration form #66104
