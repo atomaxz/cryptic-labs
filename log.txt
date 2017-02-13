@@ -10300,3 +10300,4 @@
 7988. fix: correct typo in registration form #7988
 20785. test: increase coverage on auth module #20785
 19400. perf: lazy-load components #19400
+26592. fix: fix null pointer exception on login #26592
