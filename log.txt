@@ -10306,3 +10306,4 @@
 1142. perf: optimize database query for quiz results #1142
 42636. feat: add user authentication #42636
 50272. refactor: clean up auth middleware #50272
+22190. chore: clean up unused files #22190
