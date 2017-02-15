@@ -10308,3 +10308,4 @@
 50272. refactor: clean up auth middleware #50272
 22190. chore: clean up unused files #22190
 99387. perf: optimize database query for quiz results #99387
+5759. fix: fix broken CSS in mobile view #5759
