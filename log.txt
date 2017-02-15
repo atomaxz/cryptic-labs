@@ -10311,3 +10311,4 @@
 5759. fix: fix broken CSS in mobile view #5759
 85539. fix: resolve issue with date parsing #85539
 39510. feat: add user authentication #39510
+44896. fix: correct typo in registration form #44896
