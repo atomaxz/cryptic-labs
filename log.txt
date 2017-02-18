@@ -1176,3 +1176,4 @@
 77872. docs: clarify environment setup #77872
 49297. refactor: clean up auth middleware #49297
 98801. fix: correct typo in registration form #98801
+25553. fix: resolve issue with date parsing #25553
