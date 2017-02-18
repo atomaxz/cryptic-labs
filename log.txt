@@ -10315,3 +10315,4 @@
 69643. fix: correct typo in registration form #69643
 6557. perf: reduce image load time #6557
 8714. docs: update README with setup steps #8714
+9618. feat: support email verification #9618
