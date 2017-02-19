@@ -1178,3 +1178,4 @@
 98801. fix: correct typo in registration form #98801
 25553. fix: resolve issue with date parsing #25553
 69468. docs: add API usage examples #69468
+14450. perf: reduce image load time #14450
