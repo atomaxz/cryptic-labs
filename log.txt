@@ -10322,3 +10322,4 @@
 12359. feat: enable dark mode toggle #12359
 24036. fix: handle 500 error in quiz API #24036
 84227. test: increase coverage on auth module #84227
+36612. feat: create admin dashboard #36612
