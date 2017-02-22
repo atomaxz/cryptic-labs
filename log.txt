@@ -10327,3 +10327,4 @@
 11857. perf: cache repeated calculations #11857
 32724. docs: write FAQ section #32724
 25317. chore: update .gitignore #25317
+6251. fix: resolve issue with date parsing #6251
