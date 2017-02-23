@@ -1181,3 +1181,4 @@
 14450. perf: reduce image load time #14450
 22204. feat: implement quiz timer feature #22204
 36434. refactor: organize models into subfolders #36434
+22896. docs: write FAQ section #22896
