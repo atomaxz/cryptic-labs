@@ -10345,3 +10345,4 @@
 96500. style: reformat files with black #96500
 56942. chore: add GitHub actions badge #56942
 95561. style: rename variables for clarity #95561
+58312. refactor: split large controller into smaller functions #58312
