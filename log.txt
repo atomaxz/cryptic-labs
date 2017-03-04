@@ -10348,3 +10348,4 @@
 58312. refactor: split large controller into smaller functions #58312
 19083. style: apply consistent indentation #19083
 84717. fix: handle 500 error in quiz API #84717
+0891. perf: lazy-load components #891
