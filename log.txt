@@ -10353,3 +10353,4 @@
 65664. docs: add API usage examples #65664
 4717. docs: document token refresh logic #4717
 26392. fix: resolve issue with date parsing #26392
+50220. fix: prevent crash on empty input #50220
