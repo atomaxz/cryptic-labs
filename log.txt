@@ -1188,3 +1188,4 @@
 67059. docs: update README with setup steps #67059
 35931. style: apply consistent indentation #35931
 90285. feat: enable dark mode toggle #90285
+10418. perf: lazy-load components #10418
