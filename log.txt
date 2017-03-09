@@ -10360,3 +10360,4 @@
 46129. docs: add API usage examples #46129
 12008. chore: bump dependencies #12008
 27735. docs: document token refresh logic #27735
+1217. feat: support email verification #1217
