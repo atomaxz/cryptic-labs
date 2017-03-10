@@ -10361,3 +10361,4 @@
 12008. chore: bump dependencies #12008
 27735. docs: document token refresh logic #27735
 1217. feat: support email verification #1217
+44807. test: test user registration edge cases #44807
