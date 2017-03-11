@@ -10365,3 +10365,4 @@
 43112. docs: clarify environment setup #43112
 3889. test: add unit test for quiz service #3889
 23190. feat: add export to CSV option #23190
+71977. feat: add user authentication #71977
