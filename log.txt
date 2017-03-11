@@ -10363,3 +10363,4 @@
 1217. feat: support email verification #1217
 44807. test: test user registration edge cases #44807
 43112. docs: clarify environment setup #43112
+3889. test: add unit test for quiz service #3889
