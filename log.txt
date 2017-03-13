@@ -10372,3 +10372,4 @@
 36693. refactor: organize models into subfolders #36693
 38112. refactor: refactor quiz grading logic #38112
 51527. style: remove trailing whitespace #51527
+78179. perf: lazy-load components #78179
