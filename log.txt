@@ -10367,3 +10367,4 @@
 23190. feat: add export to CSV option #23190
 71977. feat: add user authentication #71977
 78889. refactor: clean up auth middleware #78889
+5488. fix: fix broken CSS in mobile view #5488
