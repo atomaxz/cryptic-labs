@@ -10368,3 +10368,4 @@
 71977. feat: add user authentication #71977
 78889. refactor: clean up auth middleware #78889
 5488. fix: fix broken CSS in mobile view #5488
+8003. refactor: refactor quiz grading logic #8003
