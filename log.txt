@@ -1190,3 +1190,4 @@
 90285. feat: enable dark mode toggle #90285
 10418. perf: lazy-load components #10418
 8284. chore: add GitHub actions badge #8284
+35671. docs: add API usage examples #35671
