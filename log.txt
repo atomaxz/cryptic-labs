@@ -10385,3 +10385,4 @@
 80269. feat: add user authentication #80269
 22526. feat: support email verification #22526
 80868. docs: improve code comments in utils #80868
+20796. perf: lazy-load components #20796
