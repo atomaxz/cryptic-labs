@@ -10389,3 +10389,4 @@
 77445. chore: clean up unused files #77445
 61193. refactor: refactor quiz grading logic #61193
 51931. feat: add export to CSV option #51931
+75804. fix: prevent crash on empty input #75804
