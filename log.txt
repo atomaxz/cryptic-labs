@@ -10393,3 +10393,4 @@
 35358. chore: clean up unused files #35358
 23677. chore: update .gitignore #23677
 54220. test: add unit test for quiz service #54220
+75797. perf: lazy-load components #75797
