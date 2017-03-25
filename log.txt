@@ -10401,3 +10401,4 @@
 39400. feat: support email verification #39400
 86159. style: rename variables for clarity #86159
 90118. test: add integration test for /submit endpoint #90118
+56608. test: add unit test for quiz service #56608
