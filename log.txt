@@ -10403,3 +10403,4 @@
 90118. test: add integration test for /submit endpoint #90118
 56608. test: add unit test for quiz service #56608
 85242. test: add integration test for /submit endpoint #85242
+91714. style: remove trailing whitespace #91714
