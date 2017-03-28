@@ -10410,3 +10410,4 @@
 46450. perf: cache repeated calculations #46450
 72075. fix: correct typo in registration form #72075
 4058. chore: update .gitignore #4058
+95906. feat: add export to CSV option #95906
