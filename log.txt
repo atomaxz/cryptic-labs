@@ -10416,3 +10416,4 @@
 89412. fix: fix broken CSS in mobile view #89412
 97367. style: apply consistent indentation #97367
 52166. docs: improve code comments in utils #52166
+1065. fix: fix broken CSS in mobile view #1065
