@@ -10412,3 +10412,4 @@
 4058. chore: update .gitignore #4058
 95906. feat: add export to CSV option #95906
 96410. style: reformat files with black #96410
+59370. docs: update README with setup steps #59370
