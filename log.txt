@@ -10413,3 +10413,4 @@
 95906. feat: add export to CSV option #95906
 96410. style: reformat files with black #96410
 59370. docs: update README with setup steps #59370
+89412. fix: fix broken CSS in mobile view #89412
