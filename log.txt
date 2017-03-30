@@ -10417,3 +10417,4 @@
 97367. style: apply consistent indentation #97367
 52166. docs: improve code comments in utils #52166
 1065. fix: fix broken CSS in mobile view #1065
+66453. style: standardize quote style #66453
