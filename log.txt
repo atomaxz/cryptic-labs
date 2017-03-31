@@ -1197,3 +1197,4 @@
 4845. chore: update .gitignore #4845
 64441. chore: add GitHub actions badge #64441
 52283. style: rename variables for clarity #52283
+7159. fix: handle 500 error in quiz API #7159
