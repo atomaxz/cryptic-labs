@@ -10433,3 +10433,4 @@
 52272. feat: add user authentication #52272
 11273. fix: correct typo in registration form #11273
 74044. test: increase coverage on auth module #74044
+84351. test: mock database connection in test suite #84351
