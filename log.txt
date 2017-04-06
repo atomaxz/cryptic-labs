@@ -1202,3 +1202,4 @@
 1648. test: mock database connection in test suite #1648
 27964. style: remove trailing whitespace #27964
 36337. fix: fix broken CSS in mobile view #36337
+11147. perf: cache repeated calculations #11147
