@@ -10436,3 +10436,4 @@
 84351. test: mock database connection in test suite #84351
 4869. docs: document token refresh logic #4869
 52345. feat: create admin dashboard #52345
+3621. refactor: organize models into subfolders #3621
