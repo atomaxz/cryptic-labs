@@ -1204,3 +1204,4 @@
 36337. fix: fix broken CSS in mobile view #36337
 11147. perf: cache repeated calculations #11147
 11803. style: standardize quote style #11803
+19599. style: apply consistent indentation #19599
