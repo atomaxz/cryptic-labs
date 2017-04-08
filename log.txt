@@ -10446,3 +10446,4 @@
 97906. style: apply consistent indentation #97906
 85798. feat: support email verification #85798
 32605. feat: create admin dashboard #32605
+13432. fix: fix null pointer exception on login #13432
