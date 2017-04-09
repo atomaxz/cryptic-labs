@@ -1206,3 +1206,4 @@
 11803. style: standardize quote style #11803
 19599. style: apply consistent indentation #19599
 55614. refactor: clean up auth middleware #55614
+46445. style: remove trailing whitespace #46445
