@@ -10448,3 +10448,4 @@
 32605. feat: create admin dashboard #32605
 13432. fix: fix null pointer exception on login #13432
 11579. feat: add export to CSV option #11579
+29997. test: test user registration edge cases #29997
