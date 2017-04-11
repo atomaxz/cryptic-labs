@@ -10452,3 +10452,4 @@
 77336. style: apply consistent indentation #77336
 36715. feat: add user authentication #36715
 3888. perf: lazy-load components #3888
+11665. feat: create admin dashboard #11665
