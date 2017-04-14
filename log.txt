@@ -10459,3 +10459,4 @@
 16401. style: rename variables for clarity #16401
 68662. test: test user registration edge cases #68662
 43512. docs: clarify environment setup #43512
+79433. feat: support email verification #79433
