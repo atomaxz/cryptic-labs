@@ -10460,3 +10460,4 @@
 68662. test: test user registration edge cases #68662
 43512. docs: clarify environment setup #43512
 79433. feat: support email verification #79433
+78157. feat: add export to CSV option #78157
