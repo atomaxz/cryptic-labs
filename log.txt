@@ -10467,3 +10467,4 @@
 74697. refactor: organize models into subfolders #74697
 17834. docs: clarify environment setup #17834
 31731. refactor: remove redundant code blocks #31731
+14325. fix: prevent crash on empty input #14325
