@@ -10464,3 +10464,4 @@
 16122. fix: fix null pointer exception on login #16122
 72298. style: apply consistent indentation #72298
 81142. style: standardize quote style #81142
+74697. refactor: organize models into subfolders #74697
