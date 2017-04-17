@@ -10469,3 +10469,4 @@
 31731. refactor: remove redundant code blocks #31731
 14325. fix: prevent crash on empty input #14325
 17889. chore: update .gitignore #17889
+38576. style: standardize quote style #38576
