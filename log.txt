@@ -10479,3 +10479,4 @@
 70352. chore: add GitHub actions badge #70352
 80692. feat: enable dark mode toggle #80692
 36404. feat: add user authentication #36404
+26386. test: test user registration edge cases #26386
