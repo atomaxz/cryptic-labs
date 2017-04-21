@@ -10485,3 +10485,4 @@
 31777. style: reformat files with black #31777
 69860. perf: reduce image load time #69860
 24404. fix: correct typo in registration form #24404
+40720. test: add integration test for /submit endpoint #40720
