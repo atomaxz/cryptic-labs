@@ -10483,3 +10483,4 @@
 75148. perf: lazy-load components #75148
 53900. docs: clarify environment setup #53900
 31777. style: reformat files with black #31777
+69860. perf: reduce image load time #69860
