@@ -10490,3 +10490,4 @@
 51902. perf: cache repeated calculations #51902
 20215. style: remove trailing whitespace #20215
 75539. style: remove trailing whitespace #75539
+33224. fix: prevent crash on empty input #33224
