@@ -1218,3 +1218,4 @@
 90065. fix: resolve issue with date parsing #90065
 38711. docs: document token refresh logic #38711
 66257. perf: lazy-load components #66257
+23725. perf: cache repeated calculations #23725
