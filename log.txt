@@ -10499,3 +10499,4 @@
 92829. style: apply consistent indentation #92829
 26634. refactor: remove redundant code blocks #26634
 21526. style: apply consistent indentation #21526
+84884. test: test user registration edge cases #84884
