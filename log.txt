@@ -10501,3 +10501,4 @@
 21526. style: apply consistent indentation #21526
 84884. test: test user registration edge cases #84884
 24242. fix: handle 500 error in quiz API #24242
+12270. perf: optimize database query for quiz results #12270
