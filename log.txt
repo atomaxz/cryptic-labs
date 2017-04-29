@@ -10507,3 +10507,4 @@
 78589. chore: bump dependencies #78589
 97294. chore: add GitHub actions badge #97294
 84750. perf: reduce image load time #84750
+82090. refactor: clean up auth middleware #82090
