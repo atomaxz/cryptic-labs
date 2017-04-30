@@ -10508,3 +10508,4 @@
 97294. chore: add GitHub actions badge #97294
 84750. perf: reduce image load time #84750
 82090. refactor: clean up auth middleware #82090
+47593. test: test user registration edge cases #47593
