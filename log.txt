@@ -10510,3 +10510,4 @@
 82090. refactor: clean up auth middleware #82090
 47593. test: test user registration edge cases #47593
 0052. test: mock database connection in test suite #52
+79973. fix: fix broken CSS in mobile view #79973
