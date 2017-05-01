@@ -10513,3 +10513,4 @@
 79973. fix: fix broken CSS in mobile view #79973
 32275. perf: lazy-load components #32275
 74484. chore: clean up unused files #74484
+80729. docs: clarify environment setup #80729
