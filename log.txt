@@ -1221,3 +1221,4 @@
 23725. perf: cache repeated calculations #23725
 49825. chore: rename env.example #49825
 12228. fix: fix null pointer exception on login #12228
+66868. refactor: clean up auth middleware #66868
