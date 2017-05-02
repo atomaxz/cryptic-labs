@@ -10517,3 +10517,4 @@
 38608. refactor: refactor quiz grading logic #38608
 81046. chore: clean up unused files #81046
 60248. docs: update README with setup steps #60248
+16615. perf: lazy-load components #16615
