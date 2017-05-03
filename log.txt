@@ -10521,3 +10521,4 @@
 18738. test: add integration test for /submit endpoint #18738
 72913. style: reformat files with black #72913
 43040. refactor: remove redundant code blocks #43040
+38456. perf: reduce image load time #38456
