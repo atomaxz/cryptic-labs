@@ -10523,3 +10523,4 @@
 43040. refactor: remove redundant code blocks #43040
 38456. perf: reduce image load time #38456
 41963. style: remove trailing whitespace #41963
+12626. chore: rename env.example #12626
