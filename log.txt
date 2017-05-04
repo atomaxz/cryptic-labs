@@ -10524,3 +10524,4 @@
 38456. perf: reduce image load time #38456
 41963. style: remove trailing whitespace #41963
 12626. chore: rename env.example #12626
+45334. test: add integration test for /submit endpoint #45334
