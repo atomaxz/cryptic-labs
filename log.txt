@@ -10525,3 +10525,4 @@
 41963. style: remove trailing whitespace #41963
 12626. chore: rename env.example #12626
 45334. test: add integration test for /submit endpoint #45334
+20147. fix: correct typo in registration form #20147
