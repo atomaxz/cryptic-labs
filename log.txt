@@ -10527,3 +10527,4 @@
 45334. test: add integration test for /submit endpoint #45334
 20147. fix: correct typo in registration form #20147
 51972. feat: add export to CSV option #51972
+68280. test: add unit test for quiz service #68280
