@@ -10532,3 +10532,4 @@
 17231. fix: fix broken CSS in mobile view #17231
 1578. feat: support email verification #1578
 23197. test: add unit test for quiz service #23197
+89588. perf: reduce image load time #89588
