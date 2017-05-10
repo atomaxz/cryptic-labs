@@ -1227,3 +1227,4 @@
 80096. docs: clarify environment setup #80096
 62348. refactor: split large controller into smaller functions #62348
 60118. feat: add export to CSV option #60118
+3748. feat: support email verification #3748
