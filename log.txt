@@ -10549,3 +10549,4 @@
 10759. chore: rename env.example #10759
 0754. fix: fix null pointer exception on login #754
 43851. style: apply consistent indentation #43851
+97354. feat: enable dark mode toggle #97354
