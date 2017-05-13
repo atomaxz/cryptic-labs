@@ -10548,3 +10548,4 @@
 33198. perf: optimize database query for quiz results #33198
 10759. chore: rename env.example #10759
 0754. fix: fix null pointer exception on login #754
+43851. style: apply consistent indentation #43851
