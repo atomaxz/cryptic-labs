@@ -1229,3 +1229,4 @@
 60118. feat: add export to CSV option #60118
 3748. feat: support email verification #3748
 49906. style: remove trailing whitespace #49906
+13343. feat: implement quiz timer feature #13343
