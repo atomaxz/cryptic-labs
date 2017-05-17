@@ -10558,3 +10558,4 @@
 72293. refactor: remove redundant code blocks #72293
 29950. chore: update .gitignore #29950
 63141. test: increase coverage on auth module #63141
+81970. perf: lazy-load components #81970
