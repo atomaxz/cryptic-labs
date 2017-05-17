@@ -10560,3 +10560,4 @@
 63141. test: increase coverage on auth module #63141
 81970. perf: lazy-load components #81970
 37222. fix: handle 500 error in quiz API #37222
+75144. docs: update README with setup steps #75144
