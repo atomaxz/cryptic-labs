@@ -1230,3 +1230,4 @@
 3748. feat: support email verification #3748
 49906. style: remove trailing whitespace #49906
 13343. feat: implement quiz timer feature #13343
+63181. chore: add GitHub actions badge #63181
