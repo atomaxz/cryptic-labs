@@ -10564,3 +10564,4 @@
 12926. feat: enable dark mode toggle #12926
 97344. fix: handle 500 error in quiz API #97344
 71538. perf: reduce image load time #71538
+7146. test: test user registration edge cases #7146
