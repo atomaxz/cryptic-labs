@@ -10565,3 +10565,4 @@
 97344. fix: handle 500 error in quiz API #97344
 71538. perf: reduce image load time #71538
 7146. test: test user registration edge cases #7146
+73849. test: add unit test for quiz service #73849
