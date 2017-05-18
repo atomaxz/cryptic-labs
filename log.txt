@@ -10563,3 +10563,4 @@
 75144. docs: update README with setup steps #75144
 12926. feat: enable dark mode toggle #12926
 97344. fix: handle 500 error in quiz API #97344
+71538. perf: reduce image load time #71538
