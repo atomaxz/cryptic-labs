@@ -10567,3 +10567,4 @@
 7146. test: test user registration edge cases #7146
 73849. test: add unit test for quiz service #73849
 73285. fix: correct typo in registration form #73285
+78909. perf: reduce image load time #78909
