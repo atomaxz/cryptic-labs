@@ -10569,3 +10569,4 @@
 73285. fix: correct typo in registration form #73285
 78909. perf: reduce image load time #78909
 67968. style: apply consistent indentation #67968
+71734. perf: lazy-load components #71734
