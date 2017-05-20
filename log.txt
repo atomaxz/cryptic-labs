@@ -10571,3 +10571,4 @@
 67968. style: apply consistent indentation #67968
 71734. perf: lazy-load components #71734
 15341. chore: add GitHub actions badge #15341
+31724. fix: handle 500 error in quiz API #31724
