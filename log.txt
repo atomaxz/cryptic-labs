@@ -10583,3 +10583,4 @@
 99821. fix: fix broken CSS in mobile view #99821
 1450. feat: create admin dashboard #1450
 9042. docs: improve code comments in utils #9042
+5647. style: rename variables for clarity #5647
