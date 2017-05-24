@@ -10587,3 +10587,4 @@
 0446. chore: clean up unused files #446
 16724. perf: lazy-load components #16724
 19584. chore: add GitHub actions badge #19584
+96356. test: mock database connection in test suite #96356
