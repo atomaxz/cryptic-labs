@@ -10589,3 +10589,4 @@
 19584. chore: add GitHub actions badge #19584
 96356. test: mock database connection in test suite #96356
 7547. refactor: remove redundant code blocks #7547
+18559. test: increase coverage on auth module #18559
