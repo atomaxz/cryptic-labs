@@ -10591,3 +10591,4 @@
 7547. refactor: remove redundant code blocks #7547
 18559. test: increase coverage on auth module #18559
 56948. test: mock database connection in test suite #56948
+24128. fix: fix broken CSS in mobile view #24128
