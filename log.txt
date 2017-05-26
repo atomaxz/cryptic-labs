@@ -10594,3 +10594,4 @@
 24128. fix: fix broken CSS in mobile view #24128
 31022. fix: fix null pointer exception on login #31022
 54891. chore: rename env.example #54891
+76177. fix: resolve issue with date parsing #76177
