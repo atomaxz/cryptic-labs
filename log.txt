@@ -10596,3 +10596,4 @@
 54891. chore: rename env.example #54891
 76177. fix: resolve issue with date parsing #76177
 55481. perf: lazy-load components #55481
+10172. feat: add export to CSV option #10172
