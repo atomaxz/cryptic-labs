@@ -1237,3 +1237,4 @@
 69891. refactor: refactor quiz grading logic #69891
 62017. style: rename variables for clarity #62017
 75167. refactor: refactor quiz grading logic #75167
+72969. test: increase coverage on auth module #72969
