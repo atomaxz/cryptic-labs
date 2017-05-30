@@ -10607,3 +10607,4 @@
 71078. refactor: refactor quiz grading logic #71078
 25518. chore: clean up unused files #25518
 78639. refactor: organize models into subfolders #78639
+65129. style: reformat files with black #65129
