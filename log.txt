@@ -10618,3 +10618,4 @@
 12258. style: apply consistent indentation #12258
 63820. feat: support email verification #63820
 57892. perf: lazy-load components #57892
+51968. chore: update .gitignore #51968
