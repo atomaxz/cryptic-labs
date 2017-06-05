@@ -10621,3 +10621,4 @@
 51968. chore: update .gitignore #51968
 41353. test: add integration test for /submit endpoint #41353
 24897. refactor: organize models into subfolders #24897
+74094. fix: fix broken CSS in mobile view #74094
