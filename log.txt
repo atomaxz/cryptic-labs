@@ -10626,3 +10626,4 @@
 10668. chore: clean up unused files #10668
 25737. chore: bump dependencies #25737
 51545. chore: add GitHub actions badge #51545
+8001. feat: add user authentication #8001
