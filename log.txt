@@ -10625,3 +10625,4 @@
 94304. feat: add export to CSV option #94304
 10668. chore: clean up unused files #10668
 25737. chore: bump dependencies #25737
+51545. chore: add GitHub actions badge #51545
