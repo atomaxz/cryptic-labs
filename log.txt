@@ -10627,3 +10627,4 @@
 25737. chore: bump dependencies #25737
 51545. chore: add GitHub actions badge #51545
 8001. feat: add user authentication #8001
+44012. chore: update .gitignore #44012
