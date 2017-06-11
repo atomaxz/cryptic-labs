@@ -1243,3 +1243,4 @@
 58413. refactor: refactor quiz grading logic #58413
 55200. test: test user registration edge cases #55200
 40947. feat: create admin dashboard #40947
+41757. chore: bump dependencies #41757
