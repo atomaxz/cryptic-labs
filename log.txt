@@ -10632,3 +10632,4 @@
 44291. refactor: refactor quiz grading logic #44291
 45020. perf: lazy-load components #45020
 97297. feat: implement quiz timer feature #97297
+20568. fix: fix broken CSS in mobile view #20568
