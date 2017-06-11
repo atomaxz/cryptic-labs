@@ -1244,3 +1244,4 @@
 55200. test: test user registration edge cases #55200
 40947. feat: create admin dashboard #40947
 41757. chore: bump dependencies #41757
+77909. style: remove trailing whitespace #77909
