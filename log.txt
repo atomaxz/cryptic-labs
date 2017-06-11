@@ -10635,3 +10635,4 @@
 20568. fix: fix broken CSS in mobile view #20568
 95621. style: reformat files with black #95621
 72007. docs: add API usage examples #72007
+62683. chore: bump dependencies #62683
