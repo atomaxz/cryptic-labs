@@ -10636,3 +10636,4 @@
 95621. style: reformat files with black #95621
 72007. docs: add API usage examples #72007
 62683. chore: bump dependencies #62683
+1168. perf: reduce image load time #1168
