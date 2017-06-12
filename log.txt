@@ -10637,3 +10637,4 @@
 72007. docs: add API usage examples #72007
 62683. chore: bump dependencies #62683
 1168. perf: reduce image load time #1168
+92011. docs: write FAQ section #92011
