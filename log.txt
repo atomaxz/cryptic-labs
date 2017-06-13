@@ -10640,3 +10640,4 @@
 92011. docs: write FAQ section #92011
 4686. perf: lazy-load components #4686
 59742. test: test user registration edge cases #59742
+82878. test: add integration test for /submit endpoint #82878
