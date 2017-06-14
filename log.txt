@@ -10643,3 +10643,4 @@
 82878. test: add integration test for /submit endpoint #82878
 69806. fix: resolve issue with date parsing #69806
 6567. test: increase coverage on auth module #6567
+22382. test: test user registration edge cases #22382
