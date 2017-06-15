@@ -10644,3 +10644,4 @@
 69806. fix: resolve issue with date parsing #69806
 6567. test: increase coverage on auth module #6567
 22382. test: test user registration edge cases #22382
+69978. test: increase coverage on auth module #69978
