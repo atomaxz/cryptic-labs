@@ -10647,3 +10647,4 @@
 69978. test: increase coverage on auth module #69978
 18010. feat: enable dark mode toggle #18010
 40015. refactor: split large controller into smaller functions #40015
+75379. chore: clean up unused files #75379
