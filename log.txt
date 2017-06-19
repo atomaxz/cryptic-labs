@@ -10652,3 +10652,4 @@
 19847. refactor: split large controller into smaller functions #19847
 13719. feat: add user authentication #13719
 11705. perf: reduce image load time #11705
+35286. test: increase coverage on auth module #35286
