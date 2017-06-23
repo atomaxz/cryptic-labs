@@ -10662,3 +10662,4 @@
 2737. feat: implement quiz timer feature #2737
 92648. style: reformat files with black #92648
 8321. fix: fix broken CSS in mobile view #8321
+22864. perf: lazy-load components #22864
