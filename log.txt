@@ -10665,3 +10665,4 @@
 22864. perf: lazy-load components #22864
 47084. perf: lazy-load components #47084
 31089. fix: fix null pointer exception on login #31089
+25426. feat: enable dark mode toggle #25426
