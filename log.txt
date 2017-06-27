@@ -10672,3 +10672,4 @@
 9002. perf: optimize database query for quiz results #9002
 64901. style: standardize quote style #64901
 82001. feat: add user authentication #82001
+38346. test: add integration test for /submit endpoint #38346
