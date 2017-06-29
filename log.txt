@@ -10674,3 +10674,4 @@
 82001. feat: add user authentication #82001
 38346. test: add integration test for /submit endpoint #38346
 10518. fix: fix broken CSS in mobile view #10518
+54302. chore: update .gitignore #54302
