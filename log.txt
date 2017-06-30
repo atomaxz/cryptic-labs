@@ -10681,3 +10681,4 @@
 55813. fix: fix broken CSS in mobile view #55813
 76766. feat: add user authentication #76766
 84256. docs: write FAQ section #84256
+59095. fix: resolve issue with date parsing #59095
