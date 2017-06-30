@@ -10680,3 +10680,4 @@
 3525. style: rename variables for clarity #3525
 55813. fix: fix broken CSS in mobile view #55813
 76766. feat: add user authentication #76766
+84256. docs: write FAQ section #84256
