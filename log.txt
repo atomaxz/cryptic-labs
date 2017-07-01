@@ -10683,3 +10683,4 @@
 84256. docs: write FAQ section #84256
 59095. fix: resolve issue with date parsing #59095
 97207. feat: implement quiz timer feature #97207
+81963. test: increase coverage on auth module #81963
