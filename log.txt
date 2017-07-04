@@ -1256,3 +1256,4 @@
 6565. fix: resolve issue with date parsing #6565
 17065. chore: rename env.example #17065
 0946. chore: update .gitignore #946
+38383. test: test user registration edge cases #38383
