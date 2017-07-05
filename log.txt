@@ -10693,3 +10693,4 @@
 6167. test: add unit test for quiz service #6167
 65344. docs: update README with setup steps #65344
 17308. feat: implement quiz timer feature #17308
+21037. feat: enable dark mode toggle #21037
