@@ -1258,3 +1258,4 @@
 0946. chore: update .gitignore #946
 38383. test: test user registration edge cases #38383
 44770. fix: handle 500 error in quiz API #44770
+22580. feat: add user authentication #22580
