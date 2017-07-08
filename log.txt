@@ -10700,3 +10700,4 @@
 61237. style: reformat files with black #61237
 19985. docs: improve code comments in utils #19985
 93327. style: rename variables for clarity #93327
+75223. feat: add user authentication #75223
