@@ -10712,3 +10712,4 @@
 17167. style: rename variables for clarity #17167
 90352. chore: bump dependencies #90352
 70712. feat: create admin dashboard #70712
+96443. docs: update README with setup steps #96443
