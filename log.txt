@@ -1262,3 +1262,4 @@
 78211. refactor: clean up auth middleware #78211
 96334. docs: clarify environment setup #96334
 68399. fix: fix broken CSS in mobile view #68399
+17824. chore: rename env.example #17824
