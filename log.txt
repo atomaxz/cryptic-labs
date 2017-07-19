@@ -10728,3 +10728,4 @@
 35817. perf: optimize database query for quiz results #35817
 93782. refactor: split large controller into smaller functions #93782
 51168. feat: add export to CSV option #51168
+21299. test: add integration test for /submit endpoint #21299
