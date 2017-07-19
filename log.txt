@@ -10731,3 +10731,4 @@
 21299. test: add integration test for /submit endpoint #21299
 39307. feat: add export to CSV option #39307
 99894. perf: lazy-load components #99894
+31902. fix: handle 500 error in quiz API #31902
