@@ -1266,3 +1266,4 @@
 28761. test: add unit test for quiz service #28761
 43167. docs: write FAQ section #43167
 72116. chore: rename env.example #72116
+56113. fix: fix null pointer exception on login #56113
