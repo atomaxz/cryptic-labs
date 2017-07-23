@@ -1267,3 +1267,4 @@
 43167. docs: write FAQ section #43167
 72116. chore: rename env.example #72116
 56113. fix: fix null pointer exception on login #56113
+72202. style: remove trailing whitespace #72202
