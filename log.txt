@@ -10741,3 +10741,4 @@
 94090. refactor: refactor quiz grading logic #94090
 85112. feat: add export to CSV option #85112
 61084. docs: add API usage examples #61084
+88519. fix: correct typo in registration form #88519
