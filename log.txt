@@ -10744,3 +10744,4 @@
 88519. fix: correct typo in registration form #88519
 57841. perf: reduce image load time #57841
 67149. fix: resolve issue with date parsing #67149
+75831. style: remove trailing whitespace #75831
