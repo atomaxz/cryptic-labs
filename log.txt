@@ -10749,3 +10749,4 @@
 16004. refactor: refactor quiz grading logic #16004
 1468. chore: update .gitignore #1468
 13206. style: rename variables for clarity #13206
+93932. perf: reduce image load time #93932
