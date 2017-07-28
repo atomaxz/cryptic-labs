@@ -10755,3 +10755,4 @@
 9240. style: remove trailing whitespace #9240
 86310. test: mock database connection in test suite #86310
 2988. perf: lazy-load components #2988
+17474. feat: add user authentication #17474
