@@ -10753,3 +10753,4 @@
 35924. test: mock database connection in test suite #35924
 13937. style: rename variables for clarity #13937
 9240. style: remove trailing whitespace #9240
+86310. test: mock database connection in test suite #86310
