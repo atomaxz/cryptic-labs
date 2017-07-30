@@ -1269,3 +1269,4 @@
 56113. fix: fix null pointer exception on login #56113
 72202. style: remove trailing whitespace #72202
 29462. perf: optimize database query for quiz results #29462
+81970. perf: lazy-load components #81970
