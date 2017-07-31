@@ -10767,3 +10767,4 @@
 70459. feat: add user authentication #70459
 53042. refactor: organize models into subfolders #53042
 93020. docs: write FAQ section #93020
+46046. perf: lazy-load components #46046
