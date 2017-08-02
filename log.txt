@@ -10773,3 +10773,4 @@
 22543. fix: resolve issue with date parsing #22543
 21803. feat: implement quiz timer feature #21803
 33283. chore: bump dependencies #33283
+77888. feat: add export to CSV option #77888
