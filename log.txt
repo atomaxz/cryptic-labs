@@ -10777,3 +10777,4 @@
 80618. feat: add export to CSV option #80618
 40507. docs: document token refresh logic #40507
 89518. feat: enable dark mode toggle #89518
+35310. perf: reduce image load time #35310
