@@ -10779,3 +10779,4 @@
 89518. feat: enable dark mode toggle #89518
 35310. perf: reduce image load time #35310
 1665. feat: enable dark mode toggle #1665
+8666. style: standardize quote style #8666
