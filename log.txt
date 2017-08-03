@@ -10776,3 +10776,4 @@
 77888. feat: add export to CSV option #77888
 80618. feat: add export to CSV option #80618
 40507. docs: document token refresh logic #40507
+89518. feat: enable dark mode toggle #89518
