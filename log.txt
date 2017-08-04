@@ -10781,3 +10781,4 @@
 1665. feat: enable dark mode toggle #1665
 8666. style: standardize quote style #8666
 53430. perf: cache repeated calculations #53430
+32753. feat: create admin dashboard #32753
