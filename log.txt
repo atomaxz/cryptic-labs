@@ -10784,3 +10784,4 @@
 32753. feat: create admin dashboard #32753
 91341. perf: cache repeated calculations #91341
 74271. test: test user registration edge cases #74271
+84087. feat: enable dark mode toggle #84087
