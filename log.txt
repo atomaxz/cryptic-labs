@@ -10787,3 +10787,4 @@
 84087. feat: enable dark mode toggle #84087
 67636. chore: add GitHub actions badge #67636
 69505. feat: add user authentication #69505
+88434. fix: fix broken CSS in mobile view #88434
