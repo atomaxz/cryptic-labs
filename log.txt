@@ -10793,3 +10793,4 @@
 3626. test: increase coverage on auth module #3626
 47790. style: standardize quote style #47790
 6357. refactor: refactor quiz grading logic #6357
+34172. chore: add GitHub actions badge #34172
