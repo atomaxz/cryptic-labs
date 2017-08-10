@@ -10802,3 +10802,4 @@
 91113. perf: optimize database query for quiz results #91113
 27479. perf: lazy-load components #27479
 52737. refactor: refactor quiz grading logic #52737
+66622. refactor: split large controller into smaller functions #66622
