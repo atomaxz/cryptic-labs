@@ -10800,3 +10800,4 @@
 1937. refactor: refactor quiz grading logic #1937
 52927. test: add unit test for quiz service #52927
 91113. perf: optimize database query for quiz results #91113
+27479. perf: lazy-load components #27479
