@@ -1276,3 +1276,4 @@
 72963. refactor: organize models into subfolders #72963
 22075. chore: rename env.example #22075
 17410. test: test user registration edge cases #17410
+95805. chore: rename env.example #95805
