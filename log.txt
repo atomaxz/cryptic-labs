@@ -10810,3 +10810,4 @@
 26776. docs: improve code comments in utils #26776
 27814. perf: reduce image load time #27814
 94953. docs: add API usage examples #94953
+1841. fix: handle 500 error in quiz API #1841
