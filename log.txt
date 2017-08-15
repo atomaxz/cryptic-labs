@@ -10812,3 +10812,4 @@
 94953. docs: add API usage examples #94953
 1841. fix: handle 500 error in quiz API #1841
 8456. chore: clean up unused files #8456
+6003. chore: update .gitignore #6003
