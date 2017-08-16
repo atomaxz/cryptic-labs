@@ -10815,3 +10815,4 @@
 6003. chore: update .gitignore #6003
 6655. feat: implement quiz timer feature #6655
 61923. refactor: remove redundant code blocks #61923
+36738. test: add unit test for quiz service #36738
