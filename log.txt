@@ -10819,3 +10819,4 @@
 17090. feat: enable dark mode toggle #17090
 62484. refactor: clean up auth middleware #62484
 14264. style: apply consistent indentation #14264
+54747. test: add integration test for /submit endpoint #54747
