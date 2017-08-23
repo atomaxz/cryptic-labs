@@ -10831,3 +10831,4 @@
 88085. chore: rename env.example #88085
 51452. docs: add API usage examples #51452
 33206. perf: cache repeated calculations #33206
+79273. test: test user registration edge cases #79273
