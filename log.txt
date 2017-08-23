@@ -10830,3 +10830,4 @@
 22888. style: apply consistent indentation #22888
 88085. chore: rename env.example #88085
 51452. docs: add API usage examples #51452
+33206. perf: cache repeated calculations #33206
