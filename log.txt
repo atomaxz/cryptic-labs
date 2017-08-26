@@ -10837,3 +10837,4 @@
 48410. refactor: remove redundant code blocks #48410
 40183. test: test user registration edge cases #40183
 70623. perf: reduce image load time #70623
+0606. docs: document token refresh logic #606
