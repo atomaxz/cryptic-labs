@@ -1279,3 +1279,4 @@
 95805. chore: rename env.example #95805
 53204. perf: reduce image load time #53204
 45770. test: test user registration edge cases #45770
+3695. feat: support email verification #3695
