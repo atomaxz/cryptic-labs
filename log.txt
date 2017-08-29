@@ -10842,3 +10842,4 @@
 80247. feat: add user authentication #80247
 67610. test: add integration test for /submit endpoint #67610
 8674. fix: fix null pointer exception on login #8674
+90564. chore: bump dependencies #90564
