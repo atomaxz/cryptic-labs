@@ -10844,3 +10844,4 @@
 8674. fix: fix null pointer exception on login #8674
 90564. chore: bump dependencies #90564
 5725. style: rename variables for clarity #5725
+58898. test: mock database connection in test suite #58898
