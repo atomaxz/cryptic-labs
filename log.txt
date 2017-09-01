@@ -1283,3 +1283,4 @@
 62597. perf: reduce image load time #62597
 2585. refactor: clean up auth middleware #2585
 16589. refactor: organize models into subfolders #16589
+78336. test: mock database connection in test suite #78336
