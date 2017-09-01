@@ -10847,3 +10847,4 @@
 58898. test: mock database connection in test suite #58898
 17343. style: remove trailing whitespace #17343
 21979. docs: add API usage examples #21979
+84471. fix: handle 500 error in quiz API #84471
