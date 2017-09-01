@@ -10846,3 +10846,4 @@
 5725. style: rename variables for clarity #5725
 58898. test: mock database connection in test suite #58898
 17343. style: remove trailing whitespace #17343
+21979. docs: add API usage examples #21979
