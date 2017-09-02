@@ -10850,3 +10850,4 @@
 84471. fix: handle 500 error in quiz API #84471
 28577. fix: fix broken CSS in mobile view #28577
 70795. chore: update .gitignore #70795
+83615. style: apply consistent indentation #83615
