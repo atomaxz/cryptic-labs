@@ -10854,3 +10854,4 @@
 13136. test: add unit test for quiz service #13136
 6225. docs: clarify environment setup #6225
 43905. chore: rename env.example #43905
+5301. test: mock database connection in test suite #5301
