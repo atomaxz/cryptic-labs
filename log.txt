@@ -1285,3 +1285,4 @@
 16589. refactor: organize models into subfolders #16589
 78336. test: mock database connection in test suite #78336
 39852. fix: resolve issue with date parsing #39852
+2674. perf: lazy-load components #2674
