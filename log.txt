@@ -10859,3 +10859,4 @@
 35374. docs: clarify environment setup #35374
 59670. docs: write FAQ section #59670
 21305. docs: write FAQ section #21305
+86413. fix: correct typo in registration form #86413
