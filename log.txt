@@ -10861,3 +10861,4 @@
 21305. docs: write FAQ section #21305
 86413. fix: correct typo in registration form #86413
 24423. fix: handle 500 error in quiz API #24423
+60841. refactor: refactor quiz grading logic #60841
