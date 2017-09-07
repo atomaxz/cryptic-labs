@@ -10863,3 +10863,4 @@
 24423. fix: handle 500 error in quiz API #24423
 60841. refactor: refactor quiz grading logic #60841
 19424. style: reformat files with black #19424
+98695. perf: optimize database query for quiz results #98695
