@@ -10868,3 +10868,4 @@
 20050. feat: add export to CSV option #20050
 68534. fix: correct typo in registration form #68534
 37180. feat: enable dark mode toggle #37180
+43852. docs: write FAQ section #43852
