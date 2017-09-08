@@ -10870,3 +10870,4 @@
 37180. feat: enable dark mode toggle #37180
 43852. docs: write FAQ section #43852
 9337. style: rename variables for clarity #9337
+40673. fix: resolve issue with date parsing #40673
