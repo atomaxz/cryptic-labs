@@ -10866,3 +10866,4 @@
 98695. perf: optimize database query for quiz results #98695
 51844. feat: add export to CSV option #51844
 20050. feat: add export to CSV option #20050
+68534. fix: correct typo in registration form #68534
