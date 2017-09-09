@@ -10876,3 +10876,4 @@
 37166. refactor: organize models into subfolders #37166
 39416. style: reformat files with black #39416
 20266. chore: update .gitignore #20266
+34213. perf: lazy-load components #34213
