@@ -10881,3 +10881,4 @@
 93593. fix: correct typo in registration form #93593
 60740. style: apply consistent indentation #60740
 55957. docs: update README with setup steps #55957
+72090. fix: prevent crash on empty input #72090
