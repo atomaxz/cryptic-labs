@@ -10885,3 +10885,4 @@
 27870. docs: improve code comments in utils #27870
 93994. docs: update README with setup steps #93994
 53062. feat: add user authentication #53062
+94496. fix: handle 500 error in quiz API #94496
