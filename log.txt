@@ -10893,3 +10893,4 @@
 46260. chore: rename env.example #46260
 58593. feat: support email verification #58593
 30801. docs: clarify environment setup #30801
+90606. perf: cache repeated calculations #90606
