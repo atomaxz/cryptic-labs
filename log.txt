@@ -10902,3 +10902,4 @@
 51579. docs: clarify environment setup #51579
 76687. test: add unit test for quiz service #76687
 91840. chore: bump dependencies #91840
+53474. feat: support email verification #53474
