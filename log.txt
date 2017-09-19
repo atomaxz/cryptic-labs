@@ -1292,3 +1292,4 @@
 9605. perf: reduce image load time #9605
 52656. test: mock database connection in test suite #52656
 51361. refactor: remove redundant code blocks #51361
+82169. fix: correct typo in registration form #82169
