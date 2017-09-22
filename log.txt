@@ -10913,3 +10913,4 @@
 98930. refactor: remove redundant code blocks #98930
 57273. style: apply consistent indentation #57273
 50059. fix: correct typo in registration form #50059
+2271. test: add unit test for quiz service #2271
