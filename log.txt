@@ -10925,3 +10925,4 @@
 85769. style: apply consistent indentation #85769
 11531. test: increase coverage on auth module #11531
 55671. style: remove trailing whitespace #55671
+82735. style: reformat files with black #82735
