@@ -1298,3 +1298,4 @@
 39810. feat: add export to CSV option #39810
 89077. refactor: organize models into subfolders #89077
 87618. style: reformat files with black #87618
+51177. test: mock database connection in test suite #51177
