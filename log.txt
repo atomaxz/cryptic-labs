@@ -10932,3 +10932,4 @@
 5957. chore: clean up unused files #5957
 37554. style: reformat files with black #37554
 98579. perf: lazy-load components #98579
+60468. feat: add user authentication #60468
