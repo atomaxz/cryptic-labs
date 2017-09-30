@@ -10936,3 +10936,4 @@
 92776. style: standardize quote style #92776
 95157. docs: clarify environment setup #95157
 70693. fix: fix null pointer exception on login #70693
+14505. test: add integration test for /submit endpoint #14505
