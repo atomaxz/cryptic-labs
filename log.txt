@@ -10935,3 +10935,4 @@
 60468. feat: add user authentication #60468
 92776. style: standardize quote style #92776
 95157. docs: clarify environment setup #95157
+70693. fix: fix null pointer exception on login #70693
