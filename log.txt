@@ -10943,3 +10943,4 @@
 48606. fix: fix null pointer exception on login #48606
 89112. refactor: clean up auth middleware #89112
 56798. docs: clarify environment setup #56798
+43587. refactor: refactor quiz grading logic #43587
