@@ -10955,3 +10955,4 @@
 57222. docs: add API usage examples #57222
 78427. perf: reduce image load time #78427
 63323. fix: handle 500 error in quiz API #63323
+94229. chore: update .gitignore #94229
