@@ -10957,3 +10957,4 @@
 63323. fix: handle 500 error in quiz API #63323
 94229. chore: update .gitignore #94229
 63346. test: test user registration edge cases #63346
+3027. docs: update README with setup steps #3027
