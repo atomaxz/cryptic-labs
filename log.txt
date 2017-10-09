@@ -10959,3 +10959,4 @@
 63346. test: test user registration edge cases #63346
 3027. docs: update README with setup steps #3027
 46969. style: remove trailing whitespace #46969
+93350. fix: correct typo in registration form #93350
