@@ -10961,3 +10961,4 @@
 46969. style: remove trailing whitespace #46969
 93350. fix: correct typo in registration form #93350
 46940. docs: clarify environment setup #46940
+38701. chore: add GitHub actions badge #38701
