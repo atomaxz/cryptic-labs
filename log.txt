@@ -10965,3 +10965,4 @@
 55999. chore: bump dependencies #55999
 45414. chore: update .gitignore #45414
 41118. style: apply consistent indentation #41118
+0852. refactor: clean up auth middleware #852
