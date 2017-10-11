@@ -10963,3 +10963,4 @@
 46940. docs: clarify environment setup #46940
 38701. chore: add GitHub actions badge #38701
 55999. chore: bump dependencies #55999
+45414. chore: update .gitignore #45414
