@@ -1307,3 +1307,4 @@
 43279. perf: reduce image load time #43279
 29498. test: mock database connection in test suite #29498
 4459. docs: add API usage examples #4459
+69834. perf: lazy-load components #69834
