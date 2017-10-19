@@ -1309,3 +1309,4 @@
 4459. docs: add API usage examples #4459
 69834. perf: lazy-load components #69834
 72133. test: increase coverage on auth module #72133
+56480. feat: support email verification #56480
