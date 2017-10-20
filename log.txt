@@ -10992,3 +10992,4 @@
 30363. feat: support email verification #30363
 1572. feat: implement quiz timer feature #1572
 94966. style: reformat files with black #94966
+56592. test: mock database connection in test suite #56592
