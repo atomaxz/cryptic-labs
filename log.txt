@@ -10994,3 +10994,4 @@
 94966. style: reformat files with black #94966
 56592. test: mock database connection in test suite #56592
 54533. perf: lazy-load components #54533
+69129. test: test user registration edge cases #69129
