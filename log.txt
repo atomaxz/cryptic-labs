@@ -10990,3 +10990,4 @@
 65167. test: add unit test for quiz service #65167
 68908. refactor: split large controller into smaller functions #68908
 30363. feat: support email verification #30363
+1572. feat: implement quiz timer feature #1572
