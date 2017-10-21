@@ -10997,3 +10997,4 @@
 69129. test: test user registration edge cases #69129
 21084. fix: correct typo in registration form #21084
 25323. fix: fix broken CSS in mobile view #25323
+87160. fix: prevent crash on empty input #87160
