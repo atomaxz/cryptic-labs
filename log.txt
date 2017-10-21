@@ -10996,3 +10996,4 @@
 54533. perf: lazy-load components #54533
 69129. test: test user registration edge cases #69129
 21084. fix: correct typo in registration form #21084
+25323. fix: fix broken CSS in mobile view #25323
