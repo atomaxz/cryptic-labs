@@ -11004,3 +11004,4 @@
 75053. fix: fix broken CSS in mobile view #75053
 28397. refactor: organize models into subfolders #28397
 62024. perf: optimize database query for quiz results #62024
+26475. chore: bump dependencies #26475
