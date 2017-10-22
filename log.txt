@@ -1312,3 +1312,4 @@
 56480. feat: support email verification #56480
 86335. refactor: clean up auth middleware #86335
 63515. feat: enable dark mode toggle #63515
+63273. feat: enable dark mode toggle #63273
