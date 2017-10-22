@@ -1313,3 +1313,4 @@
 86335. refactor: clean up auth middleware #86335
 63515. feat: enable dark mode toggle #63515
 63273. feat: enable dark mode toggle #63273
+71375. test: test user registration edge cases #71375
