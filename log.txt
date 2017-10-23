@@ -11008,3 +11008,4 @@
 14034. fix: correct typo in registration form #14034
 69375. test: test user registration edge cases #69375
 33342. chore: clean up unused files #33342
+31213. perf: lazy-load components #31213
