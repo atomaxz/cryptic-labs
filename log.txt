@@ -11005,3 +11005,4 @@
 28397. refactor: organize models into subfolders #28397
 62024. perf: optimize database query for quiz results #62024
 26475. chore: bump dependencies #26475
+14034. fix: correct typo in registration form #14034
