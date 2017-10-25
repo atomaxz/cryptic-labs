@@ -11015,3 +11015,4 @@
 59806. docs: improve code comments in utils #59806
 42601. style: standardize quote style #42601
 48038. refactor: split large controller into smaller functions #48038
+31132. perf: optimize database query for quiz results #31132
