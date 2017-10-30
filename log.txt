@@ -11033,3 +11033,4 @@
 39983. perf: lazy-load components #39983
 27748. chore: bump dependencies #27748
 22111. refactor: refactor quiz grading logic #22111
+46652. feat: support email verification #46652
