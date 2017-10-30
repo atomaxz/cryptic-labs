@@ -11029,3 +11029,4 @@
 4460. refactor: split large controller into smaller functions #4460
 20898. feat: add export to CSV option #20898
 26716. fix: handle 500 error in quiz API #26716
+23869. test: add integration test for /submit endpoint #23869
