@@ -11037,3 +11037,4 @@
 36100. feat: add user authentication #36100
 24627. refactor: split large controller into smaller functions #24627
 9446. refactor: organize models into subfolders #9446
+12462. chore: update .gitignore #12462
