@@ -11048,3 +11048,4 @@
 36693. refactor: organize models into subfolders #36693
 82841. test: increase coverage on auth module #82841
 80686. fix: prevent crash on empty input #80686
+63916. perf: lazy-load components #63916
