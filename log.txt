@@ -11047,3 +11047,4 @@
 35956. chore: rename env.example #35956
 36693. refactor: organize models into subfolders #36693
 82841. test: increase coverage on auth module #82841
+80686. fix: prevent crash on empty input #80686
