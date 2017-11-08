@@ -11051,3 +11051,4 @@
 63916. perf: lazy-load components #63916
 28378. test: test user registration edge cases #28378
 78039. style: standardize quote style #78039
+50924. refactor: clean up auth middleware #50924
