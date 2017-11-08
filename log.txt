@@ -11052,3 +11052,4 @@
 28378. test: test user registration edge cases #28378
 78039. style: standardize quote style #78039
 50924. refactor: clean up auth middleware #50924
+92934. test: add unit test for quiz service #92934
