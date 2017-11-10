@@ -11060,3 +11060,4 @@
 51030. test: add unit test for quiz service #51030
 34342. test: test user registration edge cases #34342
 94712. test: mock database connection in test suite #94712
+35225. docs: update README with setup steps #35225
