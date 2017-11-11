@@ -11064,3 +11064,4 @@
 81704. refactor: remove redundant code blocks #81704
 72407. fix: prevent crash on empty input #72407
 65694. docs: add API usage examples #65694
+15914. fix: prevent crash on empty input #15914
