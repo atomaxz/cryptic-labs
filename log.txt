@@ -11071,3 +11071,4 @@
 60837. perf: optimize database query for quiz results #60837
 85254. feat: create admin dashboard #85254
 76391. style: standardize quote style #76391
+46060. feat: support email verification #46060
