@@ -11075,3 +11075,4 @@
 91326. style: standardize quote style #91326
 84070. feat: support email verification #84070
 78004. refactor: remove redundant code blocks #78004
+88735. fix: handle 500 error in quiz API #88735
