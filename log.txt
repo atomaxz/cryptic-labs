@@ -11089,3 +11089,4 @@
 32083. refactor: split large controller into smaller functions #32083
 15879. refactor: organize models into subfolders #15879
 54666. fix: fix null pointer exception on login #54666
+66903. feat: add user authentication #66903
