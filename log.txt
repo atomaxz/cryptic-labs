@@ -11091,3 +11091,4 @@
 54666. fix: fix null pointer exception on login #54666
 66903. feat: add user authentication #66903
 78416. refactor: split large controller into smaller functions #78416
+41089. test: mock database connection in test suite #41089
