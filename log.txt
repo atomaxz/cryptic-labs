@@ -11098,3 +11098,4 @@
 41254. refactor: clean up auth middleware #41254
 60186. chore: clean up unused files #60186
 53292. docs: improve code comments in utils #53292
+68120. perf: optimize database query for quiz results #68120
