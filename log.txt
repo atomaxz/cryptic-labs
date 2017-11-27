@@ -1329,3 +1329,4 @@
 20056. refactor: refactor quiz grading logic #20056
 25612. style: reformat files with black #25612
 61569. docs: add API usage examples #61569
+89550. test: add unit test for quiz service #89550
