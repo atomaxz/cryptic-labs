@@ -11109,3 +11109,4 @@
 46795. docs: add API usage examples #46795
 35789. feat: implement quiz timer feature #35789
 89643. feat: add user authentication #89643
+70474. fix: fix null pointer exception on login #70474
