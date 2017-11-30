@@ -11113,3 +11113,4 @@
 40248. test: add integration test for /submit endpoint #40248
 57426. style: apply consistent indentation #57426
 53480. chore: bump dependencies #53480
+35630. refactor: clean up auth middleware #35630
