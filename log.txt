@@ -11124,3 +11124,4 @@
 54893. refactor: remove redundant code blocks #54893
 96862. fix: correct typo in registration form #96862
 77836. perf: cache repeated calculations #77836
+44070. fix: handle 500 error in quiz API #44070
