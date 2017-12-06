@@ -11126,3 +11126,4 @@
 77836. perf: cache repeated calculations #77836
 44070. fix: handle 500 error in quiz API #44070
 84440. chore: add GitHub actions badge #84440
+45105. docs: write FAQ section #45105
