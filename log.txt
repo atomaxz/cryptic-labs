@@ -1333,3 +1333,4 @@
 64133. refactor: clean up auth middleware #64133
 51655. chore: bump dependencies #51655
 1913. refactor: remove redundant code blocks #1913
+46753. feat: add user authentication #46753
