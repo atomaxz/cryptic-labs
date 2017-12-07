@@ -11129,3 +11129,4 @@
 45105. docs: write FAQ section #45105
 98176. fix: prevent crash on empty input #98176
 91102. fix: handle 500 error in quiz API #91102
+96288. fix: fix broken CSS in mobile view #96288
