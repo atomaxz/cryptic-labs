@@ -11128,3 +11128,4 @@
 84440. chore: add GitHub actions badge #84440
 45105. docs: write FAQ section #45105
 98176. fix: prevent crash on empty input #98176
+91102. fix: handle 500 error in quiz API #91102
