@@ -1335,3 +1335,4 @@
 1913. refactor: remove redundant code blocks #1913
 46753. feat: add user authentication #46753
 20657. feat: enable dark mode toggle #20657
+14676. test: increase coverage on auth module #14676
