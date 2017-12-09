@@ -1334,3 +1334,4 @@
 51655. chore: bump dependencies #51655
 1913. refactor: remove redundant code blocks #1913
 46753. feat: add user authentication #46753
+20657. feat: enable dark mode toggle #20657
