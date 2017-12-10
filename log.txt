@@ -11140,3 +11140,4 @@
 39562. feat: implement quiz timer feature #39562
 69628. test: add unit test for quiz service #69628
 26173. style: rename variables for clarity #26173
+85951. perf: optimize database query for quiz results #85951
