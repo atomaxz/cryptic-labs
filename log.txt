@@ -11143,3 +11143,4 @@
 85951. perf: optimize database query for quiz results #85951
 42847. style: apply consistent indentation #42847
 65636. docs: clarify environment setup #65636
+95926. chore: add GitHub actions badge #95926
