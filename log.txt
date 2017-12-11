@@ -11146,3 +11146,4 @@
 95926. chore: add GitHub actions badge #95926
 19091. docs: write FAQ section #19091
 32857. fix: fix null pointer exception on login #32857
+65343. fix: handle 500 error in quiz API #65343
