@@ -1337,3 +1337,4 @@
 20657. feat: enable dark mode toggle #20657
 14676. test: increase coverage on auth module #14676
 60711. fix: prevent crash on empty input #60711
+8391. refactor: refactor quiz grading logic #8391
