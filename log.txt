@@ -11153,3 +11153,4 @@
 30985. feat: enable dark mode toggle #30985
 47964. fix: prevent crash on empty input #47964
 52817. docs: update README with setup steps #52817
+5250. feat: enable dark mode toggle #5250
