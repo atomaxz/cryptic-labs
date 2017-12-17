@@ -11165,3 +11165,4 @@
 83071. perf: cache repeated calculations #83071
 36902. feat: support email verification #36902
 47441. perf: lazy-load components #47441
+38383. test: test user registration edge cases #38383
