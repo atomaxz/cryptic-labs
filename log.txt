@@ -11169,3 +11169,4 @@
 9753. fix: prevent crash on empty input #9753
 17041. chore: clean up unused files #17041
 11984. style: remove trailing whitespace #11984
+32507. chore: add GitHub actions badge #32507
