@@ -11171,3 +11171,4 @@
 11984. style: remove trailing whitespace #11984
 32507. chore: add GitHub actions badge #32507
 76689. docs: document token refresh logic #76689
+17702. perf: cache repeated calculations #17702
