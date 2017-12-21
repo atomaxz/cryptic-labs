@@ -11178,3 +11178,4 @@
 18296. test: mock database connection in test suite #18296
 33309. feat: enable dark mode toggle #33309
 71359. test: add unit test for quiz service #71359
+39152. test: increase coverage on auth module #39152
