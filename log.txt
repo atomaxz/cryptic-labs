@@ -11182,3 +11182,4 @@
 85714. refactor: clean up auth middleware #85714
 6670. docs: document token refresh logic #6670
 80364. style: standardize quote style #80364
+58382. feat: add user authentication #58382
