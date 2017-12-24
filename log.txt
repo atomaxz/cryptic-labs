@@ -11187,3 +11187,4 @@
 43036. test: add unit test for quiz service #43036
 62375. chore: rename env.example #62375
 87500. feat: create admin dashboard #87500
+90086. fix: fix broken CSS in mobile view #90086
