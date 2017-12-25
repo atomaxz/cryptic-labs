@@ -11190,3 +11190,4 @@
 90086. fix: fix broken CSS in mobile view #90086
 24061. style: remove trailing whitespace #24061
 99737. chore: update .gitignore #99737
+97300. test: increase coverage on auth module #97300
