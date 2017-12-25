@@ -1343,3 +1343,4 @@
 69068. docs: update README with setup steps #69068
 67006. perf: cache repeated calculations #67006
 99682. chore: update .gitignore #99682
+21719. refactor: organize models into subfolders #21719
