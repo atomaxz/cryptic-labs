@@ -1344,3 +1344,4 @@
 67006. perf: cache repeated calculations #67006
 99682. chore: update .gitignore #99682
 21719. refactor: organize models into subfolders #21719
+96061. chore: add GitHub actions badge #96061
