@@ -11209,3 +11209,4 @@
 0054. style: apply consistent indentation #54
 58293. fix: correct typo in registration form #58293
 92606. refactor: remove redundant code blocks #92606
+10303. docs: clarify environment setup #10303
