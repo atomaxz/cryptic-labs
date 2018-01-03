@@ -11219,3 +11219,4 @@
 40437. feat: implement quiz timer feature #40437
 37951. refactor: clean up auth middleware #37951
 59014. refactor: organize models into subfolders #59014
+32416. test: test user registration edge cases #32416
