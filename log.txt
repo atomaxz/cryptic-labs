@@ -11222,3 +11222,4 @@
 32416. test: test user registration edge cases #32416
 20770. docs: add API usage examples #20770
 62730. style: apply consistent indentation #62730
+36829. feat: create admin dashboard #36829
