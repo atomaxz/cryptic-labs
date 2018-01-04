@@ -1350,3 +1350,4 @@
 42242. chore: rename env.example #42242
 36041. docs: improve code comments in utils #36041
 95366. docs: write FAQ section #95366
+89628. test: mock database connection in test suite #89628
