@@ -1352,3 +1352,4 @@
 95366. docs: write FAQ section #95366
 89628. test: mock database connection in test suite #89628
 64130. feat: create admin dashboard #64130
+10640. fix: correct typo in registration form #10640
