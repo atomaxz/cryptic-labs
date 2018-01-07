@@ -1354,3 +1354,4 @@
 64130. feat: create admin dashboard #64130
 10640. fix: correct typo in registration form #10640
 94867. docs: add API usage examples #94867
+15505. fix: fix null pointer exception on login #15505
