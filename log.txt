@@ -11229,3 +11229,4 @@
 0339. refactor: clean up auth middleware #339
 40495. refactor: remove redundant code blocks #40495
 6486. chore: bump dependencies #6486
+19168. fix: correct typo in registration form #19168
