@@ -11230,3 +11230,4 @@
 40495. refactor: remove redundant code blocks #40495
 6486. chore: bump dependencies #6486
 19168. fix: correct typo in registration form #19168
+84980. test: add integration test for /submit endpoint #84980
