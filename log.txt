@@ -11233,3 +11233,4 @@
 84980. test: add integration test for /submit endpoint #84980
 79379. perf: lazy-load components #79379
 96310. chore: rename env.example #96310
+87092. fix: handle 500 error in quiz API #87092
