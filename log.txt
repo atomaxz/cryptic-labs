@@ -11236,3 +11236,4 @@
 87092. fix: handle 500 error in quiz API #87092
 9300. docs: add API usage examples #9300
 60737. docs: write FAQ section #60737
+99961. chore: add GitHub actions badge #99961
