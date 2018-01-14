@@ -11245,3 +11245,4 @@
 41011. test: add unit test for quiz service #41011
 55878. docs: document token refresh logic #55878
 13697. perf: reduce image load time #13697
+15990. fix: prevent crash on empty input #15990
