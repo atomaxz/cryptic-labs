@@ -11254,3 +11254,4 @@
 79932. style: standardize quote style #79932
 85881. chore: update .gitignore #85881
 67455. chore: rename env.example #67455
+24321. test: increase coverage on auth module #24321
