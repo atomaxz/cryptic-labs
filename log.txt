@@ -11251,3 +11251,4 @@
 73576. test: mock database connection in test suite #73576
 26285. perf: cache repeated calculations #26285
 65168. refactor: remove redundant code blocks #65168
+79932. style: standardize quote style #79932
