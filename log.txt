@@ -11257,3 +11257,4 @@
 24321. test: increase coverage on auth module #24321
 73660. docs: document token refresh logic #73660
 70305. feat: add export to CSV option #70305
+44881. perf: optimize database query for quiz results #44881
