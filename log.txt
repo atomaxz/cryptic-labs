@@ -1362,3 +1362,4 @@
 21984. chore: clean up unused files #21984
 7047. test: add unit test for quiz service #7047
 50920. chore: rename env.example #50920
+2374. feat: enable dark mode toggle #2374
