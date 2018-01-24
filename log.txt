@@ -11277,3 +11277,4 @@
 98337. perf: reduce image load time #98337
 16218. docs: document token refresh logic #16218
 6292. test: mock database connection in test suite #6292
+75453. docs: write FAQ section #75453
