@@ -11288,3 +11288,4 @@
 71528. test: mock database connection in test suite #71528
 27255. chore: clean up unused files #27255
 25208. chore: clean up unused files #25208
+50613. test: test user registration edge cases #50613
