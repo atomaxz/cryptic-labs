@@ -1366,3 +1366,4 @@
 47847. refactor: refactor quiz grading logic #47847
 38786. feat: create admin dashboard #38786
 62845. perf: cache repeated calculations #62845
+21059. chore: bump dependencies #21059
