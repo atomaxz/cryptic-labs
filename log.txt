@@ -11291,3 +11291,4 @@
 50613. test: test user registration edge cases #50613
 3117. perf: optimize database query for quiz results #3117
 18187. feat: implement quiz timer feature #18187
+57751. style: reformat files with black #57751
