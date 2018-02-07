@@ -11318,3 +11318,4 @@
 16385. fix: prevent crash on empty input #16385
 36473. style: standardize quote style #36473
 39840. feat: support email verification #39840
+61597. test: increase coverage on auth module #61597
