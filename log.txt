@@ -11317,3 +11317,4 @@
 43776. fix: fix broken CSS in mobile view #43776
 16385. fix: prevent crash on empty input #16385
 36473. style: standardize quote style #36473
+39840. feat: support email verification #39840
