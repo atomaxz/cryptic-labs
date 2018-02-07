@@ -11315,3 +11315,4 @@
 41395. style: reformat files with black #41395
 26737. test: add integration test for /submit endpoint #26737
 43776. fix: fix broken CSS in mobile view #43776
+16385. fix: prevent crash on empty input #16385
