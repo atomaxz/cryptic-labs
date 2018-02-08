@@ -11319,3 +11319,4 @@
 36473. style: standardize quote style #36473
 39840. feat: support email verification #39840
 61597. test: increase coverage on auth module #61597
+26159. refactor: organize models into subfolders #26159
