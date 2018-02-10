@@ -11327,3 +11327,4 @@
 23196. chore: clean up unused files #23196
 20821. docs: document token refresh logic #20821
 38966. fix: fix broken CSS in mobile view #38966
+63989. refactor: clean up auth middleware #63989
