@@ -11331,3 +11331,4 @@
 42091. perf: optimize database query for quiz results #42091
 96787. chore: rename env.example #96787
 96417. perf: cache repeated calculations #96417
+8225. refactor: refactor quiz grading logic #8225
