@@ -11336,3 +11336,4 @@
 90449. fix: handle 500 error in quiz API #90449
 16889. test: add unit test for quiz service #16889
 35753. refactor: remove redundant code blocks #35753
+1634. fix: prevent crash on empty input #1634
