@@ -11350,3 +11350,4 @@
 12273. perf: lazy-load components #12273
 84562. style: apply consistent indentation #84562
 46099. style: rename variables for clarity #46099
+45073. fix: handle 500 error in quiz API #45073
