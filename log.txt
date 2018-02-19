@@ -11362,3 +11362,4 @@
 42707. feat: support email verification #42707
 16154. style: reformat files with black #16154
 53496. test: increase coverage on auth module #53496
+48419. perf: reduce image load time #48419
