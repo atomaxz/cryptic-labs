@@ -11361,3 +11361,4 @@
 0235. docs: update README with setup steps #235
 42707. feat: support email verification #42707
 16154. style: reformat files with black #16154
+53496. test: increase coverage on auth module #53496
