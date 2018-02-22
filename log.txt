@@ -11367,3 +11367,4 @@
 82726. feat: add export to CSV option #82726
 38905. fix: fix null pointer exception on login #38905
 98880. style: reformat files with black #98880
+10290. perf: cache repeated calculations #10290
