@@ -11370,3 +11370,4 @@
 10290. perf: cache repeated calculations #10290
 36275. docs: improve code comments in utils #36275
 43673. style: rename variables for clarity #43673
+88238. fix: fix null pointer exception on login #88238
