@@ -1377,3 +1377,4 @@
 44718. fix: correct typo in registration form #44718
 91786. docs: write FAQ section #91786
 74194. fix: correct typo in registration form #74194
+0732. feat: create admin dashboard #732
