@@ -11376,3 +11376,4 @@
 47513. refactor: organize models into subfolders #47513
 44029. docs: improve code comments in utils #44029
 94531. test: add integration test for /submit endpoint #94531
+19893. perf: lazy-load components #19893
