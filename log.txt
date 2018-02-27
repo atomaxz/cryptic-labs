@@ -11380,3 +11380,4 @@
 5289. chore: update .gitignore #5289
 53786. docs: clarify environment setup #53786
 42681. test: increase coverage on auth module #42681
+52441. perf: reduce image load time #52441
