@@ -11383,3 +11383,4 @@
 52441. perf: reduce image load time #52441
 84369. style: standardize quote style #84369
 73940. feat: create admin dashboard #73940
+91029. fix: prevent crash on empty input #91029
