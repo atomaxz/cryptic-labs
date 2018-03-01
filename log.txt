@@ -11384,3 +11384,4 @@
 84369. style: standardize quote style #84369
 73940. feat: create admin dashboard #73940
 91029. fix: prevent crash on empty input #91029
+98254. perf: optimize database query for quiz results #98254
