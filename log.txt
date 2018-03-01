@@ -11387,3 +11387,4 @@
 98254. perf: optimize database query for quiz results #98254
 33718. fix: fix broken CSS in mobile view #33718
 25751. chore: add GitHub actions badge #25751
+82974. fix: fix broken CSS in mobile view #82974
