@@ -11392,3 +11392,4 @@
 13283. fix: fix broken CSS in mobile view #13283
 42554. refactor: clean up auth middleware #42554
 36617. fix: fix null pointer exception on login #36617
+83403. chore: bump dependencies #83403
