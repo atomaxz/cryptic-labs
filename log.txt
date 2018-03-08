@@ -1379,3 +1379,4 @@
 74194. fix: correct typo in registration form #74194
 0732. feat: create admin dashboard #732
 22254. fix: prevent crash on empty input #22254
+36781. perf: reduce image load time #36781
