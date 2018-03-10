@@ -11408,3 +11408,4 @@
 6619. docs: add API usage examples #6619
 16771. refactor: clean up auth middleware #16771
 11126. docs: document token refresh logic #11126
+24854. feat: enable dark mode toggle #24854
