@@ -11409,3 +11409,4 @@
 16771. refactor: clean up auth middleware #16771
 11126. docs: document token refresh logic #11126
 24854. feat: enable dark mode toggle #24854
+27615. perf: lazy-load components #27615
