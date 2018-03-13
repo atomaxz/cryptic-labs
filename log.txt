@@ -11419,3 +11419,4 @@
 91818. test: add unit test for quiz service #91818
 58284. feat: create admin dashboard #58284
 72525. perf: lazy-load components #72525
+12473. feat: enable dark mode toggle #12473
