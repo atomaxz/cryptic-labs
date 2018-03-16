@@ -11426,3 +11426,4 @@
 25987. fix: resolve issue with date parsing #25987
 7864. style: rename variables for clarity #7864
 83377. test: test user registration edge cases #83377
+54478. style: remove trailing whitespace #54478
