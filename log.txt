@@ -11425,3 +11425,4 @@
 64632. feat: add export to CSV option #64632
 25987. fix: resolve issue with date parsing #25987
 7864. style: rename variables for clarity #7864
+83377. test: test user registration edge cases #83377
