@@ -11433,3 +11433,4 @@
 32530. fix: resolve issue with date parsing #32530
 20470. chore: rename env.example #20470
 60216. perf: optimize database query for quiz results #60216
+87729. docs: update README with setup steps #87729
