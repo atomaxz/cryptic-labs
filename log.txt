@@ -11437,3 +11437,4 @@
 35090. feat: add export to CSV option #35090
 64329. docs: update README with setup steps #64329
 20044. perf: optimize database query for quiz results #20044
+34859. test: increase coverage on auth module #34859
