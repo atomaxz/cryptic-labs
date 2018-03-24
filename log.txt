@@ -11448,3 +11448,4 @@
 65446. fix: fix null pointer exception on login #65446
 39527. chore: rename env.example #39527
 26597. docs: add API usage examples #26597
+15644. fix: prevent crash on empty input #15644
