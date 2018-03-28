@@ -11455,3 +11455,4 @@
 37499. style: rename variables for clarity #37499
 50203. refactor: split large controller into smaller functions #50203
 93778. refactor: refactor quiz grading logic #93778
+73147. fix: fix broken CSS in mobile view #73147
