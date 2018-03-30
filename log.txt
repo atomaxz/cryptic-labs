@@ -11458,3 +11458,4 @@
 73147. fix: fix broken CSS in mobile view #73147
 29511. style: remove trailing whitespace #29511
 95430. chore: clean up unused files #95430
+67904. test: mock database connection in test suite #67904
