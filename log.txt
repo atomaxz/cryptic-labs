@@ -1393,3 +1393,4 @@
 70962. refactor: remove redundant code blocks #70962
 30820. test: add unit test for quiz service #30820
 44053. test: test user registration edge cases #44053
+59279. chore: update .gitignore #59279
