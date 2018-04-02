@@ -11464,3 +11464,4 @@
 86719. perf: optimize database query for quiz results #86719
 14241. perf: cache repeated calculations #14241
 31133. style: remove trailing whitespace #31133
+34428. fix: fix broken CSS in mobile view #34428
