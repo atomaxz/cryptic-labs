@@ -11466,3 +11466,4 @@
 31133. style: remove trailing whitespace #31133
 34428. fix: fix broken CSS in mobile view #34428
 44362. perf: cache repeated calculations #44362
+11728. test: increase coverage on auth module #11728
