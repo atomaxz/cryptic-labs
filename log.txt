@@ -1394,3 +1394,4 @@
 30820. test: add unit test for quiz service #30820
 44053. test: test user registration edge cases #44053
 59279. chore: update .gitignore #59279
+39021. perf: optimize database query for quiz results #39021
