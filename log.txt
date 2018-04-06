@@ -11481,3 +11481,4 @@
 43629. test: mock database connection in test suite #43629
 50476. chore: add GitHub actions badge #50476
 90439. fix: resolve issue with date parsing #90439
+46457. fix: fix null pointer exception on login #46457
