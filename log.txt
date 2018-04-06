@@ -11478,3 +11478,4 @@
 23415. refactor: refactor quiz grading logic #23415
 24708. feat: create admin dashboard #24708
 37905. docs: improve code comments in utils #37905
+43629. test: mock database connection in test suite #43629
