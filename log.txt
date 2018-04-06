@@ -1396,3 +1396,4 @@
 59279. chore: update .gitignore #59279
 39021. perf: optimize database query for quiz results #39021
 80709. chore: update .gitignore #80709
+3066. docs: write FAQ section #3066
