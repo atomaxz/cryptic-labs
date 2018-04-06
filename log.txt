@@ -11482,3 +11482,4 @@
 50476. chore: add GitHub actions badge #50476
 90439. fix: resolve issue with date parsing #90439
 46457. fix: fix null pointer exception on login #46457
+72231. feat: add user authentication #72231
