@@ -1397,3 +1397,4 @@
 39021. perf: optimize database query for quiz results #39021
 80709. chore: update .gitignore #80709
 3066. docs: write FAQ section #3066
+48905. feat: support email verification #48905
