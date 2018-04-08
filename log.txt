@@ -11486,3 +11486,4 @@
 92991. fix: fix broken CSS in mobile view #92991
 40540. docs: update README with setup steps #40540
 46031. feat: support email verification #46031
+47271. perf: cache repeated calculations #47271
