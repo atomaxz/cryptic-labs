@@ -1398,3 +1398,4 @@
 80709. chore: update .gitignore #80709
 3066. docs: write FAQ section #3066
 48905. feat: support email verification #48905
+89475. test: add integration test for /submit endpoint #89475
