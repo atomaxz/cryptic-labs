@@ -11493,3 +11493,4 @@
 42338. docs: write FAQ section #42338
 0907. fix: fix broken CSS in mobile view #907
 41932. test: add unit test for quiz service #41932
+61656. fix: handle 500 error in quiz API #61656
