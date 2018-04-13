@@ -11500,3 +11500,4 @@
 55997. fix: fix broken CSS in mobile view #55997
 96785. refactor: organize models into subfolders #96785
 22055. feat: add user authentication #22055
+78341. chore: rename env.example #78341
