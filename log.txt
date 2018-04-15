@@ -11502,3 +11502,4 @@
 22055. feat: add user authentication #22055
 78341. chore: rename env.example #78341
 48040. refactor: remove redundant code blocks #48040
+56439. perf: optimize database query for quiz results #56439
