@@ -1401,3 +1401,4 @@
 89475. test: add integration test for /submit endpoint #89475
 24692. chore: clean up unused files #24692
 95514. fix: correct typo in registration form #95514
+59207. test: add integration test for /submit endpoint #59207
