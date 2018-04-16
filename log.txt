@@ -11504,3 +11504,4 @@
 48040. refactor: remove redundant code blocks #48040
 56439. perf: optimize database query for quiz results #56439
 9385. test: add unit test for quiz service #9385
+24548. fix: fix null pointer exception on login #24548
