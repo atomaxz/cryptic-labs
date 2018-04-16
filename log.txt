@@ -11506,3 +11506,4 @@
 9385. test: add unit test for quiz service #9385
 24548. fix: fix null pointer exception on login #24548
 23080. refactor: organize models into subfolders #23080
+22979. chore: bump dependencies #22979
