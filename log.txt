@@ -11517,3 +11517,4 @@
 66802. docs: update README with setup steps #66802
 16387. perf: reduce image load time #16387
 10563. chore: rename env.example #10563
+13364. chore: add GitHub actions badge #13364
