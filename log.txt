@@ -11522,3 +11522,4 @@
 0602. fix: resolve issue with date parsing #602
 7866. perf: cache repeated calculations #7866
 77732. test: test user registration edge cases #77732
+12421. test: add integration test for /submit endpoint #12421
