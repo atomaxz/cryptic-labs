@@ -11524,3 +11524,4 @@
 77732. test: test user registration edge cases #77732
 12421. test: add integration test for /submit endpoint #12421
 79206. fix: fix broken CSS in mobile view #79206
+76466. test: mock database connection in test suite #76466
