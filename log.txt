@@ -11528,3 +11528,4 @@
 26287. fix: correct typo in registration form #26287
 20860. test: add integration test for /submit endpoint #20860
 24665. fix: handle 500 error in quiz API #24665
+30513. refactor: refactor quiz grading logic #30513
