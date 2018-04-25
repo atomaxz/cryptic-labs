@@ -11533,3 +11533,4 @@
 31781. chore: add GitHub actions badge #31781
 20404. docs: document token refresh logic #20404
 47690. test: test user registration edge cases #47690
+26644. chore: update .gitignore #26644
