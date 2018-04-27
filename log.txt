@@ -11535,3 +11535,4 @@
 47690. test: test user registration edge cases #47690
 26644. chore: update .gitignore #26644
 99878. fix: fix null pointer exception on login #99878
+84547. fix: correct typo in registration form #84547
