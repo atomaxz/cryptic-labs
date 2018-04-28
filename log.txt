@@ -11537,3 +11537,4 @@
 99878. fix: fix null pointer exception on login #99878
 84547. fix: correct typo in registration form #84547
 74248. perf: cache repeated calculations #74248
+93047. fix: prevent crash on empty input #93047
