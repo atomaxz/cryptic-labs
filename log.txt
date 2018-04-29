@@ -11541,3 +11541,4 @@
 79016. chore: bump dependencies #79016
 32379. fix: handle 500 error in quiz API #32379
 47519. chore: clean up unused files #47519
+24647. docs: write FAQ section #24647
