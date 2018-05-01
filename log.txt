@@ -11549,3 +11549,4 @@
 92630. fix: prevent crash on empty input #92630
 85947. test: increase coverage on auth module #85947
 69491. test: test user registration edge cases #69491
+50880. feat: add export to CSV option #50880
