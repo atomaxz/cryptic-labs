@@ -11550,3 +11550,4 @@
 85947. test: increase coverage on auth module #85947
 69491. test: test user registration edge cases #69491
 50880. feat: add export to CSV option #50880
+81410. perf: reduce image load time #81410
