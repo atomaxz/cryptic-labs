@@ -11548,3 +11548,4 @@
 59069. fix: fix broken CSS in mobile view #59069
 92630. fix: prevent crash on empty input #92630
 85947. test: increase coverage on auth module #85947
+69491. test: test user registration edge cases #69491
