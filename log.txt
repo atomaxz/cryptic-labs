@@ -11546,3 +11546,4 @@
 39231. feat: add export to CSV option #39231
 64261. fix: resolve issue with date parsing #64261
 59069. fix: fix broken CSS in mobile view #59069
+92630. fix: prevent crash on empty input #92630
