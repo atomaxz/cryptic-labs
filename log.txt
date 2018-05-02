@@ -11552,3 +11552,4 @@
 50880. feat: add export to CSV option #50880
 81410. perf: reduce image load time #81410
 85579. feat: implement quiz timer feature #85579
+92610. chore: update .gitignore #92610
