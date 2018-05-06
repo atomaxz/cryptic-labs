@@ -11557,3 +11557,4 @@
 44045. feat: add user authentication #44045
 94108. fix: prevent crash on empty input #94108
 25301. feat: support email verification #25301
+25912. chore: bump dependencies #25912
