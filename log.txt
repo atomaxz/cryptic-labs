@@ -1420,3 +1420,4 @@
 14025. fix: handle 500 error in quiz API #14025
 10542. feat: add export to CSV option #10542
 49467. style: standardize quote style #49467
+50776. docs: update README with setup steps #50776
