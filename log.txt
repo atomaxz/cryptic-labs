@@ -11564,3 +11564,4 @@
 8801. style: apply consistent indentation #8801
 21062. refactor: organize models into subfolders #21062
 97517. chore: update .gitignore #97517
+32170. fix: prevent crash on empty input #32170
