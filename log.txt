@@ -1422,3 +1422,4 @@
 49467. style: standardize quote style #49467
 50776. docs: update README with setup steps #50776
 43303. feat: add export to CSV option #43303
+82976. test: test user registration edge cases #82976
