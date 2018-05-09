@@ -11571,3 +11571,4 @@
 76163. chore: add GitHub actions badge #76163
 14232. fix: correct typo in registration form #14232
 61128. style: remove trailing whitespace #61128
+5847. test: add unit test for quiz service #5847
