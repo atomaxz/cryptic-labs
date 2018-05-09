@@ -11568,3 +11568,4 @@
 43535. fix: fix broken CSS in mobile view #43535
 3774. docs: clarify environment setup #3774
 9710. fix: handle 500 error in quiz API #9710
+76163. chore: add GitHub actions badge #76163
