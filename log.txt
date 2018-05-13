@@ -11580,3 +11580,4 @@
 72329. test: increase coverage on auth module #72329
 71685. refactor: split large controller into smaller functions #71685
 66386. chore: clean up unused files #66386
+27060. test: test user registration edge cases #27060
