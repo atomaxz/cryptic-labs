@@ -11587,3 +11587,4 @@
 99396. refactor: clean up auth middleware #99396
 78860. test: test user registration edge cases #78860
 71864. feat: implement quiz timer feature #71864
+42339. perf: reduce image load time #42339
