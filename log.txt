@@ -1423,3 +1423,4 @@
 50776. docs: update README with setup steps #50776
 43303. feat: add export to CSV option #43303
 82976. test: test user registration edge cases #82976
+52860. perf: lazy-load components #52860
