@@ -11590,3 +11590,4 @@
 42339. perf: reduce image load time #42339
 34615. fix: prevent crash on empty input #34615
 42861. chore: clean up unused files #42861
+24171. refactor: clean up auth middleware #24171
