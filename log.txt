@@ -11595,3 +11595,4 @@
 64923. docs: document token refresh logic #64923
 26453. test: add integration test for /submit endpoint #26453
 41460. refactor: clean up auth middleware #41460
+39047. test: mock database connection in test suite #39047
