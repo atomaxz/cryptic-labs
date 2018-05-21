@@ -11594,3 +11594,4 @@
 65652. chore: clean up unused files #65652
 64923. docs: document token refresh logic #64923
 26453. test: add integration test for /submit endpoint #26453
+41460. refactor: clean up auth middleware #41460
