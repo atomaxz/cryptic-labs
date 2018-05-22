@@ -11600,3 +11600,4 @@
 31546. fix: prevent crash on empty input #31546
 52673. fix: fix broken CSS in mobile view #52673
 38368. perf: optimize database query for quiz results #38368
+96019. style: remove trailing whitespace #96019
