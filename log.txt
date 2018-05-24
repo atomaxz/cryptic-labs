@@ -11606,3 +11606,4 @@
 90788. perf: optimize database query for quiz results #90788
 89856. fix: fix null pointer exception on login #89856
 9956. docs: improve code comments in utils #9956
+64545. feat: add export to CSV option #64545
