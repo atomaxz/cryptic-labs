@@ -11613,3 +11613,4 @@
 15639. feat: enable dark mode toggle #15639
 35373. fix: resolve issue with date parsing #35373
 79034. feat: support email verification #79034
+15262. refactor: refactor quiz grading logic #15262
