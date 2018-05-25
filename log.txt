@@ -1427,3 +1427,4 @@
 23985. feat: add export to CSV option #23985
 58278. chore: bump dependencies #58278
 91431. fix: resolve issue with date parsing #91431
+38244. perf: optimize database query for quiz results #38244
