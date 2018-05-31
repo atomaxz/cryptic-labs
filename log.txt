@@ -11624,3 +11624,4 @@
 92724. perf: optimize database query for quiz results #92724
 39420. style: reformat files with black #39420
 35484. test: add unit test for quiz service #35484
+40235. refactor: refactor quiz grading logic #40235
