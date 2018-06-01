@@ -11630,3 +11630,4 @@
 21741. docs: write FAQ section #21741
 58237. feat: enable dark mode toggle #58237
 5569. docs: update README with setup steps #5569
+24046. feat: create admin dashboard #24046
