@@ -11628,3 +11628,4 @@
 82856. refactor: organize models into subfolders #82856
 6957. feat: enable dark mode toggle #6957
 21741. docs: write FAQ section #21741
+58237. feat: enable dark mode toggle #58237
