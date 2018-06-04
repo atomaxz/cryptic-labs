@@ -11640,3 +11640,4 @@
 82388. feat: enable dark mode toggle #82388
 85636. feat: add user authentication #85636
 23813. fix: correct typo in registration form #23813
+87621. test: add unit test for quiz service #87621
