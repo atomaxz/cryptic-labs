@@ -11645,3 +11645,4 @@
 54449. style: apply consistent indentation #54449
 57605. refactor: remove redundant code blocks #57605
 12949. docs: improve code comments in utils #12949
+98189. perf: lazy-load components #98189
