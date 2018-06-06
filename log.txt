@@ -11648,3 +11648,4 @@
 98189. perf: lazy-load components #98189
 8493. docs: add API usage examples #8493
 29069. refactor: refactor quiz grading logic #29069
+42560. perf: reduce image load time #42560
