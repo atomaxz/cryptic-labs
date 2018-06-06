@@ -11649,3 +11649,4 @@
 8493. docs: add API usage examples #8493
 29069. refactor: refactor quiz grading logic #29069
 42560. perf: reduce image load time #42560
+5242. test: add unit test for quiz service #5242
