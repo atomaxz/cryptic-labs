@@ -11676,3 +11676,4 @@
 89546. test: test user registration edge cases #89546
 95426. chore: rename env.example #95426
 29235. feat: add user authentication #29235
+78002. refactor: organize models into subfolders #78002
