@@ -11683,3 +11683,4 @@
 88990. fix: prevent crash on empty input #88990
 68298. perf: cache repeated calculations #68298
 32836. test: test user registration edge cases #32836
+45615. refactor: organize models into subfolders #45615
