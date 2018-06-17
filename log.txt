@@ -11682,3 +11682,4 @@
 6294. docs: document token refresh logic #6294
 88990. fix: prevent crash on empty input #88990
 68298. perf: cache repeated calculations #68298
+32836. test: test user registration edge cases #32836
