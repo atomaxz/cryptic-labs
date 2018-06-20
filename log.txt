@@ -11687,3 +11687,4 @@
 78745. test: increase coverage on auth module #78745
 45241. refactor: split large controller into smaller functions #45241
 58976. chore: rename env.example #58976
+77144. fix: handle 500 error in quiz API #77144
