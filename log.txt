@@ -11693,3 +11693,4 @@
 26639. fix: resolve issue with date parsing #26639
 6346. docs: update README with setup steps #6346
 56484. chore: add GitHub actions badge #56484
+4426. fix: fix null pointer exception on login #4426
