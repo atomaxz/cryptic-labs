@@ -1445,3 +1445,4 @@
 63028. fix: correct typo in registration form #63028
 62912. style: apply consistent indentation #62912
 8627. docs: improve code comments in utils #8627
+97771. test: test user registration edge cases #97771
