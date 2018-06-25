@@ -11696,3 +11696,4 @@
 4426. fix: fix null pointer exception on login #4426
 15786. fix: correct typo in registration form #15786
 37398. chore: rename env.example #37398
+79044. docs: write FAQ section #79044
