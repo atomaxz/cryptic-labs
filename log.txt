@@ -11699,3 +11699,4 @@
 79044. docs: write FAQ section #79044
 80032. chore: add GitHub actions badge #80032
 52541. chore: add GitHub actions badge #52541
+23420. docs: document token refresh logic #23420
