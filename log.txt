@@ -11698,3 +11698,4 @@
 37398. chore: rename env.example #37398
 79044. docs: write FAQ section #79044
 80032. chore: add GitHub actions badge #80032
+52541. chore: add GitHub actions badge #52541
