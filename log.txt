@@ -11702,3 +11702,4 @@
 23420. docs: document token refresh logic #23420
 23932. fix: fix null pointer exception on login #23932
 0526. test: add unit test for quiz service #526
+27186. chore: bump dependencies #27186
