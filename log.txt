@@ -11706,3 +11706,4 @@
 33878. fix: fix broken CSS in mobile view #33878
 3311. fix: resolve issue with date parsing #3311
 65638. style: remove trailing whitespace #65638
+96586. chore: bump dependencies #96586
