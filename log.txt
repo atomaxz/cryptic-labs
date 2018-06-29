@@ -11709,3 +11709,4 @@
 96586. chore: bump dependencies #96586
 78596. perf: reduce image load time #78596
 9340. docs: clarify environment setup #9340
+64936. test: test user registration edge cases #64936
