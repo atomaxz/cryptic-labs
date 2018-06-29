@@ -11707,3 +11707,4 @@
 3311. fix: resolve issue with date parsing #3311
 65638. style: remove trailing whitespace #65638
 96586. chore: bump dependencies #96586
+78596. perf: reduce image load time #78596
