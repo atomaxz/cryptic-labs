@@ -11711,3 +11711,4 @@
 9340. docs: clarify environment setup #9340
 64936. test: test user registration edge cases #64936
 66055. chore: update .gitignore #66055
+50071. style: remove trailing whitespace #50071
