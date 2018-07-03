@@ -11719,3 +11719,4 @@
 56673. fix: resolve issue with date parsing #56673
 33201. chore: clean up unused files #33201
 88896. perf: cache repeated calculations #88896
+46540. test: increase coverage on auth module #46540
