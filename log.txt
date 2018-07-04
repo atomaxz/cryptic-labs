@@ -11720,3 +11720,4 @@
 33201. chore: clean up unused files #33201
 88896. perf: cache repeated calculations #88896
 46540. test: increase coverage on auth module #46540
+85552. perf: optimize database query for quiz results #85552
