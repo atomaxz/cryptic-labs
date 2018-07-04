@@ -1451,3 +1451,4 @@
 3583. docs: improve code comments in utils #3583
 98117. feat: implement quiz timer feature #98117
 1982. refactor: organize models into subfolders #1982
+12006. fix: fix null pointer exception on login #12006
