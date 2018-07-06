@@ -11728,3 +11728,4 @@
 16198. fix: fix null pointer exception on login #16198
 56136. refactor: split large controller into smaller functions #56136
 2768. chore: clean up unused files #2768
+65789. perf: lazy-load components #65789
