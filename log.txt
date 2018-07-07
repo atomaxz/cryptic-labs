@@ -1455,3 +1455,4 @@
 99786. style: apply consistent indentation #99786
 80829. feat: add export to CSV option #80829
 34272. feat: add export to CSV option #34272
+31630. feat: add user authentication #31630
