@@ -11739,3 +11739,4 @@
 43509. test: mock database connection in test suite #43509
 41996. chore: bump dependencies #41996
 34933. refactor: refactor quiz grading logic #34933
+75478. feat: add export to CSV option #75478
