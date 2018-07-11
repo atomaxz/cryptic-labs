@@ -11744,3 +11744,4 @@
 25003. fix: fix broken CSS in mobile view #25003
 87434. feat: add export to CSV option #87434
 91306. fix: correct typo in registration form #91306
+30947. test: add integration test for /submit endpoint #30947
