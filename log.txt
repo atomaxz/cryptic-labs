@@ -11741,3 +11741,4 @@
 34933. refactor: refactor quiz grading logic #34933
 75478. feat: add export to CSV option #75478
 98951. docs: improve code comments in utils #98951
+25003. fix: fix broken CSS in mobile view #25003
