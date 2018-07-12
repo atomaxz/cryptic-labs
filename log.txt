@@ -11747,3 +11747,4 @@
 30947. test: add integration test for /submit endpoint #30947
 2790. fix: handle 500 error in quiz API #2790
 12968. chore: clean up unused files #12968
+8503. perf: optimize database query for quiz results #8503
