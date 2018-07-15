@@ -11752,3 +11752,4 @@
 2453. fix: fix null pointer exception on login #2453
 94133. test: test user registration edge cases #94133
 74756. docs: add API usage examples #74756
+94580. style: remove trailing whitespace #94580
