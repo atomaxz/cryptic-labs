@@ -11758,3 +11758,4 @@
 7003. fix: prevent crash on empty input #7003
 98333. refactor: split large controller into smaller functions #98333
 26215. fix: prevent crash on empty input #26215
+93288. test: mock database connection in test suite #93288
