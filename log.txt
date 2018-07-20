@@ -11763,3 +11763,4 @@
 5926. docs: add API usage examples #5926
 32310. fix: fix null pointer exception on login #32310
 32356. test: add integration test for /submit endpoint #32356
+13345. test: mock database connection in test suite #13345
