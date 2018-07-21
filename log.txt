@@ -11768,3 +11768,4 @@
 47974. perf: optimize database query for quiz results #47974
 25173. fix: prevent crash on empty input #25173
 9057. refactor: refactor quiz grading logic #9057
+12884. test: test user registration edge cases #12884
