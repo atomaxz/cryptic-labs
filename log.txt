@@ -11765,3 +11765,4 @@
 32356. test: add integration test for /submit endpoint #32356
 13345. test: mock database connection in test suite #13345
 92935. refactor: refactor quiz grading logic #92935
+47974. perf: optimize database query for quiz results #47974
