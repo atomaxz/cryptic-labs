@@ -11767,3 +11767,4 @@
 92935. refactor: refactor quiz grading logic #92935
 47974. perf: optimize database query for quiz results #47974
 25173. fix: prevent crash on empty input #25173
+9057. refactor: refactor quiz grading logic #9057
