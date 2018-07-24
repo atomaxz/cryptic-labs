@@ -11769,3 +11769,4 @@
 25173. fix: prevent crash on empty input #25173
 9057. refactor: refactor quiz grading logic #9057
 12884. test: test user registration edge cases #12884
+33117. test: add integration test for /submit endpoint #33117
