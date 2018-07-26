@@ -1466,3 +1466,4 @@
 80596. perf: cache repeated calculations #80596
 35157. style: rename variables for clarity #35157
 72062. feat: enable dark mode toggle #72062
+52957. style: remove trailing whitespace #52957
