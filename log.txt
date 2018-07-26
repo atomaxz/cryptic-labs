@@ -11777,3 +11777,4 @@
 76941. refactor: refactor quiz grading logic #76941
 44758. perf: cache repeated calculations #44758
 73446. docs: update README with setup steps #73446
+13608. test: test user registration edge cases #13608
