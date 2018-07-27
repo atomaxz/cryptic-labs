@@ -11783,3 +11783,4 @@
 51769. refactor: split large controller into smaller functions #51769
 12406. test: add integration test for /submit endpoint #12406
 53436. style: rename variables for clarity #53436
+57811. feat: support email verification #57811
