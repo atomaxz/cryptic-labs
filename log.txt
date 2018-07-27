@@ -11781,3 +11781,4 @@
 55671. style: remove trailing whitespace #55671
 29833. test: increase coverage on auth module #29833
 51769. refactor: split large controller into smaller functions #51769
+12406. test: add integration test for /submit endpoint #12406
