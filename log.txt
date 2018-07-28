@@ -1468,3 +1468,4 @@
 72062. feat: enable dark mode toggle #72062
 52957. style: remove trailing whitespace #52957
 50087. style: remove trailing whitespace #50087
+51160. feat: support email verification #51160
