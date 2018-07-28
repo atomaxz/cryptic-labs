@@ -11786,3 +11786,4 @@
 57811. feat: support email verification #57811
 88130. test: mock database connection in test suite #88130
 50045. style: remove trailing whitespace #50045
+36573. refactor: organize models into subfolders #36573
