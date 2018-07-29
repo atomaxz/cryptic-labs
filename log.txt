@@ -11790,3 +11790,4 @@
 66601. docs: write FAQ section #66601
 35624. perf: lazy-load components #35624
 26199. perf: reduce image load time #26199
+36368. perf: reduce image load time #36368
