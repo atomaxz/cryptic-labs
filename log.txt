@@ -11799,3 +11799,4 @@
 52375. fix: resolve issue with date parsing #52375
 49700. chore: add GitHub actions badge #49700
 85618. test: add integration test for /submit endpoint #85618
+47925. refactor: split large controller into smaller functions #47925
