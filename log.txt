@@ -11796,3 +11796,4 @@
 32724. docs: write FAQ section #32724
 35223. refactor: clean up auth middleware #35223
 76451. feat: create admin dashboard #76451
+52375. fix: resolve issue with date parsing #52375
