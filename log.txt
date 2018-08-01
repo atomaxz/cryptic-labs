@@ -1470,3 +1470,4 @@
 50087. style: remove trailing whitespace #50087
 51160. feat: support email verification #51160
 30904. chore: rename env.example #30904
+1856. style: rename variables for clarity #1856
