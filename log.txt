@@ -11800,3 +11800,4 @@
 49700. chore: add GitHub actions badge #49700
 85618. test: add integration test for /submit endpoint #85618
 47925. refactor: split large controller into smaller functions #47925
+14719. perf: reduce image load time #14719
