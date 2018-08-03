@@ -11805,3 +11805,4 @@
 75634. chore: clean up unused files #75634
 3619. feat: implement quiz timer feature #3619
 2187. test: increase coverage on auth module #2187
+82539. test: test user registration edge cases #82539
