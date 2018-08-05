@@ -11810,3 +11810,4 @@
 52676. feat: add export to CSV option #52676
 26186. style: standardize quote style #26186
 80440. chore: add GitHub actions badge #80440
+16623. fix: fix broken CSS in mobile view #16623
