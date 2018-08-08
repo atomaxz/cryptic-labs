@@ -1480,3 +1480,4 @@
 75606. docs: clarify environment setup #75606
 32234. docs: clarify environment setup #32234
 70670. refactor: clean up auth middleware #70670
+96780. style: remove trailing whitespace #96780
