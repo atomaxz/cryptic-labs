@@ -11816,3 +11816,4 @@
 42699. refactor: split large controller into smaller functions #42699
 40389. refactor: refactor quiz grading logic #40389
 99275. test: add integration test for /submit endpoint #99275
+61415. perf: reduce image load time #61415
