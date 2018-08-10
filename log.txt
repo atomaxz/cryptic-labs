@@ -1482,3 +1482,4 @@
 70670. refactor: clean up auth middleware #70670
 96780. style: remove trailing whitespace #96780
 67984. perf: optimize database query for quiz results #67984
+46988. refactor: split large controller into smaller functions #46988
