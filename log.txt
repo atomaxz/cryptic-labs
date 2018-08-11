@@ -11820,3 +11820,4 @@
 44605. feat: enable dark mode toggle #44605
 97829. refactor: clean up auth middleware #97829
 68382. docs: improve code comments in utils #68382
+10154. refactor: clean up auth middleware #10154
