@@ -11823,3 +11823,4 @@
 10154. refactor: clean up auth middleware #10154
 32086. style: remove trailing whitespace #32086
 9234. chore: update .gitignore #9234
+31934. refactor: clean up auth middleware #31934
