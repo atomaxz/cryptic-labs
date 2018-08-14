@@ -11835,3 +11835,4 @@
 80867. docs: improve code comments in utils #80867
 92105. docs: add API usage examples #92105
 34400. perf: cache repeated calculations #34400
+81005. fix: fix broken CSS in mobile view #81005
