@@ -11837,3 +11837,4 @@
 34400. perf: cache repeated calculations #34400
 81005. fix: fix broken CSS in mobile view #81005
 81378. docs: clarify environment setup #81378
+93385. feat: add export to CSV option #93385
