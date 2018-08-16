@@ -11839,3 +11839,4 @@
 81378. docs: clarify environment setup #81378
 93385. feat: add export to CSV option #93385
 83756. feat: add export to CSV option #83756
+98574. feat: support email verification #98574
