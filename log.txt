@@ -11841,3 +11841,4 @@
 83756. feat: add export to CSV option #83756
 98574. feat: support email verification #98574
 65689. docs: improve code comments in utils #65689
+34939. chore: update .gitignore #34939
