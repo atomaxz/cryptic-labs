@@ -11843,3 +11843,4 @@
 65689. docs: improve code comments in utils #65689
 34939. chore: update .gitignore #34939
 4117. test: increase coverage on auth module #4117
+11930. docs: write FAQ section #11930
