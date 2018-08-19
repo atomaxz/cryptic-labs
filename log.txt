@@ -11845,3 +11845,4 @@
 4117. test: increase coverage on auth module #4117
 11930. docs: write FAQ section #11930
 85619. chore: add GitHub actions badge #85619
+95795. test: mock database connection in test suite #95795
