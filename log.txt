@@ -11849,3 +11849,4 @@
 18350. refactor: split large controller into smaller functions #18350
 2607. style: remove trailing whitespace #2607
 56141. chore: clean up unused files #56141
+27169. test: increase coverage on auth module #27169
