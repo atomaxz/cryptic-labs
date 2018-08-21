@@ -11850,3 +11850,4 @@
 2607. style: remove trailing whitespace #2607
 56141. chore: clean up unused files #56141
 27169. test: increase coverage on auth module #27169
+68475. perf: optimize database query for quiz results #68475
