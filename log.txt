@@ -11857,3 +11857,4 @@
 97657. chore: update .gitignore #97657
 71347. docs: document token refresh logic #71347
 10036. perf: lazy-load components #10036
+61761. perf: optimize database query for quiz results #61761
