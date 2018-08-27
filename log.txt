@@ -11859,3 +11859,4 @@
 10036. perf: lazy-load components #10036
 61761. perf: optimize database query for quiz results #61761
 82016. feat: support email verification #82016
+97792. test: add integration test for /submit endpoint #97792
