@@ -11863,3 +11863,4 @@
 63280. fix: fix broken CSS in mobile view #63280
 0011. feat: create admin dashboard #11
 70295. feat: implement quiz timer feature #70295
+4711. style: rename variables for clarity #4711
