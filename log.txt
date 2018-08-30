@@ -11865,3 +11865,4 @@
 70295. feat: implement quiz timer feature #70295
 4711. style: rename variables for clarity #4711
 41902. perf: lazy-load components #41902
+49003. feat: support email verification #49003
