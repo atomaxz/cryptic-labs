@@ -11871,3 +11871,4 @@
 92243. perf: cache repeated calculations #92243
 85153. docs: update README with setup steps #85153
 64157. docs: write FAQ section #64157
+50502. perf: lazy-load components #50502
