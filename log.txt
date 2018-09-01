@@ -11873,3 +11873,4 @@
 64157. docs: write FAQ section #64157
 50502. perf: lazy-load components #50502
 80276. docs: write FAQ section #80276
+9923. refactor: remove redundant code blocks #9923
