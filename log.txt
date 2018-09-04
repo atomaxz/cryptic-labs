@@ -11885,3 +11885,4 @@
 24953. test: mock database connection in test suite #24953
 77434. refactor: split large controller into smaller functions #77434
 96656. style: standardize quote style #96656
+12671. chore: update .gitignore #12671
