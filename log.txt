@@ -11882,3 +11882,4 @@
 0457. refactor: clean up auth middleware #457
 40484. perf: reduce image load time #40484
 33596. test: add unit test for quiz service #33596
+24953. test: mock database connection in test suite #24953
