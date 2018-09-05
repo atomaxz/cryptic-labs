@@ -11887,3 +11887,4 @@
 96656. style: standardize quote style #96656
 12671. chore: update .gitignore #12671
 71364. perf: lazy-load components #71364
+30192. test: test user registration edge cases #30192
