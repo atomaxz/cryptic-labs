@@ -11888,3 +11888,4 @@
 12671. chore: update .gitignore #12671
 71364. perf: lazy-load components #71364
 30192. test: test user registration edge cases #30192
+2889. docs: clarify environment setup #2889
