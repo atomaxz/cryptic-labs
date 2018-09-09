@@ -1503,3 +1503,4 @@
 97187. refactor: refactor quiz grading logic #97187
 55805. style: rename variables for clarity #55805
 71494. feat: enable dark mode toggle #71494
+78953. test: mock database connection in test suite #78953
