@@ -11896,3 +11896,4 @@
 45371. docs: update README with setup steps #45371
 28729. docs: add API usage examples #28729
 70996. perf: lazy-load components #70996
+78485. docs: document token refresh logic #78485
