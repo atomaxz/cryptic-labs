@@ -11897,3 +11897,4 @@
 28729. docs: add API usage examples #28729
 70996. perf: lazy-load components #70996
 78485. docs: document token refresh logic #78485
+29268. refactor: clean up auth middleware #29268
