@@ -11900,3 +11900,4 @@
 29268. refactor: clean up auth middleware #29268
 62250. perf: lazy-load components #62250
 64928. chore: clean up unused files #64928
+30248. fix: handle 500 error in quiz API #30248
