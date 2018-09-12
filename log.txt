@@ -1505,3 +1505,4 @@
 71494. feat: enable dark mode toggle #71494
 78953. test: mock database connection in test suite #78953
 54171. refactor: refactor quiz grading logic #54171
+13578. feat: enable dark mode toggle #13578
