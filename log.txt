@@ -11902,3 +11902,4 @@
 64928. chore: clean up unused files #64928
 30248. fix: handle 500 error in quiz API #30248
 75127. refactor: organize models into subfolders #75127
+15181. test: increase coverage on auth module #15181
