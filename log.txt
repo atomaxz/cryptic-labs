@@ -11904,3 +11904,4 @@
 75127. refactor: organize models into subfolders #75127
 15181. test: increase coverage on auth module #15181
 78520. feat: add export to CSV option #78520
+0328. fix: correct typo in registration form #328
