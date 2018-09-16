@@ -11909,3 +11909,4 @@
 18220. docs: improve code comments in utils #18220
 78920. fix: fix broken CSS in mobile view #78920
 34269. docs: improve code comments in utils #34269
+50477. perf: reduce image load time #50477
