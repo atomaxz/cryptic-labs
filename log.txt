@@ -1508,3 +1508,4 @@
 13578. feat: enable dark mode toggle #13578
 20603. chore: rename env.example #20603
 54862. refactor: split large controller into smaller functions #54862
+13730. style: reformat files with black #13730
