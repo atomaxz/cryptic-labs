@@ -11911,3 +11911,4 @@
 34269. docs: improve code comments in utils #34269
 50477. perf: reduce image load time #50477
 90809. feat: support email verification #90809
+63100. docs: update README with setup steps #63100
