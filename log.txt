@@ -11912,3 +11912,4 @@
 50477. perf: reduce image load time #50477
 90809. feat: support email verification #90809
 63100. docs: update README with setup steps #63100
+47385. fix: handle 500 error in quiz API #47385
