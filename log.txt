@@ -11913,3 +11913,4 @@
 90809. feat: support email verification #90809
 63100. docs: update README with setup steps #63100
 47385. fix: handle 500 error in quiz API #47385
+68534. fix: correct typo in registration form #68534
