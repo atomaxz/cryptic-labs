@@ -11919,3 +11919,4 @@
 75707. docs: update README with setup steps #75707
 25707. style: reformat files with black #25707
 12046. test: increase coverage on auth module #12046
+33499. feat: add export to CSV option #33499
