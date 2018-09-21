@@ -11920,3 +11920,4 @@
 25707. style: reformat files with black #25707
 12046. test: increase coverage on auth module #12046
 33499. feat: add export to CSV option #33499
+43519. feat: add export to CSV option #43519
