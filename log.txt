@@ -1516,3 +1516,4 @@
 80653. chore: bump dependencies #80653
 54062. refactor: organize models into subfolders #54062
 25133. chore: update .gitignore #25133
+49661. test: increase coverage on auth module #49661
