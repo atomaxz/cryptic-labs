@@ -11934,3 +11934,4 @@
 14589. test: mock database connection in test suite #14589
 90274. feat: support email verification #90274
 57473. docs: write FAQ section #57473
+76413. test: add unit test for quiz service #76413
