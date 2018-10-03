@@ -11942,3 +11942,4 @@
 40059. perf: cache repeated calculations #40059
 59295. refactor: refactor quiz grading logic #59295
 2544. refactor: refactor quiz grading logic #2544
+19914. fix: fix broken CSS in mobile view #19914
