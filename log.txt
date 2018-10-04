@@ -11946,3 +11946,4 @@
 86480. docs: add API usage examples #86480
 72278. style: apply consistent indentation #72278
 97982. feat: enable dark mode toggle #97982
+40387. refactor: organize models into subfolders #40387
