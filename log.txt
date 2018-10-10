@@ -11962,3 +11962,4 @@
 80373. chore: rename env.example #80373
 83419. feat: add export to CSV option #83419
 3351. chore: rename env.example #3351
+67586. style: rename variables for clarity #67586
