@@ -11965,3 +11965,4 @@
 67586. style: rename variables for clarity #67586
 95289. docs: add API usage examples #95289
 75340. feat: enable dark mode toggle #75340
+93091. fix: handle 500 error in quiz API #93091
