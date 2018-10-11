@@ -1522,3 +1522,4 @@
 14379. refactor: remove redundant code blocks #14379
 25360. docs: document token refresh logic #25360
 80957. refactor: organize models into subfolders #80957
+84015. docs: update README with setup steps #84015
