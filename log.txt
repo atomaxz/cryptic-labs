@@ -11967,3 +11967,4 @@
 75340. feat: enable dark mode toggle #75340
 93091. fix: handle 500 error in quiz API #93091
 47171. refactor: refactor quiz grading logic #47171
+36350. style: standardize quote style #36350
