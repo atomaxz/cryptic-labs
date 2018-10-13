@@ -1524,3 +1524,4 @@
 80957. refactor: organize models into subfolders #80957
 84015. docs: update README with setup steps #84015
 98884. fix: fix broken CSS in mobile view #98884
+91606. chore: bump dependencies #91606
