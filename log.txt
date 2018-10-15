@@ -11973,3 +11973,4 @@
 93427. refactor: organize models into subfolders #93427
 21557. fix: fix null pointer exception on login #21557
 39444. test: add unit test for quiz service #39444
+79994. test: test user registration edge cases #79994
