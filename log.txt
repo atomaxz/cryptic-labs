@@ -1526,3 +1526,4 @@
 98884. fix: fix broken CSS in mobile view #98884
 91606. chore: bump dependencies #91606
 67870. test: add integration test for /submit endpoint #67870
+20226. fix: correct typo in registration form #20226
