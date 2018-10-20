@@ -1528,3 +1528,4 @@
 67870. test: add integration test for /submit endpoint #67870
 20226. fix: correct typo in registration form #20226
 52156. docs: improve code comments in utils #52156
+0281. perf: lazy-load components #281
