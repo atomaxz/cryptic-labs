@@ -12001,3 +12001,4 @@
 48386. style: reformat files with black #48386
 98879. perf: cache repeated calculations #98879
 84341. test: increase coverage on auth module #84341
+91434. fix: fix broken CSS in mobile view #91434
