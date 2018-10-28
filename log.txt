@@ -1532,3 +1532,4 @@
 76086. refactor: refactor quiz grading logic #76086
 56549. docs: write FAQ section #56549
 95693. docs: write FAQ section #95693
+90950. fix: handle 500 error in quiz API #90950
