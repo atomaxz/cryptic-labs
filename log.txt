@@ -12017,3 +12017,4 @@
 35697. perf: cache repeated calculations #35697
 87256. style: standardize quote style #87256
 23255. refactor: remove redundant code blocks #23255
+65119. test: test user registration edge cases #65119
