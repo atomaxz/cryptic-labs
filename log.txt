@@ -1533,3 +1533,4 @@
 56549. docs: write FAQ section #56549
 95693. docs: write FAQ section #95693
 90950. fix: handle 500 error in quiz API #90950
+51013. test: increase coverage on auth module #51013
