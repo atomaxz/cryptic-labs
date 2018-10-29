@@ -12021,3 +12021,4 @@
 10418. perf: lazy-load components #10418
 38875. refactor: remove redundant code blocks #38875
 21274. perf: cache repeated calculations #21274
+45480. fix: correct typo in registration form #45480
