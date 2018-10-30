@@ -12023,3 +12023,4 @@
 21274. perf: cache repeated calculations #21274
 45480. fix: correct typo in registration form #45480
 63136. fix: correct typo in registration form #63136
+55259. test: add integration test for /submit endpoint #55259
