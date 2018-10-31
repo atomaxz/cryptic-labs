@@ -12026,3 +12026,4 @@
 55259. test: add integration test for /submit endpoint #55259
 77776. style: reformat files with black #77776
 24586. refactor: clean up auth middleware #24586
+36206. fix: handle 500 error in quiz API #36206
