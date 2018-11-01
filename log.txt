@@ -12028,3 +12028,4 @@
 24586. refactor: clean up auth middleware #24586
 36206. fix: handle 500 error in quiz API #36206
 83161. perf: optimize database query for quiz results #83161
+12228. fix: fix null pointer exception on login #12228
