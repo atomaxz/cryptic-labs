@@ -12037,3 +12037,4 @@
 52869. chore: bump dependencies #52869
 94938. perf: cache repeated calculations #94938
 70902. fix: fix broken CSS in mobile view #70902
+3029. test: mock database connection in test suite #3029
