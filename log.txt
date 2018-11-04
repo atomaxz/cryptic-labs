@@ -12039,3 +12039,4 @@
 70902. fix: fix broken CSS in mobile view #70902
 3029. test: mock database connection in test suite #3029
 51528. fix: resolve issue with date parsing #51528
+54949. docs: document token refresh logic #54949
