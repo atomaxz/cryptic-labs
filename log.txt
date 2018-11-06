@@ -1535,3 +1535,4 @@
 90950. fix: handle 500 error in quiz API #90950
 51013. test: increase coverage on auth module #51013
 0415. chore: clean up unused files #415
+97551. perf: lazy-load components #97551
