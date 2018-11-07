@@ -1537,3 +1537,4 @@
 0415. chore: clean up unused files #415
 97551. perf: lazy-load components #97551
 13349. chore: rename env.example #13349
+46379. docs: update README with setup steps #46379
