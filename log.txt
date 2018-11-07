@@ -12050,3 +12050,4 @@
 93974. refactor: refactor quiz grading logic #93974
 1601. fix: prevent crash on empty input #1601
 26879. refactor: refactor quiz grading logic #26879
+7520. test: test user registration edge cases #7520
