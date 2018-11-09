@@ -1541,3 +1541,4 @@
 10892. feat: create admin dashboard #10892
 6231. refactor: split large controller into smaller functions #6231
 53660. perf: optimize database query for quiz results #53660
+95024. fix: prevent crash on empty input #95024
