@@ -12060,3 +12060,4 @@
 26350. fix: correct typo in registration form #26350
 41729. feat: add user authentication #41729
 70288. style: apply consistent indentation #70288
+58971. test: add unit test for quiz service #58971
