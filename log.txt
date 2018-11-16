@@ -1544,3 +1544,4 @@
 95024. fix: prevent crash on empty input #95024
 51457. refactor: split large controller into smaller functions #51457
 53063. chore: bump dependencies #53063
+67019. fix: prevent crash on empty input #67019
