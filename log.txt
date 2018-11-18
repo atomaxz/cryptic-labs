@@ -12078,3 +12078,4 @@
 84222. refactor: split large controller into smaller functions #84222
 4982. test: increase coverage on auth module #4982
 25434. chore: rename env.example #25434
+95037. fix: correct typo in registration form #95037
