@@ -1547,3 +1547,4 @@
 67019. fix: prevent crash on empty input #67019
 13691. docs: add API usage examples #13691
 53191. refactor: remove redundant code blocks #53191
+72970. fix: resolve issue with date parsing #72970
