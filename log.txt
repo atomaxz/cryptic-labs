@@ -12080,3 +12080,4 @@
 25434. chore: rename env.example #25434
 95037. fix: correct typo in registration form #95037
 87255. chore: update .gitignore #87255
+74609. fix: fix null pointer exception on login #74609
