@@ -12083,3 +12083,4 @@
 74609. fix: fix null pointer exception on login #74609
 48333. fix: fix broken CSS in mobile view #48333
 67405. fix: handle 500 error in quiz API #67405
+46412. perf: cache repeated calculations #46412
