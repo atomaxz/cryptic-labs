@@ -12090,3 +12090,4 @@
 27436. test: add integration test for /submit endpoint #27436
 91817. refactor: split large controller into smaller functions #91817
 37294. style: reformat files with black #37294
+45381. chore: add GitHub actions badge #45381
