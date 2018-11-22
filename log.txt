@@ -12086,3 +12086,4 @@
 46412. perf: cache repeated calculations #46412
 98841. refactor: split large controller into smaller functions #98841
 28192. chore: update .gitignore #28192
+60641. fix: fix null pointer exception on login #60641
