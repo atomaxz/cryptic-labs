@@ -12091,3 +12091,4 @@
 91817. refactor: split large controller into smaller functions #91817
 37294. style: reformat files with black #37294
 45381. chore: add GitHub actions badge #45381
+34800. docs: update README with setup steps #34800
