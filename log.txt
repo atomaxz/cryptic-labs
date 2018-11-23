@@ -12097,3 +12097,4 @@
 15032. fix: fix broken CSS in mobile view #15032
 76041. style: rename variables for clarity #76041
 31222. perf: reduce image load time #31222
+25444. feat: create admin dashboard #25444
