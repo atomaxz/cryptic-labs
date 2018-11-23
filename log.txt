@@ -12092,3 +12092,4 @@
 37294. style: reformat files with black #37294
 45381. chore: add GitHub actions badge #45381
 34800. docs: update README with setup steps #34800
+76423. test: add integration test for /submit endpoint #76423
