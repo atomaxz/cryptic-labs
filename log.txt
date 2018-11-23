@@ -12094,3 +12094,4 @@
 34800. docs: update README with setup steps #34800
 76423. test: add integration test for /submit endpoint #76423
 5716. test: test user registration edge cases #5716
+15032. fix: fix broken CSS in mobile view #15032
