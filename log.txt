@@ -12096,3 +12096,4 @@
 5716. test: test user registration edge cases #5716
 15032. fix: fix broken CSS in mobile view #15032
 76041. style: rename variables for clarity #76041
+31222. perf: reduce image load time #31222
