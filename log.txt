@@ -12105,3 +12105,4 @@
 76972. test: add integration test for /submit endpoint #76972
 79051. feat: enable dark mode toggle #79051
 47284. perf: cache repeated calculations #47284
+32203. perf: optimize database query for quiz results #32203
