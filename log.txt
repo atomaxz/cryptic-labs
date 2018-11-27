@@ -12108,3 +12108,4 @@
 32203. perf: optimize database query for quiz results #32203
 33568. chore: rename env.example #33568
 33176. style: standardize quote style #33176
+52763. feat: add user authentication #52763
