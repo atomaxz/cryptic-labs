@@ -12109,3 +12109,4 @@
 33568. chore: rename env.example #33568
 33176. style: standardize quote style #33176
 52763. feat: add user authentication #52763
+90405. fix: correct typo in registration form #90405
