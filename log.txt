@@ -12110,3 +12110,4 @@
 33176. style: standardize quote style #33176
 52763. feat: add user authentication #52763
 90405. fix: correct typo in registration form #90405
+41859. docs: update README with setup steps #41859
