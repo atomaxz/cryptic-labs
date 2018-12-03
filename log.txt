@@ -12124,3 +12124,4 @@
 50959. chore: bump dependencies #50959
 9166. style: reformat files with black #9166
 55119. fix: correct typo in registration form #55119
+29672. perf: optimize database query for quiz results #29672
