@@ -12126,3 +12126,4 @@
 55119. fix: correct typo in registration form #55119
 29672. perf: optimize database query for quiz results #29672
 96302. chore: add GitHub actions badge #96302
+2502. style: remove trailing whitespace #2502
