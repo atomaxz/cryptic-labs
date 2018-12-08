@@ -12133,3 +12133,4 @@
 42730. test: test user registration edge cases #42730
 23569. docs: improve code comments in utils #23569
 95137. feat: support email verification #95137
+3911. perf: cache repeated calculations #3911
