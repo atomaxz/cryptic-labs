@@ -1552,3 +1552,4 @@
 72812. refactor: split large controller into smaller functions #72812
 37939. fix: correct typo in registration form #37939
 87113. perf: cache repeated calculations #87113
+6075. docs: document token refresh logic #6075
