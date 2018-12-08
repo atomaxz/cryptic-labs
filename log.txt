@@ -12134,3 +12134,4 @@
 23569. docs: improve code comments in utils #23569
 95137. feat: support email verification #95137
 3911. perf: cache repeated calculations #3911
+66284. fix: fix broken CSS in mobile view #66284
