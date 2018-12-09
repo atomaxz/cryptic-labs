@@ -12137,3 +12137,4 @@
 66284. fix: fix broken CSS in mobile view #66284
 61519. chore: clean up unused files #61519
 63773. chore: clean up unused files #63773
+14933. docs: update README with setup steps #14933
