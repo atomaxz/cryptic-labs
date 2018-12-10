@@ -12143,3 +12143,4 @@
 6217. style: reformat files with black #6217
 63214. fix: correct typo in registration form #63214
 91842. perf: cache repeated calculations #91842
+50470. fix: fix null pointer exception on login #50470
