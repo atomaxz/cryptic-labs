@@ -12139,3 +12139,4 @@
 63773. chore: clean up unused files #63773
 14933. docs: update README with setup steps #14933
 92317. feat: add export to CSV option #92317
+72171. test: increase coverage on auth module #72171
