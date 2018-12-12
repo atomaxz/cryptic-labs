@@ -12150,3 +12150,4 @@
 83366. style: apply consistent indentation #83366
 17294. perf: lazy-load components #17294
 27602. fix: resolve issue with date parsing #27602
+17472. fix: handle 500 error in quiz API #17472
