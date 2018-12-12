@@ -12148,3 +12148,4 @@
 53242. chore: clean up unused files #53242
 46079. refactor: split large controller into smaller functions #46079
 83366. style: apply consistent indentation #83366
+17294. perf: lazy-load components #17294
