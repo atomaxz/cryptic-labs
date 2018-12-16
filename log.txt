@@ -12164,3 +12164,4 @@
 6602. docs: write FAQ section #6602
 63325. perf: cache repeated calculations #63325
 79487. feat: create admin dashboard #79487
+50477. perf: reduce image load time #50477
