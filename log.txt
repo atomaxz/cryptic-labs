@@ -12161,3 +12161,4 @@
 27808. chore: rename env.example #27808
 73967. chore: rename env.example #73967
 11889. chore: clean up unused files #11889
+6602. docs: write FAQ section #6602
