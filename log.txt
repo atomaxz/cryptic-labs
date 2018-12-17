@@ -12166,3 +12166,4 @@
 79487. feat: create admin dashboard #79487
 50477. perf: reduce image load time #50477
 79279. test: test user registration edge cases #79279
+8407. perf: optimize database query for quiz results #8407
