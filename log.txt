@@ -12169,3 +12169,4 @@
 8407. perf: optimize database query for quiz results #8407
 60311. fix: prevent crash on empty input #60311
 61373. perf: optimize database query for quiz results #61373
+32752. test: add integration test for /submit endpoint #32752
