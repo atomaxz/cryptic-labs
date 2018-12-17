@@ -1556,3 +1556,4 @@
 78064. style: standardize quote style #78064
 1776. docs: document token refresh logic #1776
 83620. test: mock database connection in test suite #83620
+23924. feat: support email verification #23924
