@@ -1557,3 +1557,4 @@
 1776. docs: document token refresh logic #1776
 83620. test: mock database connection in test suite #83620
 23924. feat: support email verification #23924
+24765. style: remove trailing whitespace #24765
