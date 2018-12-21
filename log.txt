@@ -12176,3 +12176,4 @@
 68340. style: reformat files with black #68340
 57930. feat: create admin dashboard #57930
 18736. style: rename variables for clarity #18736
+1232. refactor: split large controller into smaller functions #1232
