@@ -1558,3 +1558,4 @@
 83620. test: mock database connection in test suite #83620
 23924. feat: support email verification #23924
 24765. style: remove trailing whitespace #24765
+63690. docs: add API usage examples #63690
