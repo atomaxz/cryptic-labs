@@ -12184,3 +12184,4 @@
 87804. test: test user registration edge cases #87804
 13031. chore: rename env.example #13031
 94975. test: test user registration edge cases #94975
+51733. test: add integration test for /submit endpoint #51733
