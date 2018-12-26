@@ -12188,3 +12188,4 @@
 45617. fix: fix null pointer exception on login #45617
 46207. style: remove trailing whitespace #46207
 55122. feat: add export to CSV option #55122
+65038. fix: prevent crash on empty input #65038
