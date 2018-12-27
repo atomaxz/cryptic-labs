@@ -1561,3 +1561,4 @@
 63690. docs: add API usage examples #63690
 27318. fix: handle 500 error in quiz API #27318
 30990. chore: bump dependencies #30990
+74063. perf: lazy-load components #74063
