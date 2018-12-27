@@ -12191,3 +12191,4 @@
 65038. fix: prevent crash on empty input #65038
 35469. chore: add GitHub actions badge #35469
 40253. chore: rename env.example #40253
+79457. refactor: clean up auth middleware #79457
