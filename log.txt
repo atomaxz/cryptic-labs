@@ -1563,3 +1563,4 @@
 30990. chore: bump dependencies #30990
 74063. perf: lazy-load components #74063
 41306. docs: add API usage examples #41306
+19378. perf: reduce image load time #19378
