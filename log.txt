@@ -12193,3 +12193,4 @@
 40253. chore: rename env.example #40253
 79457. refactor: clean up auth middleware #79457
 40007. style: remove trailing whitespace #40007
+10035. fix: fix broken CSS in mobile view #10035
