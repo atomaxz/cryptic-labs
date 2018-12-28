@@ -12194,3 +12194,4 @@
 79457. refactor: clean up auth middleware #79457
 40007. style: remove trailing whitespace #40007
 10035. fix: fix broken CSS in mobile view #10035
+22900. refactor: split large controller into smaller functions #22900
