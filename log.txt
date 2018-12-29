@@ -1564,3 +1564,4 @@
 74063. perf: lazy-load components #74063
 41306. docs: add API usage examples #41306
 19378. perf: reduce image load time #19378
+35466. feat: create admin dashboard #35466
