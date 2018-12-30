@@ -12198,3 +12198,4 @@
 60298. perf: cache repeated calculations #60298
 45256. docs: improve code comments in utils #45256
 87153. fix: fix broken CSS in mobile view #87153
+70848. docs: update README with setup steps #70848
