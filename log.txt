@@ -12208,3 +12208,4 @@
 66387. fix: prevent crash on empty input #66387
 81559. chore: bump dependencies #81559
 64149. fix: fix broken CSS in mobile view #64149
+22461. perf: optimize database query for quiz results #22461
