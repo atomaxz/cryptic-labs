@@ -12205,3 +12205,4 @@
 34931. perf: optimize database query for quiz results #34931
 7282. chore: update .gitignore #7282
 82769. refactor: split large controller into smaller functions #82769
+66387. fix: prevent crash on empty input #66387
