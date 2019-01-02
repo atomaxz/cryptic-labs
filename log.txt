@@ -12214,3 +12214,4 @@
 71017. chore: add GitHub actions badge #71017
 35509. refactor: split large controller into smaller functions #35509
 7188. test: mock database connection in test suite #7188
+22272. docs: add API usage examples #22272
