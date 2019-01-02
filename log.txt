@@ -1567,3 +1567,4 @@
 35466. feat: create admin dashboard #35466
 27242. style: reformat files with black #27242
 74280. style: apply consistent indentation #74280
+48047. refactor: organize models into subfolders #48047
