@@ -12218,3 +12218,4 @@
 89709. style: reformat files with black #89709
 87423. docs: write FAQ section #87423
 65550. feat: enable dark mode toggle #65550
+55932. refactor: organize models into subfolders #55932
