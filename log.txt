@@ -12234,3 +12234,4 @@
 57940. fix: fix broken CSS in mobile view #57940
 14766. docs: add API usage examples #14766
 89655. feat: create admin dashboard #89655
+22118. refactor: clean up auth middleware #22118
