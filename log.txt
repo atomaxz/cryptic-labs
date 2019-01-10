@@ -12236,3 +12236,4 @@
 89655. feat: create admin dashboard #89655
 22118. refactor: clean up auth middleware #22118
 94337. refactor: clean up auth middleware #94337
+32336. perf: optimize database query for quiz results #32336
