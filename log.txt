@@ -12242,3 +12242,4 @@
 14879. fix: handle 500 error in quiz API #14879
 60171. docs: write FAQ section #60171
 82498. perf: lazy-load components #82498
+22361. refactor: clean up auth middleware #22361
