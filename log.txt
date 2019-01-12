@@ -12241,3 +12241,4 @@
 30922. chore: update .gitignore #30922
 14879. fix: handle 500 error in quiz API #14879
 60171. docs: write FAQ section #60171
+82498. perf: lazy-load components #82498
