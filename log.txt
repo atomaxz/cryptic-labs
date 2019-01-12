@@ -1572,3 +1572,4 @@
 55342. docs: clarify environment setup #55342
 76199. test: test user registration edge cases #76199
 71624. docs: document token refresh logic #71624
+19991. docs: write FAQ section #19991
