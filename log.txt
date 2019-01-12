@@ -12239,3 +12239,4 @@
 32336. perf: optimize database query for quiz results #32336
 54086. refactor: organize models into subfolders #54086
 30922. chore: update .gitignore #30922
+14879. fix: handle 500 error in quiz API #14879
