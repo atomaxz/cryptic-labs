@@ -12250,3 +12250,4 @@
 54520. chore: bump dependencies #54520
 77026. feat: add user authentication #77026
 24477. docs: document token refresh logic #24477
+38747. chore: add GitHub actions badge #38747
