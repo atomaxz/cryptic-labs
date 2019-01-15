@@ -12254,3 +12254,4 @@
 15329. perf: reduce image load time #15329
 27790. docs: document token refresh logic #27790
 74810. chore: add GitHub actions badge #74810
+66761. chore: rename env.example #66761
