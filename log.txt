@@ -12271,3 +12271,4 @@
 61956. chore: rename env.example #61956
 41115. chore: rename env.example #41115
 61366. docs: document token refresh logic #61366
+29569. fix: fix broken CSS in mobile view #29569
