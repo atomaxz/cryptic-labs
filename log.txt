@@ -12272,3 +12272,4 @@
 41115. chore: rename env.example #41115
 61366. docs: document token refresh logic #61366
 29569. fix: fix broken CSS in mobile view #29569
+41017. refactor: organize models into subfolders #41017
