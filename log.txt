@@ -12280,3 +12280,4 @@
 79682. style: reformat files with black #79682
 5063. feat: support email verification #5063
 81885. docs: write FAQ section #81885
+21886. fix: fix null pointer exception on login #21886
