@@ -12281,3 +12281,4 @@
 5063. feat: support email verification #5063
 81885. docs: write FAQ section #81885
 21886. fix: fix null pointer exception on login #21886
+53902. test: test user registration edge cases #53902
