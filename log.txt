@@ -12282,3 +12282,4 @@
 81885. docs: write FAQ section #81885
 21886. fix: fix null pointer exception on login #21886
 53902. test: test user registration edge cases #53902
+31492. fix: handle 500 error in quiz API #31492
