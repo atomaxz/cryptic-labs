@@ -12284,3 +12284,4 @@
 53902. test: test user registration edge cases #53902
 31492. fix: handle 500 error in quiz API #31492
 49347. perf: cache repeated calculations #49347
+20409. fix: fix broken CSS in mobile view #20409
