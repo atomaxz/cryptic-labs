@@ -1578,3 +1578,4 @@
 28214. perf: cache repeated calculations #28214
 81850. style: apply consistent indentation #81850
 94068. docs: update README with setup steps #94068
+27005. docs: write FAQ section #27005
