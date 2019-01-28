@@ -12287,3 +12287,4 @@
 20409. fix: fix broken CSS in mobile view #20409
 30270. fix: fix null pointer exception on login #30270
 95595. test: mock database connection in test suite #95595
+46747. feat: add export to CSV option #46747
