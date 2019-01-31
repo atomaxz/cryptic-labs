@@ -12290,3 +12290,4 @@
 46747. feat: add export to CSV option #46747
 32894. feat: add export to CSV option #32894
 60930. perf: optimize database query for quiz results #60930
+46172. docs: update README with setup steps #46172
