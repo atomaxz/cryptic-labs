@@ -1581,3 +1581,4 @@
 27005. docs: write FAQ section #27005
 92414. feat: implement quiz timer feature #92414
 37858. test: add unit test for quiz service #37858
+71620. perf: reduce image load time #71620
