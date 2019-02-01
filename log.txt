@@ -12295,3 +12295,4 @@
 46715. fix: resolve issue with date parsing #46715
 49809. chore: rename env.example #49809
 78217. style: standardize quote style #78217
+52374. feat: add user authentication #52374
