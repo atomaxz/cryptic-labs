@@ -12297,3 +12297,4 @@
 78217. style: standardize quote style #78217
 52374. feat: add user authentication #52374
 89091. fix: fix broken CSS in mobile view #89091
+23428. feat: enable dark mode toggle #23428
