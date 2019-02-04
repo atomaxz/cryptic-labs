@@ -12301,3 +12301,4 @@
 37577. docs: write FAQ section #37577
 36798. style: reformat files with black #36798
 98137. docs: write FAQ section #98137
+63379. feat: support email verification #63379
