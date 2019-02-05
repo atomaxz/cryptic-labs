@@ -12303,3 +12303,4 @@
 98137. docs: write FAQ section #98137
 63379. feat: support email verification #63379
 94053. fix: resolve issue with date parsing #94053
+50824. chore: bump dependencies #50824
