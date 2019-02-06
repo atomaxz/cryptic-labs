@@ -12305,3 +12305,4 @@
 94053. fix: resolve issue with date parsing #94053
 50824. chore: bump dependencies #50824
 52916. perf: reduce image load time #52916
+29194. fix: handle 500 error in quiz API #29194
