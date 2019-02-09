@@ -12316,3 +12316,4 @@
 95075. docs: clarify environment setup #95075
 1336. refactor: remove redundant code blocks #1336
 82713. style: apply consistent indentation #82713
+39683. test: test user registration edge cases #39683
