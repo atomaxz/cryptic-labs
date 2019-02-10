@@ -12319,3 +12319,4 @@
 39683. test: test user registration edge cases #39683
 98689. test: test user registration edge cases #98689
 28372. test: mock database connection in test suite #28372
+33359. docs: write FAQ section #33359
