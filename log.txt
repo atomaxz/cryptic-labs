@@ -12322,3 +12322,4 @@
 33359. docs: write FAQ section #33359
 24638. fix: fix null pointer exception on login #24638
 51332. docs: update README with setup steps #51332
+93484. fix: prevent crash on empty input #93484
