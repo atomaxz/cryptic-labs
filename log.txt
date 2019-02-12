@@ -12325,3 +12325,4 @@
 93484. fix: prevent crash on empty input #93484
 8684. perf: optimize database query for quiz results #8684
 73248. feat: create admin dashboard #73248
+56023. refactor: clean up auth middleware #56023
