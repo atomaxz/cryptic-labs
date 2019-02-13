@@ -12330,3 +12330,4 @@
 87910. feat: implement quiz timer feature #87910
 7748. chore: update .gitignore #7748
 9850. perf: cache repeated calculations #9850
+85616. perf: reduce image load time #85616
