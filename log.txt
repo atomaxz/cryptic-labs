@@ -12328,3 +12328,4 @@
 56023. refactor: clean up auth middleware #56023
 34159. refactor: refactor quiz grading logic #34159
 87910. feat: implement quiz timer feature #87910
+7748. chore: update .gitignore #7748
