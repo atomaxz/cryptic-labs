@@ -12331,3 +12331,4 @@
 7748. chore: update .gitignore #7748
 9850. perf: cache repeated calculations #9850
 85616. perf: reduce image load time #85616
+96218. style: standardize quote style #96218
