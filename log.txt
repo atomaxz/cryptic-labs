@@ -12334,3 +12334,4 @@
 96218. style: standardize quote style #96218
 12155. chore: add GitHub actions badge #12155
 87405. style: standardize quote style #87405
+23703. style: apply consistent indentation #23703
