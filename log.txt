@@ -12333,3 +12333,4 @@
 85616. perf: reduce image load time #85616
 96218. style: standardize quote style #96218
 12155. chore: add GitHub actions badge #12155
+87405. style: standardize quote style #87405
