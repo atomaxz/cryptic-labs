@@ -12337,3 +12337,4 @@
 23703. style: apply consistent indentation #23703
 77544. style: reformat files with black #77544
 26726. docs: add API usage examples #26726
+51523. test: test user registration edge cases #51523
