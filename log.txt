@@ -1592,3 +1592,4 @@
 43166. feat: create admin dashboard #43166
 99535. chore: clean up unused files #99535
 73897. fix: fix null pointer exception on login #73897
+40061. test: increase coverage on auth module #40061
