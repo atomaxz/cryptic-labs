@@ -1591,3 +1591,4 @@
 81439. style: standardize quote style #81439
 43166. feat: create admin dashboard #43166
 99535. chore: clean up unused files #99535
+73897. fix: fix null pointer exception on login #73897
