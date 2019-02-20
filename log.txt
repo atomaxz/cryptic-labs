@@ -1594,3 +1594,4 @@
 73897. fix: fix null pointer exception on login #73897
 40061. test: increase coverage on auth module #40061
 14017. chore: bump dependencies #14017
+77718. chore: add GitHub actions badge #77718
