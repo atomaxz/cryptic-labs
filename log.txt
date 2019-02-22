@@ -12356,3 +12356,4 @@
 94542. style: remove trailing whitespace #94542
 0258. docs: update README with setup steps #258
 53636. test: test user registration edge cases #53636
+90997. perf: lazy-load components #90997
