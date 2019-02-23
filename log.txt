@@ -1598,3 +1598,4 @@
 99749. chore: add GitHub actions badge #99749
 56266. test: add unit test for quiz service #56266
 59563. style: remove trailing whitespace #59563
+8987. fix: resolve issue with date parsing #8987
