@@ -12371,3 +12371,4 @@
 55102. chore: rename env.example #55102
 35774. feat: implement quiz timer feature #35774
 22908. feat: support email verification #22908
+34727. docs: update README with setup steps #34727
