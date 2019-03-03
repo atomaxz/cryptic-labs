@@ -12374,3 +12374,4 @@
 34727. docs: update README with setup steps #34727
 7113. style: remove trailing whitespace #7113
 41301. chore: add GitHub actions badge #41301
+92096. style: remove trailing whitespace #92096
