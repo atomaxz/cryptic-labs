@@ -1604,3 +1604,4 @@
 38875. refactor: remove redundant code blocks #38875
 90668. test: add integration test for /submit endpoint #90668
 67752. perf: cache repeated calculations #67752
+15901. perf: optimize database query for quiz results #15901
