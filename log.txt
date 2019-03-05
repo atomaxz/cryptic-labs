@@ -12381,3 +12381,4 @@
 80589. test: add unit test for quiz service #80589
 4686. perf: lazy-load components #4686
 66875. feat: add export to CSV option #66875
+91397. test: increase coverage on auth module #91397
