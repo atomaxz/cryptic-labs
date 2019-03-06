@@ -1607,3 +1607,4 @@
 15901. perf: optimize database query for quiz results #15901
 56434. test: increase coverage on auth module #56434
 64400. refactor: remove redundant code blocks #64400
+13764. docs: add API usage examples #13764
