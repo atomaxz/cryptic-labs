@@ -12384,3 +12384,4 @@
 91397. test: increase coverage on auth module #91397
 0500. feat: support email verification #500
 38330. docs: improve code comments in utils #38330
+24342. refactor: organize models into subfolders #24342
