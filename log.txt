@@ -12386,3 +12386,4 @@
 38330. docs: improve code comments in utils #38330
 24342. refactor: organize models into subfolders #24342
 39346. refactor: refactor quiz grading logic #39346
+5338. refactor: clean up auth middleware #5338
