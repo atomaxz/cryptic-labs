@@ -12389,3 +12389,4 @@
 5338. refactor: clean up auth middleware #5338
 59096. docs: clarify environment setup #59096
 16380. fix: handle 500 error in quiz API #16380
+24628. feat: add user authentication #24628
