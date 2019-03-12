@@ -12405,3 +12405,4 @@
 66732. feat: support email verification #66732
 59065. feat: add export to CSV option #59065
 97527. test: add integration test for /submit endpoint #97527
+47696. test: mock database connection in test suite #47696
