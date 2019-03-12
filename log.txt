@@ -12408,3 +12408,4 @@
 47696. test: mock database connection in test suite #47696
 69155. fix: fix broken CSS in mobile view #69155
 62069. docs: add API usage examples #62069
+90527. refactor: organize models into subfolders #90527
