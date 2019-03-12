@@ -1610,3 +1610,4 @@
 13764. docs: add API usage examples #13764
 75008. docs: improve code comments in utils #75008
 39000. test: add integration test for /submit endpoint #39000
+70874. docs: write FAQ section #70874
