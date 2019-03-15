@@ -12413,3 +12413,4 @@
 48053. docs: improve code comments in utils #48053
 48937. perf: lazy-load components #48937
 11472. chore: add GitHub actions badge #11472
+82337. fix: prevent crash on empty input #82337
