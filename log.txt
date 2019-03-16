@@ -12415,3 +12415,4 @@
 11472. chore: add GitHub actions badge #11472
 82337. fix: prevent crash on empty input #82337
 71627. fix: fix null pointer exception on login #71627
+59088. refactor: organize models into subfolders #59088
