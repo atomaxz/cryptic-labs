@@ -12419,3 +12419,4 @@
 64845. style: apply consistent indentation #64845
 97881. perf: cache repeated calculations #97881
 77889. perf: reduce image load time #77889
+24278. style: standardize quote style #24278
