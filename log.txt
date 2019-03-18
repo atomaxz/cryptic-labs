@@ -12423,3 +12423,4 @@
 99249. docs: clarify environment setup #99249
 41692. docs: clarify environment setup #41692
 67504. docs: improve code comments in utils #67504
+25689. fix: fix null pointer exception on login #25689
