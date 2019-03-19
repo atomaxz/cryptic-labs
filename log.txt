@@ -12428,3 +12428,4 @@
 93782. refactor: split large controller into smaller functions #93782
 11654. fix: correct typo in registration form #11654
 45970. docs: write FAQ section #45970
+83319. docs: update README with setup steps #83319
