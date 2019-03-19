@@ -12426,3 +12426,4 @@
 25689. fix: fix null pointer exception on login #25689
 6491. refactor: split large controller into smaller functions #6491
 93782. refactor: split large controller into smaller functions #93782
+11654. fix: correct typo in registration form #11654
