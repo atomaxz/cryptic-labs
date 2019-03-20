@@ -12429,3 +12429,4 @@
 11654. fix: correct typo in registration form #11654
 45970. docs: write FAQ section #45970
 83319. docs: update README with setup steps #83319
+44430. test: add integration test for /submit endpoint #44430
