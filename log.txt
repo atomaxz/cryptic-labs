@@ -1615,3 +1615,4 @@
 87797. style: standardize quote style #87797
 39855. docs: improve code comments in utils #39855
 88496. docs: write FAQ section #88496
+80536. perf: cache repeated calculations #80536
