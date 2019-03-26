@@ -1617,3 +1617,4 @@
 88496. docs: write FAQ section #88496
 80536. perf: cache repeated calculations #80536
 27595. docs: add API usage examples #27595
+43457. perf: lazy-load components #43457
