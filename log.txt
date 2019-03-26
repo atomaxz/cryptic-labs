@@ -12437,3 +12437,4 @@
 92451. refactor: remove redundant code blocks #92451
 99066. chore: add GitHub actions badge #99066
 72664. test: increase coverage on auth module #72664
+68244. test: test user registration edge cases #68244
