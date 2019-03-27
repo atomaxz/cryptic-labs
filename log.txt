@@ -12442,3 +12442,4 @@
 98902. test: test user registration edge cases #98902
 49393. docs: document token refresh logic #49393
 17163. feat: enable dark mode toggle #17163
+71981. fix: correct typo in registration form #71981
