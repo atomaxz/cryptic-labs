@@ -1619,3 +1619,4 @@
 27595. docs: add API usage examples #27595
 43457. perf: lazy-load components #43457
 71400. docs: improve code comments in utils #71400
+40271. feat: enable dark mode toggle #40271
