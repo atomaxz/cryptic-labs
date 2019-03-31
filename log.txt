@@ -12448,3 +12448,4 @@
 60555. refactor: remove redundant code blocks #60555
 48111. chore: bump dependencies #48111
 22602. feat: enable dark mode toggle #22602
+90448. fix: prevent crash on empty input #90448
