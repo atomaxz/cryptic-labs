@@ -12455,3 +12455,4 @@
 65731. perf: cache repeated calculations #65731
 42746. feat: implement quiz timer feature #42746
 6189. refactor: organize models into subfolders #6189
+95028. test: increase coverage on auth module #95028
