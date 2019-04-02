@@ -12459,3 +12459,4 @@
 0421. refactor: refactor quiz grading logic #421
 4244. feat: implement quiz timer feature #4244
 1392. chore: bump dependencies #1392
+66472. perf: reduce image load time #66472
