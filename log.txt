@@ -12461,3 +12461,4 @@
 1392. chore: bump dependencies #1392
 66472. perf: reduce image load time #66472
 65217. perf: optimize database query for quiz results #65217
+35264. chore: add GitHub actions badge #35264
