@@ -12469,3 +12469,4 @@
 36282. chore: rename env.example #36282
 60492. perf: optimize database query for quiz results #60492
 17275. test: test user registration edge cases #17275
+15473. fix: fix null pointer exception on login #15473
