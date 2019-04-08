@@ -1626,3 +1626,4 @@
 59259. feat: add export to CSV option #59259
 2800. fix: correct typo in registration form #2800
 84558. docs: clarify environment setup #84558
+88850. perf: reduce image load time #88850
