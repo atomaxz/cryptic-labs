@@ -12473,3 +12473,4 @@
 39417. refactor: organize models into subfolders #39417
 50410. perf: reduce image load time #50410
 3561. fix: fix null pointer exception on login #3561
+66512. feat: create admin dashboard #66512
