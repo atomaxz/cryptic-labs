@@ -1627,3 +1627,4 @@
 2800. fix: correct typo in registration form #2800
 84558. docs: clarify environment setup #84558
 88850. perf: reduce image load time #88850
+89772. chore: clean up unused files #89772
