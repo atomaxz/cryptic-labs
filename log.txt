@@ -12480,3 +12480,4 @@
 56527. perf: optimize database query for quiz results #56527
 40840. fix: prevent crash on empty input #40840
 1464. test: mock database connection in test suite #1464
+22265. refactor: clean up auth middleware #22265
