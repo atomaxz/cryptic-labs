@@ -12484,3 +12484,4 @@
 66839. chore: bump dependencies #66839
 45679. chore: bump dependencies #45679
 63115. fix: prevent crash on empty input #63115
+93098. docs: update README with setup steps #93098
