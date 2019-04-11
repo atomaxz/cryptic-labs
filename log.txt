@@ -12482,3 +12482,4 @@
 1464. test: mock database connection in test suite #1464
 22265. refactor: clean up auth middleware #22265
 66839. chore: bump dependencies #66839
+45679. chore: bump dependencies #45679
