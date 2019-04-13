@@ -1631,3 +1631,4 @@
 15753. style: standardize quote style #15753
 95145. style: standardize quote style #95145
 23090. chore: update .gitignore #23090
+22290. perf: cache repeated calculations #22290
