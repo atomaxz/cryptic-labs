@@ -12489,3 +12489,4 @@
 45940. docs: add API usage examples #45940
 53964. refactor: refactor quiz grading logic #53964
 49159. fix: fix null pointer exception on login #49159
+52566. test: test user registration edge cases #52566
