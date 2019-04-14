@@ -12488,3 +12488,4 @@
 10130. test: add unit test for quiz service #10130
 45940. docs: add API usage examples #45940
 53964. refactor: refactor quiz grading logic #53964
+49159. fix: fix null pointer exception on login #49159
