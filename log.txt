@@ -12499,3 +12499,4 @@
 82977. style: rename variables for clarity #82977
 46506. feat: add export to CSV option #46506
 2575. feat: implement quiz timer feature #2575
+32963. feat: add export to CSV option #32963
