@@ -12510,3 +12510,4 @@
 18805. chore: bump dependencies #18805
 29164. chore: update .gitignore #29164
 83502. feat: support email verification #83502
+12875. fix: correct typo in registration form #12875
