@@ -12509,3 +12509,4 @@
 90599. chore: add GitHub actions badge #90599
 18805. chore: bump dependencies #18805
 29164. chore: update .gitignore #29164
+83502. feat: support email verification #83502
