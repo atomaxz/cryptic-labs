@@ -12506,3 +12506,4 @@
 44170. docs: write FAQ section #44170
 49838. test: add unit test for quiz service #49838
 9207. refactor: remove redundant code blocks #9207
+90599. chore: add GitHub actions badge #90599
