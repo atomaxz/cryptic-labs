@@ -12518,3 +12518,4 @@
 16999. test: test user registration edge cases #16999
 16329. docs: add API usage examples #16329
 29690. style: apply consistent indentation #29690
+65156. fix: resolve issue with date parsing #65156
