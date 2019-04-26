@@ -1640,3 +1640,4 @@
 28876. fix: resolve issue with date parsing #28876
 88603. style: apply consistent indentation #88603
 90951. feat: create admin dashboard #90951
+65839. feat: support email verification #65839
