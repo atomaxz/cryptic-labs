@@ -1641,3 +1641,4 @@
 88603. style: apply consistent indentation #88603
 90951. feat: create admin dashboard #90951
 65839. feat: support email verification #65839
+71856. fix: fix broken CSS in mobile view #71856
