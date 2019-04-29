@@ -12533,3 +12533,4 @@
 13910. chore: rename env.example #13910
 13394. chore: update .gitignore #13394
 49216. style: remove trailing whitespace #49216
+44209. docs: update README with setup steps #44209
