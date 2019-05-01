@@ -12537,3 +12537,4 @@
 51632. feat: add user authentication #51632
 37929. refactor: split large controller into smaller functions #37929
 92023. feat: implement quiz timer feature #92023
+85303. fix: handle 500 error in quiz API #85303
