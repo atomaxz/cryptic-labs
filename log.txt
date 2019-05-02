@@ -1643,3 +1643,4 @@
 65839. feat: support email verification #65839
 71856. fix: fix broken CSS in mobile view #71856
 96250. fix: fix broken CSS in mobile view #96250
+47518. style: remove trailing whitespace #47518
