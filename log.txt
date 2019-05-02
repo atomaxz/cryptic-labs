@@ -12539,3 +12539,4 @@
 92023. feat: implement quiz timer feature #92023
 85303. fix: handle 500 error in quiz API #85303
 80327. docs: add API usage examples #80327
+96468. fix: prevent crash on empty input #96468
