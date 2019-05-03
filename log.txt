@@ -12543,3 +12543,4 @@
 2205. test: mock database connection in test suite #2205
 29436. fix: handle 500 error in quiz API #29436
 55181. feat: create admin dashboard #55181
+11011. test: increase coverage on auth module #11011
