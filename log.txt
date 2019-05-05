@@ -12549,3 +12549,4 @@
 76618. fix: resolve issue with date parsing #76618
 14710. feat: add user authentication #14710
 53770. docs: clarify environment setup #53770
+1896. fix: fix null pointer exception on login #1896
