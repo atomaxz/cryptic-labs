@@ -1645,3 +1645,4 @@
 96250. fix: fix broken CSS in mobile view #96250
 47518. style: remove trailing whitespace #47518
 67465. fix: prevent crash on empty input #67465
+22583. docs: clarify environment setup #22583
