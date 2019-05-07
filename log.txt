@@ -12553,3 +12553,4 @@
 87953. test: mock database connection in test suite #87953
 88129. chore: bump dependencies #88129
 21061. test: increase coverage on auth module #21061
+82640. chore: bump dependencies #82640
