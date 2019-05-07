@@ -1646,3 +1646,4 @@
 47518. style: remove trailing whitespace #47518
 67465. fix: prevent crash on empty input #67465
 22583. docs: clarify environment setup #22583
+2439. test: mock database connection in test suite #2439
