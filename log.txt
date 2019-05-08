@@ -1647,3 +1647,4 @@
 67465. fix: prevent crash on empty input #67465
 22583. docs: clarify environment setup #22583
 2439. test: mock database connection in test suite #2439
+98352. test: add integration test for /submit endpoint #98352
