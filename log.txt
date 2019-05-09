@@ -12556,3 +12556,4 @@
 82640. chore: bump dependencies #82640
 23715. chore: add GitHub actions badge #23715
 32379. fix: handle 500 error in quiz API #32379
+1748. style: reformat files with black #1748
