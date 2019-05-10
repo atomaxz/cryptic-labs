@@ -12559,3 +12559,4 @@
 1748. style: reformat files with black #1748
 70237. perf: optimize database query for quiz results #70237
 55584. refactor: organize models into subfolders #55584
+1246. test: mock database connection in test suite #1246
