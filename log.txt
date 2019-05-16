@@ -1649,3 +1649,4 @@
 2439. test: mock database connection in test suite #2439
 98352. test: add integration test for /submit endpoint #98352
 45003. feat: support email verification #45003
+24888. chore: update .gitignore #24888
