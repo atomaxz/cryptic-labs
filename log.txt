@@ -12582,3 +12582,4 @@
 95665. feat: implement quiz timer feature #95665
 23141. feat: implement quiz timer feature #23141
 87563. test: mock database connection in test suite #87563
+45155. fix: prevent crash on empty input #45155
