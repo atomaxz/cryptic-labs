@@ -12587,3 +12587,4 @@
 6685. feat: add user authentication #6685
 83744. fix: prevent crash on empty input #83744
 17698. perf: optimize database query for quiz results #17698
+79335. fix: prevent crash on empty input #79335
