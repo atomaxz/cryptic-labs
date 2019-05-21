@@ -12593,3 +12593,4 @@
 71796. feat: support email verification #71796
 36727. fix: correct typo in registration form #36727
 62380. test: add integration test for /submit endpoint #62380
+18414. chore: add GitHub actions badge #18414
