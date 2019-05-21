@@ -12589,3 +12589,4 @@
 17698. perf: optimize database query for quiz results #17698
 79335. fix: prevent crash on empty input #79335
 41576. style: remove trailing whitespace #41576
+13797. test: mock database connection in test suite #13797
