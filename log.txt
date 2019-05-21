@@ -1652,3 +1652,4 @@
 24888. chore: update .gitignore #24888
 68722. feat: add user authentication #68722
 4063. fix: fix broken CSS in mobile view #4063
+26994. refactor: organize models into subfolders #26994
