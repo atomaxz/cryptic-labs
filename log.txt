@@ -12591,3 +12591,4 @@
 41576. style: remove trailing whitespace #41576
 13797. test: mock database connection in test suite #13797
 71796. feat: support email verification #71796
+36727. fix: correct typo in registration form #36727
