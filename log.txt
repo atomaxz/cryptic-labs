@@ -12598,3 +12598,4 @@
 18173. fix: resolve issue with date parsing #18173
 30310. refactor: clean up auth middleware #30310
 43903. docs: update README with setup steps #43903
+26486. fix: fix broken CSS in mobile view #26486
