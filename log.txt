@@ -12600,3 +12600,4 @@
 43903. docs: update README with setup steps #43903
 26486. fix: fix broken CSS in mobile view #26486
 63294. docs: write FAQ section #63294
+80537. perf: cache repeated calculations #80537
