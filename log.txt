@@ -12603,3 +12603,4 @@
 80537. perf: cache repeated calculations #80537
 78333. perf: lazy-load components #78333
 30029. style: reformat files with black #30029
+78378. feat: support email verification #78378
