@@ -12604,3 +12604,4 @@
 78333. perf: lazy-load components #78333
 30029. style: reformat files with black #30029
 78378. feat: support email verification #78378
+99844. fix: prevent crash on empty input #99844
