@@ -12606,3 +12606,4 @@
 78378. feat: support email verification #78378
 99844. fix: prevent crash on empty input #99844
 27240. feat: enable dark mode toggle #27240
+61802. feat: add export to CSV option #61802
