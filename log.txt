@@ -12610,3 +12610,4 @@
 69006. style: remove trailing whitespace #69006
 35906. chore: bump dependencies #35906
 25704. style: remove trailing whitespace #25704
+31698. fix: fix null pointer exception on login #31698
