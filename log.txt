@@ -12613,3 +12613,4 @@
 31698. fix: fix null pointer exception on login #31698
 71991. refactor: split large controller into smaller functions #71991
 31008. style: rename variables for clarity #31008
+43033. fix: prevent crash on empty input #43033
