@@ -12622,3 +12622,4 @@
 52225. docs: write FAQ section #52225
 9801. style: reformat files with black #9801
 96180. refactor: split large controller into smaller functions #96180
+62560. fix: correct typo in registration form #62560
