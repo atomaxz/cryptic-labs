@@ -12623,3 +12623,4 @@
 9801. style: reformat files with black #9801
 96180. refactor: split large controller into smaller functions #96180
 62560. fix: correct typo in registration form #62560
+50910. feat: add user authentication #50910
