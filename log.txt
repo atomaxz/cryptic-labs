@@ -12625,3 +12625,4 @@
 62560. fix: correct typo in registration form #62560
 50910. feat: add user authentication #50910
 72973. feat: add export to CSV option #72973
+26711. test: add unit test for quiz service #26711
