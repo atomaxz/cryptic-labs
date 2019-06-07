@@ -12637,3 +12637,4 @@
 12792. refactor: organize models into subfolders #12792
 17043. docs: update README with setup steps #17043
 70505. perf: reduce image load time #70505
+44730. style: reformat files with black #44730
