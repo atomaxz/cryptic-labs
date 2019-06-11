@@ -12642,3 +12642,4 @@
 57731. fix: fix null pointer exception on login #57731
 37059. perf: optimize database query for quiz results #37059
 46400. test: increase coverage on auth module #46400
+32967. feat: create admin dashboard #32967
