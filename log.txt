@@ -12647,3 +12647,4 @@
 28023. style: apply consistent indentation #28023
 52054. chore: bump dependencies #52054
 14748. test: add integration test for /submit endpoint #14748
+58993. docs: update README with setup steps #58993
