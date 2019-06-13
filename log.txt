@@ -1664,3 +1664,4 @@
 67480. style: apply consistent indentation #67480
 70135. perf: reduce image load time #70135
 81441. refactor: split large controller into smaller functions #81441
+84676. style: standardize quote style #84676
