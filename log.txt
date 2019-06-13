@@ -12648,3 +12648,4 @@
 52054. chore: bump dependencies #52054
 14748. test: add integration test for /submit endpoint #14748
 58993. docs: update README with setup steps #58993
+79753. test: mock database connection in test suite #79753
