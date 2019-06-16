@@ -12655,3 +12655,4 @@
 5411. style: remove trailing whitespace #5411
 3821. perf: cache repeated calculations #3821
 77614. feat: support email verification #77614
+29130. perf: lazy-load components #29130
