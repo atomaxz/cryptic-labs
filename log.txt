@@ -12657,3 +12657,4 @@
 77614. feat: support email verification #77614
 29130. perf: lazy-load components #29130
 4409. chore: update .gitignore #4409
+13090. perf: lazy-load components #13090
