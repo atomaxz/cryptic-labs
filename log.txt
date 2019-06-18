@@ -12659,3 +12659,4 @@
 4409. chore: update .gitignore #4409
 13090. perf: lazy-load components #13090
 6355. refactor: remove redundant code blocks #6355
+27791. refactor: clean up auth middleware #27791
