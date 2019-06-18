@@ -12662,3 +12662,4 @@
 27791. refactor: clean up auth middleware #27791
 57762. perf: lazy-load components #57762
 33859. feat: create admin dashboard #33859
+92565. chore: add GitHub actions badge #92565
