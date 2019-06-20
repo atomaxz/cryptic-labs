@@ -12672,3 +12672,4 @@
 76907. docs: update README with setup steps #76907
 68514. refactor: refactor quiz grading logic #68514
 45573. docs: update README with setup steps #45573
+38564. fix: fix broken CSS in mobile view #38564
