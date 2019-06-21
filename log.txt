@@ -12675,3 +12675,4 @@
 38564. fix: fix broken CSS in mobile view #38564
 38561. refactor: remove redundant code blocks #38561
 8375. fix: correct typo in registration form #8375
+31430. test: add unit test for quiz service #31430
