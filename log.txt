@@ -12677,3 +12677,4 @@
 8375. fix: correct typo in registration form #8375
 31430. test: add unit test for quiz service #31430
 67063. style: remove trailing whitespace #67063
+36381. docs: write FAQ section #36381
