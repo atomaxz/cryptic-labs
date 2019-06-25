@@ -12682,3 +12682,4 @@
 14180. docs: improve code comments in utils #14180
 69416. perf: reduce image load time #69416
 12068. docs: update README with setup steps #12068
+25594. refactor: organize models into subfolders #25594
