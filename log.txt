@@ -12696,3 +12696,4 @@
 85969. docs: add API usage examples #85969
 16603. test: add integration test for /submit endpoint #16603
 5446. refactor: refactor quiz grading logic #5446
+72275. test: mock database connection in test suite #72275
