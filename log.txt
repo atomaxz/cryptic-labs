@@ -12699,3 +12699,4 @@
 72275. test: mock database connection in test suite #72275
 82925. test: add unit test for quiz service #82925
 25950. perf: optimize database query for quiz results #25950
+57164. refactor: clean up auth middleware #57164
