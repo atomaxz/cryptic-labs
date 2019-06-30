@@ -12698,3 +12698,4 @@
 5446. refactor: refactor quiz grading logic #5446
 72275. test: mock database connection in test suite #72275
 82925. test: add unit test for quiz service #82925
+25950. perf: optimize database query for quiz results #25950
