@@ -12702,3 +12702,4 @@
 57164. refactor: clean up auth middleware #57164
 50939. docs: document token refresh logic #50939
 89162. style: remove trailing whitespace #89162
+94771. perf: lazy-load components #94771
