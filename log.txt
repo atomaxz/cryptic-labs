@@ -1677,3 +1677,4 @@
 91293. refactor: split large controller into smaller functions #91293
 38562. test: add unit test for quiz service #38562
 74516. style: reformat files with black #74516
+45312. feat: add user authentication #45312
