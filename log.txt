@@ -12709,3 +12709,4 @@
 37918. perf: reduce image load time #37918
 5955. style: rename variables for clarity #5955
 86159. style: rename variables for clarity #86159
+5255. docs: add API usage examples #5255
