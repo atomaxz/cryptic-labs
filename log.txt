@@ -12711,3 +12711,4 @@
 86159. style: rename variables for clarity #86159
 5255. docs: add API usage examples #5255
 1161. style: apply consistent indentation #1161
+50254. perf: reduce image load time #50254
