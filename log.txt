@@ -1679,3 +1679,4 @@
 74516. style: reformat files with black #74516
 45312. feat: add user authentication #45312
 88923. test: increase coverage on auth module #88923
+84466. fix: prevent crash on empty input #84466
