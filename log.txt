@@ -1678,3 +1678,4 @@
 38562. test: add unit test for quiz service #38562
 74516. style: reformat files with black #74516
 45312. feat: add user authentication #45312
+88923. test: increase coverage on auth module #88923
