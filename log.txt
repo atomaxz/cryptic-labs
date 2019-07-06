@@ -12720,3 +12720,4 @@
 34518. fix: handle 500 error in quiz API #34518
 71605. style: remove trailing whitespace #71605
 67326. perf: lazy-load components #67326
+60993. test: test user registration edge cases #60993
