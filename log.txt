@@ -1681,3 +1681,4 @@
 88923. test: increase coverage on auth module #88923
 84466. fix: prevent crash on empty input #84466
 87069. perf: cache repeated calculations #87069
+13468. docs: document token refresh logic #13468
