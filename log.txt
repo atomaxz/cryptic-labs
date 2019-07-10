@@ -12730,3 +12730,4 @@
 37597. refactor: refactor quiz grading logic #37597
 8505. perf: reduce image load time #8505
 81195. style: apply consistent indentation #81195
+50268. perf: lazy-load components #50268
