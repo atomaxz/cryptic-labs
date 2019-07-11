@@ -12734,3 +12734,4 @@
 90761. style: apply consistent indentation #90761
 27354. refactor: organize models into subfolders #27354
 5942. refactor: remove redundant code blocks #5942
+4422. refactor: clean up auth middleware #4422
