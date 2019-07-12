@@ -12736,3 +12736,4 @@
 5942. refactor: remove redundant code blocks #5942
 4422. refactor: clean up auth middleware #4422
 61446. perf: optimize database query for quiz results #61446
+10598. chore: add GitHub actions badge #10598
