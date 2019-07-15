@@ -12743,3 +12743,4 @@
 35875. docs: clarify environment setup #35875
 95248. perf: optimize database query for quiz results #95248
 9508. fix: prevent crash on empty input #9508
+36283. style: reformat files with black #36283
