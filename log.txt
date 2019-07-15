@@ -12742,3 +12742,4 @@
 15090. style: remove trailing whitespace #15090
 35875. docs: clarify environment setup #35875
 95248. perf: optimize database query for quiz results #95248
+9508. fix: prevent crash on empty input #9508
