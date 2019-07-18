@@ -12748,3 +12748,4 @@
 12570. style: reformat files with black #12570
 45735. chore: clean up unused files #45735
 34278. fix: resolve issue with date parsing #34278
+43793. feat: add export to CSV option #43793
