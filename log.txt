@@ -12750,3 +12750,4 @@
 34278. fix: resolve issue with date parsing #34278
 43793. feat: add export to CSV option #43793
 75626. refactor: organize models into subfolders #75626
+22131. chore: add GitHub actions badge #22131
