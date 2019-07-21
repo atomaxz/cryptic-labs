@@ -12756,3 +12756,4 @@
 87789. refactor: clean up auth middleware #87789
 49489. docs: document token refresh logic #49489
 33300. fix: fix broken CSS in mobile view #33300
+26656. perf: reduce image load time #26656
