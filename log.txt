@@ -12754,3 +12754,4 @@
 51791. chore: update .gitignore #51791
 58789. chore: clean up unused files #58789
 87789. refactor: clean up auth middleware #87789
+49489. docs: document token refresh logic #49489
