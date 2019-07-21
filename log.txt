@@ -12753,3 +12753,4 @@
 22131. chore: add GitHub actions badge #22131
 51791. chore: update .gitignore #51791
 58789. chore: clean up unused files #58789
+87789. refactor: clean up auth middleware #87789
