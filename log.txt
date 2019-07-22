@@ -12757,3 +12757,4 @@
 49489. docs: document token refresh logic #49489
 33300. fix: fix broken CSS in mobile view #33300
 26656. perf: reduce image load time #26656
+51453. perf: cache repeated calculations #51453
