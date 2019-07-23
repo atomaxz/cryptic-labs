@@ -12762,3 +12762,4 @@
 35377. refactor: split large controller into smaller functions #35377
 26161. chore: bump dependencies #26161
 51530. docs: add API usage examples #51530
+92109. style: remove trailing whitespace #92109
