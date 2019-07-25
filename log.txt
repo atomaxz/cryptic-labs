@@ -1685,3 +1685,4 @@
 57480. fix: fix null pointer exception on login #57480
 21857. test: test user registration edge cases #21857
 46943. perf: optimize database query for quiz results #46943
+71640. style: standardize quote style #71640
