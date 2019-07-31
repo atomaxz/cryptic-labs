@@ -12782,3 +12782,4 @@
 10066. chore: update .gitignore #10066
 89159. test: increase coverage on auth module #89159
 7504. docs: improve code comments in utils #7504
+98475. docs: write FAQ section #98475
