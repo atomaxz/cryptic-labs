@@ -12783,3 +12783,4 @@
 89159. test: increase coverage on auth module #89159
 7504. docs: improve code comments in utils #7504
 98475. docs: write FAQ section #98475
+40770. perf: optimize database query for quiz results #40770
