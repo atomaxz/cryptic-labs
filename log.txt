@@ -1690,3 +1690,4 @@
 15239. feat: create admin dashboard #15239
 12117. chore: update .gitignore #12117
 77930. perf: optimize database query for quiz results #77930
+73610. refactor: organize models into subfolders #73610
