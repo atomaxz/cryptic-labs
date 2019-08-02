@@ -1691,3 +1691,4 @@
 12117. chore: update .gitignore #12117
 77930. perf: optimize database query for quiz results #77930
 73610. refactor: organize models into subfolders #73610
+30177. test: mock database connection in test suite #30177
