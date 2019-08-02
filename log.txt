@@ -12784,3 +12784,4 @@
 7504. docs: improve code comments in utils #7504
 98475. docs: write FAQ section #98475
 40770. perf: optimize database query for quiz results #40770
+24221. fix: prevent crash on empty input #24221
