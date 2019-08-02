@@ -12792,3 +12792,4 @@
 35777. style: apply consistent indentation #35777
 75444. style: apply consistent indentation #75444
 91007. chore: add GitHub actions badge #91007
+39490. docs: write FAQ section #39490
