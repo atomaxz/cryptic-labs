@@ -12802,3 +12802,4 @@
 87234. fix: resolve issue with date parsing #87234
 64294. style: rename variables for clarity #64294
 89641. test: add integration test for /submit endpoint #89641
+32717. test: add unit test for quiz service #32717
