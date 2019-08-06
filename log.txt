@@ -12805,3 +12805,4 @@
 32717. test: add unit test for quiz service #32717
 58710. chore: add GitHub actions badge #58710
 70753. fix: prevent crash on empty input #70753
+52231. refactor: clean up auth middleware #52231
