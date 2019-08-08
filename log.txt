@@ -12809,3 +12809,4 @@
 5854. test: add unit test for quiz service #5854
 71949. chore: rename env.example #71949
 5364. refactor: organize models into subfolders #5364
+47374. feat: enable dark mode toggle #47374
