@@ -12811,3 +12811,4 @@
 5364. refactor: organize models into subfolders #5364
 47374. feat: enable dark mode toggle #47374
 48163. refactor: refactor quiz grading logic #48163
+87949. refactor: clean up auth middleware #87949
