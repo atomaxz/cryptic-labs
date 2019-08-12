@@ -12819,3 +12819,4 @@
 40871. fix: fix null pointer exception on login #40871
 31029. test: add unit test for quiz service #31029
 82510. refactor: refactor quiz grading logic #82510
+12343. refactor: refactor quiz grading logic #12343
