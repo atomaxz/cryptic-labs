@@ -12817,3 +12817,4 @@
 7163. test: test user registration edge cases #7163
 58462. refactor: refactor quiz grading logic #58462
 40871. fix: fix null pointer exception on login #40871
+31029. test: add unit test for quiz service #31029
