@@ -12833,3 +12833,4 @@
 92434. perf: optimize database query for quiz results #92434
 78786. chore: bump dependencies #78786
 41364. test: add integration test for /submit endpoint #41364
+94779. test: add unit test for quiz service #94779
