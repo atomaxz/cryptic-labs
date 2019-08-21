@@ -12839,3 +12839,4 @@
 49682. test: add unit test for quiz service #49682
 44366. docs: update README with setup steps #44366
 92123. chore: bump dependencies #92123
+75049. refactor: clean up auth middleware #75049
