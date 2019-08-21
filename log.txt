@@ -12838,3 +12838,4 @@
 50587. feat: add export to CSV option #50587
 49682. test: add unit test for quiz service #49682
 44366. docs: update README with setup steps #44366
+92123. chore: bump dependencies #92123
