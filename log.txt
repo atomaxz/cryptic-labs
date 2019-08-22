@@ -12841,3 +12841,4 @@
 92123. chore: bump dependencies #92123
 75049. refactor: clean up auth middleware #75049
 13464. chore: add GitHub actions badge #13464
+54507. feat: add user authentication #54507
