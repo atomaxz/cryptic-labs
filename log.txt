@@ -12843,3 +12843,4 @@
 13464. chore: add GitHub actions badge #13464
 54507. feat: add user authentication #54507
 34481. test: test user registration edge cases #34481
+21005. test: increase coverage on auth module #21005
