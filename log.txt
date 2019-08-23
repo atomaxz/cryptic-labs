@@ -12844,3 +12844,4 @@
 54507. feat: add user authentication #54507
 34481. test: test user registration edge cases #34481
 21005. test: increase coverage on auth module #21005
+68181. test: add unit test for quiz service #68181
