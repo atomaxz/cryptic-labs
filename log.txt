@@ -12849,3 +12849,4 @@
 19156. perf: reduce image load time #19156
 19775. test: add unit test for quiz service #19775
 87744. perf: lazy-load components #87744
+87539. docs: update README with setup steps #87539
