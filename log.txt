@@ -12850,3 +12850,4 @@
 19775. test: add unit test for quiz service #19775
 87744. perf: lazy-load components #87744
 87539. docs: update README with setup steps #87539
+36657. feat: add user authentication #36657
