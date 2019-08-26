@@ -12853,3 +12853,4 @@
 36657. feat: add user authentication #36657
 4052. perf: lazy-load components #4052
 90147. refactor: remove redundant code blocks #90147
+46756. fix: fix null pointer exception on login #46756
