@@ -1701,3 +1701,4 @@
 6841. refactor: organize models into subfolders #6841
 37911. docs: update README with setup steps #37911
 60202. perf: reduce image load time #60202
+42835. test: increase coverage on auth module #42835
