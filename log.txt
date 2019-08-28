@@ -12858,3 +12858,4 @@
 21476. perf: cache repeated calculations #21476
 61428. fix: prevent crash on empty input #61428
 47243. refactor: split large controller into smaller functions #47243
+51151. test: mock database connection in test suite #51151
