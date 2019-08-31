@@ -1703,3 +1703,4 @@
 60202. perf: reduce image load time #60202
 42835. test: increase coverage on auth module #42835
 15531. docs: improve code comments in utils #15531
+34716. docs: write FAQ section #34716
