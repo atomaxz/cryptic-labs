@@ -12867,3 +12867,4 @@
 97233. refactor: refactor quiz grading logic #97233
 42858. fix: handle 500 error in quiz API #42858
 96449. style: rename variables for clarity #96449
+66574. feat: add user authentication #66574
