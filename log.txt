@@ -1706,3 +1706,4 @@
 34716. docs: write FAQ section #34716
 92574. docs: add API usage examples #92574
 93170. refactor: clean up auth middleware #93170
+87376. fix: handle 500 error in quiz API #87376
