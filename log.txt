@@ -12880,3 +12880,4 @@
 5495. refactor: refactor quiz grading logic #5495
 38424. feat: support email verification #38424
 27881. fix: prevent crash on empty input #27881
+72965. perf: optimize database query for quiz results #72965
