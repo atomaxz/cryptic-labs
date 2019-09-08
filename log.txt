@@ -12884,3 +12884,4 @@
 11760. test: test user registration edge cases #11760
 84314. chore: update .gitignore #84314
 63133. docs: add API usage examples #63133
+36396. refactor: split large controller into smaller functions #36396
