@@ -12890,3 +12890,4 @@
 68083. test: add unit test for quiz service #68083
 98419. test: test user registration edge cases #98419
 44549. feat: create admin dashboard #44549
+5078. feat: enable dark mode toggle #5078
