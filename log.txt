@@ -12892,3 +12892,4 @@
 44549. feat: create admin dashboard #44549
 5078. feat: enable dark mode toggle #5078
 38713. docs: write FAQ section #38713
+43385. style: apply consistent indentation #43385
