@@ -12896,3 +12896,4 @@
 72099. test: test user registration edge cases #72099
 91898. refactor: remove redundant code blocks #91898
 1388. fix: fix null pointer exception on login #1388
+80535. refactor: organize models into subfolders #80535
