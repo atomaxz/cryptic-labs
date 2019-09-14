@@ -12898,3 +12898,4 @@
 1388. fix: fix null pointer exception on login #1388
 80535. refactor: organize models into subfolders #80535
 62463. chore: bump dependencies #62463
+72618. refactor: refactor quiz grading logic #72618
