@@ -12904,3 +12904,4 @@
 69148. style: apply consistent indentation #69148
 87737. refactor: remove redundant code blocks #87737
 89105. feat: add user authentication #89105
+61789. refactor: organize models into subfolders #61789
