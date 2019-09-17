@@ -12908,3 +12908,4 @@
 38051. docs: document token refresh logic #38051
 43085. fix: handle 500 error in quiz API #43085
 5166. perf: lazy-load components #5166
+20918. fix: fix broken CSS in mobile view #20918
