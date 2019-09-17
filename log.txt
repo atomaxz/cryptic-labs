@@ -1712,3 +1712,4 @@
 46443. docs: add API usage examples #46443
 62403. docs: add API usage examples #62403
 80913. perf: reduce image load time #80913
+63270. refactor: clean up auth middleware #63270
