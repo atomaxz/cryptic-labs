@@ -1714,3 +1714,4 @@
 80913. perf: reduce image load time #80913
 63270. refactor: clean up auth middleware #63270
 68056. feat: enable dark mode toggle #68056
+25913. chore: bump dependencies #25913
