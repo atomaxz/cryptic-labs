@@ -12911,3 +12911,4 @@
 20918. fix: fix broken CSS in mobile view #20918
 99552. style: rename variables for clarity #99552
 93197. perf: reduce image load time #93197
+92809. test: mock database connection in test suite #92809
