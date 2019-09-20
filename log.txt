@@ -12913,3 +12913,4 @@
 93197. perf: reduce image load time #93197
 92809. test: mock database connection in test suite #92809
 79258. test: add integration test for /submit endpoint #79258
+75959. fix: fix null pointer exception on login #75959
