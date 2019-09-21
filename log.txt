@@ -12915,3 +12915,4 @@
 79258. test: add integration test for /submit endpoint #79258
 75959. fix: fix null pointer exception on login #75959
 27968. style: rename variables for clarity #27968
+51992. fix: fix null pointer exception on login #51992
