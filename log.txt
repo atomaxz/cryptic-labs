@@ -12926,3 +12926,4 @@
 73427. docs: write FAQ section #73427
 97917. test: mock database connection in test suite #97917
 58224. style: apply consistent indentation #58224
+98367. fix: handle 500 error in quiz API #98367
