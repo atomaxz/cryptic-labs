@@ -1722,3 +1722,4 @@
 24735. fix: resolve issue with date parsing #24735
 73385. refactor: clean up auth middleware #73385
 89050. feat: enable dark mode toggle #89050
+25354. feat: create admin dashboard #25354
