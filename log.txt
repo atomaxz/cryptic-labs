@@ -1723,3 +1723,4 @@
 73385. refactor: clean up auth middleware #73385
 89050. feat: enable dark mode toggle #89050
 25354. feat: create admin dashboard #25354
+50483. perf: optimize database query for quiz results #50483
