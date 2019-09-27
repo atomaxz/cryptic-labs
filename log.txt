@@ -12930,3 +12930,4 @@
 3103. feat: implement quiz timer feature #3103
 46928. fix: correct typo in registration form #46928
 71094. chore: rename env.example #71094
+39227. chore: clean up unused files #39227
