@@ -12931,3 +12931,4 @@
 46928. fix: correct typo in registration form #46928
 71094. chore: rename env.example #71094
 39227. chore: clean up unused files #39227
+94469. test: increase coverage on auth module #94469
