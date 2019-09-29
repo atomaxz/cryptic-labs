@@ -12936,3 +12936,4 @@
 70137. perf: optimize database query for quiz results #70137
 38243. chore: clean up unused files #38243
 0185. docs: write FAQ section #185
+53655. perf: lazy-load components #53655
