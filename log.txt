@@ -12939,3 +12939,4 @@
 53655. perf: lazy-load components #53655
 32579. refactor: refactor quiz grading logic #32579
 68398. chore: clean up unused files #68398
+93568. perf: reduce image load time #93568
