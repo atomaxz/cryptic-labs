@@ -12940,3 +12940,4 @@
 32579. refactor: refactor quiz grading logic #32579
 68398. chore: clean up unused files #68398
 93568. perf: reduce image load time #93568
+10398. fix: fix null pointer exception on login #10398
