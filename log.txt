@@ -12944,3 +12944,4 @@
 62841. style: remove trailing whitespace #62841
 23765. docs: write FAQ section #23765
 63447. perf: lazy-load components #63447
+82060. perf: optimize database query for quiz results #82060
