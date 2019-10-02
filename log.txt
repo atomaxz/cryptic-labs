@@ -12942,3 +12942,4 @@
 93568. perf: reduce image load time #93568
 10398. fix: fix null pointer exception on login #10398
 62841. style: remove trailing whitespace #62841
+23765. docs: write FAQ section #23765
