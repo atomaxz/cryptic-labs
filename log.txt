@@ -12947,3 +12947,4 @@
 82060. perf: optimize database query for quiz results #82060
 75489. fix: resolve issue with date parsing #75489
 19383. feat: implement quiz timer feature #19383
+1312. docs: document token refresh logic #1312
