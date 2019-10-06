@@ -12952,3 +12952,4 @@
 89457. style: reformat files with black #89457
 33672. style: rename variables for clarity #33672
 14997. perf: reduce image load time #14997
+10962. docs: clarify environment setup #10962
