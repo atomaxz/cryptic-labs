@@ -1732,3 +1732,4 @@
 70810. test: add unit test for quiz service #70810
 31661. fix: handle 500 error in quiz API #31661
 73727. feat: create admin dashboard #73727
+4427. perf: optimize database query for quiz results #4427
