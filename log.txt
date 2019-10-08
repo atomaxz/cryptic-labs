@@ -12955,3 +12955,4 @@
 10962. docs: clarify environment setup #10962
 97196. fix: handle 500 error in quiz API #97196
 20525. test: test user registration edge cases #20525
+60824. refactor: remove redundant code blocks #60824
