@@ -12964,3 +12964,4 @@
 94908. docs: update README with setup steps #94908
 50227. chore: update .gitignore #50227
 15368. perf: optimize database query for quiz results #15368
+41427. test: test user registration edge cases #41427
