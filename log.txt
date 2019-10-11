@@ -12963,3 +12963,4 @@
 18639. refactor: split large controller into smaller functions #18639
 94908. docs: update README with setup steps #94908
 50227. chore: update .gitignore #50227
+15368. perf: optimize database query for quiz results #15368
