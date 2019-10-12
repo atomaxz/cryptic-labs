@@ -12967,3 +12967,4 @@
 41427. test: test user registration edge cases #41427
 47285. feat: enable dark mode toggle #47285
 57437. refactor: remove redundant code blocks #57437
+24199. test: mock database connection in test suite #24199
