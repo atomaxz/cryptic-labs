@@ -1735,3 +1735,4 @@
 4427. perf: optimize database query for quiz results #4427
 7234. feat: support email verification #7234
 91182. refactor: refactor quiz grading logic #91182
+13560. style: reformat files with black #13560
