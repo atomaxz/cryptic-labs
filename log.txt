@@ -12973,3 +12973,4 @@
 72907. refactor: remove redundant code blocks #72907
 19371. fix: handle 500 error in quiz API #19371
 56210. test: test user registration edge cases #56210
+78732. style: apply consistent indentation #78732
