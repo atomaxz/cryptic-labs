@@ -12976,3 +12976,4 @@
 78732. style: apply consistent indentation #78732
 55623. perf: optimize database query for quiz results #55623
 70369. fix: handle 500 error in quiz API #70369
+93250. refactor: clean up auth middleware #93250
