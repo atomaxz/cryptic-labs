@@ -12984,3 +12984,4 @@
 72600. perf: lazy-load components #72600
 81595. perf: reduce image load time #81595
 53938. fix: correct typo in registration form #53938
+73820. perf: reduce image load time #73820
