@@ -12982,3 +12982,4 @@
 19408. feat: implement quiz timer feature #19408
 24239. docs: clarify environment setup #24239
 72600. perf: lazy-load components #72600
+81595. perf: reduce image load time #81595
