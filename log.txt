@@ -12986,3 +12986,4 @@
 53938. fix: correct typo in registration form #53938
 73820. perf: reduce image load time #73820
 94283. perf: optimize database query for quiz results #94283
+55286. test: mock database connection in test suite #55286
