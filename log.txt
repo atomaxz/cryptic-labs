@@ -12992,3 +12992,4 @@
 47318. test: add unit test for quiz service #47318
 74084. chore: update .gitignore #74084
 65259. style: reformat files with black #65259
+64562. test: test user registration edge cases #64562
