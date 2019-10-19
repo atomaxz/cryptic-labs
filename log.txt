@@ -12989,3 +12989,4 @@
 55286. test: mock database connection in test suite #55286
 99884. docs: write FAQ section #99884
 10602. docs: write FAQ section #10602
+47318. test: add unit test for quiz service #47318
