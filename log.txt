@@ -12994,3 +12994,4 @@
 65259. style: reformat files with black #65259
 64562. test: test user registration edge cases #64562
 17042. docs: update README with setup steps #17042
+65966. docs: write FAQ section #65966
