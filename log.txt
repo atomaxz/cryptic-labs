@@ -13001,3 +13001,4 @@
 41166. test: add unit test for quiz service #41166
 90878. chore: rename env.example #90878
 15388. perf: lazy-load components #15388
+28961. fix: prevent crash on empty input #28961
