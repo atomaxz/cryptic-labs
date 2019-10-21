@@ -10,8 +10,8 @@ NUM_COMMITS = 1000
 
 # 🗓️ SET YOUR DATE RANGE HERE
 # Example: from October 21, 2024 to October 21, 2025
-START_DATE = datetime(2018, 10, 21)
-END_DATE = datetime(2019, 10, 21)
+START_DATE = datetime(2019, 10, 21)
+END_DATE = datetime(2020, 10, 21)
 
 def load_commit_messages(path):
     with open(path, "r", encoding="utf-8") as f:
