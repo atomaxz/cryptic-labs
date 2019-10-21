@@ -12996,3 +12996,4 @@
 17042. docs: update README with setup steps #17042
 65966. docs: write FAQ section #65966
 97421. chore: clean up unused files #97421
+73474. chore: rename env.example #73474
