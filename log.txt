@@ -13002,3 +13002,4 @@
 90878. chore: rename env.example #90878
 15388. perf: lazy-load components #15388
 28961. fix: prevent crash on empty input #28961
+85215. chore: update .gitignore #85215
