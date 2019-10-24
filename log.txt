@@ -13009,3 +13009,4 @@
 73355. test: mock database connection in test suite #73355
 11668. style: rename variables for clarity #11668
 50093. chore: add GitHub actions badge #50093
+8785. fix: fix broken CSS in mobile view #8785
