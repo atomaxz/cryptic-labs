@@ -13012,3 +13012,4 @@
 8785. fix: fix broken CSS in mobile view #8785
 97022. test: add integration test for /submit endpoint #97022
 68650. style: apply consistent indentation #68650
+22436. fix: resolve issue with date parsing #22436
