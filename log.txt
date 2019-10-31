@@ -13024,3 +13024,4 @@
 91242. fix: correct typo in registration form #91242
 78820. feat: enable dark mode toggle #78820
 2947. fix: fix broken CSS in mobile view #2947
+1318. chore: bump dependencies #1318
