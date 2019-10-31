@@ -13025,3 +13025,4 @@
 78820. feat: enable dark mode toggle #78820
 2947. fix: fix broken CSS in mobile view #2947
 1318. chore: bump dependencies #1318
+89137. feat: support email verification #89137
