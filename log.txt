@@ -1740,3 +1740,4 @@
 68922. chore: clean up unused files #68922
 27319. perf: reduce image load time #27319
 5683. perf: optimize database query for quiz results #5683
+24251. test: increase coverage on auth module #24251
