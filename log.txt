@@ -13034,3 +13034,4 @@
 58498. feat: create admin dashboard #58498
 68224. chore: bump dependencies #68224
 84853. style: rename variables for clarity #84853
+83813. refactor: clean up auth middleware #83813
