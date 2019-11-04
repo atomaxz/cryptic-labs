@@ -13036,3 +13036,4 @@
 84853. style: rename variables for clarity #84853
 83813. refactor: clean up auth middleware #83813
 93190. refactor: refactor quiz grading logic #93190
+66381. perf: lazy-load components #66381
