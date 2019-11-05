@@ -13039,3 +13039,4 @@
 66381. perf: lazy-load components #66381
 2086. refactor: refactor quiz grading logic #2086
 30349. test: test user registration edge cases #30349
+26281. fix: fix null pointer exception on login #26281
