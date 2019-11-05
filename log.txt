@@ -13042,3 +13042,4 @@
 26281. fix: fix null pointer exception on login #26281
 34482. perf: cache repeated calculations #34482
 83375. feat: create admin dashboard #83375
+36685. feat: support email verification #36685
