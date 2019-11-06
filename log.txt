@@ -13044,3 +13044,4 @@
 83375. feat: create admin dashboard #83375
 36685. feat: support email verification #36685
 57685. feat: support email verification #57685
+60291. chore: update .gitignore #60291
