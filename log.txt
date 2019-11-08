@@ -13049,3 +13049,4 @@
 33507. docs: add API usage examples #33507
 42177. refactor: split large controller into smaller functions #42177
 1127. fix: handle 500 error in quiz API #1127
+46595. chore: add GitHub actions badge #46595
