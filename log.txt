@@ -1744,3 +1744,4 @@
 97105. refactor: organize models into subfolders #97105
 51490. test: add unit test for quiz service #51490
 4804. docs: clarify environment setup #4804
+78186. style: reformat files with black #78186
