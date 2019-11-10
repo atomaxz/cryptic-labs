@@ -1745,3 +1745,4 @@
 51490. test: add unit test for quiz service #51490
 4804. docs: clarify environment setup #4804
 78186. style: reformat files with black #78186
+58859. fix: correct typo in registration form #58859
