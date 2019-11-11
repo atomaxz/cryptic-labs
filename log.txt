@@ -13062,3 +13062,4 @@
 87262. refactor: refactor quiz grading logic #87262
 15615. feat: implement quiz timer feature #15615
 33553. docs: update README with setup steps #33553
+96304. test: increase coverage on auth module #96304
