@@ -13073,3 +13073,4 @@
 28909. style: standardize quote style #28909
 97245. style: standardize quote style #97245
 3150. perf: reduce image load time #3150
+7406. docs: clarify environment setup #7406
