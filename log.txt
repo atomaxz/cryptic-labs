@@ -13072,3 +13072,4 @@
 76985. style: apply consistent indentation #76985
 28909. style: standardize quote style #28909
 97245. style: standardize quote style #97245
+3150. perf: reduce image load time #3150
