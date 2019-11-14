@@ -13075,3 +13075,4 @@
 3150. perf: reduce image load time #3150
 7406. docs: clarify environment setup #7406
 53502. perf: reduce image load time #53502
+99896. perf: optimize database query for quiz results #99896
