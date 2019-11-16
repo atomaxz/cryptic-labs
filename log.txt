@@ -13083,3 +13083,4 @@
 63086. perf: optimize database query for quiz results #63086
 31747. refactor: organize models into subfolders #31747
 95752. refactor: refactor quiz grading logic #95752
+0334. feat: support email verification #334
