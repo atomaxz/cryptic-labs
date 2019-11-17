@@ -13086,3 +13086,4 @@
 0334. feat: support email verification #334
 0036. style: remove trailing whitespace #36
 97906. style: apply consistent indentation #97906
+48537. style: reformat files with black #48537
