@@ -1749,3 +1749,4 @@
 82604. docs: add API usage examples #82604
 31342. fix: fix null pointer exception on login #31342
 96591. perf: reduce image load time #96591
+82959. fix: fix null pointer exception on login #82959
