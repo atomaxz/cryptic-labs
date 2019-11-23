@@ -13095,3 +13095,4 @@
 50860. fix: prevent crash on empty input #50860
 76309. refactor: remove redundant code blocks #76309
 59904. docs: add API usage examples #59904
+32734. docs: write FAQ section #32734
