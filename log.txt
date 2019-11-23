@@ -13096,3 +13096,4 @@
 76309. refactor: remove redundant code blocks #76309
 59904. docs: add API usage examples #59904
 32734. docs: write FAQ section #32734
+62575. fix: fix null pointer exception on login #62575
