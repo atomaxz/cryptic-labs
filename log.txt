@@ -13098,3 +13098,4 @@
 32734. docs: write FAQ section #32734
 62575. fix: fix null pointer exception on login #62575
 97725. style: apply consistent indentation #97725
+46555. fix: prevent crash on empty input #46555
