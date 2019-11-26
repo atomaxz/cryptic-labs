@@ -13103,3 +13103,4 @@
 86341. fix: fix null pointer exception on login #86341
 79737. chore: clean up unused files #79737
 22183. docs: improve code comments in utils #22183
+81232. test: increase coverage on auth module #81232
