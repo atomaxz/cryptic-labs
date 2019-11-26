@@ -13106,3 +13106,4 @@
 81232. test: increase coverage on auth module #81232
 93275. chore: rename env.example #93275
 82785. feat: add user authentication #82785
+7447. feat: add export to CSV option #7447
