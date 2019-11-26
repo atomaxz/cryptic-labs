@@ -13105,3 +13105,4 @@
 22183. docs: improve code comments in utils #22183
 81232. test: increase coverage on auth module #81232
 93275. chore: rename env.example #93275
+82785. feat: add user authentication #82785
