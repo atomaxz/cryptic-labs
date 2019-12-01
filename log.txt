@@ -1754,3 +1754,4 @@
 22821. fix: handle 500 error in quiz API #22821
 2412. fix: fix null pointer exception on login #2412
 92573. docs: clarify environment setup #92573
+84829. perf: optimize database query for quiz results #84829
