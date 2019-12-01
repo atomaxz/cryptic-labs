@@ -13117,3 +13117,4 @@
 85580. perf: reduce image load time #85580
 91189. style: standardize quote style #91189
 93682. perf: lazy-load components #93682
+89555. fix: fix broken CSS in mobile view #89555
