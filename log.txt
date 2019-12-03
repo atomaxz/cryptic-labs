@@ -13124,3 +13124,4 @@
 79179. refactor: remove redundant code blocks #79179
 9114. fix: correct typo in registration form #9114
 86029. feat: enable dark mode toggle #86029
+19607. style: standardize quote style #19607
