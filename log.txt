@@ -13125,3 +13125,4 @@
 9114. fix: correct typo in registration form #9114
 86029. feat: enable dark mode toggle #86029
 19607. style: standardize quote style #19607
+40579. style: standardize quote style #40579
