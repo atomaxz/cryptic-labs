@@ -13130,3 +13130,4 @@
 95243. docs: improve code comments in utils #95243
 83341. refactor: refactor quiz grading logic #83341
 47744. refactor: split large controller into smaller functions #47744
+41121. fix: fix broken CSS in mobile view #41121
