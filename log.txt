@@ -13133,3 +13133,4 @@
 41121. fix: fix broken CSS in mobile view #41121
 68039. docs: add API usage examples #68039
 96485. refactor: refactor quiz grading logic #96485
+10880. perf: lazy-load components #10880
