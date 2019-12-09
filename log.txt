@@ -1757,3 +1757,4 @@
 84829. perf: optimize database query for quiz results #84829
 94912. refactor: organize models into subfolders #94912
 73311. test: mock database connection in test suite #73311
+89368. perf: optimize database query for quiz results #89368
