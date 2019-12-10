@@ -13135,3 +13135,4 @@
 96485. refactor: refactor quiz grading logic #96485
 10880. perf: lazy-load components #10880
 71899. docs: write FAQ section #71899
+29610. style: reformat files with black #29610
