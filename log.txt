@@ -13136,3 +13136,4 @@
 10880. perf: lazy-load components #10880
 71899. docs: write FAQ section #71899
 29610. style: reformat files with black #29610
+79006. perf: lazy-load components #79006
