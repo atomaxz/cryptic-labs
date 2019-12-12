@@ -1761,3 +1761,4 @@
 37013. test: increase coverage on auth module #37013
 30851. style: standardize quote style #30851
 96492. style: remove trailing whitespace #96492
+17756. style: reformat files with black #17756
