@@ -1763,3 +1763,4 @@
 96492. style: remove trailing whitespace #96492
 17756. style: reformat files with black #17756
 33861. fix: correct typo in registration form #33861
+25658. fix: prevent crash on empty input #25658
