@@ -1764,3 +1764,4 @@
 17756. style: reformat files with black #17756
 33861. fix: correct typo in registration form #33861
 25658. fix: prevent crash on empty input #25658
+38421. fix: handle 500 error in quiz API #38421
