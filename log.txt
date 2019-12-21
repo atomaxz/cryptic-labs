@@ -13155,3 +13155,4 @@
 76896. style: remove trailing whitespace #76896
 30805. feat: create admin dashboard #30805
 69341. style: apply consistent indentation #69341
+12033. docs: document token refresh logic #12033
