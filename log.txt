@@ -13157,3 +13157,4 @@
 69341. style: apply consistent indentation #69341
 12033. docs: document token refresh logic #12033
 34504. refactor: remove redundant code blocks #34504
+99449. fix: prevent crash on empty input #99449
