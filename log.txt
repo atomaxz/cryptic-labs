@@ -13164,3 +13164,4 @@
 22686. test: increase coverage on auth module #22686
 3004. docs: improve code comments in utils #3004
 98964. docs: document token refresh logic #98964
+2819. fix: correct typo in registration form #2819
