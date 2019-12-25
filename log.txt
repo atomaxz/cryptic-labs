@@ -13168,3 +13168,4 @@
 7300. test: test user registration edge cases #7300
 9031. perf: cache repeated calculations #9031
 23440. style: standardize quote style #23440
+54738. docs: update README with setup steps #54738
