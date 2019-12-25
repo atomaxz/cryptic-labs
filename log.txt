@@ -13167,3 +13167,4 @@
 2819. fix: correct typo in registration form #2819
 7300. test: test user registration edge cases #7300
 9031. perf: cache repeated calculations #9031
+23440. style: standardize quote style #23440
