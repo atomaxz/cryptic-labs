@@ -13188,3 +13188,4 @@
 63568. fix: fix broken CSS in mobile view #63568
 98508. style: standardize quote style #98508
 0193. refactor: split large controller into smaller functions #193
+58278. chore: bump dependencies #58278
