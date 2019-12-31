@@ -13193,3 +13193,4 @@
 61263. refactor: organize models into subfolders #61263
 49418. perf: cache repeated calculations #49418
 87076. feat: support email verification #87076
+63095. feat: support email verification #63095
