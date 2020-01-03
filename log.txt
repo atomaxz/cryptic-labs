@@ -1774,3 +1774,4 @@
 35617. fix: handle 500 error in quiz API #35617
 24131. feat: create admin dashboard #24131
 33034. chore: update .gitignore #33034
+78865. feat: add user authentication #78865
