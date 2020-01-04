@@ -13201,3 +13201,4 @@
 73434. feat: enable dark mode toggle #73434
 1743. docs: clarify environment setup #1743
 7912. style: reformat files with black #7912
+12771. style: apply consistent indentation #12771
