@@ -13209,3 +13209,4 @@
 25904. feat: create admin dashboard #25904
 52761. style: reformat files with black #52761
 31872. refactor: remove redundant code blocks #31872
+62978. refactor: clean up auth middleware #62978
