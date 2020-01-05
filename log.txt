@@ -1775,3 +1775,4 @@
 24131. feat: create admin dashboard #24131
 33034. chore: update .gitignore #33034
 78865. feat: add user authentication #78865
+37577. docs: write FAQ section #37577
