@@ -1776,3 +1776,4 @@
 33034. chore: update .gitignore #33034
 78865. feat: add user authentication #78865
 37577. docs: write FAQ section #37577
+7204. style: remove trailing whitespace #7204
