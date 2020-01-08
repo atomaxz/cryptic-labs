@@ -13219,3 +13219,4 @@
 31748. chore: add GitHub actions badge #31748
 46954. refactor: remove redundant code blocks #46954
 45292. refactor: clean up auth middleware #45292
+74114. test: test user registration edge cases #74114
