@@ -13223,3 +13223,4 @@
 27799. perf: cache repeated calculations #27799
 54072. docs: add API usage examples #54072
 67212. perf: cache repeated calculations #67212
+90975. test: increase coverage on auth module #90975
