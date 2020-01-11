@@ -1780,3 +1780,4 @@
 56774. style: remove trailing whitespace #56774
 67614. style: remove trailing whitespace #67614
 31932. fix: prevent crash on empty input #31932
+87313. feat: add user authentication #87313
