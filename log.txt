@@ -13238,3 +13238,4 @@
 51930. docs: update README with setup steps #51930
 79248. perf: cache repeated calculations #79248
 6564. refactor: refactor quiz grading logic #6564
+57527. refactor: clean up auth middleware #57527
