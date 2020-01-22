@@ -13254,3 +13254,4 @@
 99885. fix: fix broken CSS in mobile view #99885
 9673. chore: clean up unused files #9673
 53039. test: add integration test for /submit endpoint #53039
+87483. style: rename variables for clarity #87483
