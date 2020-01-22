@@ -13250,3 +13250,4 @@
 88254. refactor: remove redundant code blocks #88254
 28331. refactor: remove redundant code blocks #28331
 26234. docs: document token refresh logic #26234
+79798. refactor: clean up auth middleware #79798
