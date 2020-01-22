@@ -1788,3 +1788,4 @@
 76801. style: standardize quote style #76801
 88250. fix: prevent crash on empty input #88250
 77911. test: increase coverage on auth module #77911
+58385. perf: lazy-load components #58385
