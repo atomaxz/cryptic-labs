@@ -13259,3 +13259,4 @@
 65110. perf: cache repeated calculations #65110
 96725. fix: resolve issue with date parsing #96725
 22850. fix: fix null pointer exception on login #22850
+7057. test: add integration test for /submit endpoint #7057
