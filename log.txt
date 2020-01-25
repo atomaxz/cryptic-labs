@@ -13261,3 +13261,4 @@
 22850. fix: fix null pointer exception on login #22850
 7057. test: add integration test for /submit endpoint #7057
 43232. fix: fix null pointer exception on login #43232
+65372. test: add integration test for /submit endpoint #65372
