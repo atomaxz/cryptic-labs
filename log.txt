@@ -1790,3 +1790,4 @@
 77911. test: increase coverage on auth module #77911
 58385. perf: lazy-load components #58385
 11232. chore: add GitHub actions badge #11232
+61086. test: test user registration edge cases #61086
