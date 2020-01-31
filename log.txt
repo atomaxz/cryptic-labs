@@ -13278,3 +13278,4 @@
 16139. feat: add export to CSV option #16139
 35079. chore: update .gitignore #35079
 81124. fix: fix broken CSS in mobile view #81124
+72272. perf: reduce image load time #72272
