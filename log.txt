@@ -13275,3 +13275,4 @@
 39440. perf: reduce image load time #39440
 51333. fix: fix broken CSS in mobile view #51333
 81408. fix: fix broken CSS in mobile view #81408
+16139. feat: add export to CSV option #16139
