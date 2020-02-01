@@ -13280,3 +13280,4 @@
 81124. fix: fix broken CSS in mobile view #81124
 72272. perf: reduce image load time #72272
 42614. style: apply consistent indentation #42614
+60926. test: increase coverage on auth module #60926
