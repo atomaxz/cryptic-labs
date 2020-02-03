@@ -13283,3 +13283,4 @@
 60926. test: increase coverage on auth module #60926
 86045. refactor: refactor quiz grading logic #86045
 72265. chore: rename env.example #72265
+71647. perf: reduce image load time #71647
