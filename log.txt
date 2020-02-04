@@ -13286,3 +13286,4 @@
 71647. perf: reduce image load time #71647
 58118. feat: add export to CSV option #58118
 76448. chore: clean up unused files #76448
+49328. docs: update README with setup steps #49328
