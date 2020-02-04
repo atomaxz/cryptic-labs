@@ -1793,3 +1793,4 @@
 61086. test: test user registration edge cases #61086
 57731. fix: fix null pointer exception on login #57731
 53474. feat: support email verification #53474
+38104. feat: add user authentication #38104
