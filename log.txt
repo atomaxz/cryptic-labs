@@ -13297,3 +13297,4 @@
 83391. chore: update .gitignore #83391
 89449. style: remove trailing whitespace #89449
 25311. refactor: remove redundant code blocks #25311
+47385. fix: handle 500 error in quiz API #47385
