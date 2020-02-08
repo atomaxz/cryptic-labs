@@ -13298,3 +13298,4 @@
 89449. style: remove trailing whitespace #89449
 25311. refactor: remove redundant code blocks #25311
 47385. fix: handle 500 error in quiz API #47385
+47086. perf: optimize database query for quiz results #47086
