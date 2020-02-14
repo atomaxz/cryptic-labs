@@ -13312,3 +13312,4 @@
 28254. fix: fix broken CSS in mobile view #28254
 70168. refactor: refactor quiz grading logic #70168
 26741. test: increase coverage on auth module #26741
+74232. fix: fix null pointer exception on login #74232
