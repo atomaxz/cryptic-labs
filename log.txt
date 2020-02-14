@@ -13313,3 +13313,4 @@
 70168. refactor: refactor quiz grading logic #70168
 26741. test: increase coverage on auth module #26741
 74232. fix: fix null pointer exception on login #74232
+96357. perf: lazy-load components #96357
