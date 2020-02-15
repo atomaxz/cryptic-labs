@@ -13315,3 +13315,4 @@
 74232. fix: fix null pointer exception on login #74232
 96357. perf: lazy-load components #96357
 92258. test: increase coverage on auth module #92258
+52582. fix: prevent crash on empty input #52582
