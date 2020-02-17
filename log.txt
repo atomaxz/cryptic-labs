@@ -13318,3 +13318,4 @@
 52582. fix: prevent crash on empty input #52582
 33410. docs: update README with setup steps #33410
 37417. fix: resolve issue with date parsing #37417
+44632. fix: prevent crash on empty input #44632
