@@ -1803,3 +1803,4 @@
 42588. style: remove trailing whitespace #42588
 48616. chore: bump dependencies #48616
 21804. style: standardize quote style #21804
+92127. test: increase coverage on auth module #92127
