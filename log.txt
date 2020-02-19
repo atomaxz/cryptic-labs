@@ -13322,3 +13322,4 @@
 43839. perf: lazy-load components #43839
 20963. test: test user registration edge cases #20963
 34984. docs: document token refresh logic #34984
+98326. perf: reduce image load time #98326
