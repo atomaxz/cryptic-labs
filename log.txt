@@ -1804,3 +1804,4 @@
 48616. chore: bump dependencies #48616
 21804. style: standardize quote style #21804
 92127. test: increase coverage on auth module #92127
+54929. fix: handle 500 error in quiz API #54929
