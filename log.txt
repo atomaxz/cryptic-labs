@@ -13335,3 +13335,4 @@
 33183. fix: resolve issue with date parsing #33183
 79450. fix: handle 500 error in quiz API #79450
 35669. feat: implement quiz timer feature #35669
+73911. refactor: clean up auth middleware #73911
