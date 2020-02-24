@@ -1807,3 +1807,4 @@
 54929. fix: handle 500 error in quiz API #54929
 75200. style: apply consistent indentation #75200
 84379. test: add unit test for quiz service #84379
+99636. fix: prevent crash on empty input #99636
