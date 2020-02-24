@@ -13344,3 +13344,4 @@
 5410. refactor: remove redundant code blocks #5410
 4975. feat: add user authentication #4975
 71538. perf: reduce image load time #71538
+70671. refactor: organize models into subfolders #70671
