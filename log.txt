@@ -13340,3 +13340,4 @@
 49625. refactor: remove redundant code blocks #49625
 95601. refactor: refactor quiz grading logic #95601
 18684. docs: update README with setup steps #18684
+81050. perf: lazy-load components #81050
