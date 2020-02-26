@@ -13348,3 +13348,4 @@
 52766. docs: document token refresh logic #52766
 32265. perf: reduce image load time #32265
 62759. fix: correct typo in registration form #62759
+34663. test: add integration test for /submit endpoint #34663
