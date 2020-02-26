@@ -13350,3 +13350,4 @@
 62759. fix: correct typo in registration form #62759
 34663. test: add integration test for /submit endpoint #34663
 17879. docs: update README with setup steps #17879
+67064. perf: reduce image load time #67064
