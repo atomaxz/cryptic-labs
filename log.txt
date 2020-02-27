@@ -13355,3 +13355,4 @@
 29551. style: remove trailing whitespace #29551
 61614. style: apply consistent indentation #61614
 67537. refactor: split large controller into smaller functions #67537
+67104. fix: handle 500 error in quiz API #67104
