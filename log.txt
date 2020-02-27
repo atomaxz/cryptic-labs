@@ -13352,3 +13352,4 @@
 17879. docs: update README with setup steps #17879
 67064. perf: reduce image load time #67064
 55380. fix: correct typo in registration form #55380
+29551. style: remove trailing whitespace #29551
