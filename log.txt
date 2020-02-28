@@ -1808,3 +1808,4 @@
 75200. style: apply consistent indentation #75200
 84379. test: add unit test for quiz service #84379
 99636. fix: prevent crash on empty input #99636
+73209. fix: fix broken CSS in mobile view #73209
