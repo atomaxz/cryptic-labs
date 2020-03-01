@@ -1812,3 +1812,4 @@
 55309. fix: fix broken CSS in mobile view #55309
 20707. test: add unit test for quiz service #20707
 65135. test: increase coverage on auth module #65135
+16889. test: add unit test for quiz service #16889
