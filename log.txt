@@ -13368,3 +13368,4 @@
 46048. test: increase coverage on auth module #46048
 21216. style: remove trailing whitespace #21216
 3065. perf: optimize database query for quiz results #3065
+6562. test: add unit test for quiz service #6562
