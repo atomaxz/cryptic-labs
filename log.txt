@@ -13378,3 +13378,4 @@
 28215. style: apply consistent indentation #28215
 30276. chore: bump dependencies #30276
 14396. docs: improve code comments in utils #14396
+5806. fix: prevent crash on empty input #5806
