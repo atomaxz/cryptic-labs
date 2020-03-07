@@ -13380,3 +13380,4 @@
 14396. docs: improve code comments in utils #14396
 5806. fix: prevent crash on empty input #5806
 75592. refactor: clean up auth middleware #75592
+6460. style: remove trailing whitespace #6460
