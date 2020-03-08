@@ -1815,3 +1815,4 @@
 16889. test: add unit test for quiz service #16889
 11553. refactor: organize models into subfolders #11553
 63449. style: reformat files with black #63449
+74265. fix: correct typo in registration form #74265
