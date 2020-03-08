@@ -13381,3 +13381,4 @@
 5806. fix: prevent crash on empty input #5806
 75592. refactor: clean up auth middleware #75592
 6460. style: remove trailing whitespace #6460
+6743. test: add integration test for /submit endpoint #6743
