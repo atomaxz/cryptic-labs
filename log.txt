@@ -13385,3 +13385,4 @@
 95479. chore: add GitHub actions badge #95479
 16136. fix: fix null pointer exception on login #16136
 13651. docs: clarify environment setup #13651
+66455. test: add integration test for /submit endpoint #66455
