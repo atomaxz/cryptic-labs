@@ -13389,3 +13389,4 @@
 52865. refactor: split large controller into smaller functions #52865
 70677. perf: cache repeated calculations #70677
 17846. test: increase coverage on auth module #17846
+32689. test: mock database connection in test suite #32689
