@@ -13391,3 +13391,4 @@
 17846. test: increase coverage on auth module #17846
 32689. test: mock database connection in test suite #32689
 78579. test: add unit test for quiz service #78579
+75281. refactor: clean up auth middleware #75281
