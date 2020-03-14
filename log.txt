@@ -13396,3 +13396,4 @@
 5682. docs: write FAQ section #5682
 85592. feat: support email verification #85592
 33167. perf: reduce image load time #33167
+4522. chore: add GitHub actions badge #4522
