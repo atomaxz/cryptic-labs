@@ -13395,3 +13395,4 @@
 3472. fix: handle 500 error in quiz API #3472
 5682. docs: write FAQ section #5682
 85592. feat: support email verification #85592
+33167. perf: reduce image load time #33167
