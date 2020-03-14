@@ -13394,3 +13394,4 @@
 75281. refactor: clean up auth middleware #75281
 3472. fix: handle 500 error in quiz API #3472
 5682. docs: write FAQ section #5682
+85592. feat: support email verification #85592
