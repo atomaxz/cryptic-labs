@@ -13400,3 +13400,4 @@
 99817. feat: add user authentication #99817
 72337. chore: bump dependencies #72337
 61040. chore: rename env.example #61040
+4023. perf: lazy-load components #4023
