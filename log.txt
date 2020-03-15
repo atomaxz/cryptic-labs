@@ -1819,3 +1819,4 @@
 42386. fix: fix broken CSS in mobile view #42386
 17286. feat: implement quiz timer feature #17286
 92679. test: test user registration edge cases #92679
+74220. feat: add user authentication #74220
