@@ -13405,3 +13405,4 @@
 12049. fix: fix broken CSS in mobile view #12049
 1241. chore: bump dependencies #1241
 84246. fix: prevent crash on empty input #84246
+91885. style: standardize quote style #91885
