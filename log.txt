@@ -1820,3 +1820,4 @@
 17286. feat: implement quiz timer feature #17286
 92679. test: test user registration edge cases #92679
 74220. feat: add user authentication #74220
+29710. feat: support email verification #29710
