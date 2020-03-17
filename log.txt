@@ -13404,3 +13404,4 @@
 70406. test: mock database connection in test suite #70406
 12049. fix: fix broken CSS in mobile view #12049
 1241. chore: bump dependencies #1241
+84246. fix: prevent crash on empty input #84246
