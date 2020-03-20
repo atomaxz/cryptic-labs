@@ -13413,3 +13413,4 @@
 26639. fix: resolve issue with date parsing #26639
 7419. feat: enable dark mode toggle #7419
 96754. test: increase coverage on auth module #96754
+2432. test: add integration test for /submit endpoint #2432
