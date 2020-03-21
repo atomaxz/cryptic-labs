@@ -1822,3 +1822,4 @@
 74220. feat: add user authentication #74220
 29710. feat: support email verification #29710
 19021. chore: clean up unused files #19021
+59858. chore: rename env.example #59858
