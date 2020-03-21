@@ -1823,3 +1823,4 @@
 29710. feat: support email verification #29710
 19021. chore: clean up unused files #19021
 59858. chore: rename env.example #59858
+87296. fix: prevent crash on empty input #87296
