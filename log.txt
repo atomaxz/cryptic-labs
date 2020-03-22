@@ -13417,3 +13417,4 @@
 8063. refactor: organize models into subfolders #8063
 74500. refactor: split large controller into smaller functions #74500
 90800. feat: support email verification #90800
+37248. perf: optimize database query for quiz results #37248
