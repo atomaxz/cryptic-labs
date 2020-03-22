@@ -13416,3 +13416,4 @@
 2432. test: add integration test for /submit endpoint #2432
 8063. refactor: organize models into subfolders #8063
 74500. refactor: split large controller into smaller functions #74500
+90800. feat: support email verification #90800
