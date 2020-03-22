@@ -1825,3 +1825,4 @@
 59858. chore: rename env.example #59858
 87296. fix: prevent crash on empty input #87296
 66088. feat: implement quiz timer feature #66088
+59792. perf: optimize database query for quiz results #59792
