@@ -13431,3 +13431,4 @@
 1516. docs: write FAQ section #1516
 5281. fix: fix broken CSS in mobile view #5281
 25586. test: add integration test for /submit endpoint #25586
+18455. style: reformat files with black #18455
