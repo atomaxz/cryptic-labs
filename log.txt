@@ -13429,3 +13429,4 @@
 40992. fix: prevent crash on empty input #40992
 44293. refactor: split large controller into smaller functions #44293
 1516. docs: write FAQ section #1516
+5281. fix: fix broken CSS in mobile view #5281
