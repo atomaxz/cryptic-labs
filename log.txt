@@ -13434,3 +13434,4 @@
 18455. style: reformat files with black #18455
 71969. fix: fix null pointer exception on login #71969
 83171. refactor: organize models into subfolders #83171
+55152. test: mock database connection in test suite #55152
