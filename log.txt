@@ -13435,3 +13435,4 @@
 71969. fix: fix null pointer exception on login #71969
 83171. refactor: organize models into subfolders #83171
 55152. test: mock database connection in test suite #55152
+54917. docs: improve code comments in utils #54917
