@@ -13437,3 +13437,4 @@
 55152. test: mock database connection in test suite #55152
 54917. docs: improve code comments in utils #54917
 81192. test: increase coverage on auth module #81192
+81948. refactor: organize models into subfolders #81948
