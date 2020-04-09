@@ -13467,3 +13467,4 @@
 30278. fix: correct typo in registration form #30278
 74398. style: remove trailing whitespace #74398
 57145. docs: improve code comments in utils #57145
+35729. docs: write FAQ section #35729
