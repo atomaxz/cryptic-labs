@@ -13465,3 +13465,4 @@
 1479. fix: prevent crash on empty input #1479
 23515. docs: improve code comments in utils #23515
 30278. fix: correct typo in registration form #30278
+74398. style: remove trailing whitespace #74398
