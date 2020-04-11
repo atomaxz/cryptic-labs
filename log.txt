@@ -1835,3 +1835,4 @@
 76836. perf: optimize database query for quiz results #76836
 26280. refactor: remove redundant code blocks #26280
 89585. test: add integration test for /submit endpoint #89585
+55735. refactor: split large controller into smaller functions #55735
