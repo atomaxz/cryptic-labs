@@ -13476,3 +13476,4 @@
 87142. fix: prevent crash on empty input #87142
 3390. style: reformat files with black #3390
 63574. feat: create admin dashboard #63574
+93732. refactor: organize models into subfolders #93732
