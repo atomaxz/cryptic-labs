@@ -13475,3 +13475,4 @@
 81722. chore: bump dependencies #81722
 87142. fix: prevent crash on empty input #87142
 3390. style: reformat files with black #3390
+63574. feat: create admin dashboard #63574
