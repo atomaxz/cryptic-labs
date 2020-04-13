@@ -1838,3 +1838,4 @@
 55735. refactor: split large controller into smaller functions #55735
 4922. docs: add API usage examples #4922
 70624. chore: bump dependencies #70624
+64475. perf: lazy-load components #64475
