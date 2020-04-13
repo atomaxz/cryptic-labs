@@ -13479,3 +13479,4 @@
 93732. refactor: organize models into subfolders #93732
 72744. test: increase coverage on auth module #72744
 30921. refactor: organize models into subfolders #30921
+4655. fix: fix broken CSS in mobile view #4655
