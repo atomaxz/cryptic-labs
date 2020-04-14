@@ -13482,3 +13482,4 @@
 4655. fix: fix broken CSS in mobile view #4655
 56017. chore: update .gitignore #56017
 28666. docs: write FAQ section #28666
+45182. fix: correct typo in registration form #45182
