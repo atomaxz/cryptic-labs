@@ -13491,3 +13491,4 @@
 99052. docs: add API usage examples #99052
 32655. style: standardize quote style #32655
 82281. refactor: organize models into subfolders #82281
+24776. perf: optimize database query for quiz results #24776
