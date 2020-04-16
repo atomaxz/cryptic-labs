@@ -1840,3 +1840,4 @@
 70624. chore: bump dependencies #70624
 64475. perf: lazy-load components #64475
 31546. fix: prevent crash on empty input #31546
+47323. chore: update .gitignore #47323
