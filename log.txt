@@ -13494,3 +13494,4 @@
 24776. perf: optimize database query for quiz results #24776
 95817. fix: fix null pointer exception on login #95817
 14807. test: add unit test for quiz service #14807
+85730. style: reformat files with black #85730
