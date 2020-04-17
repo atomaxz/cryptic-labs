@@ -13492,3 +13492,4 @@
 32655. style: standardize quote style #32655
 82281. refactor: organize models into subfolders #82281
 24776. perf: optimize database query for quiz results #24776
+95817. fix: fix null pointer exception on login #95817
