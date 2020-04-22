@@ -13511,3 +13511,4 @@
 47579. docs: add API usage examples #47579
 83705. perf: cache repeated calculations #83705
 17972. chore: clean up unused files #17972
+93334. chore: add GitHub actions badge #93334
