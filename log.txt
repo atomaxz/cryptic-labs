@@ -13516,3 +13516,4 @@
 59942. perf: optimize database query for quiz results #59942
 66108. docs: write FAQ section #66108
 23199. style: reformat files with black #23199
+77571. perf: cache repeated calculations #77571
