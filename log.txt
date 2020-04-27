@@ -13523,3 +13523,4 @@
 65431. refactor: split large controller into smaller functions #65431
 73429. docs: improve code comments in utils #73429
 43923. feat: support email verification #43923
+19364. fix: fix broken CSS in mobile view #19364
