@@ -1843,3 +1843,4 @@
 47323. chore: update .gitignore #47323
 70460. chore: bump dependencies #70460
 43215. chore: add GitHub actions badge #43215
+51164. test: mock database connection in test suite #51164
