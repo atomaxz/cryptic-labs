@@ -13529,3 +13529,4 @@
 24789. chore: rename env.example #24789
 69280. docs: clarify environment setup #69280
 76596. chore: rename env.example #76596
+9086. style: rename variables for clarity #9086
