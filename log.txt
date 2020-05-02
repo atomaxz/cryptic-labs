@@ -13533,3 +13533,4 @@
 62754. refactor: remove redundant code blocks #62754
 20081. docs: clarify environment setup #20081
 95175. test: mock database connection in test suite #95175
+89584. feat: add export to CSV option #89584
