@@ -13534,3 +13534,4 @@
 20081. docs: clarify environment setup #20081
 95175. test: mock database connection in test suite #95175
 89584. feat: add export to CSV option #89584
+91496. fix: correct typo in registration form #91496
