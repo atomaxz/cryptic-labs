@@ -13539,3 +13539,4 @@
 76258. style: rename variables for clarity #76258
 44908. style: reformat files with black #44908
 2420. fix: fix broken CSS in mobile view #2420
+20787. chore: update .gitignore #20787
