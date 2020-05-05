@@ -13542,3 +13542,4 @@
 20787. chore: update .gitignore #20787
 97994. fix: handle 500 error in quiz API #97994
 80477. docs: write FAQ section #80477
+12493. style: remove trailing whitespace #12493
