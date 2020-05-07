@@ -13546,3 +13546,4 @@
 3544. fix: fix broken CSS in mobile view #3544
 4874. style: standardize quote style #4874
 97526. style: rename variables for clarity #97526
+82471. perf: optimize database query for quiz results #82471
