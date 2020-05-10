@@ -13554,3 +13554,4 @@
 97035. docs: clarify environment setup #97035
 8888. docs: document token refresh logic #8888
 87708. chore: clean up unused files #87708
+6534. test: mock database connection in test suite #6534
