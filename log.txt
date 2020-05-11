@@ -13558,3 +13558,4 @@
 96978. fix: handle 500 error in quiz API #96978
 50013. docs: improve code comments in utils #50013
 26748. chore: bump dependencies #26748
+38104. feat: add user authentication #38104
