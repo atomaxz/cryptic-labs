@@ -13559,3 +13559,4 @@
 50013. docs: improve code comments in utils #50013
 26748. chore: bump dependencies #26748
 38104. feat: add user authentication #38104
+81602. fix: fix broken CSS in mobile view #81602
