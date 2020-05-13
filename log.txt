@@ -1852,3 +1852,4 @@
 72088. docs: add API usage examples #72088
 76443. perf: optimize database query for quiz results #76443
 85890. chore: rename env.example #85890
+94057. test: test user registration edge cases #94057
