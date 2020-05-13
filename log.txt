@@ -1850,3 +1850,4 @@
 99123. feat: add export to CSV option #99123
 97203. chore: rename env.example #97203
 72088. docs: add API usage examples #72088
+76443. perf: optimize database query for quiz results #76443
