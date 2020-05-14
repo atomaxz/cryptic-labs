@@ -1853,3 +1853,4 @@
 76443. perf: optimize database query for quiz results #76443
 85890. chore: rename env.example #85890
 94057. test: test user registration edge cases #94057
+72778. perf: optimize database query for quiz results #72778
