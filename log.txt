@@ -13566,3 +13566,4 @@
 44378. refactor: remove redundant code blocks #44378
 1735. style: apply consistent indentation #1735
 35487. test: test user registration edge cases #35487
+79443. perf: reduce image load time #79443
