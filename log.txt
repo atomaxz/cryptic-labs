@@ -13569,3 +13569,4 @@
 79443. perf: reduce image load time #79443
 80763. refactor: split large controller into smaller functions #80763
 92846. chore: bump dependencies #92846
+78617. feat: add export to CSV option #78617
