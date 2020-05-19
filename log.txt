@@ -13573,3 +13573,4 @@
 75133. test: add unit test for quiz service #75133
 41537. docs: document token refresh logic #41537
 4562. chore: bump dependencies #4562
+71628. test: increase coverage on auth module #71628
