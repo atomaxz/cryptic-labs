@@ -13575,3 +13575,4 @@
 4562. chore: bump dependencies #4562
 71628. test: increase coverage on auth module #71628
 53317. test: add integration test for /submit endpoint #53317
+68059. refactor: clean up auth middleware #68059
