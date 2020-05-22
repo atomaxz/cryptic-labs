@@ -13578,3 +13578,4 @@
 68059. refactor: clean up auth middleware #68059
 82640. chore: bump dependencies #82640
 86992. style: rename variables for clarity #86992
+31600. perf: lazy-load components #31600
