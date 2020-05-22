@@ -1858,3 +1858,4 @@
 1706. chore: add GitHub actions badge #1706
 62665. style: apply consistent indentation #62665
 22501. style: apply consistent indentation #22501
+97340. perf: lazy-load components #97340
