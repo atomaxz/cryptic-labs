@@ -13579,3 +13579,4 @@
 82640. chore: bump dependencies #82640
 86992. style: rename variables for clarity #86992
 31600. perf: lazy-load components #31600
+7360. style: apply consistent indentation #7360
