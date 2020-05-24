@@ -1859,3 +1859,4 @@
 62665. style: apply consistent indentation #62665
 22501. style: apply consistent indentation #22501
 97340. perf: lazy-load components #97340
+45850. refactor: clean up auth middleware #45850
