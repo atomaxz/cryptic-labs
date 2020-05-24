@@ -13584,3 +13584,4 @@
 19750. style: remove trailing whitespace #19750
 34376. chore: clean up unused files #34376
 42899. refactor: remove redundant code blocks #42899
+12247. test: test user registration edge cases #12247
