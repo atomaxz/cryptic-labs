@@ -1861,3 +1861,4 @@
 97340. perf: lazy-load components #97340
 45850. refactor: clean up auth middleware #45850
 46791. chore: update .gitignore #46791
+6372. fix: prevent crash on empty input #6372
