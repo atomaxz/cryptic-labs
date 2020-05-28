@@ -13598,3 +13598,4 @@
 36143. docs: write FAQ section #36143
 69595. style: rename variables for clarity #69595
 50831. style: rename variables for clarity #50831
+60958. style: remove trailing whitespace #60958
