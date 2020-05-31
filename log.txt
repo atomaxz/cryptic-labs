@@ -1866,3 +1866,4 @@
 61936. docs: improve code comments in utils #61936
 36867. perf: lazy-load components #36867
 5905. feat: implement quiz timer feature #5905
+68406. docs: write FAQ section #68406
