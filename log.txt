@@ -1870,3 +1870,4 @@
 46528. feat: support email verification #46528
 28730. docs: add API usage examples #28730
 62594. style: apply consistent indentation #62594
+26236. test: add integration test for /submit endpoint #26236
