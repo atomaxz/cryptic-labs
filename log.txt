@@ -13608,3 +13608,4 @@
 34220. test: mock database connection in test suite #34220
 38726. perf: reduce image load time #38726
 26276. fix: correct typo in registration form #26276
+53139. refactor: clean up auth middleware #53139
