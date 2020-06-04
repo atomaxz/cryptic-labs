@@ -13619,3 +13619,4 @@
 55820. feat: add export to CSV option #55820
 63223. feat: implement quiz timer feature #63223
 83987. chore: bump dependencies #83987
+6318. test: increase coverage on auth module #6318
