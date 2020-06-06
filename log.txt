@@ -1873,3 +1873,4 @@
 26236. test: add integration test for /submit endpoint #26236
 76369. perf: lazy-load components #76369
 61833. refactor: remove redundant code blocks #61833
+1466. docs: document token refresh logic #1466
