@@ -13627,3 +13627,4 @@
 74866. refactor: remove redundant code blocks #74866
 84492. style: standardize quote style #84492
 70796. perf: optimize database query for quiz results #70796
+66445. test: add integration test for /submit endpoint #66445
