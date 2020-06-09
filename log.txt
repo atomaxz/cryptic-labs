@@ -13633,3 +13633,4 @@
 37738. chore: update .gitignore #37738
 90412. fix: correct typo in registration form #90412
 51604. feat: add export to CSV option #51604
+10412. style: apply consistent indentation #10412
