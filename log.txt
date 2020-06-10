@@ -13636,3 +13636,4 @@
 10412. style: apply consistent indentation #10412
 0898. perf: lazy-load components #898
 48385. test: mock database connection in test suite #48385
+68714. refactor: organize models into subfolders #68714
