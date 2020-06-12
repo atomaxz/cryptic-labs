@@ -1877,3 +1877,4 @@
 68177. feat: add user authentication #68177
 60580. fix: fix broken CSS in mobile view #60580
 49396. fix: handle 500 error in quiz API #49396
+70357. chore: bump dependencies #70357
