@@ -13640,3 +13640,4 @@
 25770. style: apply consistent indentation #25770
 21334. test: add integration test for /submit endpoint #21334
 65680. feat: support email verification #65680
+47136. docs: update README with setup steps #47136
