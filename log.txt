@@ -13648,3 +13648,4 @@
 78915. test: mock database connection in test suite #78915
 99190. refactor: split large controller into smaller functions #99190
 95732. perf: cache repeated calculations #95732
+82793. chore: bump dependencies #82793
