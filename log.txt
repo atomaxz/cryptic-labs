@@ -13651,3 +13651,4 @@
 82793. chore: bump dependencies #82793
 75113. feat: enable dark mode toggle #75113
 26285. perf: cache repeated calculations #26285
+77330. docs: document token refresh logic #77330
