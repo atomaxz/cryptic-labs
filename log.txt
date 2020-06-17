@@ -13652,3 +13652,4 @@
 75113. feat: enable dark mode toggle #75113
 26285. perf: cache repeated calculations #26285
 77330. docs: document token refresh logic #77330
+78322. fix: handle 500 error in quiz API #78322
