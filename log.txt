@@ -1879,3 +1879,4 @@
 49396. fix: handle 500 error in quiz API #49396
 70357. chore: bump dependencies #70357
 75532. fix: resolve issue with date parsing #75532
+73874. style: remove trailing whitespace #73874
