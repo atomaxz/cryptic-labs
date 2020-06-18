@@ -13655,3 +13655,4 @@
 78322. fix: handle 500 error in quiz API #78322
 16512. style: standardize quote style #16512
 84359. refactor: refactor quiz grading logic #84359
+13580. test: increase coverage on auth module #13580
