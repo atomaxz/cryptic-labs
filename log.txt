@@ -1881,3 +1881,4 @@
 75532. fix: resolve issue with date parsing #75532
 73874. style: remove trailing whitespace #73874
 2510. docs: clarify environment setup #2510
+49823. docs: document token refresh logic #49823
