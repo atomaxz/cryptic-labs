@@ -13665,3 +13665,4 @@
 20813. style: remove trailing whitespace #20813
 24098. chore: add GitHub actions badge #24098
 94608. refactor: organize models into subfolders #94608
+6183. feat: support email verification #6183
