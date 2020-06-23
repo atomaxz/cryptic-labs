@@ -1882,3 +1882,4 @@
 73874. style: remove trailing whitespace #73874
 2510. docs: clarify environment setup #2510
 49823. docs: document token refresh logic #49823
+90952. feat: add user authentication #90952
