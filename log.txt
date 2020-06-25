@@ -13668,3 +13668,4 @@
 6183. feat: support email verification #6183
 20412. style: apply consistent indentation #20412
 75811. perf: cache repeated calculations #75811
+96372. refactor: remove redundant code blocks #96372
