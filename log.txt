@@ -13670,3 +13670,4 @@
 75811. perf: cache repeated calculations #75811
 96372. refactor: remove redundant code blocks #96372
 15763. chore: rename env.example #15763
+33080. perf: lazy-load components #33080
