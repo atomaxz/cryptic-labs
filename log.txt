@@ -13671,3 +13671,4 @@
 96372. refactor: remove redundant code blocks #96372
 15763. chore: rename env.example #15763
 33080. perf: lazy-load components #33080
+28882. fix: fix null pointer exception on login #28882
