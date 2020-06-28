@@ -1884,3 +1884,4 @@
 49823. docs: document token refresh logic #49823
 90952. feat: add user authentication #90952
 96906. style: standardize quote style #96906
+16174. feat: support email verification #16174
