@@ -13676,3 +13676,4 @@
 6361. style: reformat files with black #6361
 88895. docs: clarify environment setup #88895
 21994. feat: support email verification #21994
+5429. docs: update README with setup steps #5429
