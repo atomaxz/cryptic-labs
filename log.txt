@@ -13687,3 +13687,4 @@
 32059. refactor: organize models into subfolders #32059
 78331. test: increase coverage on auth module #78331
 6314. docs: write FAQ section #6314
+8021. docs: clarify environment setup #8021
