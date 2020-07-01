@@ -13688,3 +13688,4 @@
 78331. test: increase coverage on auth module #78331
 6314. docs: write FAQ section #6314
 8021. docs: clarify environment setup #8021
+62678. test: mock database connection in test suite #62678
