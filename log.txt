@@ -13684,3 +13684,4 @@
 83016. refactor: remove redundant code blocks #83016
 64498. feat: enable dark mode toggle #64498
 40775. perf: cache repeated calculations #40775
+32059. refactor: organize models into subfolders #32059
