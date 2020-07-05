@@ -13699,3 +13699,4 @@
 71242. test: increase coverage on auth module #71242
 40469. style: apply consistent indentation #40469
 36251. style: standardize quote style #36251
+37772. perf: lazy-load components #37772
