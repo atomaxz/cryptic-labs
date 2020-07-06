@@ -13705,3 +13705,4 @@
 97995. perf: reduce image load time #97995
 19512. fix: fix broken CSS in mobile view #19512
 94689. chore: bump dependencies #94689
+72588. test: add integration test for /submit endpoint #72588
