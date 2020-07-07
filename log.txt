@@ -1887,3 +1887,4 @@
 16174. feat: support email verification #16174
 1654. chore: add GitHub actions badge #1654
 81975. style: remove trailing whitespace #81975
+60670. refactor: clean up auth middleware #60670
