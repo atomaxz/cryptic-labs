@@ -1889,3 +1889,4 @@
 81975. style: remove trailing whitespace #81975
 60670. refactor: clean up auth middleware #60670
 43895. perf: cache repeated calculations #43895
+81050. perf: lazy-load components #81050
