@@ -13720,3 +13720,4 @@
 61556. fix: correct typo in registration form #61556
 95343. refactor: clean up auth middleware #95343
 63447. perf: lazy-load components #63447
+5356. perf: optimize database query for quiz results #5356
