@@ -13716,3 +13716,4 @@
 1547. chore: clean up unused files #1547
 34343. refactor: organize models into subfolders #34343
 64727. feat: implement quiz timer feature #64727
+79246. refactor: clean up auth middleware #79246
