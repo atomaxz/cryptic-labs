@@ -13727,3 +13727,4 @@
 18594. docs: document token refresh logic #18594
 32627. chore: clean up unused files #32627
 64376. fix: correct typo in registration form #64376
+11020. style: remove trailing whitespace #11020
