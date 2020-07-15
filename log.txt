@@ -1893,3 +1893,4 @@
 84395. feat: support email verification #84395
 26347. refactor: split large controller into smaller functions #26347
 84116. docs: document token refresh logic #84116
+89834. chore: add GitHub actions badge #89834
