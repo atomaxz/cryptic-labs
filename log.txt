@@ -13729,3 +13729,4 @@
 64376. fix: correct typo in registration form #64376
 11020. style: remove trailing whitespace #11020
 37342. test: add integration test for /submit endpoint #37342
+69533. fix: correct typo in registration form #69533
