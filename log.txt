@@ -1895,3 +1895,4 @@
 84116. docs: document token refresh logic #84116
 89834. chore: add GitHub actions badge #89834
 56944. test: add integration test for /submit endpoint #56944
+91747. test: increase coverage on auth module #91747
