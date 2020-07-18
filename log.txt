@@ -1897,3 +1897,4 @@
 56944. test: add integration test for /submit endpoint #56944
 91747. test: increase coverage on auth module #91747
 25817. perf: cache repeated calculations #25817
+20620. perf: lazy-load components #20620
