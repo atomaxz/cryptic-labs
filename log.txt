@@ -13745,3 +13745,4 @@
 15877. fix: correct typo in registration form #15877
 67329. test: test user registration edge cases #67329
 39845. style: apply consistent indentation #39845
+18527. refactor: split large controller into smaller functions #18527
