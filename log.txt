@@ -13753,3 +13753,4 @@
 16279. test: add integration test for /submit endpoint #16279
 46340. docs: document token refresh logic #46340
 73382. perf: lazy-load components #73382
+79417. fix: handle 500 error in quiz API #79417
