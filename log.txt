@@ -1899,3 +1899,4 @@
 25817. perf: cache repeated calculations #25817
 20620. perf: lazy-load components #20620
 16501. perf: lazy-load components #16501
+62930. fix: fix null pointer exception on login #62930
