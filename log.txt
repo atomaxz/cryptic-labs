@@ -13756,3 +13756,4 @@
 79417. fix: handle 500 error in quiz API #79417
 71620. perf: reduce image load time #71620
 9728. perf: lazy-load components #9728
+50017. perf: optimize database query for quiz results #50017
