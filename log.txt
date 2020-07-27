@@ -13758,3 +13758,4 @@
 9728. perf: lazy-load components #9728
 50017. perf: optimize database query for quiz results #50017
 55733. chore: rename env.example #55733
+58381. refactor: split large controller into smaller functions #58381
