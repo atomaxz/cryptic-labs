@@ -13760,3 +13760,4 @@
 55733. chore: rename env.example #55733
 58381. refactor: split large controller into smaller functions #58381
 26657. fix: fix null pointer exception on login #26657
+72776. perf: optimize database query for quiz results #72776
