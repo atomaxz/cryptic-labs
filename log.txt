@@ -13762,3 +13762,4 @@
 26657. fix: fix null pointer exception on login #26657
 72776. perf: optimize database query for quiz results #72776
 51899. test: add integration test for /submit endpoint #51899
+39490. docs: write FAQ section #39490
