@@ -13766,3 +13766,4 @@
 20065. feat: create admin dashboard #20065
 63184. perf: reduce image load time #63184
 8178. perf: cache repeated calculations #8178
+23890. fix: handle 500 error in quiz API #23890
