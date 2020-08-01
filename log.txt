@@ -13769,3 +13769,4 @@
 23890. fix: handle 500 error in quiz API #23890
 73801. chore: update .gitignore #73801
 75632. perf: reduce image load time #75632
+71501. test: increase coverage on auth module #71501
