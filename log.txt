@@ -13773,3 +13773,4 @@
 39013. fix: handle 500 error in quiz API #39013
 98339. fix: resolve issue with date parsing #98339
 16182. test: mock database connection in test suite #16182
+13506. style: reformat files with black #13506
