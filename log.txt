@@ -1907,3 +1907,4 @@
 11575. docs: add API usage examples #11575
 61288. test: test user registration edge cases #61288
 97942. feat: create admin dashboard #97942
+5169. perf: reduce image load time #5169
