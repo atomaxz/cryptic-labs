@@ -1910,3 +1910,4 @@
 5169. perf: reduce image load time #5169
 39725. perf: lazy-load components #39725
 10257. docs: add API usage examples #10257
+50888. style: apply consistent indentation #50888
