@@ -13789,3 +13789,4 @@
 0876. style: remove trailing whitespace #876
 96740. refactor: split large controller into smaller functions #96740
 21067. test: add integration test for /submit endpoint #21067
+31995. fix: handle 500 error in quiz API #31995
