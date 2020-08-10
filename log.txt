@@ -1911,3 +1911,4 @@
 39725. perf: lazy-load components #39725
 10257. docs: add API usage examples #10257
 50888. style: apply consistent indentation #50888
+1106. feat: support email verification #1106
