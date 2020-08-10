@@ -13794,3 +13794,4 @@
 94826. test: test user registration edge cases #94826
 6687. style: apply consistent indentation #6687
 84546. chore: rename env.example #84546
+42400. fix: handle 500 error in quiz API #42400
