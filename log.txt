@@ -13798,3 +13798,4 @@
 30812. style: rename variables for clarity #30812
 68906. fix: handle 500 error in quiz API #68906
 96055. refactor: clean up auth middleware #96055
+13159. refactor: refactor quiz grading logic #13159
