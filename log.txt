@@ -13806,3 +13806,4 @@
 58572. chore: bump dependencies #58572
 80784. chore: clean up unused files #80784
 71252. fix: correct typo in registration form #71252
+94358. chore: add GitHub actions badge #94358
