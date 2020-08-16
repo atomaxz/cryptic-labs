@@ -13809,3 +13809,4 @@
 94358. chore: add GitHub actions badge #94358
 36879. docs: add API usage examples #36879
 88517. feat: add export to CSV option #88517
+55403. perf: cache repeated calculations #55403
