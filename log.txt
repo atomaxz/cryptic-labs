@@ -1914,3 +1914,4 @@
 1106. feat: support email verification #1106
 86016. fix: fix broken CSS in mobile view #86016
 15009. chore: add GitHub actions badge #15009
+75629. docs: update README with setup steps #75629
