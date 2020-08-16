@@ -13810,3 +13810,4 @@
 36879. docs: add API usage examples #36879
 88517. feat: add export to CSV option #88517
 55403. perf: cache repeated calculations #55403
+59452. test: add integration test for /submit endpoint #59452
