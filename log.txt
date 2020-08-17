@@ -13814,3 +13814,4 @@
 99297. chore: bump dependencies #99297
 56331. chore: clean up unused files #56331
 77681. chore: rename env.example #77681
+9700. test: test user registration edge cases #9700
