@@ -13816,3 +13816,4 @@
 77681. chore: rename env.example #77681
 9700. test: test user registration edge cases #9700
 38455. test: mock database connection in test suite #38455
+33856. test: increase coverage on auth module #33856
