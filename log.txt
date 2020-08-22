@@ -13826,3 +13826,4 @@
 10400. feat: create admin dashboard #10400
 13837. perf: reduce image load time #13837
 31092. docs: add API usage examples #31092
+60044. style: remove trailing whitespace #60044
