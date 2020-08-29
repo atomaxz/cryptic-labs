@@ -1917,3 +1917,4 @@
 75629. docs: update README with setup steps #75629
 90892. perf: optimize database query for quiz results #90892
 85783. style: rename variables for clarity #85783
+41517. test: test user registration edge cases #41517
