@@ -13847,3 +13847,4 @@
 13830. feat: implement quiz timer feature #13830
 8232. docs: add API usage examples #8232
 19127. chore: add GitHub actions badge #19127
+93638. fix: handle 500 error in quiz API #93638
