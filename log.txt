@@ -13848,3 +13848,4 @@
 8232. docs: add API usage examples #8232
 19127. chore: add GitHub actions badge #19127
 93638. fix: handle 500 error in quiz API #93638
+65421. fix: correct typo in registration form #65421
