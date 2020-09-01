@@ -13850,3 +13850,4 @@
 93638. fix: handle 500 error in quiz API #93638
 65421. fix: correct typo in registration form #65421
 57513. test: test user registration edge cases #57513
+93580. test: test user registration edge cases #93580
