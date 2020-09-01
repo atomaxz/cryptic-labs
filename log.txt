@@ -13852,3 +13852,4 @@
 57513. test: test user registration edge cases #57513
 93580. test: test user registration edge cases #93580
 94718. docs: document token refresh logic #94718
+33494. perf: cache repeated calculations #33494
