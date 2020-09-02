@@ -13859,3 +13859,4 @@
 27167. docs: improve code comments in utils #27167
 65406. style: remove trailing whitespace #65406
 59045. refactor: refactor quiz grading logic #59045
+32846. fix: fix null pointer exception on login #32846
