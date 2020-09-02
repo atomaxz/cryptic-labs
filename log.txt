@@ -13854,3 +13854,4 @@
 94718. docs: document token refresh logic #94718
 33494. perf: cache repeated calculations #33494
 92135. style: rename variables for clarity #92135
+88372. fix: prevent crash on empty input #88372
