@@ -13861,3 +13861,4 @@
 59045. refactor: refactor quiz grading logic #59045
 32846. fix: fix null pointer exception on login #32846
 81366. style: apply consistent indentation #81366
+64856. feat: support email verification #64856
