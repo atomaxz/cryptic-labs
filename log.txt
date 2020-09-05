@@ -13868,3 +13868,4 @@
 20961. chore: update .gitignore #20961
 98993. chore: clean up unused files #98993
 99971. test: add integration test for /submit endpoint #99971
+90443. feat: add user authentication #90443
