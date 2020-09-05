@@ -13865,3 +13865,4 @@
 93018. chore: bump dependencies #93018
 34454. perf: lazy-load components #34454
 58521. style: reformat files with black #58521
+20961. chore: update .gitignore #20961
