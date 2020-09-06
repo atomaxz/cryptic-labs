@@ -13872,3 +13872,4 @@
 37115. chore: bump dependencies #37115
 70414. fix: resolve issue with date parsing #70414
 87800. docs: clarify environment setup #87800
+29112. fix: correct typo in registration form #29112
