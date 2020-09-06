@@ -1920,3 +1920,4 @@
 41517. test: test user registration edge cases #41517
 89501. perf: reduce image load time #89501
 53867. chore: clean up unused files #53867
+32717. test: add unit test for quiz service #32717
