@@ -1923,3 +1923,4 @@
 32717. test: add unit test for quiz service #32717
 28411. docs: update README with setup steps #28411
 61749. style: remove trailing whitespace #61749
+9485. test: mock database connection in test suite #9485
