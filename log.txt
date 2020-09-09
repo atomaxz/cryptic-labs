@@ -13875,3 +13875,4 @@
 29112. fix: correct typo in registration form #29112
 3433. perf: optimize database query for quiz results #3433
 73184. test: add unit test for quiz service #73184
+0574. feat: add user authentication #574
