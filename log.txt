@@ -13878,3 +13878,4 @@
 0574. feat: add user authentication #574
 76488. style: rename variables for clarity #76488
 4308. style: standardize quote style #4308
+52157. fix: prevent crash on empty input #52157
