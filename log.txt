@@ -13879,3 +13879,4 @@
 76488. style: rename variables for clarity #76488
 4308. style: standardize quote style #4308
 52157. fix: prevent crash on empty input #52157
+42146. fix: handle 500 error in quiz API #42146
