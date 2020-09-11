@@ -13887,3 +13887,4 @@
 36065. style: apply consistent indentation #36065
 15580. style: apply consistent indentation #15580
 26218. fix: handle 500 error in quiz API #26218
+11058. test: test user registration edge cases #11058
