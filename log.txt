@@ -13886,3 +13886,4 @@
 93326. style: apply consistent indentation #93326
 36065. style: apply consistent indentation #36065
 15580. style: apply consistent indentation #15580
+26218. fix: handle 500 error in quiz API #26218
