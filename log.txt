@@ -1926,3 +1926,4 @@
 9485. test: mock database connection in test suite #9485
 73803. style: apply consistent indentation #73803
 45897. fix: correct typo in registration form #45897
+64136. perf: optimize database query for quiz results #64136
