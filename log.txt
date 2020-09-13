@@ -13894,3 +13894,4 @@
 14385. test: add integration test for /submit endpoint #14385
 44655. docs: add API usage examples #44655
 61158. chore: add GitHub actions badge #61158
+5585. style: remove trailing whitespace #5585
