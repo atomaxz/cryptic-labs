@@ -13896,3 +13896,4 @@
 61158. chore: add GitHub actions badge #61158
 5585. style: remove trailing whitespace #5585
 5923. refactor: split large controller into smaller functions #5923
+80641. fix: correct typo in registration form #80641
