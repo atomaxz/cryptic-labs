@@ -13898,3 +13898,4 @@
 5923. refactor: split large controller into smaller functions #5923
 80641. fix: correct typo in registration form #80641
 30064. chore: add GitHub actions badge #30064
+90870. perf: optimize database query for quiz results #90870
