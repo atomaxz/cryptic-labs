@@ -13901,3 +13901,4 @@
 90870. perf: optimize database query for quiz results #90870
 54862. refactor: split large controller into smaller functions #54862
 76979. test: add unit test for quiz service #76979
+4651. feat: support email verification #4651
