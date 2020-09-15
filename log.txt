@@ -1928,3 +1928,4 @@
 45897. fix: correct typo in registration form #45897
 64136. perf: optimize database query for quiz results #64136
 53235. fix: fix null pointer exception on login #53235
+33272. perf: lazy-load components #33272
