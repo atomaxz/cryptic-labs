@@ -13904,3 +13904,4 @@
 4651. feat: support email verification #4651
 70197. feat: add user authentication #70197
 31677. feat: implement quiz timer feature #31677
+30022. test: test user registration edge cases #30022
