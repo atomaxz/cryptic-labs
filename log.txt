@@ -13907,3 +13907,4 @@
 30022. test: test user registration edge cases #30022
 70415. fix: fix null pointer exception on login #70415
 8523. refactor: split large controller into smaller functions #8523
+41105. refactor: remove redundant code blocks #41105
