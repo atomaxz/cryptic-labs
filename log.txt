@@ -13905,3 +13905,4 @@
 70197. feat: add user authentication #70197
 31677. feat: implement quiz timer feature #31677
 30022. test: test user registration edge cases #30022
+70415. fix: fix null pointer exception on login #70415
