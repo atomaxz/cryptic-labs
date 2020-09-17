@@ -13910,3 +13910,4 @@
 41105. refactor: remove redundant code blocks #41105
 86104. perf: lazy-load components #86104
 29495. refactor: split large controller into smaller functions #29495
+87243. perf: reduce image load time #87243
