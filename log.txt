@@ -13917,3 +13917,4 @@
 87906. chore: bump dependencies #87906
 51638. style: apply consistent indentation #51638
 38988. style: rename variables for clarity #38988
+50011. style: remove trailing whitespace #50011
