@@ -13918,3 +13918,4 @@
 51638. style: apply consistent indentation #51638
 38988. style: rename variables for clarity #38988
 50011. style: remove trailing whitespace #50011
+46195. feat: support email verification #46195
