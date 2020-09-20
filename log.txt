@@ -13919,3 +13919,4 @@
 38988. style: rename variables for clarity #38988
 50011. style: remove trailing whitespace #50011
 46195. feat: support email verification #46195
+40739. chore: add GitHub actions badge #40739
