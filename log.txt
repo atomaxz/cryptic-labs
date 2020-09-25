@@ -13929,3 +13929,4 @@
 45988. docs: clarify environment setup #45988
 78438. fix: fix broken CSS in mobile view #78438
 26129. perf: reduce image load time #26129
+99566. fix: fix broken CSS in mobile view #99566
