@@ -13936,3 +13936,4 @@
 1224. docs: update README with setup steps #1224
 32539. perf: reduce image load time #32539
 93498. refactor: clean up auth middleware #93498
+0059. chore: update .gitignore #59
