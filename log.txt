@@ -13933,3 +13933,4 @@
 32740. perf: lazy-load components #32740
 7314. style: remove trailing whitespace #7314
 81430. refactor: organize models into subfolders #81430
+1224. docs: update README with setup steps #1224
