@@ -13938,3 +13938,4 @@
 93498. refactor: clean up auth middleware #93498
 0059. chore: update .gitignore #59
 74323. chore: add GitHub actions badge #74323
+94293. test: test user registration edge cases #94293
