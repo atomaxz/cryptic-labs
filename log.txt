@@ -13937,3 +13937,4 @@
 32539. perf: reduce image load time #32539
 93498. refactor: clean up auth middleware #93498
 0059. chore: update .gitignore #59
+74323. chore: add GitHub actions badge #74323
