@@ -13941,3 +13941,4 @@
 94293. test: test user registration edge cases #94293
 45733. perf: lazy-load components #45733
 9934. fix: prevent crash on empty input #9934
+43741. refactor: split large controller into smaller functions #43741
