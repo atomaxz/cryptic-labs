@@ -13940,3 +13940,4 @@
 74323. chore: add GitHub actions badge #74323
 94293. test: test user registration edge cases #94293
 45733. perf: lazy-load components #45733
+9934. fix: prevent crash on empty input #9934
