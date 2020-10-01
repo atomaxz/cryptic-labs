@@ -13947,3 +13947,4 @@
 50115. refactor: remove redundant code blocks #50115
 60538. test: add unit test for quiz service #60538
 75174. feat: implement quiz timer feature #75174
+82806. test: test user registration edge cases #82806
