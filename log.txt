@@ -13954,3 +13954,4 @@
 86712. perf: optimize database query for quiz results #86712
 26139. test: test user registration edge cases #26139
 33880. style: standardize quote style #33880
+96567. feat: enable dark mode toggle #96567
