@@ -1935,3 +1935,4 @@
 35762. chore: add GitHub actions badge #35762
 39177. perf: lazy-load components #39177
 95615. refactor: remove redundant code blocks #95615
+28135. style: remove trailing whitespace #28135
