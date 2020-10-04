@@ -13956,3 +13956,4 @@
 33880. style: standardize quote style #33880
 96567. feat: enable dark mode toggle #96567
 27272. chore: add GitHub actions badge #27272
+53403. feat: support email verification #53403
