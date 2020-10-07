@@ -13966,3 +13966,4 @@
 75529. style: apply consistent indentation #75529
 31154. test: increase coverage on auth module #31154
 11866. docs: clarify environment setup #11866
+12774. test: add unit test for quiz service #12774
