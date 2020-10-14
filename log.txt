@@ -13979,3 +13979,4 @@
 71345. style: rename variables for clarity #71345
 90318. refactor: clean up auth middleware #90318
 26497. style: rename variables for clarity #26497
+47307. refactor: remove redundant code blocks #47307
