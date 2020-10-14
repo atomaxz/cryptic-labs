@@ -13980,3 +13980,4 @@
 90318. refactor: clean up auth middleware #90318
 26497. style: rename variables for clarity #26497
 47307. refactor: remove redundant code blocks #47307
+66566. docs: document token refresh logic #66566
