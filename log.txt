@@ -13984,3 +13984,4 @@
 61817. chore: update .gitignore #61817
 76086. refactor: refactor quiz grading logic #76086
 51117. style: remove trailing whitespace #51117
+64649. perf: lazy-load components #64649
