@@ -13986,3 +13986,4 @@
 51117. style: remove trailing whitespace #51117
 64649. perf: lazy-load components #64649
 39816. feat: add user authentication #39816
+92882. feat: support email verification #92882
