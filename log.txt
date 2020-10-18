@@ -13991,3 +13991,4 @@
 47219. refactor: organize models into subfolders #47219
 54304. perf: cache repeated calculations #54304
 30536. docs: clarify environment setup #30536
+19043. fix: fix broken CSS in mobile view #19043
