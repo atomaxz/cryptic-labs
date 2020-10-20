@@ -13996,3 +13996,4 @@
 21757. perf: lazy-load components #21757
 43369. feat: implement quiz timer feature #43369
 60886. feat: create admin dashboard #60886
+60289. fix: prevent crash on empty input #60289
