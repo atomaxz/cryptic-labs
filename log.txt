@@ -1945,3 +1945,4 @@
 4031. style: reformat files with black #4031
 70871. style: reformat files with black #70871
 40954. test: add unit test for quiz service #40954
+17800. fix: correct typo in registration form #17800
