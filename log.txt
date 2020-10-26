@@ -14008,3 +14008,4 @@
 64041. test: add unit test for quiz service #64041
 17869. refactor: remove redundant code blocks #17869
 82206. refactor: refactor quiz grading logic #82206
+36826. feat: support email verification #36826
