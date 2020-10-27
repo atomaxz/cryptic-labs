@@ -14011,3 +14011,4 @@
 36826. feat: support email verification #36826
 74825. feat: implement quiz timer feature #74825
 66308. style: rename variables for clarity #66308
+13851. chore: add GitHub actions badge #13851
