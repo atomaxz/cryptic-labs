@@ -14015,3 +14015,4 @@
 54046. chore: rename env.example #54046
 66556. refactor: split large controller into smaller functions #66556
 56279. perf: lazy-load components #56279
+47852. docs: document token refresh logic #47852
