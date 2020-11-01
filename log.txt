@@ -14020,3 +14020,4 @@
 81986. feat: add user authentication #81986
 10055. style: standardize quote style #10055
 70688. refactor: split large controller into smaller functions #70688
+50844. perf: optimize database query for quiz results #50844
