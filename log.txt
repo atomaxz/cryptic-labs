@@ -14023,3 +14023,4 @@
 50844. perf: optimize database query for quiz results #50844
 79389. chore: rename env.example #79389
 31180. docs: document token refresh logic #31180
+29227. test: test user registration edge cases #29227
