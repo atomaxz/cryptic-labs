@@ -1951,3 +1951,4 @@
 7977. docs: clarify environment setup #7977
 82871. feat: add user authentication #82871
 67929. perf: reduce image load time #67929
+27828. feat: enable dark mode toggle #27828
