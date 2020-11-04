@@ -14027,3 +14027,4 @@
 10381. feat: implement quiz timer feature #10381
 56389. refactor: split large controller into smaller functions #56389
 37470. docs: write FAQ section #37470
+88773. docs: update README with setup steps #88773
