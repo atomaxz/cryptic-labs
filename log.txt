@@ -14028,3 +14028,4 @@
 56389. refactor: split large controller into smaller functions #56389
 37470. docs: write FAQ section #37470
 88773. docs: update README with setup steps #88773
+17012. fix: handle 500 error in quiz API #17012
