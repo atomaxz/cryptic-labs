@@ -14029,3 +14029,4 @@
 37470. docs: write FAQ section #37470
 88773. docs: update README with setup steps #88773
 17012. fix: handle 500 error in quiz API #17012
+6127. perf: reduce image load time #6127
