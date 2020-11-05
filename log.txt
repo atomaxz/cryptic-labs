@@ -14031,3 +14031,4 @@
 17012. fix: handle 500 error in quiz API #17012
 6127. perf: reduce image load time #6127
 94178. refactor: organize models into subfolders #94178
+4918. test: test user registration edge cases #4918
