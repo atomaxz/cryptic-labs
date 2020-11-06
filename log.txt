@@ -14035,3 +14035,4 @@
 34006. refactor: split large controller into smaller functions #34006
 7879. chore: update .gitignore #7879
 15251. refactor: remove redundant code blocks #15251
+23844. docs: update README with setup steps #23844
