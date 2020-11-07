@@ -1952,3 +1952,4 @@
 82871. feat: add user authentication #82871
 67929. perf: reduce image load time #67929
 27828. feat: enable dark mode toggle #27828
+99726. fix: correct typo in registration form #99726
