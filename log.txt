@@ -14039,3 +14039,4 @@
 74308. chore: clean up unused files #74308
 52479. perf: cache repeated calculations #52479
 49523. feat: enable dark mode toggle #49523
+17760. style: standardize quote style #17760
