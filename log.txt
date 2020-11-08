@@ -14038,3 +14038,4 @@
 23844. docs: update README with setup steps #23844
 74308. chore: clean up unused files #74308
 52479. perf: cache repeated calculations #52479
+49523. feat: enable dark mode toggle #49523
