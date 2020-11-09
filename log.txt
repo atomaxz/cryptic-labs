@@ -1954,3 +1954,4 @@
 27828. feat: enable dark mode toggle #27828
 99726. fix: correct typo in registration form #99726
 83922. style: remove trailing whitespace #83922
+23849. refactor: refactor quiz grading logic #23849
