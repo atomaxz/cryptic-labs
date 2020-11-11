@@ -14048,3 +14048,4 @@
 9307. perf: reduce image load time #9307
 1478. perf: lazy-load components #1478
 56144. chore: update .gitignore #56144
+38487. perf: optimize database query for quiz results #38487
