@@ -1956,3 +1956,4 @@
 83922. style: remove trailing whitespace #83922
 23849. refactor: refactor quiz grading logic #23849
 78230. perf: optimize database query for quiz results #78230
+88439. test: add integration test for /submit endpoint #88439
