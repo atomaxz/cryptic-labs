@@ -1955,3 +1955,4 @@
 99726. fix: correct typo in registration form #99726
 83922. style: remove trailing whitespace #83922
 23849. refactor: refactor quiz grading logic #23849
+78230. perf: optimize database query for quiz results #78230
