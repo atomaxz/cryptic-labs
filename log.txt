@@ -1957,3 +1957,4 @@
 23849. refactor: refactor quiz grading logic #23849
 78230. perf: optimize database query for quiz results #78230
 88439. test: add integration test for /submit endpoint #88439
+82441. docs: write FAQ section #82441
