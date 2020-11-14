@@ -14056,3 +14056,4 @@
 67754. fix: correct typo in registration form #67754
 23533. docs: add API usage examples #23533
 52604. feat: create admin dashboard #52604
+6691. feat: support email verification #6691
