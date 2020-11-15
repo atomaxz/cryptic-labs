@@ -14059,3 +14059,4 @@
 6691. feat: support email verification #6691
 3369. feat: support email verification #3369
 32212. chore: bump dependencies #32212
+55277. perf: optimize database query for quiz results #55277
