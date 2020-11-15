@@ -1959,3 +1959,4 @@
 88439. test: add integration test for /submit endpoint #88439
 82441. docs: write FAQ section #82441
 32146. chore: add GitHub actions badge #32146
+70024. chore: rename env.example #70024
