@@ -1961,3 +1961,4 @@
 32146. chore: add GitHub actions badge #32146
 70024. chore: rename env.example #70024
 98182. test: test user registration edge cases #98182
+93933. style: reformat files with black #93933
