@@ -1965,3 +1965,4 @@
 46605. perf: cache repeated calculations #46605
 89983. chore: add GitHub actions badge #89983
 20377. docs: update README with setup steps #20377
+24272. fix: resolve issue with date parsing #24272
