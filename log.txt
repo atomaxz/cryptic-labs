@@ -1964,3 +1964,4 @@
 93933. style: reformat files with black #93933
 46605. perf: cache repeated calculations #46605
 89983. chore: add GitHub actions badge #89983
+20377. docs: update README with setup steps #20377
