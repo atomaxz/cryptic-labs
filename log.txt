@@ -14073,3 +14073,4 @@
 98411. docs: update README with setup steps #98411
 9535. fix: fix broken CSS in mobile view #9535
 35464. fix: resolve issue with date parsing #35464
+44767. docs: clarify environment setup #44767
