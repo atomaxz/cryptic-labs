@@ -14071,3 +14071,4 @@
 45641. feat: enable dark mode toggle #45641
 47036. feat: enable dark mode toggle #47036
 98411. docs: update README with setup steps #98411
+9535. fix: fix broken CSS in mobile view #9535
