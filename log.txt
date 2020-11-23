@@ -14076,3 +14076,4 @@
 44767. docs: clarify environment setup #44767
 73788. style: remove trailing whitespace #73788
 21610. perf: reduce image load time #21610
+47769. refactor: refactor quiz grading logic #47769
