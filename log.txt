@@ -14074,3 +14074,4 @@
 9535. fix: fix broken CSS in mobile view #9535
 35464. fix: resolve issue with date parsing #35464
 44767. docs: clarify environment setup #44767
+73788. style: remove trailing whitespace #73788
