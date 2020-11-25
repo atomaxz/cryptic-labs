@@ -14079,3 +14079,4 @@
 47769. refactor: refactor quiz grading logic #47769
 63562. refactor: remove redundant code blocks #63562
 77524. test: increase coverage on auth module #77524
+84541. refactor: organize models into subfolders #84541
