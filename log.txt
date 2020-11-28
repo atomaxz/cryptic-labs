@@ -14087,3 +14087,4 @@
 49378. style: standardize quote style #49378
 29935. refactor: organize models into subfolders #29935
 18062. style: standardize quote style #18062
+40509. docs: update README with setup steps #40509
