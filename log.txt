@@ -14090,3 +14090,4 @@
 40509. docs: update README with setup steps #40509
 33206. perf: cache repeated calculations #33206
 5383. chore: rename env.example #5383
+28121. test: increase coverage on auth module #28121
