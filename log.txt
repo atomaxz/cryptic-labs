@@ -14095,3 +14095,4 @@
 61989. chore: clean up unused files #61989
 31602. style: apply consistent indentation #31602
 96228. docs: update README with setup steps #96228
+49226. test: test user registration edge cases #49226
