@@ -14097,3 +14097,4 @@
 96228. docs: update README with setup steps #96228
 49226. test: test user registration edge cases #49226
 19539. refactor: organize models into subfolders #19539
+62525. fix: prevent crash on empty input #62525
