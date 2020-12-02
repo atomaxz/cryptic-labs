@@ -14098,3 +14098,4 @@
 49226. test: test user registration edge cases #49226
 19539. refactor: organize models into subfolders #19539
 62525. fix: prevent crash on empty input #62525
+60575. test: add integration test for /submit endpoint #60575
