@@ -14099,3 +14099,4 @@
 19539. refactor: organize models into subfolders #19539
 62525. fix: prevent crash on empty input #62525
 60575. test: add integration test for /submit endpoint #60575
+42344. style: standardize quote style #42344
