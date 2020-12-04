@@ -14103,3 +14103,4 @@
 92686. style: reformat files with black #92686
 93479. refactor: clean up auth middleware #93479
 18052. perf: lazy-load components #18052
+72480. fix: fix broken CSS in mobile view #72480
