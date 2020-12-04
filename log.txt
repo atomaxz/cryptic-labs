@@ -14101,3 +14101,4 @@
 60575. test: add integration test for /submit endpoint #60575
 42344. style: standardize quote style #42344
 92686. style: reformat files with black #92686
+93479. refactor: clean up auth middleware #93479
