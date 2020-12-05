@@ -14107,3 +14107,4 @@
 79780. feat: implement quiz timer feature #79780
 15732. test: add integration test for /submit endpoint #15732
 15023. docs: add API usage examples #15023
+78556. test: mock database connection in test suite #78556
