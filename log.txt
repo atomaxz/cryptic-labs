@@ -1972,3 +1972,4 @@
 29037. perf: optimize database query for quiz results #29037
 47614. perf: cache repeated calculations #47614
 34782. docs: add API usage examples #34782
+83637. docs: document token refresh logic #83637
