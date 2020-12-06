@@ -14109,3 +14109,4 @@
 15023. docs: add API usage examples #15023
 78556. test: mock database connection in test suite #78556
 17299. style: rename variables for clarity #17299
+58210. test: increase coverage on auth module #58210
