@@ -14125,3 +14125,4 @@
 67834. perf: lazy-load components #67834
 14012. docs: clarify environment setup #14012
 68332. test: mock database connection in test suite #68332
+1186. docs: document token refresh logic #1186
