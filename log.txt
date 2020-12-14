@@ -14129,3 +14129,4 @@
 55424. test: mock database connection in test suite #55424
 85298. fix: prevent crash on empty input #85298
 62949. feat: support email verification #62949
+33322. perf: lazy-load components #33322
