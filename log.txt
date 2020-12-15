@@ -14135,3 +14135,4 @@
 64844. feat: add export to CSV option #64844
 1734. perf: lazy-load components #1734
 35586. feat: implement quiz timer feature #35586
+28477. test: mock database connection in test suite #28477
