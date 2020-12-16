@@ -14140,3 +14140,4 @@
 1682. test: mock database connection in test suite #1682
 74681. docs: update README with setup steps #74681
 62212. perf: lazy-load components #62212
+80139. test: test user registration edge cases #80139
