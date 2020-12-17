@@ -14143,3 +14143,4 @@
 80139. test: test user registration edge cases #80139
 32792. refactor: organize models into subfolders #32792
 10890. chore: add GitHub actions badge #10890
+74909. test: mock database connection in test suite #74909
