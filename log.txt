@@ -14146,3 +14146,4 @@
 74909. test: mock database connection in test suite #74909
 80527. refactor: refactor quiz grading logic #80527
 13564. chore: clean up unused files #13564
+67268. fix: handle 500 error in quiz API #67268
