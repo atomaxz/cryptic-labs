@@ -14147,3 +14147,4 @@
 80527. refactor: refactor quiz grading logic #80527
 13564. chore: clean up unused files #13564
 67268. fix: handle 500 error in quiz API #67268
+65437. perf: optimize database query for quiz results #65437
