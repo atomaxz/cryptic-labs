@@ -14155,3 +14155,4 @@
 31448. chore: add GitHub actions badge #31448
 79732. feat: support email verification #79732
 40149. chore: bump dependencies #40149
+83258. feat: enable dark mode toggle #83258
