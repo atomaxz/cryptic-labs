@@ -14174,3 +14174,4 @@
 79463. chore: add GitHub actions badge #79463
 82167. feat: add user authentication #82167
 55896. chore: clean up unused files #55896
+67594. test: mock database connection in test suite #67594
