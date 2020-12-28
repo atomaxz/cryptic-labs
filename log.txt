@@ -14177,3 +14177,4 @@
 67594. test: mock database connection in test suite #67594
 40379. chore: bump dependencies #40379
 3310. perf: cache repeated calculations #3310
+25394. test: add unit test for quiz service #25394
