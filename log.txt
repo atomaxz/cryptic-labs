@@ -1987,3 +1987,4 @@
 17239. style: rename variables for clarity #17239
 2385. feat: enable dark mode toggle #2385
 5973. docs: update README with setup steps #5973
+60983. chore: clean up unused files #60983
