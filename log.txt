@@ -14192,3 +14192,4 @@
 87814. test: add integration test for /submit endpoint #87814
 46757. test: mock database connection in test suite #46757
 37710. refactor: remove redundant code blocks #37710
+5378. fix: correct typo in registration form #5378
