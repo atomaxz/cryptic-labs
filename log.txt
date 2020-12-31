@@ -14187,3 +14187,4 @@
 43119. refactor: organize models into subfolders #43119
 48326. feat: enable dark mode toggle #48326
 18375. chore: add GitHub actions badge #18375
+87052. chore: bump dependencies #87052
