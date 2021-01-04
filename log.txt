@@ -14200,3 +14200,4 @@
 62464. chore: bump dependencies #62464
 55137. feat: create admin dashboard #55137
 36547. feat: create admin dashboard #36547
+98226. feat: support email verification #98226
