@@ -1991,3 +1991,4 @@
 2847. docs: update README with setup steps #2847
 36109. refactor: remove redundant code blocks #36109
 40361. style: remove trailing whitespace #40361
+64932. test: test user registration edge cases #64932
