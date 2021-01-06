@@ -14209,3 +14209,4 @@
 55540. refactor: refactor quiz grading logic #55540
 40733. docs: document token refresh logic #40733
 46313. feat: enable dark mode toggle #46313
+62158. test: increase coverage on auth module #62158
