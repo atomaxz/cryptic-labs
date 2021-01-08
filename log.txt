@@ -1996,3 +1996,4 @@
 22375. test: mock database connection in test suite #22375
 49782. perf: lazy-load components #49782
 71715. chore: bump dependencies #71715
+28537. style: standardize quote style #28537
