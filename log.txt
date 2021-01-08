@@ -14216,3 +14216,4 @@
 52613. style: reformat files with black #52613
 55163. fix: fix broken CSS in mobile view #55163
 55112. refactor: remove redundant code blocks #55112
+26036. perf: lazy-load components #26036
