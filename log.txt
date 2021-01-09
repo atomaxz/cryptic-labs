@@ -14220,3 +14220,4 @@
 17259. perf: reduce image load time #17259
 47404. chore: clean up unused files #47404
 67186. refactor: remove redundant code blocks #67186
+98323. test: increase coverage on auth module #98323
