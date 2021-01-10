@@ -14223,3 +14223,4 @@
 98323. test: increase coverage on auth module #98323
 61332. docs: write FAQ section #61332
 67283. chore: rename env.example #67283
+8573. chore: bump dependencies #8573
