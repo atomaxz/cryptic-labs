@@ -14229,3 +14229,4 @@
 63727. style: standardize quote style #63727
 38051. docs: document token refresh logic #38051
 94224. docs: document token refresh logic #94224
+35350. feat: support email verification #35350
