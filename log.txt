@@ -2001,3 +2001,4 @@
 16794. style: apply consistent indentation #16794
 54825. feat: implement quiz timer feature #54825
 35826. test: test user registration edge cases #35826
+58721. feat: support email verification #58721
