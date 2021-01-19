@@ -14255,3 +14255,4 @@
 12650. test: add integration test for /submit endpoint #12650
 94879. test: mock database connection in test suite #94879
 54450. feat: create admin dashboard #54450
+88264. perf: lazy-load components #88264
