@@ -14260,3 +14260,4 @@
 15256. docs: document token refresh logic #15256
 86209. feat: add user authentication #86209
 25794. refactor: remove redundant code blocks #25794
+82536. perf: cache repeated calculations #82536
