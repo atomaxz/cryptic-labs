@@ -14259,3 +14259,4 @@
 17527. test: mock database connection in test suite #17527
 15256. docs: document token refresh logic #15256
 86209. feat: add user authentication #86209
+25794. refactor: remove redundant code blocks #25794
