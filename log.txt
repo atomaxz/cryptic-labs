@@ -14265,3 +14265,4 @@
 18084. perf: reduce image load time #18084
 3322. refactor: clean up auth middleware #3322
 6821. docs: document token refresh logic #6821
+69068. docs: update README with setup steps #69068
