@@ -14269,3 +14269,4 @@
 94194. test: add unit test for quiz service #94194
 93672. style: remove trailing whitespace #93672
 13038. feat: implement quiz timer feature #13038
+74593. fix: prevent crash on empty input #74593
