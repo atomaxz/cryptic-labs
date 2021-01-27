@@ -14274,3 +14274,4 @@
 32124. feat: create admin dashboard #32124
 28720. docs: clarify environment setup #28720
 86105. perf: reduce image load time #86105
+86869. chore: bump dependencies #86869
