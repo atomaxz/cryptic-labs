@@ -14279,3 +14279,4 @@
 68821. refactor: clean up auth middleware #68821
 76367. test: add integration test for /submit endpoint #76367
 11945. fix: fix broken CSS in mobile view #11945
+4112. test: mock database connection in test suite #4112
