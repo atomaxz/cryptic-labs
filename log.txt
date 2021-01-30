@@ -14278,3 +14278,4 @@
 27332. refactor: remove redundant code blocks #27332
 68821. refactor: clean up auth middleware #68821
 76367. test: add integration test for /submit endpoint #76367
+11945. fix: fix broken CSS in mobile view #11945
