@@ -14281,3 +14281,4 @@
 11945. fix: fix broken CSS in mobile view #11945
 4112. test: mock database connection in test suite #4112
 84427. docs: improve code comments in utils #84427
+8474. chore: add GitHub actions badge #8474
