@@ -14283,3 +14283,4 @@
 84427. docs: improve code comments in utils #84427
 8474. chore: add GitHub actions badge #8474
 10879. fix: resolve issue with date parsing #10879
+27632. fix: prevent crash on empty input #27632
