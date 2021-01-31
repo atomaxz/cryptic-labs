@@ -14282,3 +14282,4 @@
 4112. test: mock database connection in test suite #4112
 84427. docs: improve code comments in utils #84427
 8474. chore: add GitHub actions badge #8474
+10879. fix: resolve issue with date parsing #10879
