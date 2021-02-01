@@ -2011,3 +2011,4 @@
 73280. style: rename variables for clarity #73280
 9819. docs: write FAQ section #9819
 4370. chore: bump dependencies #4370
+37144. style: remove trailing whitespace #37144
