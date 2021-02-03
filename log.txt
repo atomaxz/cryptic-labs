@@ -14290,3 +14290,4 @@
 41048. chore: bump dependencies #41048
 38797. test: increase coverage on auth module #38797
 77007. refactor: split large controller into smaller functions #77007
+38466. docs: document token refresh logic #38466
