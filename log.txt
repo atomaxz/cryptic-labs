@@ -14301,3 +14301,4 @@
 13366. feat: implement quiz timer feature #13366
 29319. perf: cache repeated calculations #29319
 64586. perf: lazy-load components #64586
+51635. test: mock database connection in test suite #51635
