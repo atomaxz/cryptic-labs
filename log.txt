@@ -14305,3 +14305,4 @@
 99577. feat: add export to CSV option #99577
 9727. docs: write FAQ section #9727
 0160. docs: update README with setup steps #160
+8313. perf: lazy-load components #8313
