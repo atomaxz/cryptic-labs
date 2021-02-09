@@ -14306,3 +14306,4 @@
 9727. docs: write FAQ section #9727
 0160. docs: update README with setup steps #160
 8313. perf: lazy-load components #8313
+49300. feat: support email verification #49300
