@@ -14312,3 +14312,4 @@
 10215. refactor: refactor quiz grading logic #10215
 85481. fix: prevent crash on empty input #85481
 40909. style: reformat files with black #40909
+35029. perf: lazy-load components #35029
