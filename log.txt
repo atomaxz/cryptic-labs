@@ -14318,3 +14318,4 @@
 23762. docs: document token refresh logic #23762
 58483. fix: correct typo in registration form #58483
 70205. refactor: split large controller into smaller functions #70205
+37202. fix: handle 500 error in quiz API #37202
