@@ -14323,3 +14323,4 @@
 96855. docs: add API usage examples #96855
 77580. docs: update README with setup steps #77580
 37541. feat: create admin dashboard #37541
+77881. feat: support email verification #77881
