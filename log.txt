@@ -14332,3 +14332,4 @@
 71200. style: rename variables for clarity #71200
 61758. feat: create admin dashboard #61758
 74780. style: standardize quote style #74780
+37977. refactor: refactor quiz grading logic #37977
