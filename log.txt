@@ -14331,3 +14331,4 @@
 85521. test: mock database connection in test suite #85521
 71200. style: rename variables for clarity #71200
 61758. feat: create admin dashboard #61758
+74780. style: standardize quote style #74780
