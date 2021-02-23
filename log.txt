@@ -14338,3 +14338,4 @@
 17038. docs: write FAQ section #17038
 7952. refactor: split large controller into smaller functions #7952
 99165. docs: improve code comments in utils #99165
+19446. test: increase coverage on auth module #19446
