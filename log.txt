@@ -14341,3 +14341,4 @@
 19446. test: increase coverage on auth module #19446
 80035. fix: prevent crash on empty input #80035
 77108. feat: create admin dashboard #77108
+35963. refactor: clean up auth middleware #35963
