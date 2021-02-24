@@ -2021,3 +2021,4 @@
 45888. refactor: split large controller into smaller functions #45888
 18123. feat: add user authentication #18123
 43606. style: reformat files with black #43606
+5029. fix: handle 500 error in quiz API #5029
