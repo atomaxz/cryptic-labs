@@ -2022,3 +2022,4 @@
 18123. feat: add user authentication #18123
 43606. style: reformat files with black #43606
 5029. fix: handle 500 error in quiz API #5029
+48534. perf: lazy-load components #48534
