@@ -14355,3 +14355,4 @@
 90207. test: test user registration edge cases #90207
 4400. perf: optimize database query for quiz results #4400
 91892. refactor: organize models into subfolders #91892
+15541. fix: prevent crash on empty input #15541
