@@ -14360,3 +14360,4 @@
 95460. test: add integration test for /submit endpoint #95460
 23435. test: add unit test for quiz service #23435
 39696. docs: improve code comments in utils #39696
+90656. refactor: clean up auth middleware #90656
