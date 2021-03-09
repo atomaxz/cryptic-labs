@@ -14377,3 +14377,4 @@
 36974. test: increase coverage on auth module #36974
 15633. style: remove trailing whitespace #15633
 22617. test: add integration test for /submit endpoint #22617
+15756. test: test user registration edge cases #15756
