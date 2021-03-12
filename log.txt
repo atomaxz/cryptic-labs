@@ -14385,3 +14385,4 @@
 99461. refactor: clean up auth middleware #99461
 69030. fix: resolve issue with date parsing #69030
 74368. perf: cache repeated calculations #74368
+49084. feat: add user authentication #49084
