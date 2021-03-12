@@ -2031,3 +2031,4 @@
 75868. fix: prevent crash on empty input #75868
 4417. fix: fix broken CSS in mobile view #4417
 86763. chore: update .gitignore #86763
+42979. docs: improve code comments in utils #42979
