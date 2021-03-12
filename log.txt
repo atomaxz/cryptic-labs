@@ -14388,3 +14388,4 @@
 49084. feat: add user authentication #49084
 35980. style: apply consistent indentation #35980
 63606. fix: prevent crash on empty input #63606
+54305. test: add integration test for /submit endpoint #54305
