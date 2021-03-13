@@ -14392,3 +14392,4 @@
 57683. refactor: organize models into subfolders #57683
 50671. perf: optimize database query for quiz results #50671
 81712. style: rename variables for clarity #81712
+62885. fix: handle 500 error in quiz API #62885
