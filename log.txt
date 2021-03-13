@@ -14394,3 +14394,4 @@
 81712. style: rename variables for clarity #81712
 62885. fix: handle 500 error in quiz API #62885
 37510. docs: clarify environment setup #37510
+49673. docs: add API usage examples #49673
