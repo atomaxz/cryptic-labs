@@ -14401,3 +14401,4 @@
 37788. chore: bump dependencies #37788
 45401. chore: bump dependencies #45401
 97905. style: apply consistent indentation #97905
+44966. feat: create admin dashboard #44966
