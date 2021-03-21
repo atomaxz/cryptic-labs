@@ -14410,3 +14410,4 @@
 58877. test: increase coverage on auth module #58877
 73850. perf: cache repeated calculations #73850
 77349. style: apply consistent indentation #77349
+66325. style: apply consistent indentation #66325
