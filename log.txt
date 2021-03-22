@@ -2041,3 +2041,4 @@
 64210. docs: clarify environment setup #64210
 0662. docs: clarify environment setup #662
 36541. chore: update .gitignore #36541
+27743. fix: fix broken CSS in mobile view #27743
