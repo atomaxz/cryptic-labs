@@ -14411,3 +14411,4 @@
 73850. perf: cache repeated calculations #73850
 77349. style: apply consistent indentation #77349
 66325. style: apply consistent indentation #66325
+35557. fix: handle 500 error in quiz API #35557
