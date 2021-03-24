@@ -14413,3 +14413,4 @@
 66325. style: apply consistent indentation #66325
 35557. fix: handle 500 error in quiz API #35557
 86063. feat: support email verification #86063
+73597. feat: add user authentication #73597
