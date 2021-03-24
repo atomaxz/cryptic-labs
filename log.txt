@@ -2043,3 +2043,4 @@
 36541. chore: update .gitignore #36541
 27743. fix: fix broken CSS in mobile view #27743
 6847. fix: handle 500 error in quiz API #6847
+70495. refactor: clean up auth middleware #70495
