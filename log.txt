@@ -2045,3 +2045,4 @@
 6847. fix: handle 500 error in quiz API #6847
 70495. refactor: clean up auth middleware #70495
 7543. perf: cache repeated calculations #7543
+79531. perf: lazy-load components #79531
