@@ -14433,3 +14433,4 @@
 80951. style: remove trailing whitespace #80951
 41584. fix: resolve issue with date parsing #41584
 21729. fix: resolve issue with date parsing #21729
+97568. perf: lazy-load components #97568
