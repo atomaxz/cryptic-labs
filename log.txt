@@ -14435,3 +14435,4 @@
 21729. fix: resolve issue with date parsing #21729
 97568. perf: lazy-load components #97568
 45754. fix: handle 500 error in quiz API #45754
+34972. feat: create admin dashboard #34972
