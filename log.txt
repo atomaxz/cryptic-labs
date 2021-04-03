@@ -14437,3 +14437,4 @@
 45754. fix: handle 500 error in quiz API #45754
 34972. feat: create admin dashboard #34972
 14869. refactor: clean up auth middleware #14869
+66975. feat: create admin dashboard #66975
