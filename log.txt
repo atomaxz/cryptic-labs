@@ -2049,3 +2049,4 @@
 77407. feat: create admin dashboard #77407
 85880. docs: document token refresh logic #85880
 31708. perf: reduce image load time #31708
+59111. perf: optimize database query for quiz results #59111
