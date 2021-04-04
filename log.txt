@@ -2050,3 +2050,4 @@
 85880. docs: document token refresh logic #85880
 31708. perf: reduce image load time #31708
 59111. perf: optimize database query for quiz results #59111
+97779. chore: update .gitignore #97779
