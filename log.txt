@@ -2053,3 +2053,4 @@
 97779. chore: update .gitignore #97779
 4448. style: remove trailing whitespace #4448
 82719. docs: clarify environment setup #82719
+1089. feat: support email verification #1089
