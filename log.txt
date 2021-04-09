@@ -14448,3 +14448,4 @@
 67516. feat: add user authentication #67516
 35394. style: apply consistent indentation #35394
 41531. feat: enable dark mode toggle #41531
+5183. perf: lazy-load components #5183
