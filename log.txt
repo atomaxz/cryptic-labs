@@ -14450,3 +14450,4 @@
 41531. feat: enable dark mode toggle #41531
 5183. perf: lazy-load components #5183
 22121. feat: add user authentication #22121
+8171. test: increase coverage on auth module #8171
