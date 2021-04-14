@@ -14457,3 +14457,4 @@
 7820. fix: correct typo in registration form #7820
 95570. style: apply consistent indentation #95570
 11592. fix: handle 500 error in quiz API #11592
+58123. chore: add GitHub actions badge #58123
