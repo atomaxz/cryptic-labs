@@ -14455,3 +14455,4 @@
 89852. feat: add export to CSV option #89852
 30576. perf: optimize database query for quiz results #30576
 7820. fix: correct typo in registration form #7820
+95570. style: apply consistent indentation #95570
