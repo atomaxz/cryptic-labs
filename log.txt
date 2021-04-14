@@ -14459,3 +14459,4 @@
 11592. fix: handle 500 error in quiz API #11592
 58123. chore: add GitHub actions badge #58123
 24388. test: increase coverage on auth module #24388
+16976. fix: fix null pointer exception on login #16976
