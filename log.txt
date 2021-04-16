@@ -14463,3 +14463,4 @@
 71099. fix: resolve issue with date parsing #71099
 60015. style: reformat files with black #60015
 31491. docs: write FAQ section #31491
+35870. perf: cache repeated calculations #35870
