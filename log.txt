@@ -14464,3 +14464,4 @@
 60015. style: reformat files with black #60015
 31491. docs: write FAQ section #31491
 35870. perf: cache repeated calculations #35870
+19626. fix: fix null pointer exception on login #19626
