@@ -14470,3 +14470,4 @@
 16013. refactor: organize models into subfolders #16013
 11291. feat: add export to CSV option #11291
 97293. test: mock database connection in test suite #97293
+81994. feat: support email verification #81994
