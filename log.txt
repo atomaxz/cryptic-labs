@@ -14478,3 +14478,4 @@
 86170. fix: prevent crash on empty input #86170
 86603. docs: document token refresh logic #86603
 56923. docs: clarify environment setup #56923
+83043. perf: cache repeated calculations #83043
