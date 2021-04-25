@@ -2057,3 +2057,4 @@
 95370. chore: update .gitignore #95370
 58438. chore: bump dependencies #58438
 16413. refactor: organize models into subfolders #16413
+75019. fix: fix null pointer exception on login #75019
