@@ -14483,3 +14483,4 @@
 16391. style: standardize quote style #16391
 47559. feat: add user authentication #47559
 70326. fix: correct typo in registration form #70326
+66785. chore: bump dependencies #66785
