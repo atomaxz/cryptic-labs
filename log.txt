@@ -2058,3 +2058,4 @@
 58438. chore: bump dependencies #58438
 16413. refactor: organize models into subfolders #16413
 75019. fix: fix null pointer exception on login #75019
+68845. feat: enable dark mode toggle #68845
