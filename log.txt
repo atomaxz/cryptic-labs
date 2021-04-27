@@ -14485,3 +14485,4 @@
 70326. fix: correct typo in registration form #70326
 66785. chore: bump dependencies #66785
 98724. docs: write FAQ section #98724
+29307. style: standardize quote style #29307
