@@ -14489,3 +14489,4 @@
 22494. chore: add GitHub actions badge #22494
 95710. test: add integration test for /submit endpoint #95710
 42420. perf: lazy-load components #42420
+26161. chore: bump dependencies #26161
