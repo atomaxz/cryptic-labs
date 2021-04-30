@@ -14495,3 +14495,4 @@
 9244. perf: cache repeated calculations #9244
 68306. perf: optimize database query for quiz results #68306
 90270. perf: reduce image load time #90270
+9202. perf: lazy-load components #9202
