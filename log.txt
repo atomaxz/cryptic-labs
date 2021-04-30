@@ -14493,3 +14493,4 @@
 33271. refactor: refactor quiz grading logic #33271
 1252. style: rename variables for clarity #1252
 9244. perf: cache repeated calculations #9244
+68306. perf: optimize database query for quiz results #68306
