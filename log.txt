@@ -14498,3 +14498,4 @@
 9202. perf: lazy-load components #9202
 66237. feat: create admin dashboard #66237
 9205. test: test user registration edge cases #9205
+27483. test: increase coverage on auth module #27483
