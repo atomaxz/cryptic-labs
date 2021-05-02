@@ -14502,3 +14502,4 @@
 46053. fix: correct typo in registration form #46053
 23307. chore: add GitHub actions badge #23307
 5594. feat: support email verification #5594
+61658. chore: rename env.example #61658
