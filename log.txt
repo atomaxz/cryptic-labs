@@ -2062,3 +2062,4 @@
 37681. refactor: organize models into subfolders #37681
 56713. perf: reduce image load time #56713
 91181. perf: optimize database query for quiz results #91181
+35294. refactor: refactor quiz grading logic #35294
