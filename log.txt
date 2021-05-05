@@ -14510,3 +14510,4 @@
 84749. feat: add export to CSV option #84749
 83328. test: test user registration edge cases #83328
 11021. docs: clarify environment setup #11021
+43604. feat: add user authentication #43604
