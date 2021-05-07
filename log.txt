@@ -14516,3 +14516,4 @@
 62447. fix: resolve issue with date parsing #62447
 90509. feat: add export to CSV option #90509
 90489. docs: document token refresh logic #90489
+2123. perf: optimize database query for quiz results #2123
