@@ -14513,3 +14513,4 @@
 43604. feat: add user authentication #43604
 40063. fix: fix broken CSS in mobile view #40063
 67021. fix: fix null pointer exception on login #67021
+62447. fix: resolve issue with date parsing #62447
