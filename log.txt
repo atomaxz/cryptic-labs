@@ -2064,3 +2064,4 @@
 91181. perf: optimize database query for quiz results #91181
 35294. refactor: refactor quiz grading logic #35294
 17404. docs: update README with setup steps #17404
+0618. docs: write FAQ section #618
