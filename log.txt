@@ -14522,3 +14522,4 @@
 13550. style: rename variables for clarity #13550
 20253. style: rename variables for clarity #20253
 55930. style: apply consistent indentation #55930
+14606. perf: lazy-load components #14606
