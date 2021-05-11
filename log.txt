@@ -14530,3 +14530,4 @@
 81155. docs: clarify environment setup #81155
 80007. test: add unit test for quiz service #80007
 24763. test: mock database connection in test suite #24763
+47045. feat: support email verification #47045
