@@ -2066,3 +2066,4 @@
 17404. docs: update README with setup steps #17404
 0618. docs: write FAQ section #618
 36375. test: increase coverage on auth module #36375
+32563. chore: add GitHub actions badge #32563
