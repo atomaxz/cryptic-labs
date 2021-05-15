@@ -14543,3 +14543,4 @@
 9434. style: rename variables for clarity #9434
 36696. docs: document token refresh logic #36696
 17347. test: add integration test for /submit endpoint #17347
+67233. docs: document token refresh logic #67233
