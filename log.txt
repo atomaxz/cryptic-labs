@@ -14555,3 +14555,4 @@
 38025. docs: clarify environment setup #38025
 4145. perf: reduce image load time #4145
 59661. refactor: remove redundant code blocks #59661
+6523. test: mock database connection in test suite #6523
