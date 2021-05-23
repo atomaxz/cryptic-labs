@@ -14561,3 +14561,4 @@
 76372. chore: add GitHub actions badge #76372
 26580. perf: optimize database query for quiz results #26580
 80666. test: add integration test for /submit endpoint #80666
+13218. docs: write FAQ section #13218
