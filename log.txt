@@ -14565,3 +14565,4 @@
 80213. style: rename variables for clarity #80213
 21018. perf: optimize database query for quiz results #21018
 74613. chore: update .gitignore #74613
+20522. style: standardize quote style #20522
