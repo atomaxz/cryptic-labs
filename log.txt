@@ -14572,3 +14572,4 @@
 49140. chore: clean up unused files #49140
 42022. docs: clarify environment setup #42022
 21493. chore: update .gitignore #21493
+30603. style: remove trailing whitespace #30603
