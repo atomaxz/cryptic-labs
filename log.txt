@@ -2077,3 +2077,4 @@
 67844. style: standardize quote style #67844
 88346. perf: reduce image load time #88346
 52724. test: add integration test for /submit endpoint #52724
+59431. fix: handle 500 error in quiz API #59431
