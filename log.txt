@@ -2076,3 +2076,4 @@
 80075. style: rename variables for clarity #80075
 67844. style: standardize quote style #67844
 88346. perf: reduce image load time #88346
+52724. test: add integration test for /submit endpoint #52724
