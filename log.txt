@@ -14574,3 +14574,4 @@
 21493. chore: update .gitignore #21493
 30603. style: remove trailing whitespace #30603
 34897. docs: document token refresh logic #34897
+93442. fix: correct typo in registration form #93442
