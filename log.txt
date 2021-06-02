@@ -14589,3 +14589,4 @@
 26628. feat: add user authentication #26628
 45844. feat: implement quiz timer feature #45844
 8900. test: increase coverage on auth module #8900
+69995. fix: handle 500 error in quiz API #69995
