@@ -2080,3 +2080,4 @@
 59431. fix: handle 500 error in quiz API #59431
 85901. feat: add export to CSV option #85901
 25891. test: mock database connection in test suite #25891
+0685. fix: prevent crash on empty input #685
