@@ -14588,3 +14588,4 @@
 78219. test: increase coverage on auth module #78219
 26628. feat: add user authentication #26628
 45844. feat: implement quiz timer feature #45844
+8900. test: increase coverage on auth module #8900
