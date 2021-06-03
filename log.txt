@@ -14593,3 +14593,4 @@
 95837. test: increase coverage on auth module #95837
 14725. docs: clarify environment setup #14725
 43319. feat: support email verification #43319
+83731. refactor: remove redundant code blocks #83731
