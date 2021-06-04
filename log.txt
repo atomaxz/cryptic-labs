@@ -14594,3 +14594,4 @@
 14725. docs: clarify environment setup #14725
 43319. feat: support email verification #43319
 83731. refactor: remove redundant code blocks #83731
+73437. test: mock database connection in test suite #73437
