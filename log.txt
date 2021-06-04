@@ -14597,3 +14597,4 @@
 73437. test: mock database connection in test suite #73437
 79538. perf: reduce image load time #79538
 75137. test: test user registration edge cases #75137
+29864. fix: fix broken CSS in mobile view #29864
