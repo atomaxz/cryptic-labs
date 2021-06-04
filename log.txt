@@ -2081,3 +2081,4 @@
 85901. feat: add export to CSV option #85901
 25891. test: mock database connection in test suite #25891
 0685. fix: prevent crash on empty input #685
+99872. feat: add export to CSV option #99872
