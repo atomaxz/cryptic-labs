@@ -14605,3 +14605,4 @@
 80252. fix: correct typo in registration form #80252
 20003. chore: clean up unused files #20003
 87773. test: increase coverage on auth module #87773
+4089. fix: prevent crash on empty input #4089
