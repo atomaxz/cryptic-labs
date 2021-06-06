@@ -14600,3 +14600,4 @@
 29864. fix: fix broken CSS in mobile view #29864
 55564. fix: resolve issue with date parsing #55564
 30230. style: standardize quote style #30230
+91747. test: increase coverage on auth module #91747
