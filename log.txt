@@ -14606,3 +14606,4 @@
 20003. chore: clean up unused files #20003
 87773. test: increase coverage on auth module #87773
 4089. fix: prevent crash on empty input #4089
+11643. feat: create admin dashboard #11643
