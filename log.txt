@@ -14607,3 +14607,4 @@
 87773. test: increase coverage on auth module #87773
 4089. fix: prevent crash on empty input #4089
 11643. feat: create admin dashboard #11643
+92198. fix: correct typo in registration form #92198
