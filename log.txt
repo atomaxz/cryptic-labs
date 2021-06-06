@@ -2085,3 +2085,4 @@
 8074. fix: correct typo in registration form #8074
 29175. perf: cache repeated calculations #29175
 81296. chore: rename env.example #81296
+56511. feat: enable dark mode toggle #56511
