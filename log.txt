@@ -14619,3 +14619,4 @@
 25564. fix: handle 500 error in quiz API #25564
 81888. docs: improve code comments in utils #81888
 24381. feat: add export to CSV option #24381
+49224. fix: handle 500 error in quiz API #49224
