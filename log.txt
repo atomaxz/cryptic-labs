@@ -14621,3 +14621,4 @@
 24381. feat: add export to CSV option #24381
 49224. fix: handle 500 error in quiz API #49224
 43828. feat: implement quiz timer feature #43828
+63572. test: add integration test for /submit endpoint #63572
