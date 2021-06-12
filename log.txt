@@ -2089,3 +2089,4 @@
 6232. feat: add export to CSV option #6232
 20061. docs: clarify environment setup #20061
 46616. feat: support email verification #46616
+52541. chore: add GitHub actions badge #52541
