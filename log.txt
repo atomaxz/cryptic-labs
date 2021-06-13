@@ -14626,3 +14626,4 @@
 17019. feat: create admin dashboard #17019
 87116. style: standardize quote style #87116
 22066. perf: reduce image load time #22066
+8560. fix: handle 500 error in quiz API #8560
