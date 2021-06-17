@@ -14639,3 +14639,4 @@
 51232. fix: handle 500 error in quiz API #51232
 8501. perf: reduce image load time #8501
 78040. fix: resolve issue with date parsing #78040
+69246. fix: handle 500 error in quiz API #69246
