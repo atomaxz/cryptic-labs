@@ -14645,3 +14645,4 @@
 46193. docs: write FAQ section #46193
 93987. docs: update README with setup steps #93987
 54590. fix: correct typo in registration form #54590
+20894. feat: support email verification #20894
