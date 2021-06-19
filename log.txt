@@ -14644,3 +14644,4 @@
 20953. docs: write FAQ section #20953
 46193. docs: write FAQ section #46193
 93987. docs: update README with setup steps #93987
+54590. fix: correct typo in registration form #54590
