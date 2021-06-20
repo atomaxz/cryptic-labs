@@ -14647,3 +14647,4 @@
 54590. fix: correct typo in registration form #54590
 20894. feat: support email verification #20894
 0525. chore: add GitHub actions badge #525
+8268. chore: bump dependencies #8268
