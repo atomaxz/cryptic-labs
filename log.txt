@@ -14650,3 +14650,4 @@
 8268. chore: bump dependencies #8268
 48702. chore: add GitHub actions badge #48702
 82714. test: increase coverage on auth module #82714
+76700. test: increase coverage on auth module #76700
