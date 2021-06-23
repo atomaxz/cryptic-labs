@@ -14652,3 +14652,4 @@
 82714. test: increase coverage on auth module #82714
 76700. test: increase coverage on auth module #76700
 68198. feat: support email verification #68198
+44555. style: remove trailing whitespace #44555
