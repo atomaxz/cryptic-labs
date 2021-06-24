@@ -14656,3 +14656,4 @@
 51607. style: remove trailing whitespace #51607
 29647. feat: support email verification #29647
 12086. refactor: organize models into subfolders #12086
+92473. fix: fix null pointer exception on login #92473
