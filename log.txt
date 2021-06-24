@@ -14657,3 +14657,4 @@
 29647. feat: support email verification #29647
 12086. refactor: organize models into subfolders #12086
 92473. fix: fix null pointer exception on login #92473
+77322. test: mock database connection in test suite #77322
