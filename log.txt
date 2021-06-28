@@ -14668,3 +14668,4 @@
 82121. docs: document token refresh logic #82121
 36192. feat: create admin dashboard #36192
 64221. perf: optimize database query for quiz results #64221
+58321. fix: fix null pointer exception on login #58321
