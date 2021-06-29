@@ -2102,3 +2102,4 @@
 46683. test: add integration test for /submit endpoint #46683
 90904. perf: optimize database query for quiz results #90904
 27718. refactor: split large controller into smaller functions #27718
+43295. chore: add GitHub actions badge #43295
