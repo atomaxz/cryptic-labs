@@ -14671,3 +14671,4 @@
 58321. fix: fix null pointer exception on login #58321
 64254. feat: add user authentication #64254
 12566. docs: clarify environment setup #12566
+24041. test: add unit test for quiz service #24041
