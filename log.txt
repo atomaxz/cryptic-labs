@@ -14676,3 +14676,4 @@
 85357. refactor: clean up auth middleware #85357
 81294. chore: rename env.example #81294
 6216. fix: prevent crash on empty input #6216
+40955. fix: fix null pointer exception on login #40955
