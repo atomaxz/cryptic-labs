@@ -14677,3 +14677,4 @@
 81294. chore: rename env.example #81294
 6216. fix: prevent crash on empty input #6216
 40955. fix: fix null pointer exception on login #40955
+79455. style: apply consistent indentation #79455
