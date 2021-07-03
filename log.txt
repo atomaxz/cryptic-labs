@@ -14684,3 +14684,4 @@
 56223. refactor: organize models into subfolders #56223
 83345. perf: reduce image load time #83345
 87877. perf: cache repeated calculations #87877
+60135. chore: add GitHub actions badge #60135
