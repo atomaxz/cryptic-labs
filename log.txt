@@ -14686,3 +14686,4 @@
 87877. perf: cache repeated calculations #87877
 60135. chore: add GitHub actions badge #60135
 9637. perf: lazy-load components #9637
+15979. perf: optimize database query for quiz results #15979
