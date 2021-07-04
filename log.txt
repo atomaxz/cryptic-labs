@@ -14691,3 +14691,4 @@
 21675. fix: resolve issue with date parsing #21675
 66495. style: remove trailing whitespace #66495
 45867. chore: rename env.example #45867
+38352. fix: handle 500 error in quiz API #38352
