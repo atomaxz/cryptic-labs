@@ -14693,3 +14693,4 @@
 45867. chore: rename env.example #45867
 38352. fix: handle 500 error in quiz API #38352
 41797. chore: update .gitignore #41797
+28999. chore: bump dependencies #28999
