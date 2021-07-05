@@ -2105,3 +2105,4 @@
 43295. chore: add GitHub actions badge #43295
 58779. perf: lazy-load components #58779
 53978. chore: bump dependencies #53978
+6802. style: apply consistent indentation #6802
