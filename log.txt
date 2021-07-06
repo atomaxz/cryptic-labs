@@ -14696,3 +14696,4 @@
 28999. chore: bump dependencies #28999
 36229. refactor: split large controller into smaller functions #36229
 80154. test: add integration test for /submit endpoint #80154
+89250. docs: document token refresh logic #89250
