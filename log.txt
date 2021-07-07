@@ -2106,3 +2106,4 @@
 58779. perf: lazy-load components #58779
 53978. chore: bump dependencies #53978
 6802. style: apply consistent indentation #6802
+72877. docs: improve code comments in utils #72877
