@@ -14701,3 +14701,4 @@
 59045. refactor: refactor quiz grading logic #59045
 95237. docs: document token refresh logic #95237
 98251. feat: enable dark mode toggle #98251
+1279. perf: reduce image load time #1279
