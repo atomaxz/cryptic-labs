@@ -14704,3 +14704,4 @@
 1279. perf: reduce image load time #1279
 36490. style: rename variables for clarity #36490
 48092. docs: document token refresh logic #48092
+94591. style: remove trailing whitespace #94591
