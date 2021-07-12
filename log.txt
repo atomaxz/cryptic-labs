@@ -2109,3 +2109,4 @@
 72877. docs: improve code comments in utils #72877
 18077. chore: bump dependencies #18077
 56695. chore: add GitHub actions badge #56695
+67715. perf: lazy-load components #67715
