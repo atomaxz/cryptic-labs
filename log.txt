@@ -14709,3 +14709,4 @@
 90362. feat: add export to CSV option #90362
 54548. refactor: split large controller into smaller functions #54548
 60124. feat: implement quiz timer feature #60124
+1876. fix: fix null pointer exception on login #1876
