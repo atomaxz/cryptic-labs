@@ -14710,3 +14710,4 @@
 54548. refactor: split large controller into smaller functions #54548
 60124. feat: implement quiz timer feature #60124
 1876. fix: fix null pointer exception on login #1876
+44763. test: test user registration edge cases #44763
