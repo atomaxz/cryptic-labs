@@ -14714,3 +14714,4 @@
 44884. perf: reduce image load time #44884
 45278. style: remove trailing whitespace #45278
 6454. docs: write FAQ section #6454
+37411. fix: fix broken CSS in mobile view #37411
