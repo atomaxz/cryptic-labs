@@ -14713,3 +14713,4 @@
 44763. test: test user registration edge cases #44763
 44884. perf: reduce image load time #44884
 45278. style: remove trailing whitespace #45278
+6454. docs: write FAQ section #6454
