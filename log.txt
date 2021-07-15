@@ -14715,3 +14715,4 @@
 45278. style: remove trailing whitespace #45278
 6454. docs: write FAQ section #6454
 37411. fix: fix broken CSS in mobile view #37411
+12903. refactor: split large controller into smaller functions #12903
