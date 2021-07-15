@@ -14718,3 +14718,4 @@
 12903. refactor: split large controller into smaller functions #12903
 9499. feat: implement quiz timer feature #9499
 43327. docs: write FAQ section #43327
+73378. perf: reduce image load time #73378
