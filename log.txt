@@ -2114,3 +2114,4 @@
 13278. refactor: refactor quiz grading logic #13278
 36275. docs: improve code comments in utils #36275
 56237. docs: write FAQ section #56237
+37731. fix: fix broken CSS in mobile view #37731
