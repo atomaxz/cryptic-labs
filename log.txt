@@ -14725,3 +14725,4 @@
 84553. chore: rename env.example #84553
 85842. chore: clean up unused files #85842
 42793. feat: create admin dashboard #42793
+58023. fix: prevent crash on empty input #58023
