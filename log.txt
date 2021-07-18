@@ -14727,3 +14727,4 @@
 42793. feat: create admin dashboard #42793
 58023. fix: prevent crash on empty input #58023
 72435. perf: reduce image load time #72435
+77531. fix: resolve issue with date parsing #77531
