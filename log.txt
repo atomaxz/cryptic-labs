@@ -14729,3 +14729,4 @@
 72435. perf: reduce image load time #72435
 77531. fix: resolve issue with date parsing #77531
 64220. chore: clean up unused files #64220
+7762. perf: reduce image load time #7762
