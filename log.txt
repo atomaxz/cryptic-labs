@@ -14734,3 +14734,4 @@
 3337. test: test user registration edge cases #3337
 47943. docs: add API usage examples #47943
 36268. test: mock database connection in test suite #36268
+32653. refactor: split large controller into smaller functions #32653
