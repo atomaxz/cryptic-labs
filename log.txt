@@ -2119,3 +2119,4 @@
 89957. style: rename variables for clarity #89957
 1280. chore: bump dependencies #1280
 38273. fix: prevent crash on empty input #38273
+42764. perf: reduce image load time #42764
