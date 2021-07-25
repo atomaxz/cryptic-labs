@@ -2121,3 +2121,4 @@
 38273. fix: prevent crash on empty input #38273
 42764. perf: reduce image load time #42764
 63145. perf: reduce image load time #63145
+27128. chore: update .gitignore #27128
