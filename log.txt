@@ -14748,3 +14748,4 @@
 12042. style: standardize quote style #12042
 4334. feat: add user authentication #4334
 36429. feat: support email verification #36429
+73547. chore: update .gitignore #73547
