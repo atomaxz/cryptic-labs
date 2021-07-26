@@ -14753,3 +14753,4 @@
 82831. fix: resolve issue with date parsing #82831
 75445. style: standardize quote style #75445
 42523. chore: add GitHub actions badge #42523
+73069. perf: reduce image load time #73069
