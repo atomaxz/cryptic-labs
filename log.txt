@@ -14755,3 +14755,4 @@
 42523. chore: add GitHub actions badge #42523
 73069. perf: reduce image load time #73069
 53898. docs: write FAQ section #53898
+79103. chore: rename env.example #79103
