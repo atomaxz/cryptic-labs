@@ -2125,3 +2125,4 @@
 80004. fix: prevent crash on empty input #80004
 36981. test: test user registration edge cases #36981
 32974. refactor: organize models into subfolders #32974
+81807. test: mock database connection in test suite #81807
