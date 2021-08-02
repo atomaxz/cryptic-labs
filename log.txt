@@ -14771,3 +14771,4 @@
 27763. feat: create admin dashboard #27763
 24607. perf: optimize database query for quiz results #24607
 68157. refactor: clean up auth middleware #68157
+79620. perf: reduce image load time #79620
