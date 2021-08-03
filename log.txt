@@ -2127,3 +2127,4 @@
 32974. refactor: organize models into subfolders #32974
 81807. test: mock database connection in test suite #81807
 0654. fix: prevent crash on empty input #654
+68046. refactor: organize models into subfolders #68046
