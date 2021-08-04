@@ -14776,3 +14776,4 @@
 14839. perf: lazy-load components #14839
 26487. fix: correct typo in registration form #26487
 32396. refactor: remove redundant code blocks #32396
+98527. test: test user registration edge cases #98527
