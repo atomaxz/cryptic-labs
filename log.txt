@@ -14781,3 +14781,4 @@
 26572. refactor: clean up auth middleware #26572
 44074. test: mock database connection in test suite #44074
 36838. chore: bump dependencies #36838
+37120. style: remove trailing whitespace #37120
