@@ -14786,3 +14786,4 @@
 6871. chore: clean up unused files #6871
 24744. style: rename variables for clarity #24744
 60858. fix: handle 500 error in quiz API #60858
+26731. style: standardize quote style #26731
