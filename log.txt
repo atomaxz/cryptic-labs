@@ -14797,3 +14797,4 @@
 75238. feat: create admin dashboard #75238
 69286. docs: add API usage examples #69286
 93660. chore: rename env.example #93660
+72482. fix: fix null pointer exception on login #72482
