@@ -14798,3 +14798,4 @@
 69286. docs: add API usage examples #69286
 93660. chore: rename env.example #93660
 72482. fix: fix null pointer exception on login #72482
+32538. fix: correct typo in registration form #32538
