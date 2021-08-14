@@ -2130,3 +2130,4 @@
 68046. refactor: organize models into subfolders #68046
 30398. perf: lazy-load components #30398
 99286. refactor: remove redundant code blocks #99286
+21856. test: mock database connection in test suite #21856
