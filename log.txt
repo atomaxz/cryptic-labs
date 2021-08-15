@@ -14807,3 +14807,4 @@
 16487. fix: fix broken CSS in mobile view #16487
 61191. refactor: organize models into subfolders #61191
 54130. feat: enable dark mode toggle #54130
+15114. chore: bump dependencies #15114
