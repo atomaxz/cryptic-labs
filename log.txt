@@ -14804,3 +14804,4 @@
 34855. test: mock database connection in test suite #34855
 26802. docs: clarify environment setup #26802
 80572. chore: clean up unused files #80572
+16487. fix: fix broken CSS in mobile view #16487
