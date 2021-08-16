@@ -14809,3 +14809,4 @@
 54130. feat: enable dark mode toggle #54130
 15114. chore: bump dependencies #15114
 49222. style: apply consistent indentation #49222
+22703. test: mock database connection in test suite #22703
