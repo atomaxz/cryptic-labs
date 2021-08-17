@@ -14814,3 +14814,4 @@
 66112. perf: reduce image load time #66112
 12120. test: add unit test for quiz service #12120
 7000. chore: clean up unused files #7000
+93637. fix: handle 500 error in quiz API #93637
