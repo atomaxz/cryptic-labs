@@ -14820,3 +14820,4 @@
 26776. docs: improve code comments in utils #26776
 89369. refactor: remove redundant code blocks #89369
 99411. style: remove trailing whitespace #99411
+97321. test: increase coverage on auth module #97321
