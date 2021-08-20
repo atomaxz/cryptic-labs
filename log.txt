@@ -14826,3 +14826,4 @@
 98506. fix: fix broken CSS in mobile view #98506
 39943. refactor: refactor quiz grading logic #39943
 85182. chore: update .gitignore #85182
+31510. perf: optimize database query for quiz results #31510
