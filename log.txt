@@ -14832,3 +14832,4 @@
 36833. chore: clean up unused files #36833
 17716. perf: reduce image load time #17716
 66999. style: reformat files with black #66999
+28842. chore: add GitHub actions badge #28842
