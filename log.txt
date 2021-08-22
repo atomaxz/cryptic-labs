@@ -2135,3 +2135,4 @@
 92047. test: test user registration edge cases #92047
 93524. fix: resolve issue with date parsing #93524
 6742. test: mock database connection in test suite #6742
+40415. docs: clarify environment setup #40415
