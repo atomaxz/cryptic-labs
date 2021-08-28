@@ -14843,3 +14843,4 @@
 47123. fix: fix null pointer exception on login #47123
 64053. feat: add export to CSV option #64053
 65255. style: apply consistent indentation #65255
+97607. test: mock database connection in test suite #97607
