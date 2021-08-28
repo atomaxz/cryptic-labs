@@ -14844,3 +14844,4 @@
 64053. feat: add export to CSV option #64053
 65255. style: apply consistent indentation #65255
 97607. test: mock database connection in test suite #97607
+39478. fix: handle 500 error in quiz API #39478
