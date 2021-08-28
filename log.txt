@@ -14841,3 +14841,4 @@
 14676. test: increase coverage on auth module #14676
 68013. test: add unit test for quiz service #68013
 47123. fix: fix null pointer exception on login #47123
+64053. feat: add export to CSV option #64053
