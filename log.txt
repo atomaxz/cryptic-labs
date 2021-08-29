@@ -14848,3 +14848,4 @@
 85676. refactor: split large controller into smaller functions #85676
 0914. test: add unit test for quiz service #914
 25047. fix: handle 500 error in quiz API #25047
+4697. perf: lazy-load components #4697
