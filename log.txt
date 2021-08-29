@@ -14850,3 +14850,4 @@
 25047. fix: handle 500 error in quiz API #25047
 4697. perf: lazy-load components #4697
 62865. perf: optimize database query for quiz results #62865
+83693. test: increase coverage on auth module #83693
