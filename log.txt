@@ -2137,3 +2137,4 @@
 6742. test: mock database connection in test suite #6742
 40415. docs: clarify environment setup #40415
 12066. docs: clarify environment setup #12066
+38539. chore: update .gitignore #38539
