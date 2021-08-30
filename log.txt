@@ -2138,3 +2138,4 @@
 40415. docs: clarify environment setup #40415
 12066. docs: clarify environment setup #12066
 38539. chore: update .gitignore #38539
+79121. chore: rename env.example #79121
