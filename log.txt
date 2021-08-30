@@ -14852,3 +14852,4 @@
 62865. perf: optimize database query for quiz results #62865
 83693. test: increase coverage on auth module #83693
 87991. refactor: remove redundant code blocks #87991
+59501. style: standardize quote style #59501
