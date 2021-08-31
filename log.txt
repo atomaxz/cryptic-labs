@@ -14857,3 +14857,4 @@
 27558. fix: fix broken CSS in mobile view #27558
 28514. test: add unit test for quiz service #28514
 25364. refactor: remove redundant code blocks #25364
+44697. perf: cache repeated calculations #44697
