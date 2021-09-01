@@ -14860,3 +14860,4 @@
 44697. perf: cache repeated calculations #44697
 55333. style: reformat files with black #55333
 75363. feat: add export to CSV option #75363
+23366. refactor: clean up auth middleware #23366
