@@ -14862,3 +14862,4 @@
 75363. feat: add export to CSV option #75363
 23366. refactor: clean up auth middleware #23366
 21348. docs: improve code comments in utils #21348
+68439. feat: enable dark mode toggle #68439
