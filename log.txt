@@ -14873,3 +14873,4 @@
 85155. docs: update README with setup steps #85155
 84860. docs: add API usage examples #84860
 21187. docs: add API usage examples #21187
+1027. fix: correct typo in registration form #1027
