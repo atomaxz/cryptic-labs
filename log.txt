@@ -14874,3 +14874,4 @@
 84860. docs: add API usage examples #84860
 21187. docs: add API usage examples #21187
 1027. fix: correct typo in registration form #1027
+19199. chore: add GitHub actions badge #19199
