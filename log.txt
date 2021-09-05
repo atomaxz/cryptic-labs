@@ -2142,3 +2142,4 @@
 52364. docs: write FAQ section #52364
 71662. chore: add GitHub actions badge #71662
 58420. perf: cache repeated calculations #58420
+43843. fix: fix null pointer exception on login #43843
