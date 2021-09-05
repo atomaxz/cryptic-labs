@@ -14876,3 +14876,4 @@
 1027. fix: correct typo in registration form #1027
 19199. chore: add GitHub actions badge #19199
 87975. perf: cache repeated calculations #87975
+48249. feat: add export to CSV option #48249
