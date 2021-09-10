@@ -14888,3 +14888,4 @@
 76849. perf: cache repeated calculations #76849
 86738. docs: write FAQ section #86738
 58345. refactor: split large controller into smaller functions #58345
+53961. fix: resolve issue with date parsing #53961
