@@ -14892,3 +14892,4 @@
 71455. refactor: refactor quiz grading logic #71455
 39344. chore: update .gitignore #39344
 74167. docs: clarify environment setup #74167
+86923. perf: lazy-load components #86923
