@@ -14897,3 +14897,4 @@
 52591. feat: implement quiz timer feature #52591
 68163. perf: lazy-load components #68163
 13076. fix: fix broken CSS in mobile view #13076
+23782. chore: bump dependencies #23782
