@@ -14901,3 +14901,4 @@
 38785. test: add unit test for quiz service #38785
 40521. feat: add user authentication #40521
 41040. docs: write FAQ section #41040
+3980. chore: rename env.example #3980
