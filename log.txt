@@ -2150,3 +2150,4 @@
 60973. test: add unit test for quiz service #60973
 41666. feat: create admin dashboard #41666
 31543. test: add integration test for /submit endpoint #31543
+14469. perf: cache repeated calculations #14469
