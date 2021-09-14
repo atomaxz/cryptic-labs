@@ -14904,3 +14904,4 @@
 3980. chore: rename env.example #3980
 15861. refactor: refactor quiz grading logic #15861
 7562. test: increase coverage on auth module #7562
+1008. chore: add GitHub actions badge #1008
