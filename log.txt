@@ -14905,3 +14905,4 @@
 15861. refactor: refactor quiz grading logic #15861
 7562. test: increase coverage on auth module #7562
 1008. chore: add GitHub actions badge #1008
+19364. fix: fix broken CSS in mobile view #19364
