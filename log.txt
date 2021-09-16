@@ -14909,3 +14909,4 @@
 38961. test: add unit test for quiz service #38961
 73046. fix: prevent crash on empty input #73046
 71473. chore: add GitHub actions badge #71473
+67979. docs: document token refresh logic #67979
