@@ -14907,3 +14907,4 @@
 1008. chore: add GitHub actions badge #1008
 19364. fix: fix broken CSS in mobile view #19364
 38961. test: add unit test for quiz service #38961
+73046. fix: prevent crash on empty input #73046
