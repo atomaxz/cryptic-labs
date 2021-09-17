@@ -14912,3 +14912,4 @@
 67979. docs: document token refresh logic #67979
 30710. perf: cache repeated calculations #30710
 29263. fix: resolve issue with date parsing #29263
+84306. feat: enable dark mode toggle #84306
