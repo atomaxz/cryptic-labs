@@ -14913,3 +14913,4 @@
 30710. perf: cache repeated calculations #30710
 29263. fix: resolve issue with date parsing #29263
 84306. feat: enable dark mode toggle #84306
+36048. fix: prevent crash on empty input #36048
