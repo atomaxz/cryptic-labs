@@ -2152,3 +2152,4 @@
 31543. test: add integration test for /submit endpoint #31543
 14469. perf: cache repeated calculations #14469
 90531. feat: enable dark mode toggle #90531
+14659. chore: add GitHub actions badge #14659
