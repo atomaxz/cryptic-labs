@@ -14925,3 +14925,4 @@
 10400. feat: create admin dashboard #10400
 99503. perf: reduce image load time #99503
 63441. fix: resolve issue with date parsing #63441
+58621. feat: support email verification #58621
