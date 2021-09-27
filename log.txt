@@ -14938,3 +14938,4 @@
 45142. refactor: split large controller into smaller functions #45142
 13029. test: add integration test for /submit endpoint #13029
 99215. perf: lazy-load components #99215
+37032. fix: handle 500 error in quiz API #37032
