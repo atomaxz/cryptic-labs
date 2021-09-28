@@ -14940,3 +14940,4 @@
 99215. perf: lazy-load components #99215
 37032. fix: handle 500 error in quiz API #37032
 15068. chore: bump dependencies #15068
+98420. perf: reduce image load time #98420
