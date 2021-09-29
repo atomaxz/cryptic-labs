@@ -14944,3 +14944,4 @@
 2540. feat: create admin dashboard #2540
 4987. perf: reduce image load time #4987
 39904. fix: fix broken CSS in mobile view #39904
+27148. chore: update .gitignore #27148
