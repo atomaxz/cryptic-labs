@@ -14948,3 +14948,4 @@
 91693. refactor: organize models into subfolders #91693
 99127. chore: bump dependencies #99127
 47028. style: standardize quote style #47028
+18875. fix: fix broken CSS in mobile view #18875
