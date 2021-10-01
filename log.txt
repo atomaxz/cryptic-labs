@@ -14949,3 +14949,4 @@
 99127. chore: bump dependencies #99127
 47028. style: standardize quote style #47028
 18875. fix: fix broken CSS in mobile view #18875
+74442. test: mock database connection in test suite #74442
