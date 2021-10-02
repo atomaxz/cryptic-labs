@@ -14952,3 +14952,4 @@
 74442. test: mock database connection in test suite #74442
 76992. refactor: clean up auth middleware #76992
 59348. feat: create admin dashboard #59348
+6457. refactor: organize models into subfolders #6457
