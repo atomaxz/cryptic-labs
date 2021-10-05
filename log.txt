@@ -14959,3 +14959,4 @@
 10035. fix: fix broken CSS in mobile view #10035
 84864. refactor: organize models into subfolders #84864
 89875. test: mock database connection in test suite #89875
+62147. feat: add user authentication #62147
