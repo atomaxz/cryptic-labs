@@ -14962,3 +14962,4 @@
 62147. feat: add user authentication #62147
 69425. perf: lazy-load components #69425
 21329. feat: support email verification #21329
+57118. docs: document token refresh logic #57118
