@@ -14965,3 +14965,4 @@
 57118. docs: document token refresh logic #57118
 65121. test: mock database connection in test suite #65121
 64909. perf: lazy-load components #64909
+71662. chore: add GitHub actions badge #71662
