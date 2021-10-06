@@ -14967,3 +14967,4 @@
 64909. perf: lazy-load components #64909
 71662. chore: add GitHub actions badge #71662
 85068. fix: fix broken CSS in mobile view #85068
+18744. chore: update .gitignore #18744
