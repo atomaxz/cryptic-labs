@@ -14963,3 +14963,4 @@
 69425. perf: lazy-load components #69425
 21329. feat: support email verification #21329
 57118. docs: document token refresh logic #57118
+65121. test: mock database connection in test suite #65121
