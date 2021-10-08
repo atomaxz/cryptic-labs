@@ -14969,3 +14969,4 @@
 85068. fix: fix broken CSS in mobile view #85068
 18744. chore: update .gitignore #18744
 81177. perf: optimize database query for quiz results #81177
+35835. fix: prevent crash on empty input #35835
