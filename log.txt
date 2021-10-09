@@ -14974,3 +14974,4 @@
 9186. style: rename variables for clarity #9186
 66390. style: apply consistent indentation #66390
 30115. feat: enable dark mode toggle #30115
+79495. fix: fix broken CSS in mobile view #79495
