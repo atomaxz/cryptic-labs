@@ -14976,3 +14976,4 @@
 30115. feat: enable dark mode toggle #30115
 79495. fix: fix broken CSS in mobile view #79495
 52619. style: apply consistent indentation #52619
+21650. style: standardize quote style #21650
