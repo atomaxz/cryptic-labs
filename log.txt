@@ -14978,3 +14978,4 @@
 52619. style: apply consistent indentation #52619
 21650. style: standardize quote style #21650
 94944. refactor: organize models into subfolders #94944
+87037. style: standardize quote style #87037
