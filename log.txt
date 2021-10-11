@@ -2163,3 +2163,4 @@
 28206. refactor: clean up auth middleware #28206
 28523. test: mock database connection in test suite #28523
 7004. perf: lazy-load components #7004
+80217. perf: reduce image load time #80217
