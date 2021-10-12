@@ -14984,3 +14984,4 @@
 12792. refactor: organize models into subfolders #12792
 94891. chore: add GitHub actions badge #94891
 69890. test: test user registration edge cases #69890
+86658. chore: add GitHub actions badge #86658
