@@ -14991,3 +14991,4 @@
 75236. feat: implement quiz timer feature #75236
 11287. chore: add GitHub actions badge #11287
 20699. refactor: split large controller into smaller functions #20699
+89037. perf: lazy-load components #89037
