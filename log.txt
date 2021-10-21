@@ -14998,3 +14998,4 @@
 4798. feat: support email verification #4798
 25422. chore: clean up unused files #25422
 88256. chore: add GitHub actions badge #88256
+10600. test: add unit test for quiz service #10600
