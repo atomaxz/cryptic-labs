@@ -15010,3 +15010,4 @@
 32634. test: test user registration edge cases #32634
 72071. chore: rename env.example #72071
 49020. chore: rename env.example #49020
+42844. docs: update README with setup steps #42844
