@@ -2168,3 +2168,4 @@
 54011. feat: add user authentication #54011
 24511. style: remove trailing whitespace #24511
 61072. chore: clean up unused files #61072
+78904. docs: update README with setup steps #78904
