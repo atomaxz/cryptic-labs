@@ -15013,3 +15013,4 @@
 42844. docs: update README with setup steps #42844
 99726. fix: correct typo in registration form #99726
 78392. style: apply consistent indentation #78392
+16493. test: mock database connection in test suite #16493
