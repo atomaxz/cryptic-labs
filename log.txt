@@ -15016,3 +15016,4 @@
 16493. test: mock database connection in test suite #16493
 11054. test: increase coverage on auth module #11054
 100000. style: rename variables for clarity #100000
+23980. docs: update README with setup steps #23980
