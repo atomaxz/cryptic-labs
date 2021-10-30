@@ -15021,3 +15021,4 @@
 10523. chore: add GitHub actions badge #10523
 80023. docs: add API usage examples #80023
 45620. docs: write FAQ section #45620
+84073. refactor: split large controller into smaller functions #84073
