@@ -15032,3 +15032,4 @@
 4537. chore: rename env.example #4537
 29722. feat: create admin dashboard #29722
 90154. style: apply consistent indentation #90154
+8624. docs: update README with setup steps #8624
