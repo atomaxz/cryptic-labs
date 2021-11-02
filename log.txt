@@ -15036,3 +15036,4 @@
 87814. test: add integration test for /submit endpoint #87814
 20110. feat: implement quiz timer feature #20110
 44576. refactor: clean up auth middleware #44576
+17816. fix: fix null pointer exception on login #17816
