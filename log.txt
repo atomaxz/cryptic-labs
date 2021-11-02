@@ -15037,3 +15037,4 @@
 20110. feat: implement quiz timer feature #20110
 44576. refactor: clean up auth middleware #44576
 17816. fix: fix null pointer exception on login #17816
+58041. test: mock database connection in test suite #58041
