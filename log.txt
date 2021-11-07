@@ -15047,3 +15047,4 @@
 52632. docs: add API usage examples #52632
 69459. perf: cache repeated calculations #69459
 73663. perf: optimize database query for quiz results #73663
+47367. perf: optimize database query for quiz results #47367
