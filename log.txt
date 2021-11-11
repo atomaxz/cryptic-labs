@@ -15051,3 +15051,4 @@
 15188. docs: add API usage examples #15188
 5037. style: standardize quote style #5037
 28285. feat: create admin dashboard #28285
+45155. fix: prevent crash on empty input #45155
