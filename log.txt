@@ -15053,3 +15053,4 @@
 28285. feat: create admin dashboard #28285
 45155. fix: prevent crash on empty input #45155
 44948. chore: bump dependencies #44948
+38992. test: test user registration edge cases #38992
