@@ -15055,3 +15055,4 @@
 44948. chore: bump dependencies #44948
 38992. test: test user registration edge cases #38992
 14053. refactor: remove redundant code blocks #14053
+52800. feat: support email verification #52800
