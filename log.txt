@@ -15057,3 +15057,4 @@
 14053. refactor: remove redundant code blocks #14053
 52800. feat: support email verification #52800
 81441. refactor: split large controller into smaller functions #81441
+81844. fix: fix broken CSS in mobile view #81844
