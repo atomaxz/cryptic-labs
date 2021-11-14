@@ -15058,3 +15058,4 @@
 52800. feat: support email verification #52800
 81441. refactor: split large controller into smaller functions #81441
 81844. fix: fix broken CSS in mobile view #81844
+8916. refactor: clean up auth middleware #8916
