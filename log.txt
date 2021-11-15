@@ -15064,3 +15064,4 @@
 63252. perf: cache repeated calculations #63252
 66444. refactor: refactor quiz grading logic #66444
 87482. style: reformat files with black #87482
+76541. refactor: organize models into subfolders #76541
