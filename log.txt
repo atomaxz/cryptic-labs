@@ -15066,3 +15066,4 @@
 87482. style: reformat files with black #87482
 76541. refactor: organize models into subfolders #76541
 54423. feat: create admin dashboard #54423
+72272. perf: reduce image load time #72272
