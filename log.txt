@@ -15073,3 +15073,4 @@
 62227. perf: reduce image load time #62227
 38232. feat: create admin dashboard #38232
 26986. chore: rename env.example #26986
+38332. docs: clarify environment setup #38332
