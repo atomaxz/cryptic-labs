@@ -15077,3 +15077,4 @@
 35857. chore: bump dependencies #35857
 55970. docs: write FAQ section #55970
 92235. test: add unit test for quiz service #92235
+58985. perf: lazy-load components #58985
