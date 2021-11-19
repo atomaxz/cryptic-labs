@@ -15079,3 +15079,4 @@
 92235. test: add unit test for quiz service #92235
 58985. perf: lazy-load components #58985
 61354. chore: clean up unused files #61354
+52873. perf: optimize database query for quiz results #52873
