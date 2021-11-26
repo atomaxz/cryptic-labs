@@ -15099,3 +15099,4 @@
 80182. perf: optimize database query for quiz results #80182
 34339. chore: rename env.example #34339
 42313. docs: document token refresh logic #42313
+79667. test: increase coverage on auth module #79667
