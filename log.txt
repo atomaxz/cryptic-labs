@@ -2185,3 +2185,4 @@
 38433. test: test user registration edge cases #38433
 53591. perf: reduce image load time #53591
 63291. feat: support email verification #63291
+90693. feat: add export to CSV option #90693
