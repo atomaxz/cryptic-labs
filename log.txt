@@ -15108,3 +15108,4 @@
 41011. test: add unit test for quiz service #41011
 67175. perf: cache repeated calculations #67175
 20288. style: apply consistent indentation #20288
+91370. test: add integration test for /submit endpoint #91370
