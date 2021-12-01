@@ -15109,3 +15109,4 @@
 67175. perf: cache repeated calculations #67175
 20288. style: apply consistent indentation #20288
 91370. test: add integration test for /submit endpoint #91370
+25845. fix: handle 500 error in quiz API #25845
