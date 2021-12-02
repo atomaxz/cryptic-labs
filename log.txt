@@ -2191,3 +2191,4 @@
 0506. chore: bump dependencies #506
 88182. style: reformat files with black #88182
 5714. style: reformat files with black #5714
+38828. perf: lazy-load components #38828
