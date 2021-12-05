@@ -15119,3 +15119,4 @@
 97511. style: apply consistent indentation #97511
 34152. style: standardize quote style #34152
 88394. docs: write FAQ section #88394
+77352. refactor: clean up auth middleware #77352
