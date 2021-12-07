@@ -15123,3 +15123,4 @@
 78416. refactor: split large controller into smaller functions #78416
 36724. fix: prevent crash on empty input #36724
 7661. style: apply consistent indentation #7661
+64708. test: test user registration edge cases #64708
