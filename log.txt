@@ -15124,3 +15124,4 @@
 36724. fix: prevent crash on empty input #36724
 7661. style: apply consistent indentation #7661
 64708. test: test user registration edge cases #64708
+43461. perf: lazy-load components #43461
