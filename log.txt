@@ -2196,3 +2196,4 @@
 5194. test: add unit test for quiz service #5194
 1659. test: add integration test for /submit endpoint #1659
 1830. feat: support email verification #1830
+78578. chore: bump dependencies #78578
