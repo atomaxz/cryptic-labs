@@ -2197,3 +2197,4 @@
 1659. test: add integration test for /submit endpoint #1659
 1830. feat: support email verification #1830
 78578. chore: bump dependencies #78578
+10071. chore: rename env.example #10071
