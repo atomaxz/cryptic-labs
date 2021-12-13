@@ -15129,3 +15129,4 @@
 23731. feat: implement quiz timer feature #23731
 11447. docs: clarify environment setup #11447
 57049. feat: support email verification #57049
+27261. chore: update .gitignore #27261
