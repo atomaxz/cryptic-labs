@@ -15141,3 +15141,4 @@
 25781. fix: handle 500 error in quiz API #25781
 69406. test: mock database connection in test suite #69406
 14348. style: standardize quote style #14348
+7562. test: increase coverage on auth module #7562
