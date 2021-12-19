@@ -15143,3 +15143,4 @@
 14348. style: standardize quote style #14348
 7562. test: increase coverage on auth module #7562
 39314. chore: clean up unused files #39314
+67422. fix: fix null pointer exception on login #67422
