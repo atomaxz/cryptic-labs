@@ -15149,3 +15149,4 @@
 39064. refactor: remove redundant code blocks #39064
 21895. chore: bump dependencies #21895
 11576. test: add unit test for quiz service #11576
+23923. perf: reduce image load time #23923
