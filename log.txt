@@ -15151,3 +15151,4 @@
 11576. test: add unit test for quiz service #11576
 23923. perf: reduce image load time #23923
 84187. test: add integration test for /submit endpoint #84187
+61125. test: test user registration edge cases #61125
