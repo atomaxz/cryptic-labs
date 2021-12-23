@@ -15158,3 +15158,4 @@
 29090. chore: bump dependencies #29090
 0777. feat: enable dark mode toggle #777
 34635. test: increase coverage on auth module #34635
+72235. style: standardize quote style #72235
