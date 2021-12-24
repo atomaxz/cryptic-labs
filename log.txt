@@ -15160,3 +15160,4 @@
 34635. test: increase coverage on auth module #34635
 72235. style: standardize quote style #72235
 81025. fix: correct typo in registration form #81025
+91090. refactor: split large controller into smaller functions #91090
