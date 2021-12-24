@@ -15159,3 +15159,4 @@
 0777. feat: enable dark mode toggle #777
 34635. test: increase coverage on auth module #34635
 72235. style: standardize quote style #72235
+81025. fix: correct typo in registration form #81025
