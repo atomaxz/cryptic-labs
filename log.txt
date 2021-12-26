@@ -15169,3 +15169,4 @@
 4601. chore: rename env.example #4601
 47545. feat: support email verification #47545
 53715. test: add unit test for quiz service #53715
+85027. test: mock database connection in test suite #85027
