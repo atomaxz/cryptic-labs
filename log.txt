@@ -15167,3 +15167,4 @@
 10311. docs: clarify environment setup #10311
 32298. style: reformat files with black #32298
 4601. chore: rename env.example #4601
+47545. feat: support email verification #47545
