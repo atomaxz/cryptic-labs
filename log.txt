@@ -15166,3 +15166,4 @@
 37660. test: mock database connection in test suite #37660
 10311. docs: clarify environment setup #10311
 32298. style: reformat files with black #32298
+4601. chore: rename env.example #4601
