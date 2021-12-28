@@ -2207,3 +2207,4 @@
 5538. style: remove trailing whitespace #5538
 92901. chore: update .gitignore #92901
 60350. perf: optimize database query for quiz results #60350
+61045. fix: fix null pointer exception on login #61045
