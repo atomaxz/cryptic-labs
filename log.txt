@@ -15179,3 +15179,4 @@
 48930. chore: update .gitignore #48930
 12044. perf: lazy-load components #12044
 5079. chore: rename env.example #5079
+3807. feat: enable dark mode toggle #3807
