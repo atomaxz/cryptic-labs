@@ -15181,3 +15181,4 @@
 5079. chore: rename env.example #5079
 3807. feat: enable dark mode toggle #3807
 20159. feat: support email verification #20159
+29447. style: reformat files with black #29447
