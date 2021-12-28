@@ -15177,3 +15177,4 @@
 15261. refactor: remove redundant code blocks #15261
 68347. style: reformat files with black #68347
 48930. chore: update .gitignore #48930
+12044. perf: lazy-load components #12044
