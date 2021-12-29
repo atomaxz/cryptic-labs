@@ -15183,3 +15183,4 @@
 20159. feat: support email verification #20159
 29447. style: reformat files with black #29447
 2359. chore: add GitHub actions badge #2359
+58823. test: increase coverage on auth module #58823
