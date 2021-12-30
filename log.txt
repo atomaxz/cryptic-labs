@@ -15184,3 +15184,4 @@
 29447. style: reformat files with black #29447
 2359. chore: add GitHub actions badge #2359
 58823. test: increase coverage on auth module #58823
+49371. perf: optimize database query for quiz results #49371
