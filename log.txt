@@ -2209,3 +2209,4 @@
 60350. perf: optimize database query for quiz results #60350
 61045. fix: fix null pointer exception on login #61045
 62123. perf: cache repeated calculations #62123
+70838. docs: update README with setup steps #70838
