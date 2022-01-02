@@ -15196,3 +15196,4 @@
 56884. chore: update .gitignore #56884
 57679. feat: create admin dashboard #57679
 11905. docs: clarify environment setup #11905
+72488. fix: fix broken CSS in mobile view #72488
