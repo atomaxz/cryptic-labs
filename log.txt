@@ -15192,3 +15192,4 @@
 90643. fix: correct typo in registration form #90643
 63249. chore: bump dependencies #63249
 0353. style: rename variables for clarity #353
+11144. style: remove trailing whitespace #11144
