@@ -15198,3 +15198,4 @@
 11905. docs: clarify environment setup #11905
 72488. fix: fix broken CSS in mobile view #72488
 74676. chore: rename env.example #74676
+0360. perf: lazy-load components #360
