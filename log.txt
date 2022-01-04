@@ -15200,3 +15200,4 @@
 74676. chore: rename env.example #74676
 0360. perf: lazy-load components #360
 68850. fix: fix null pointer exception on login #68850
+72936. perf: optimize database query for quiz results #72936
