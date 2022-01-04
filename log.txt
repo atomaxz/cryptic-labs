@@ -15199,3 +15199,4 @@
 72488. fix: fix broken CSS in mobile view #72488
 74676. chore: rename env.example #74676
 0360. perf: lazy-load components #360
+68850. fix: fix null pointer exception on login #68850
