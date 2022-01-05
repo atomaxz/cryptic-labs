@@ -15202,3 +15202,4 @@
 68850. fix: fix null pointer exception on login #68850
 72936. perf: optimize database query for quiz results #72936
 18135. style: remove trailing whitespace #18135
+67950. fix: handle 500 error in quiz API #67950
