@@ -2212,3 +2212,4 @@
 70838. docs: update README with setup steps #70838
 44802. fix: fix null pointer exception on login #44802
 77957. feat: implement quiz timer feature #77957
+69542. test: add integration test for /submit endpoint #69542
