@@ -15208,3 +15208,4 @@
 34796. feat: enable dark mode toggle #34796
 59308. refactor: split large controller into smaller functions #59308
 11196. chore: add GitHub actions badge #11196
+58701. test: increase coverage on auth module #58701
