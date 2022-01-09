@@ -15216,3 +15216,4 @@
 87892. refactor: remove redundant code blocks #87892
 98202. fix: correct typo in registration form #98202
 29948. style: rename variables for clarity #29948
+32564. docs: document token refresh logic #32564
