@@ -15221,3 +15221,4 @@
 28622. feat: implement quiz timer feature #28622
 15290. style: reformat files with black #15290
 56194. feat: create admin dashboard #56194
+38048. test: mock database connection in test suite #38048
