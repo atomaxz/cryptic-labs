@@ -15224,3 +15224,4 @@
 38048. test: mock database connection in test suite #38048
 0175. fix: resolve issue with date parsing #175
 41233. refactor: split large controller into smaller functions #41233
+77989. test: increase coverage on auth module #77989
