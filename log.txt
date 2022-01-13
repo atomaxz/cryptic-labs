@@ -2214,3 +2214,4 @@
 77957. feat: implement quiz timer feature #77957
 69542. test: add integration test for /submit endpoint #69542
 29468. chore: bump dependencies #29468
+70321. feat: support email verification #70321
