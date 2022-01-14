@@ -15227,3 +15227,4 @@
 77989. test: increase coverage on auth module #77989
 17481. feat: enable dark mode toggle #17481
 49859. perf: cache repeated calculations #49859
+90519. fix: resolve issue with date parsing #90519
