@@ -2219,3 +2219,4 @@
 64736. chore: bump dependencies #64736
 32553. chore: bump dependencies #32553
 87975. perf: cache repeated calculations #87975
+29019. refactor: organize models into subfolders #29019
