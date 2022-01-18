@@ -15238,3 +15238,4 @@
 90445. docs: write FAQ section #90445
 50771. perf: optimize database query for quiz results #50771
 91594. style: apply consistent indentation #91594
+23827. chore: bump dependencies #23827
