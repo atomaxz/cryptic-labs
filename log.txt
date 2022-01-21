@@ -15246,3 +15246,4 @@
 72998. style: standardize quote style #72998
 4719. perf: cache repeated calculations #4719
 19134. fix: resolve issue with date parsing #19134
+76930. feat: add export to CSV option #76930
