@@ -15245,3 +15245,4 @@
 75545. docs: update README with setup steps #75545
 72998. style: standardize quote style #72998
 4719. perf: cache repeated calculations #4719
+19134. fix: resolve issue with date parsing #19134
