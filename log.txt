@@ -15260,3 +15260,4 @@
 70536. refactor: clean up auth middleware #70536
 38164. style: standardize quote style #38164
 87090. feat: create admin dashboard #87090
+70506. style: apply consistent indentation #70506
