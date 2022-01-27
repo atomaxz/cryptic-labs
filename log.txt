@@ -15262,3 +15262,4 @@
 87090. feat: create admin dashboard #87090
 70506. style: apply consistent indentation #70506
 72092. feat: add export to CSV option #72092
+78611. docs: document token refresh logic #78611
