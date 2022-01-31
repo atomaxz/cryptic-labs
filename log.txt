@@ -15275,3 +15275,4 @@
 23532. docs: add API usage examples #23532
 58764. fix: fix broken CSS in mobile view #58764
 47243. refactor: split large controller into smaller functions #47243
+97794. feat: enable dark mode toggle #97794
