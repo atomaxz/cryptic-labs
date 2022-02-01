@@ -15278,3 +15278,4 @@
 97794. feat: enable dark mode toggle #97794
 2206. feat: add user authentication #2206
 74039. fix: correct typo in registration form #74039
+32699. feat: support email verification #32699
