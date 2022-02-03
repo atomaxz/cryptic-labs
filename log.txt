@@ -15281,3 +15281,4 @@
 32699. feat: support email verification #32699
 31667. chore: update .gitignore #31667
 11151. docs: clarify environment setup #11151
+82516. test: increase coverage on auth module #82516
