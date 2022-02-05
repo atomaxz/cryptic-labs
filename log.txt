@@ -2229,3 +2229,4 @@
 4101. docs: clarify environment setup #4101
 71027. style: reformat files with black #71027
 63588. test: add integration test for /submit endpoint #63588
+56047. test: increase coverage on auth module #56047
