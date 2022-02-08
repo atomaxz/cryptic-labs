@@ -15290,3 +15290,4 @@
 30560. feat: support email verification #30560
 45071. test: increase coverage on auth module #45071
 62682. feat: implement quiz timer feature #62682
+58146. perf: reduce image load time #58146
