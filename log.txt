@@ -15288,3 +15288,4 @@
 2481. style: reformat files with black #2481
 26976. refactor: clean up auth middleware #26976
 30560. feat: support email verification #30560
+45071. test: increase coverage on auth module #45071
