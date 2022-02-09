@@ -15294,3 +15294,4 @@
 93993. refactor: clean up auth middleware #93993
 3583. docs: improve code comments in utils #3583
 82182. fix: correct typo in registration form #82182
+22298. fix: fix broken CSS in mobile view #22298
