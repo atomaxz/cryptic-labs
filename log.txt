@@ -15304,3 +15304,4 @@
 23373. fix: fix null pointer exception on login #23373
 1444. test: mock database connection in test suite #1444
 11979. refactor: remove redundant code blocks #11979
+84718. style: standardize quote style #84718
