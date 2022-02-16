@@ -2233,3 +2233,4 @@
 21796. chore: update .gitignore #21796
 42405. refactor: refactor quiz grading logic #42405
 33295. refactor: refactor quiz grading logic #33295
+97214. fix: handle 500 error in quiz API #97214
