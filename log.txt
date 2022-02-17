@@ -15310,3 +15310,4 @@
 54889. perf: reduce image load time #54889
 60223. perf: lazy-load components #60223
 59264. refactor: remove redundant code blocks #59264
+0972. chore: add GitHub actions badge #972
