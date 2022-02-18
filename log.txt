@@ -15315,3 +15315,4 @@
 22780. style: remove trailing whitespace #22780
 25580. perf: cache repeated calculations #25580
 73509. fix: resolve issue with date parsing #73509
+28261. test: increase coverage on auth module #28261
