@@ -15322,3 +15322,4 @@
 4483. style: apply consistent indentation #4483
 92286. perf: cache repeated calculations #92286
 39036. docs: write FAQ section #39036
+53238. perf: lazy-load components #53238
