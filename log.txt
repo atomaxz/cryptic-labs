@@ -2237,3 +2237,4 @@
 51203. refactor: organize models into subfolders #51203
 10077. test: add unit test for quiz service #10077
 33932. docs: document token refresh logic #33932
+41700. perf: optimize database query for quiz results #41700
