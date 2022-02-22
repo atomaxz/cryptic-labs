@@ -15324,3 +15324,4 @@
 39036. docs: write FAQ section #39036
 53238. perf: lazy-load components #53238
 93505. docs: clarify environment setup #93505
+68074. fix: prevent crash on empty input #68074
