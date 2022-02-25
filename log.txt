@@ -2239,3 +2239,4 @@
 33932. docs: document token refresh logic #33932
 41700. perf: optimize database query for quiz results #41700
 47702. chore: add GitHub actions badge #47702
+51573. chore: update .gitignore #51573
