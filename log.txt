@@ -15333,3 +15333,4 @@
 44602. style: reformat files with black #44602
 11016. test: add integration test for /submit endpoint #11016
 77972. perf: reduce image load time #77972
+81379. test: test user registration edge cases #81379
