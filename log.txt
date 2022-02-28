@@ -15341,3 +15341,4 @@
 3396. chore: update .gitignore #3396
 16765. style: apply consistent indentation #16765
 53609. chore: update .gitignore #53609
+59737. fix: correct typo in registration form #59737
