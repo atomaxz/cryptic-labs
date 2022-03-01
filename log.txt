@@ -2240,3 +2240,4 @@
 41700. perf: optimize database query for quiz results #41700
 47702. chore: add GitHub actions badge #47702
 51573. chore: update .gitignore #51573
+63133. docs: add API usage examples #63133
