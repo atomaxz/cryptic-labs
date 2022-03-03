@@ -2242,3 +2242,4 @@
 51573. chore: update .gitignore #51573
 63133. docs: add API usage examples #63133
 90982. feat: support email verification #90982
+1837. style: apply consistent indentation #1837
