@@ -2243,3 +2243,4 @@
 63133. docs: add API usage examples #63133
 90982. feat: support email verification #90982
 1837. style: apply consistent indentation #1837
+76939. fix: fix broken CSS in mobile view #76939
