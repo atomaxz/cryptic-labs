@@ -15352,3 +15352,4 @@
 54822. chore: bump dependencies #54822
 73400. style: standardize quote style #73400
 59795. feat: add user authentication #59795
+87104. feat: support email verification #87104
