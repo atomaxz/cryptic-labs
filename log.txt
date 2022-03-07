@@ -15354,3 +15354,4 @@
 59795. feat: add user authentication #59795
 87104. feat: support email verification #87104
 31308. docs: update README with setup steps #31308
+27769. fix: fix broken CSS in mobile view #27769
