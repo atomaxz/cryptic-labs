@@ -15357,3 +15357,4 @@
 27769. fix: fix broken CSS in mobile view #27769
 49286. feat: create admin dashboard #49286
 88797. perf: optimize database query for quiz results #88797
+48104. fix: resolve issue with date parsing #48104
