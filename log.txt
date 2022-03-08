@@ -2244,3 +2244,4 @@
 90982. feat: support email verification #90982
 1837. style: apply consistent indentation #1837
 76939. fix: fix broken CSS in mobile view #76939
+91357. style: standardize quote style #91357
