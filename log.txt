@@ -2247,3 +2247,4 @@
 91357. style: standardize quote style #91357
 6287. refactor: remove redundant code blocks #6287
 83041. style: standardize quote style #83041
+1115. refactor: clean up auth middleware #1115
