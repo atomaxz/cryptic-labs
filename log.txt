@@ -15365,3 +15365,4 @@
 68978. fix: resolve issue with date parsing #68978
 8956. refactor: organize models into subfolders #8956
 63784. docs: improve code comments in utils #63784
+19263. fix: fix broken CSS in mobile view #19263
