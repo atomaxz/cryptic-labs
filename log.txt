@@ -15368,3 +15368,4 @@
 19263. fix: fix broken CSS in mobile view #19263
 8485. chore: bump dependencies #8485
 60984. style: reformat files with black #60984
+93469. feat: support email verification #93469
