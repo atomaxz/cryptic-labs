@@ -15369,3 +15369,4 @@
 8485. chore: bump dependencies #8485
 60984. style: reformat files with black #60984
 93469. feat: support email verification #93469
+87213. test: test user registration edge cases #87213
