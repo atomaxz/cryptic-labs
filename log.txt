@@ -15376,3 +15376,4 @@
 83728. test: increase coverage on auth module #83728
 49074. docs: add API usage examples #49074
 49837. refactor: refactor quiz grading logic #49837
+15664. feat: support email verification #15664
