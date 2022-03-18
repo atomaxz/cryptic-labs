@@ -2249,3 +2249,4 @@
 83041. style: standardize quote style #83041
 1115. refactor: clean up auth middleware #1115
 5964. refactor: organize models into subfolders #5964
+71674. perf: lazy-load components #71674
