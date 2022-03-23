@@ -15386,3 +15386,4 @@
 39313. docs: clarify environment setup #39313
 25284. feat: add export to CSV option #25284
 99069. feat: create admin dashboard #99069
+82047. style: apply consistent indentation #82047
