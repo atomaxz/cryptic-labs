@@ -15397,3 +15397,4 @@
 46165. fix: fix broken CSS in mobile view #46165
 78681. perf: cache repeated calculations #78681
 84226. feat: add user authentication #84226
+87301. perf: optimize database query for quiz results #87301
