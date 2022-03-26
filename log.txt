@@ -15396,3 +15396,4 @@
 98124. chore: bump dependencies #98124
 46165. fix: fix broken CSS in mobile view #46165
 78681. perf: cache repeated calculations #78681
+84226. feat: add user authentication #84226
