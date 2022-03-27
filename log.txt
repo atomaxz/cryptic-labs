@@ -15402,3 +15402,4 @@
 95902. feat: add export to CSV option #95902
 64043. fix: resolve issue with date parsing #64043
 90926. feat: add user authentication #90926
+77368. test: increase coverage on auth module #77368
