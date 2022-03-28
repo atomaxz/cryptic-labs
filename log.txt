@@ -15404,3 +15404,4 @@
 90926. feat: add user authentication #90926
 77368. test: increase coverage on auth module #77368
 71089. perf: optimize database query for quiz results #71089
+47645. refactor: organize models into subfolders #47645
