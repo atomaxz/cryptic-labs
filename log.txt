@@ -15414,3 +15414,4 @@
 6067. test: mock database connection in test suite #6067
 57142. refactor: remove redundant code blocks #57142
 19754. style: rename variables for clarity #19754
+13237. perf: lazy-load components #13237
