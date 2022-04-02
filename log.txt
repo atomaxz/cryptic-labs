@@ -2257,3 +2257,4 @@
 99568. chore: clean up unused files #99568
 40222. perf: optimize database query for quiz results #40222
 9232. test: test user registration edge cases #9232
+8377. feat: enable dark mode toggle #8377
