@@ -15422,3 +15422,4 @@
 79493. test: increase coverage on auth module #79493
 95139. style: rename variables for clarity #95139
 15014. docs: add API usage examples #15014
+57937. refactor: clean up auth middleware #57937
