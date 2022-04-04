@@ -15428,3 +15428,4 @@
 13494. refactor: clean up auth middleware #13494
 8863. refactor: split large controller into smaller functions #8863
 23789. chore: update .gitignore #23789
+31835. test: mock database connection in test suite #31835
