@@ -15440,3 +15440,4 @@
 36802. style: apply consistent indentation #36802
 99751. docs: improve code comments in utils #99751
 88551. refactor: refactor quiz grading logic #88551
+63086. perf: optimize database query for quiz results #63086
