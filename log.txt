@@ -15442,3 +15442,4 @@
 88551. refactor: refactor quiz grading logic #88551
 63086. perf: optimize database query for quiz results #63086
 41283. feat: enable dark mode toggle #41283
+50036. test: increase coverage on auth module #50036
