@@ -2259,3 +2259,4 @@
 9232. test: test user registration edge cases #9232
 8377. feat: enable dark mode toggle #8377
 29352. style: reformat files with black #29352
+48464. fix: fix broken CSS in mobile view #48464
