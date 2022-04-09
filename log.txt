@@ -15449,3 +15449,4 @@
 6653. style: apply consistent indentation #6653
 31274. fix: resolve issue with date parsing #31274
 88106. fix: prevent crash on empty input #88106
+4160. fix: fix broken CSS in mobile view #4160
