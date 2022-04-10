@@ -2261,3 +2261,4 @@
 29352. style: reformat files with black #29352
 48464. fix: fix broken CSS in mobile view #48464
 30250. chore: add GitHub actions badge #30250
+49720. test: increase coverage on auth module #49720
