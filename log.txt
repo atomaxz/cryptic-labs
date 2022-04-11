@@ -15451,3 +15451,4 @@
 88106. fix: prevent crash on empty input #88106
 4160. fix: fix broken CSS in mobile view #4160
 26718. fix: prevent crash on empty input #26718
+4392. style: apply consistent indentation #4392
