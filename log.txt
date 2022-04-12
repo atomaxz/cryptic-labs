@@ -15456,3 +15456,4 @@
 43022. test: mock database connection in test suite #43022
 55929. chore: update .gitignore #55929
 22525. style: reformat files with black #22525
+20176. style: remove trailing whitespace #20176
