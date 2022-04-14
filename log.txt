@@ -2263,3 +2263,4 @@
 30250. chore: add GitHub actions badge #30250
 49720. test: increase coverage on auth module #49720
 9467. style: standardize quote style #9467
+34441. test: add integration test for /submit endpoint #34441
