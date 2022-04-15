@@ -15460,3 +15460,4 @@
 54530. chore: clean up unused files #54530
 72078. test: increase coverage on auth module #72078
 21681. chore: bump dependencies #21681
+7121. style: remove trailing whitespace #7121
