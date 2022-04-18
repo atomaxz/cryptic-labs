@@ -15471,3 +15471,4 @@
 97485. docs: improve code comments in utils #97485
 43314. chore: add GitHub actions badge #43314
 94413. feat: add export to CSV option #94413
+69531. fix: handle 500 error in quiz API #69531
