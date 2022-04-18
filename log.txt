@@ -15469,3 +15469,4 @@
 74333. style: reformat files with black #74333
 18723. perf: reduce image load time #18723
 97485. docs: improve code comments in utils #97485
+43314. chore: add GitHub actions badge #43314
