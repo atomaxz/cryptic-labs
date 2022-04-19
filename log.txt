@@ -15474,3 +15474,4 @@
 69531. fix: handle 500 error in quiz API #69531
 51578. perf: optimize database query for quiz results #51578
 95405. feat: add user authentication #95405
+49662. style: standardize quote style #49662
