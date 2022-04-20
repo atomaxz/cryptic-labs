@@ -15476,3 +15476,4 @@
 95405. feat: add user authentication #95405
 49662. style: standardize quote style #49662
 42142. test: mock database connection in test suite #42142
+26825. refactor: clean up auth middleware #26825
