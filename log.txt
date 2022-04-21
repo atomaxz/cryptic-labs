@@ -15479,3 +15479,4 @@
 26825. refactor: clean up auth middleware #26825
 21805. fix: prevent crash on empty input #21805
 66723. docs: improve code comments in utils #66723
+91941. chore: bump dependencies #91941
