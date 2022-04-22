@@ -15483,3 +15483,4 @@
 12973. perf: reduce image load time #12973
 43876. feat: add user authentication #43876
 33228. refactor: organize models into subfolders #33228
+64342. fix: handle 500 error in quiz API #64342
