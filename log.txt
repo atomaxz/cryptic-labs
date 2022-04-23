@@ -15485,3 +15485,4 @@
 33228. refactor: organize models into subfolders #33228
 64342. fix: handle 500 error in quiz API #64342
 55403. perf: cache repeated calculations #55403
+34842. chore: add GitHub actions badge #34842
