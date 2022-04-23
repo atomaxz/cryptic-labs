@@ -15487,3 +15487,4 @@
 55403. perf: cache repeated calculations #55403
 34842. chore: add GitHub actions badge #34842
 28142. feat: support email verification #28142
+11226. chore: bump dependencies #11226
