@@ -15489,3 +15489,4 @@
 28142. feat: support email verification #28142
 11226. chore: bump dependencies #11226
 51489. style: apply consistent indentation #51489
+67275. feat: enable dark mode toggle #67275
