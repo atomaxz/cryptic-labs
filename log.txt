@@ -15493,3 +15493,4 @@
 73868. fix: handle 500 error in quiz API #73868
 58661. style: apply consistent indentation #58661
 49557. chore: update .gitignore #49557
+42371. chore: add GitHub actions badge #42371
