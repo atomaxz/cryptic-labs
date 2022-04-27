@@ -15499,3 +15499,4 @@
 91868. feat: create admin dashboard #91868
 36947. feat: create admin dashboard #36947
 17301. fix: resolve issue with date parsing #17301
+21358. fix: handle 500 error in quiz API #21358
