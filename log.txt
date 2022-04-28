@@ -15501,3 +15501,4 @@
 17301. fix: resolve issue with date parsing #17301
 21358. fix: handle 500 error in quiz API #21358
 81970. perf: lazy-load components #81970
+49521. fix: fix null pointer exception on login #49521
