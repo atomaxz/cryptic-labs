@@ -15504,3 +15504,4 @@
 49521. fix: fix null pointer exception on login #49521
 72697. feat: support email verification #72697
 72947. feat: create admin dashboard #72947
+8600. feat: support email verification #8600
