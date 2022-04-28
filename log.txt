@@ -15503,3 +15503,4 @@
 81970. perf: lazy-load components #81970
 49521. fix: fix null pointer exception on login #49521
 72697. feat: support email verification #72697
+72947. feat: create admin dashboard #72947
