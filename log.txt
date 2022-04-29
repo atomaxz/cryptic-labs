@@ -15506,3 +15506,4 @@
 72947. feat: create admin dashboard #72947
 8600. feat: support email verification #8600
 77366. refactor: remove redundant code blocks #77366
+77351. test: test user registration edge cases #77351
