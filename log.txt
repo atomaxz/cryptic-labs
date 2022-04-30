@@ -15507,3 +15507,4 @@
 8600. feat: support email verification #8600
 77366. refactor: remove redundant code blocks #77366
 77351. test: test user registration edge cases #77351
+17832. fix: prevent crash on empty input #17832
