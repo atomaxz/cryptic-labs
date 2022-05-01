@@ -15513,3 +15513,4 @@
 50215. perf: lazy-load components #50215
 49151. feat: implement quiz timer feature #49151
 86186. style: apply consistent indentation #86186
+27027. feat: add export to CSV option #27027
