@@ -2273,3 +2273,4 @@
 51238. chore: rename env.example #51238
 33173. chore: clean up unused files #33173
 23768. fix: prevent crash on empty input #23768
+89459. style: rename variables for clarity #89459
