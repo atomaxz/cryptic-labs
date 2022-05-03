@@ -15518,3 +15518,4 @@
 30575. refactor: organize models into subfolders #30575
 30030. docs: clarify environment setup #30030
 52445. chore: add GitHub actions badge #52445
+75196. feat: add user authentication #75196
