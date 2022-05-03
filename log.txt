@@ -15517,3 +15517,4 @@
 90829. fix: prevent crash on empty input #90829
 30575. refactor: organize models into subfolders #30575
 30030. docs: clarify environment setup #30030
+52445. chore: add GitHub actions badge #52445
