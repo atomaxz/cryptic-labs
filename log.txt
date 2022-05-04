@@ -15521,3 +15521,4 @@
 75196. feat: add user authentication #75196
 14786. perf: optimize database query for quiz results #14786
 62175. docs: improve code comments in utils #62175
+71662. chore: add GitHub actions badge #71662
