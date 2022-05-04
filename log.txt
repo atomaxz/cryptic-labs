@@ -15523,3 +15523,4 @@
 62175. docs: improve code comments in utils #62175
 71662. chore: add GitHub actions badge #71662
 26028. perf: lazy-load components #26028
+58920. fix: fix broken CSS in mobile view #58920
