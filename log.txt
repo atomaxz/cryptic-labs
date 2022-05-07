@@ -15532,3 +15532,4 @@
 73511. style: standardize quote style #73511
 92631. perf: reduce image load time #92631
 83000. feat: create admin dashboard #83000
+98611. perf: lazy-load components #98611
