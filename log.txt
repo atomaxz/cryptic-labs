@@ -15533,3 +15533,4 @@
 92631. perf: reduce image load time #92631
 83000. feat: create admin dashboard #83000
 98611. perf: lazy-load components #98611
+3438. test: test user registration edge cases #3438
