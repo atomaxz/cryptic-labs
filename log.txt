@@ -2277,3 +2277,4 @@
 91675. perf: lazy-load components #91675
 60113. style: rename variables for clarity #60113
 85200. feat: support email verification #85200
+32727. test: increase coverage on auth module #32727
