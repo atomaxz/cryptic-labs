@@ -15542,3 +15542,4 @@
 88142. fix: correct typo in registration form #88142
 9972. style: standardize quote style #9972
 66673. fix: resolve issue with date parsing #66673
+74590. docs: update README with setup steps #74590
