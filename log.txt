@@ -15557,3 +15557,4 @@
 60797. test: test user registration edge cases #60797
 34135. perf: reduce image load time #34135
 67625. feat: create admin dashboard #67625
+6430. docs: clarify environment setup #6430
