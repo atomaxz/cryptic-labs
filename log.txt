@@ -15561,3 +15561,4 @@
 48671. docs: add API usage examples #48671
 26345. style: reformat files with black #26345
 99878. fix: fix null pointer exception on login #99878
+32736. fix: fix broken CSS in mobile view #32736
