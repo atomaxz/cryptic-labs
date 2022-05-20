@@ -2289,3 +2289,4 @@
 99827. style: reformat files with black #99827
 60600. refactor: remove redundant code blocks #60600
 39599. chore: bump dependencies #39599
+79225. perf: optimize database query for quiz results #79225
