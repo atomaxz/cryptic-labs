@@ -15574,3 +15574,4 @@
 22957. fix: correct typo in registration form #22957
 23191. chore: update .gitignore #23191
 90784. chore: add GitHub actions badge #90784
+52097. feat: support email verification #52097
