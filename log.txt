@@ -2291,3 +2291,4 @@
 39599. chore: bump dependencies #39599
 79225. perf: optimize database query for quiz results #79225
 93996. chore: clean up unused files #93996
+29749. perf: lazy-load components #29749
