@@ -15580,3 +15580,4 @@
 99779. docs: write FAQ section #99779
 25679. refactor: organize models into subfolders #25679
 88667. docs: write FAQ section #88667
+76770. chore: add GitHub actions badge #76770
