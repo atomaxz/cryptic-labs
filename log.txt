@@ -2292,3 +2292,4 @@
 79225. perf: optimize database query for quiz results #79225
 93996. chore: clean up unused files #93996
 29749. perf: lazy-load components #29749
+42862. test: test user registration edge cases #42862
