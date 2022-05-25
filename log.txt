@@ -15583,3 +15583,4 @@
 76770. chore: add GitHub actions badge #76770
 8905. docs: write FAQ section #8905
 73985. test: add unit test for quiz service #73985
+15947. fix: correct typo in registration form #15947
