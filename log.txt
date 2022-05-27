@@ -15586,3 +15586,4 @@
 15947. fix: correct typo in registration form #15947
 22151. feat: support email verification #22151
 65129. style: reformat files with black #65129
+61361. fix: prevent crash on empty input #61361
