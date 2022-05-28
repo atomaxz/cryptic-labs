@@ -15590,3 +15590,4 @@
 53571. feat: create admin dashboard #53571
 82483. perf: reduce image load time #82483
 10335. docs: improve code comments in utils #10335
+48666. docs: add API usage examples #48666
