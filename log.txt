@@ -15600,3 +15600,4 @@
 26705. fix: fix broken CSS in mobile view #26705
 62266. test: add integration test for /submit endpoint #62266
 13504. feat: support email verification #13504
+25294. style: standardize quote style #25294
