@@ -15603,3 +15603,4 @@
 25294. style: standardize quote style #25294
 13328. docs: write FAQ section #13328
 76682. perf: reduce image load time #76682
+1788. chore: rename env.example #1788
