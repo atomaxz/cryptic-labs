@@ -15602,3 +15602,4 @@
 13504. feat: support email verification #13504
 25294. style: standardize quote style #25294
 13328. docs: write FAQ section #13328
+76682. perf: reduce image load time #76682
