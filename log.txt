@@ -15605,3 +15605,4 @@
 76682. perf: reduce image load time #76682
 1788. chore: rename env.example #1788
 68288. style: standardize quote style #68288
+47944. perf: lazy-load components #47944
