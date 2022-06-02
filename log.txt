@@ -15608,3 +15608,4 @@
 47944. perf: lazy-load components #47944
 69259. refactor: clean up auth middleware #69259
 75550. refactor: remove redundant code blocks #75550
+47550. style: apply consistent indentation #47550
