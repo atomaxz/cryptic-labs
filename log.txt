@@ -15610,3 +15610,4 @@
 75550. refactor: remove redundant code blocks #75550
 47550. style: apply consistent indentation #47550
 82356. docs: update README with setup steps #82356
+24606. test: add integration test for /submit endpoint #24606
