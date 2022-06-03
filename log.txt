@@ -15611,3 +15611,4 @@
 47550. style: apply consistent indentation #47550
 82356. docs: update README with setup steps #82356
 24606. test: add integration test for /submit endpoint #24606
+28295. fix: prevent crash on empty input #28295
