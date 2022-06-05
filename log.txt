@@ -15620,3 +15620,4 @@
 74443. fix: handle 500 error in quiz API #74443
 0890. refactor: split large controller into smaller functions #890
 11381. feat: support email verification #11381
+23460. perf: reduce image load time #23460
