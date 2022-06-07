@@ -15624,3 +15624,4 @@
 48414. docs: add API usage examples #48414
 91922. test: add integration test for /submit endpoint #91922
 42912. docs: add API usage examples #42912
+31902. fix: handle 500 error in quiz API #31902
