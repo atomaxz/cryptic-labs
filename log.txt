@@ -15627,3 +15627,4 @@
 31902. fix: handle 500 error in quiz API #31902
 45813. perf: optimize database query for quiz results #45813
 92178. fix: correct typo in registration form #92178
+81429. style: standardize quote style #81429
