@@ -15628,3 +15628,4 @@
 45813. perf: optimize database query for quiz results #45813
 92178. fix: correct typo in registration form #92178
 81429. style: standardize quote style #81429
+16224. fix: fix broken CSS in mobile view #16224
