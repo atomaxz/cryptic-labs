@@ -15629,3 +15629,4 @@
 92178. fix: correct typo in registration form #92178
 81429. style: standardize quote style #81429
 16224. fix: fix broken CSS in mobile view #16224
+88576. refactor: split large controller into smaller functions #88576
