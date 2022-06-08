@@ -15631,3 +15631,4 @@
 16224. fix: fix broken CSS in mobile view #16224
 88576. refactor: split large controller into smaller functions #88576
 88174. feat: implement quiz timer feature #88174
+23022. fix: fix null pointer exception on login #23022
