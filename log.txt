@@ -2306,3 +2306,4 @@
 81451. refactor: organize models into subfolders #81451
 74558. style: reformat files with black #74558
 51465. test: test user registration edge cases #51465
+36793. perf: lazy-load components #36793
