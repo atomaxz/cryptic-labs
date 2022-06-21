@@ -15658,3 +15658,4 @@
 57574. style: apply consistent indentation #57574
 4398. test: add unit test for quiz service #4398
 94114. docs: improve code comments in utils #94114
+52465. refactor: clean up auth middleware #52465
