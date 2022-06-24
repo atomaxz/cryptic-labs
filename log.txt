@@ -15669,3 +15669,4 @@
 71529. fix: handle 500 error in quiz API #71529
 30522. style: remove trailing whitespace #30522
 73865. docs: clarify environment setup #73865
+53969. docs: update README with setup steps #53969
