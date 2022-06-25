@@ -2313,3 +2313,4 @@
 86229. chore: add GitHub actions badge #86229
 25858. refactor: remove redundant code blocks #25858
 17376. refactor: split large controller into smaller functions #17376
+81879. refactor: clean up auth middleware #81879
