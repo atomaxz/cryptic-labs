@@ -15671,3 +15671,4 @@
 73865. docs: clarify environment setup #73865
 53969. docs: update README with setup steps #53969
 92911. refactor: remove redundant code blocks #92911
+41525. docs: update README with setup steps #41525
