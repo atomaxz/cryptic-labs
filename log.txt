@@ -15679,3 +15679,4 @@
 87008. style: reformat files with black #87008
 49704. chore: clean up unused files #49704
 66100. feat: support email verification #66100
+0420. chore: rename env.example #420
