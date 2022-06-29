@@ -15681,3 +15681,4 @@
 66100. feat: support email verification #66100
 0420. chore: rename env.example #420
 46410. feat: create admin dashboard #46410
+55664. test: increase coverage on auth module #55664
