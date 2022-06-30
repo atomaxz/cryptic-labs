@@ -15685,3 +15685,4 @@
 6417. chore: update .gitignore #6417
 83871. fix: correct typo in registration form #83871
 77926. fix: fix null pointer exception on login #77926
+41931. fix: prevent crash on empty input #41931
