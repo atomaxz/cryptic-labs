@@ -15682,3 +15682,4 @@
 0420. chore: rename env.example #420
 46410. feat: create admin dashboard #46410
 55664. test: increase coverage on auth module #55664
+6417. chore: update .gitignore #6417
