@@ -15683,3 +15683,4 @@
 46410. feat: create admin dashboard #46410
 55664. test: increase coverage on auth module #55664
 6417. chore: update .gitignore #6417
+83871. fix: correct typo in registration form #83871
