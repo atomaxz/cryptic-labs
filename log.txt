@@ -15689,3 +15689,4 @@
 59571. chore: update .gitignore #59571
 18288. docs: clarify environment setup #18288
 65190. refactor: split large controller into smaller functions #65190
+8243. test: mock database connection in test suite #8243
