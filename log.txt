@@ -2319,3 +2319,4 @@
 72550. docs: clarify environment setup #72550
 74423. feat: support email verification #74423
 46269. docs: write FAQ section #46269
+80105. style: rename variables for clarity #80105
