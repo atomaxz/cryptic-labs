@@ -15693,3 +15693,4 @@
 45632. chore: clean up unused files #45632
 99569. docs: add API usage examples #99569
 65089. fix: fix broken CSS in mobile view #65089
+77225. fix: correct typo in registration form #77225
