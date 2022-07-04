@@ -2321,3 +2321,4 @@
 46269. docs: write FAQ section #46269
 80105. style: rename variables for clarity #80105
 98745. feat: enable dark mode toggle #98745
+84863. feat: support email verification #84863
