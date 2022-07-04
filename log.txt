@@ -15695,3 +15695,4 @@
 65089. fix: fix broken CSS in mobile view #65089
 77225. fix: correct typo in registration form #77225
 97353. test: test user registration edge cases #97353
+66827. test: add unit test for quiz service #66827
