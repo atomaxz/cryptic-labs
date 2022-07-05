@@ -15697,3 +15697,4 @@
 97353. test: test user registration edge cases #97353
 66827. test: add unit test for quiz service #66827
 26636. style: apply consistent indentation #26636
+28247. perf: reduce image load time #28247
