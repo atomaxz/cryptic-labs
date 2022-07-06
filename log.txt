@@ -15702,3 +15702,4 @@
 43720. test: add integration test for /submit endpoint #43720
 4868. test: mock database connection in test suite #4868
 4264. style: rename variables for clarity #4264
+32168. perf: optimize database query for quiz results #32168
