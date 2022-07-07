@@ -15704,3 +15704,4 @@
 4264. style: rename variables for clarity #4264
 32168. perf: optimize database query for quiz results #32168
 11591. chore: bump dependencies #11591
+38828. perf: lazy-load components #38828
