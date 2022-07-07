@@ -15706,3 +15706,4 @@
 11591. chore: bump dependencies #11591
 38828. perf: lazy-load components #38828
 73212. docs: clarify environment setup #73212
+27116. style: remove trailing whitespace #27116
