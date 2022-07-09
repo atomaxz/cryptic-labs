@@ -15712,3 +15712,4 @@
 15250. perf: lazy-load components #15250
 51564. refactor: organize models into subfolders #51564
 51541. docs: clarify environment setup #51541
+27274. feat: create admin dashboard #27274
