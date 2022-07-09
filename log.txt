@@ -15713,3 +15713,4 @@
 51564. refactor: organize models into subfolders #51564
 51541. docs: clarify environment setup #51541
 27274. feat: create admin dashboard #27274
+20528. fix: correct typo in registration form #20528
