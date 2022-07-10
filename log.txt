@@ -15716,3 +15716,4 @@
 20528. fix: correct typo in registration form #20528
 15541. fix: prevent crash on empty input #15541
 51559. feat: enable dark mode toggle #51559
+88844. test: mock database connection in test suite #88844
