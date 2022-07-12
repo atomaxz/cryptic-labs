@@ -15725,3 +15725,4 @@
 51981. style: rename variables for clarity #51981
 59400. feat: enable dark mode toggle #59400
 81007. perf: lazy-load components #81007
+26491. chore: add GitHub actions badge #26491
