@@ -15737,3 +15737,4 @@
 60043. perf: reduce image load time #60043
 77845. fix: prevent crash on empty input #77845
 16475. style: reformat files with black #16475
+89932. refactor: split large controller into smaller functions #89932
