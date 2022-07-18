@@ -15745,3 +15745,4 @@
 70477. style: apply consistent indentation #70477
 20388. test: add integration test for /submit endpoint #20388
 18494. test: test user registration edge cases #18494
+76668. feat: enable dark mode toggle #76668
