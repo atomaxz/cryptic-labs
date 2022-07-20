@@ -15748,3 +15748,4 @@
 76668. feat: enable dark mode toggle #76668
 88513. chore: bump dependencies #88513
 4358. fix: resolve issue with date parsing #4358
+24278. style: standardize quote style #24278
