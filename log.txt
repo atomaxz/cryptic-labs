@@ -2325,3 +2325,4 @@
 68139. chore: update .gitignore #68139
 63953. fix: fix null pointer exception on login #63953
 31013. chore: rename env.example #31013
+0764. fix: fix broken CSS in mobile view #764
