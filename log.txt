@@ -15758,3 +15758,4 @@
 40489. chore: rename env.example #40489
 7023. docs: add API usage examples #7023
 55783. style: standardize quote style #55783
+6371. fix: fix broken CSS in mobile view #6371
