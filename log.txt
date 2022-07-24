@@ -15761,3 +15761,4 @@
 6371. fix: fix broken CSS in mobile view #6371
 58022. docs: add API usage examples #58022
 64114. chore: update .gitignore #64114
+15392. refactor: clean up auth middleware #15392
