@@ -15772,3 +15772,4 @@
 76478. perf: cache repeated calculations #76478
 86959. chore: add GitHub actions badge #86959
 8810. style: standardize quote style #8810
+71127. refactor: organize models into subfolders #71127
