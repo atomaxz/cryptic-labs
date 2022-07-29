@@ -2328,3 +2328,4 @@
 0764. fix: fix broken CSS in mobile view #764
 66996. chore: add GitHub actions badge #66996
 95382. feat: add user authentication #95382
+34858. chore: rename env.example #34858
