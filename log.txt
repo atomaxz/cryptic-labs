@@ -2329,3 +2329,4 @@
 66996. chore: add GitHub actions badge #66996
 95382. feat: add user authentication #95382
 34858. chore: rename env.example #34858
+43306. style: rename variables for clarity #43306
