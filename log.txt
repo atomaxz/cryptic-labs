@@ -15781,3 +15781,4 @@
 41684. docs: clarify environment setup #41684
 27960. docs: document token refresh logic #27960
 18369. feat: add user authentication #18369
+41117. fix: fix broken CSS in mobile view #41117
