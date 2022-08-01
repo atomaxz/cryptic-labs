@@ -15784,3 +15784,4 @@
 41117. fix: fix broken CSS in mobile view #41117
 61979. perf: lazy-load components #61979
 75954. test: add integration test for /submit endpoint #75954
+91135. perf: reduce image load time #91135
