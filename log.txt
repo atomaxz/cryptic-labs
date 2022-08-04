@@ -2330,3 +2330,4 @@
 95382. feat: add user authentication #95382
 34858. chore: rename env.example #34858
 43306. style: rename variables for clarity #43306
+41498. fix: correct typo in registration form #41498
