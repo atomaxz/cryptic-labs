@@ -2332,3 +2332,4 @@
 43306. style: rename variables for clarity #43306
 41498. fix: correct typo in registration form #41498
 21471. feat: implement quiz timer feature #21471
+95256. fix: handle 500 error in quiz API #95256
