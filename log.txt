@@ -15810,3 +15810,4 @@
 92574. docs: add API usage examples #92574
 9331. chore: bump dependencies #9331
 60208. feat: enable dark mode toggle #60208
+21113. fix: correct typo in registration form #21113
