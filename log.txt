@@ -2333,3 +2333,4 @@
 41498. fix: correct typo in registration form #41498
 21471. feat: implement quiz timer feature #21471
 95256. fix: handle 500 error in quiz API #95256
+89166. feat: support email verification #89166
