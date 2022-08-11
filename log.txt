@@ -15812,3 +15812,4 @@
 60208. feat: enable dark mode toggle #60208
 21113. fix: correct typo in registration form #21113
 8678. test: test user registration edge cases #8678
+56952. chore: add GitHub actions badge #56952
