@@ -2334,3 +2334,4 @@
 21471. feat: implement quiz timer feature #21471
 95256. fix: handle 500 error in quiz API #95256
 89166. feat: support email verification #89166
+33484. refactor: refactor quiz grading logic #33484
