@@ -15817,3 +15817,4 @@
 44950. chore: clean up unused files #44950
 49213. fix: resolve issue with date parsing #49213
 6805. perf: cache repeated calculations #6805
+26573. test: test user registration edge cases #26573
