@@ -15823,3 +15823,4 @@
 22967. perf: reduce image load time #22967
 60825. style: remove trailing whitespace #60825
 93846. perf: reduce image load time #93846
+66559. docs: clarify environment setup #66559
