@@ -15829,3 +15829,4 @@
 52409. docs: write FAQ section #52409
 78647. style: apply consistent indentation #78647
 56480. feat: support email verification #56480
+47110. test: add integration test for /submit endpoint #47110
