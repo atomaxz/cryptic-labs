@@ -15833,3 +15833,4 @@
 22870. test: test user registration edge cases #22870
 97223. perf: lazy-load components #97223
 12835. chore: rename env.example #12835
+27162. test: mock database connection in test suite #27162
