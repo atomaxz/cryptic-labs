@@ -15838,3 +15838,4 @@
 26714. docs: document token refresh logic #26714
 74062. perf: reduce image load time #74062
 79814. test: test user registration edge cases #79814
+11964. perf: reduce image load time #11964
