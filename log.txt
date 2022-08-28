@@ -15848,3 +15848,4 @@
 16543. chore: rename env.example #16543
 90021. test: increase coverage on auth module #90021
 27546. refactor: refactor quiz grading logic #27546
+21213. feat: add user authentication #21213
