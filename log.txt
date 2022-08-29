@@ -15851,3 +15851,4 @@
 21213. feat: add user authentication #21213
 66591. style: reformat files with black #66591
 19480. test: add unit test for quiz service #19480
+87160. fix: prevent crash on empty input #87160
