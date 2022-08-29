@@ -15853,3 +15853,4 @@
 19480. test: add unit test for quiz service #19480
 87160. fix: prevent crash on empty input #87160
 98075. perf: reduce image load time #98075
+72287. fix: fix null pointer exception on login #72287
