@@ -2343,3 +2343,4 @@
 36147. style: apply consistent indentation #36147
 89907. refactor: organize models into subfolders #89907
 87184. chore: add GitHub actions badge #87184
+48892. fix: prevent crash on empty input #48892
