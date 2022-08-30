@@ -15854,3 +15854,4 @@
 87160. fix: prevent crash on empty input #87160
 98075. perf: reduce image load time #98075
 72287. fix: fix null pointer exception on login #72287
+3408. chore: add GitHub actions badge #3408
