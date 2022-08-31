@@ -15856,3 +15856,4 @@
 72287. fix: fix null pointer exception on login #72287
 3408. chore: add GitHub actions badge #3408
 75151. test: increase coverage on auth module #75151
+59989. chore: update .gitignore #59989
