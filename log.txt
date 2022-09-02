@@ -15862,3 +15862,4 @@
 37928. chore: update .gitignore #37928
 43391. fix: resolve issue with date parsing #43391
 73462. test: add unit test for quiz service #73462
+74985. feat: support email verification #74985
