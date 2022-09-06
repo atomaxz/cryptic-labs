@@ -15872,3 +15872,4 @@
 47494. test: add unit test for quiz service #47494
 42421. fix: fix broken CSS in mobile view #42421
 38771. refactor: clean up auth middleware #38771
+84716. chore: add GitHub actions badge #84716
