@@ -15870,3 +15870,4 @@
 34931. perf: optimize database query for quiz results #34931
 78963. feat: enable dark mode toggle #78963
 47494. test: add unit test for quiz service #47494
+42421. fix: fix broken CSS in mobile view #42421
