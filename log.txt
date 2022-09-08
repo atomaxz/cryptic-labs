@@ -15875,3 +15875,4 @@
 84716. chore: add GitHub actions badge #84716
 80787. docs: add API usage examples #80787
 52511. fix: correct typo in registration form #52511
+72285. test: add unit test for quiz service #72285
