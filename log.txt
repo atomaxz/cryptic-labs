@@ -15879,3 +15879,4 @@
 55035. refactor: organize models into subfolders #55035
 15837. feat: create admin dashboard #15837
 78968. docs: update README with setup steps #78968
+10494. feat: support email verification #10494
