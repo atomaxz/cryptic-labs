@@ -15880,3 +15880,4 @@
 15837. feat: create admin dashboard #15837
 78968. docs: update README with setup steps #78968
 10494. feat: support email verification #10494
+40879. fix: correct typo in registration form #40879
