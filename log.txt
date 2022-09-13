@@ -15883,3 +15883,4 @@
 40879. fix: correct typo in registration form #40879
 57363. style: reformat files with black #57363
 33648. chore: rename env.example #33648
+32703. fix: prevent crash on empty input #32703
