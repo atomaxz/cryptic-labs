@@ -2349,3 +2349,4 @@
 44840. style: standardize quote style #44840
 82868. docs: improve code comments in utils #82868
 17229. style: reformat files with black #17229
+94994. fix: handle 500 error in quiz API #94994
