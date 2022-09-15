@@ -15892,3 +15892,4 @@
 84989. refactor: refactor quiz grading logic #84989
 56690. test: add unit test for quiz service #56690
 7416. feat: enable dark mode toggle #7416
+1570. refactor: refactor quiz grading logic #1570
