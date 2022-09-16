@@ -15894,3 +15894,4 @@
 7416. feat: enable dark mode toggle #7416
 1570. refactor: refactor quiz grading logic #1570
 97548. style: remove trailing whitespace #97548
+0236. perf: reduce image load time #236
