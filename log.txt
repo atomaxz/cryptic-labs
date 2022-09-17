@@ -15897,3 +15897,4 @@
 0236. perf: reduce image load time #236
 35076. test: increase coverage on auth module #35076
 67475. test: add integration test for /submit endpoint #67475
+43885. test: mock database connection in test suite #43885
