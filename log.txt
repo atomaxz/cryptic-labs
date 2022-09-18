@@ -15905,3 +15905,4 @@
 69325. refactor: clean up auth middleware #69325
 39342. docs: improve code comments in utils #39342
 71437. docs: clarify environment setup #71437
+38273. fix: prevent crash on empty input #38273
