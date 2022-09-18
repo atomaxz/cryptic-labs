@@ -15901,3 +15901,4 @@
 58642. chore: rename env.example #58642
 18270. style: reformat files with black #18270
 43297. refactor: remove redundant code blocks #43297
+90298. perf: lazy-load components #90298
