@@ -2350,3 +2350,4 @@
 82868. docs: improve code comments in utils #82868
 17229. style: reformat files with black #17229
 94994. fix: handle 500 error in quiz API #94994
+2684. test: mock database connection in test suite #2684
