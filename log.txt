@@ -15910,3 +15910,4 @@
 13502. feat: add export to CSV option #13502
 80391. chore: add GitHub actions badge #80391
 46147. fix: resolve issue with date parsing #46147
+2653. fix: handle 500 error in quiz API #2653
