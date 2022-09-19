@@ -15907,3 +15907,4 @@
 71437. docs: clarify environment setup #71437
 38273. fix: prevent crash on empty input #38273
 31526. perf: lazy-load components #31526
+13502. feat: add export to CSV option #13502
