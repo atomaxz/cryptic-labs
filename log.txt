@@ -15908,3 +15908,4 @@
 38273. fix: prevent crash on empty input #38273
 31526. perf: lazy-load components #31526
 13502. feat: add export to CSV option #13502
+80391. chore: add GitHub actions badge #80391
