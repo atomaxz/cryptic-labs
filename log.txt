@@ -15913,3 +15913,4 @@
 2653. fix: handle 500 error in quiz API #2653
 64732. test: add integration test for /submit endpoint #64732
 21010. docs: improve code comments in utils #21010
+36867. perf: lazy-load components #36867
