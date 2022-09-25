@@ -15929,3 +15929,4 @@
 16690. perf: cache repeated calculations #16690
 38537. chore: bump dependencies #38537
 8724. test: mock database connection in test suite #8724
+96647. test: increase coverage on auth module #96647
