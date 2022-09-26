@@ -15932,3 +15932,4 @@
 96647. test: increase coverage on auth module #96647
 54094. style: apply consistent indentation #54094
 15394. test: add unit test for quiz service #15394
+45295. fix: resolve issue with date parsing #45295
