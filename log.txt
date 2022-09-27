@@ -2353,3 +2353,4 @@
 2684. test: mock database connection in test suite #2684
 68619. docs: update README with setup steps #68619
 26208. docs: clarify environment setup #26208
+80624. perf: optimize database query for quiz results #80624
