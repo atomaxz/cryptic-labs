@@ -15939,3 +15939,4 @@
 0909. docs: improve code comments in utils #909
 84706. test: test user registration edge cases #84706
 30999. perf: reduce image load time #30999
+70924. feat: support email verification #70924
