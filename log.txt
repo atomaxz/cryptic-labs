@@ -15942,3 +15942,4 @@
 70924. feat: support email verification #70924
 46952. docs: write FAQ section #46952
 69661. test: increase coverage on auth module #69661
+86539. perf: cache repeated calculations #86539
