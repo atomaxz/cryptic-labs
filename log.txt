@@ -15948,3 +15948,4 @@
 5152. fix: handle 500 error in quiz API #5152
 92413. style: reformat files with black #92413
 76825. refactor: clean up auth middleware #76825
+12719. style: apply consistent indentation #12719
