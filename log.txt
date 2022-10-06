@@ -2360,3 +2360,4 @@
 90842. perf: cache repeated calculations #90842
 23875. docs: add API usage examples #23875
 20097. chore: update .gitignore #20097
+39420. style: reformat files with black #39420
