@@ -15954,3 +15954,4 @@
 62460. style: reformat files with black #62460
 23038. chore: bump dependencies #23038
 46512. perf: optimize database query for quiz results #46512
+78110. style: standardize quote style #78110
