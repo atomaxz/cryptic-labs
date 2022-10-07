@@ -15957,3 +15957,4 @@
 78110. style: standardize quote style #78110
 38493. feat: add export to CSV option #38493
 91815. chore: bump dependencies #91815
+63483. refactor: clean up auth middleware #63483
