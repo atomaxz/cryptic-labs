@@ -2362,3 +2362,4 @@
 20097. chore: update .gitignore #20097
 39420. style: reformat files with black #39420
 54957. test: mock database connection in test suite #54957
+63822. fix: resolve issue with date parsing #63822
