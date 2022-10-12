@@ -15971,3 +15971,4 @@
 47998. chore: rename env.example #47998
 7894. feat: add export to CSV option #7894
 11957. refactor: split large controller into smaller functions #11957
+2301. fix: fix null pointer exception on login #2301
