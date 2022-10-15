@@ -2364,3 +2364,4 @@
 54957. test: mock database connection in test suite #54957
 63822. fix: resolve issue with date parsing #63822
 84089. refactor: split large controller into smaller functions #84089
+84772. fix: fix broken CSS in mobile view #84772
