@@ -2367,3 +2367,4 @@
 84772. fix: fix broken CSS in mobile view #84772
 58548. fix: prevent crash on empty input #58548
 61020. docs: update README with setup steps #61020
+5642. test: mock database connection in test suite #5642
