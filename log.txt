@@ -15999,3 +15999,4 @@
 13997. refactor: remove redundant code blocks #13997
 95764. style: reformat files with black #95764
 30474. fix: fix null pointer exception on login #30474
+21952. feat: support email verification #21952
