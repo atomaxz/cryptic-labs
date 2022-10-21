@@ -16001,3 +16001,4 @@
 30474. fix: fix null pointer exception on login #30474
 21952. feat: support email verification #21952
 57499. test: add integration test for /submit endpoint #57499
+42041. test: test user registration edge cases #42041
