@@ -2370,3 +2370,4 @@
 5642. test: mock database connection in test suite #5642
 2365. feat: create admin dashboard #2365
 98441. feat: support email verification #98441
+11486. docs: update README with setup steps #11486
