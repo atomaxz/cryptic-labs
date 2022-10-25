@@ -16010,3 +16010,4 @@
 91773. feat: implement quiz timer feature #91773
 73929. docs: improve code comments in utils #73929
 42154. refactor: clean up auth middleware #42154
+47183. perf: lazy-load components #47183
