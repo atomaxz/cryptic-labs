@@ -2372,3 +2372,4 @@
 98441. feat: support email verification #98441
 11486. docs: update README with setup steps #11486
 94725. perf: reduce image load time #94725
+37854. refactor: remove redundant code blocks #37854
