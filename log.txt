@@ -16012,3 +16012,4 @@
 42154. refactor: clean up auth middleware #42154
 47183. perf: lazy-load components #47183
 30134. feat: support email verification #30134
+24058. perf: cache repeated calculations #24058
