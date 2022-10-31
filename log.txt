@@ -16026,3 +16026,4 @@
 32289. test: mock database connection in test suite #32289
 73492. perf: cache repeated calculations #73492
 83657. fix: correct typo in registration form #83657
+80837. fix: fix null pointer exception on login #80837
