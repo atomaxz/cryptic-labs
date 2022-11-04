@@ -16037,3 +16037,4 @@
 5161. refactor: clean up auth middleware #5161
 77567. chore: update .gitignore #77567
 58924. feat: create admin dashboard #58924
+79770. chore: add GitHub actions badge #79770
