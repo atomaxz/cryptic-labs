@@ -16041,3 +16041,4 @@
 55466. feat: implement quiz timer feature #55466
 92067. feat: enable dark mode toggle #92067
 10720. refactor: split large controller into smaller functions #10720
+7846. fix: fix null pointer exception on login #7846
