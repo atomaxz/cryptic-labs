@@ -16042,3 +16042,4 @@
 92067. feat: enable dark mode toggle #92067
 10720. refactor: split large controller into smaller functions #10720
 7846. fix: fix null pointer exception on login #7846
+34621. test: add unit test for quiz service #34621
