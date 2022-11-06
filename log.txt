@@ -2380,3 +2380,4 @@
 48053. docs: improve code comments in utils #48053
 15286. feat: create admin dashboard #15286
 58325. feat: create admin dashboard #58325
+3021. fix: correct typo in registration form #3021
