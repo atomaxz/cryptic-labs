@@ -16048,3 +16048,4 @@
 86384. chore: add GitHub actions badge #86384
 1381. perf: reduce image load time #1381
 81759. perf: cache repeated calculations #81759
+63576. perf: lazy-load components #63576
