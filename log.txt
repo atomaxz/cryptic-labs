@@ -16056,3 +16056,4 @@
 28222. perf: reduce image load time #28222
 41051. fix: correct typo in registration form #41051
 67955. fix: fix null pointer exception on login #67955
+34321. feat: support email verification #34321
