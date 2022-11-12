@@ -16064,3 +16064,4 @@
 52410. docs: write FAQ section #52410
 35999. style: reformat files with black #35999
 42427. refactor: clean up auth middleware #42427
+14433. test: test user registration edge cases #14433
