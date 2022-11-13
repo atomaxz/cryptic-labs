@@ -16066,3 +16066,4 @@
 42427. refactor: clean up auth middleware #42427
 14433. test: test user registration edge cases #14433
 52770. test: test user registration edge cases #52770
+60818. refactor: split large controller into smaller functions #60818
