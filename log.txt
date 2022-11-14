@@ -16070,3 +16070,4 @@
 97550. chore: bump dependencies #97550
 52043. test: test user registration edge cases #52043
 31005. perf: optimize database query for quiz results #31005
+94872. fix: handle 500 error in quiz API #94872
