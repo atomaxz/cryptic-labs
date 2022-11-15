@@ -16077,3 +16077,4 @@
 79637. fix: fix null pointer exception on login #79637
 26074. refactor: split large controller into smaller functions #26074
 81752. fix: correct typo in registration form #81752
+85808. test: add unit test for quiz service #85808
