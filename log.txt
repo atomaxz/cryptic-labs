@@ -16078,3 +16078,4 @@
 26074. refactor: split large controller into smaller functions #26074
 81752. fix: correct typo in registration form #81752
 85808. test: add unit test for quiz service #85808
+39208. fix: fix broken CSS in mobile view #39208
