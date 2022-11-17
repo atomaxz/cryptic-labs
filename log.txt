@@ -16084,3 +16084,4 @@
 7164. chore: bump dependencies #7164
 74556. feat: create admin dashboard #74556
 4555. test: increase coverage on auth module #4555
+84759. chore: update .gitignore #84759
