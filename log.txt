@@ -16089,3 +16089,4 @@
 0358. fix: fix null pointer exception on login #358
 83530. refactor: split large controller into smaller functions #83530
 65112. test: test user registration edge cases #65112
+9085. fix: handle 500 error in quiz API #9085
