@@ -16090,3 +16090,4 @@
 83530. refactor: split large controller into smaller functions #83530
 65112. test: test user registration edge cases #65112
 9085. fix: handle 500 error in quiz API #9085
+35572. docs: write FAQ section #35572
