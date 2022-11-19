@@ -2385,3 +2385,4 @@
 86770. test: add unit test for quiz service #86770
 63393. refactor: remove redundant code blocks #63393
 93160. test: increase coverage on auth module #93160
+52555. perf: reduce image load time #52555
