@@ -16094,3 +16094,4 @@
 28996. docs: clarify environment setup #28996
 56259. refactor: refactor quiz grading logic #56259
 47704. refactor: split large controller into smaller functions #47704
+86528. perf: lazy-load components #86528
