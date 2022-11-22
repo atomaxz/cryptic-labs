@@ -16099,3 +16099,4 @@
 74990. refactor: clean up auth middleware #74990
 87120. chore: update .gitignore #87120
 39272. style: apply consistent indentation #39272
+16840. fix: fix null pointer exception on login #16840
