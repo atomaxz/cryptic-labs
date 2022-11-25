@@ -16109,3 +16109,4 @@
 22961. fix: handle 500 error in quiz API #22961
 52010. feat: add export to CSV option #52010
 54429. feat: implement quiz timer feature #54429
+79408. fix: prevent crash on empty input #79408
