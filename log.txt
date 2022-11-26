@@ -16110,3 +16110,4 @@
 52010. feat: add export to CSV option #52010
 54429. feat: implement quiz timer feature #54429
 79408. fix: prevent crash on empty input #79408
+27523. refactor: clean up auth middleware #27523
