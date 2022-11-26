@@ -16111,3 +16111,4 @@
 54429. feat: implement quiz timer feature #54429
 79408. fix: prevent crash on empty input #79408
 27523. refactor: clean up auth middleware #27523
+21263. fix: fix broken CSS in mobile view #21263
