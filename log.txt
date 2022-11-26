@@ -16113,3 +16113,4 @@
 27523. refactor: clean up auth middleware #27523
 21263. fix: fix broken CSS in mobile view #21263
 28681. refactor: refactor quiz grading logic #28681
+36028. feat: enable dark mode toggle #36028
