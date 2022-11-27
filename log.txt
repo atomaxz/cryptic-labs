@@ -16115,3 +16115,4 @@
 28681. refactor: refactor quiz grading logic #28681
 36028. feat: enable dark mode toggle #36028
 77126. feat: add user authentication #77126
+71665. test: test user registration edge cases #71665
