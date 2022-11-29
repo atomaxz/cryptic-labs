@@ -16119,3 +16119,4 @@
 68692. refactor: organize models into subfolders #68692
 41470. chore: bump dependencies #41470
 96427. test: test user registration edge cases #96427
+19036. refactor: organize models into subfolders #19036
