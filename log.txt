@@ -2392,3 +2392,4 @@
 22930. chore: add GitHub actions badge #22930
 37875. fix: prevent crash on empty input #37875
 56326. refactor: remove redundant code blocks #56326
+76441. perf: reduce image load time #76441
