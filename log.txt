@@ -16128,3 +16128,4 @@
 39188. refactor: refactor quiz grading logic #39188
 3277. test: add unit test for quiz service #3277
 24135. docs: document token refresh logic #24135
+56725. test: test user registration edge cases #56725
