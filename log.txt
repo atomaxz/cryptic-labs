@@ -16138,3 +16138,4 @@
 59126. perf: reduce image load time #59126
 88258. docs: update README with setup steps #88258
 33915. test: mock database connection in test suite #33915
+1282. style: standardize quote style #1282
