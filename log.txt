@@ -2395,3 +2395,4 @@
 76441. perf: reduce image load time #76441
 60819. chore: add GitHub actions badge #60819
 20853. feat: add export to CSV option #20853
+96822. test: mock database connection in test suite #96822
