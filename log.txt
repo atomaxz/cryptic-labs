@@ -2394,3 +2394,4 @@
 56326. refactor: remove redundant code blocks #56326
 76441. perf: reduce image load time #76441
 60819. chore: add GitHub actions badge #60819
+20853. feat: add export to CSV option #20853
