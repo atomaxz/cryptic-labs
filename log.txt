@@ -16145,3 +16145,4 @@
 65464. refactor: clean up auth middleware #65464
 17061. feat: enable dark mode toggle #17061
 56066. style: rename variables for clarity #56066
+49774. chore: add GitHub actions badge #49774
