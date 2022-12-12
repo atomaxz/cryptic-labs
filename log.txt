@@ -16146,3 +16146,4 @@
 17061. feat: enable dark mode toggle #17061
 56066. style: rename variables for clarity #56066
 49774. chore: add GitHub actions badge #49774
+65853. perf: optimize database query for quiz results #65853
