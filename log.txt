@@ -2400,3 +2400,4 @@
 79588. feat: create admin dashboard #79588
 12434. feat: implement quiz timer feature #12434
 83387. style: standardize quote style #83387
+37715. perf: reduce image load time #37715
