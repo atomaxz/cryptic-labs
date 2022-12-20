@@ -16166,3 +16166,4 @@
 13694. style: remove trailing whitespace #13694
 32870. fix: resolve issue with date parsing #32870
 44756. style: remove trailing whitespace #44756
+79749. chore: bump dependencies #79749
