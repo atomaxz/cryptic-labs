@@ -16169,3 +16169,4 @@
 79749. chore: bump dependencies #79749
 4597. docs: improve code comments in utils #4597
 65417. test: test user registration edge cases #65417
+0598. perf: lazy-load components #598
