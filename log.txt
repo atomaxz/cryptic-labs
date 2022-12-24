@@ -16176,3 +16176,4 @@
 20030. fix: correct typo in registration form #20030
 15051. refactor: split large controller into smaller functions #15051
 99431. style: standardize quote style #99431
+95637. feat: create admin dashboard #95637
