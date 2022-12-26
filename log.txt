@@ -16181,3 +16181,4 @@
 93254. docs: write FAQ section #93254
 7254. chore: clean up unused files #7254
 48914. fix: fix broken CSS in mobile view #48914
+58178. refactor: clean up auth middleware #58178
