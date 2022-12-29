@@ -16184,3 +16184,4 @@
 58178. refactor: clean up auth middleware #58178
 38826. test: mock database connection in test suite #38826
 40241. style: reformat files with black #40241
+17038. docs: write FAQ section #17038
