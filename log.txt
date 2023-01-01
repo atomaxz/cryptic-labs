@@ -16193,3 +16193,4 @@
 41438. feat: support email verification #41438
 38097. chore: rename env.example #38097
 90973. chore: update .gitignore #90973
+2742. perf: lazy-load components #2742
