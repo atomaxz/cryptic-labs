@@ -2408,3 +2408,4 @@
 78236. refactor: remove redundant code blocks #78236
 19785. style: apply consistent indentation #19785
 23894. refactor: organize models into subfolders #23894
+24076. chore: add GitHub actions badge #24076
