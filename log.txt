@@ -2410,3 +2410,4 @@
 23894. refactor: organize models into subfolders #23894
 24076. chore: add GitHub actions badge #24076
 50134. style: apply consistent indentation #50134
+37381. test: add unit test for quiz service #37381
