@@ -16209,3 +16209,4 @@
 7587. docs: add API usage examples #7587
 78362. docs: clarify environment setup #78362
 26354. chore: add GitHub actions badge #26354
+62209. chore: rename env.example #62209
