@@ -16222,3 +16222,4 @@
 65857. test: increase coverage on auth module #65857
 63732. chore: clean up unused files #63732
 90882. refactor: clean up auth middleware #90882
+93348. fix: correct typo in registration form #93348
