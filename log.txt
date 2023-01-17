@@ -16226,3 +16226,4 @@
 70570. perf: reduce image load time #70570
 10385. feat: add user authentication #10385
 89155. feat: add export to CSV option #89155
+37485. style: reformat files with black #37485
