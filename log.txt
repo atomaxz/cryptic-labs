@@ -16224,3 +16224,4 @@
 90882. refactor: clean up auth middleware #90882
 93348. fix: correct typo in registration form #93348
 70570. perf: reduce image load time #70570
+10385. feat: add user authentication #10385
