@@ -16227,3 +16227,4 @@
 10385. feat: add user authentication #10385
 89155. feat: add export to CSV option #89155
 37485. style: reformat files with black #37485
+90496. perf: optimize database query for quiz results #90496
