@@ -16235,3 +16235,4 @@
 31678. feat: add export to CSV option #31678
 78888. chore: update .gitignore #78888
 50481. chore: add GitHub actions badge #50481
+1389. refactor: remove redundant code blocks #1389
