@@ -16233,3 +16233,4 @@
 44424. style: reformat files with black #44424
 82116. feat: add user authentication #82116
 31678. feat: add export to CSV option #31678
+78888. chore: update .gitignore #78888
