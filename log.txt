@@ -16248,3 +16248,4 @@
 91521. chore: rename env.example #91521
 50304. feat: create admin dashboard #50304
 8055. perf: reduce image load time #8055
+15203. style: remove trailing whitespace #15203
