@@ -16247,3 +16247,4 @@
 98679. refactor: organize models into subfolders #98679
 91521. chore: rename env.example #91521
 50304. feat: create admin dashboard #50304
+8055. perf: reduce image load time #8055
