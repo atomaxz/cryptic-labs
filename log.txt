@@ -2418,3 +2418,4 @@
 82437. chore: update .gitignore #82437
 93334. chore: add GitHub actions badge #93334
 61251. test: test user registration edge cases #61251
+89396. chore: rename env.example #89396
