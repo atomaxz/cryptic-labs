@@ -16254,3 +16254,4 @@
 64545. feat: add export to CSV option #64545
 7444. style: remove trailing whitespace #7444
 36835. feat: create admin dashboard #36835
+49633. refactor: clean up auth middleware #49633
