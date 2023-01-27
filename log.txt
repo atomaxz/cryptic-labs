@@ -2420,3 +2420,4 @@
 61251. test: test user registration edge cases #61251
 89396. chore: rename env.example #89396
 3459. feat: add export to CSV option #3459
+47352. test: add unit test for quiz service #47352
