@@ -16260,3 +16260,4 @@
 5901. chore: add GitHub actions badge #5901
 97175. feat: add export to CSV option #97175
 22719. style: remove trailing whitespace #22719
+80040. fix: fix null pointer exception on login #80040
