@@ -16263,3 +16263,4 @@
 80040. fix: fix null pointer exception on login #80040
 73611. style: rename variables for clarity #73611
 54962. fix: fix broken CSS in mobile view #54962
+89912. chore: add GitHub actions badge #89912
