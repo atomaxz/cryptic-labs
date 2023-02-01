@@ -16267,3 +16267,4 @@
 73862. docs: update README with setup steps #73862
 89783. docs: clarify environment setup #89783
 22479. test: test user registration edge cases #22479
+5900. chore: rename env.example #5900
