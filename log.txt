@@ -16266,3 +16266,4 @@
 89912. chore: add GitHub actions badge #89912
 73862. docs: update README with setup steps #73862
 89783. docs: clarify environment setup #89783
+22479. test: test user registration edge cases #22479
