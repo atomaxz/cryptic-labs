@@ -16270,3 +16270,4 @@
 5900. chore: rename env.example #5900
 21182. perf: cache repeated calculations #21182
 63629. docs: add API usage examples #63629
+63457. fix: handle 500 error in quiz API #63457
