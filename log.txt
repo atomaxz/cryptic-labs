@@ -16273,3 +16273,4 @@
 63457. fix: handle 500 error in quiz API #63457
 62896. refactor: refactor quiz grading logic #62896
 26904. chore: bump dependencies #26904
+33464. perf: optimize database query for quiz results #33464
