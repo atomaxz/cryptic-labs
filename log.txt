@@ -16275,3 +16275,4 @@
 26904. chore: bump dependencies #26904
 33464. perf: optimize database query for quiz results #33464
 69876. fix: fix broken CSS in mobile view #69876
+20696. feat: support email verification #20696
