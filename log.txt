@@ -16282,3 +16282,4 @@
 5299. feat: add user authentication #5299
 6687. style: apply consistent indentation #6687
 37052. chore: update .gitignore #37052
+41168. docs: update README with setup steps #41168
