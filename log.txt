@@ -2430,3 +2430,4 @@
 56066. style: rename variables for clarity #56066
 49070. perf: optimize database query for quiz results #49070
 11698. chore: add GitHub actions badge #11698
+32570. fix: fix null pointer exception on login #32570
