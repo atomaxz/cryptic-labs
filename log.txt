@@ -16287,3 +16287,4 @@
 71169. fix: fix broken CSS in mobile view #71169
 41608. test: test user registration edge cases #41608
 59564. chore: add GitHub actions badge #59564
+73241. style: standardize quote style #73241
