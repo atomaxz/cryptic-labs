@@ -16316,3 +16316,4 @@
 18109. fix: correct typo in registration form #18109
 92489. refactor: split large controller into smaller functions #92489
 30998. refactor: clean up auth middleware #30998
+75374. fix: fix broken CSS in mobile view #75374
