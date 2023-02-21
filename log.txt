@@ -16315,3 +16315,4 @@
 55514. style: standardize quote style #55514
 18109. fix: correct typo in registration form #18109
 92489. refactor: split large controller into smaller functions #92489
+30998. refactor: clean up auth middleware #30998
