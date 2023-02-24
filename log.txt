@@ -16324,3 +16324,4 @@
 76283. test: add unit test for quiz service #76283
 90814. docs: document token refresh logic #90814
 4553. feat: add user authentication #4553
+27541. fix: prevent crash on empty input #27541
