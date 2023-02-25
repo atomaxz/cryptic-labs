@@ -16329,3 +16329,4 @@
 34583. docs: add API usage examples #34583
 21888. style: standardize quote style #21888
 81991. test: increase coverage on auth module #81991
+48696. feat: add user authentication #48696
