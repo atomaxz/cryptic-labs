@@ -16339,3 +16339,4 @@
 16764. test: increase coverage on auth module #16764
 66745. style: standardize quote style #66745
 38572. style: remove trailing whitespace #38572
+53891. fix: fix null pointer exception on login #53891
