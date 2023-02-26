@@ -16332,3 +16332,4 @@
 48696. feat: add user authentication #48696
 72097. test: test user registration edge cases #72097
 10652. feat: support email verification #10652
+37832. refactor: split large controller into smaller functions #37832
