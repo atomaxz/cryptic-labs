@@ -16334,3 +16334,4 @@
 10652. feat: support email verification #10652
 37832. refactor: split large controller into smaller functions #37832
 68947. refactor: remove redundant code blocks #68947
+73473. chore: add GitHub actions badge #73473
