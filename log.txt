@@ -16337,3 +16337,4 @@
 73473. chore: add GitHub actions badge #73473
 20561. perf: optimize database query for quiz results #20561
 16764. test: increase coverage on auth module #16764
+66745. style: standardize quote style #66745
