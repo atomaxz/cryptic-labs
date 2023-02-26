@@ -16335,3 +16335,4 @@
 37832. refactor: split large controller into smaller functions #37832
 68947. refactor: remove redundant code blocks #68947
 73473. chore: add GitHub actions badge #73473
+20561. perf: optimize database query for quiz results #20561
