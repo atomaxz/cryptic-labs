@@ -16342,3 +16342,4 @@
 53891. fix: fix null pointer exception on login #53891
 25004. feat: add user authentication #25004
 15106. docs: clarify environment setup #15106
+6333. refactor: organize models into subfolders #6333
