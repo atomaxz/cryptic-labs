@@ -16343,3 +16343,4 @@
 25004. feat: add user authentication #25004
 15106. docs: clarify environment setup #15106
 6333. refactor: organize models into subfolders #6333
+18358. fix: prevent crash on empty input #18358
