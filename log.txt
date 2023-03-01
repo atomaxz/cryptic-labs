@@ -16348,3 +16348,4 @@
 34803. refactor: clean up auth middleware #34803
 62681. refactor: refactor quiz grading logic #62681
 63660. style: remove trailing whitespace #63660
+77168. test: test user registration edge cases #77168
