@@ -2438,3 +2438,4 @@
 26340. refactor: clean up auth middleware #26340
 72525. perf: lazy-load components #72525
 6729. refactor: organize models into subfolders #6729
+5995. perf: lazy-load components #5995
