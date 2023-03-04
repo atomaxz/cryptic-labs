@@ -16353,3 +16353,4 @@
 16292. chore: rename env.example #16292
 7192. docs: write FAQ section #7192
 94543. docs: clarify environment setup #94543
+18575. chore: bump dependencies #18575
