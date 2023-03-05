@@ -2440,3 +2440,4 @@
 6729. refactor: organize models into subfolders #6729
 5995. perf: lazy-load components #5995
 30320. refactor: refactor quiz grading logic #30320
+29762. fix: prevent crash on empty input #29762
