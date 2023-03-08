@@ -2444,3 +2444,4 @@
 77777. chore: update .gitignore #77777
 35816. refactor: organize models into subfolders #35816
 68815. refactor: remove redundant code blocks #68815
+75756. fix: correct typo in registration form #75756
