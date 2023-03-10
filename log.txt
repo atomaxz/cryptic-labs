@@ -2446,3 +2446,4 @@
 68815. refactor: remove redundant code blocks #68815
 75756. fix: correct typo in registration form #75756
 46435. style: apply consistent indentation #46435
+98158. docs: document token refresh logic #98158
