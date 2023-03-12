@@ -16373,3 +16373,4 @@
 2363. docs: clarify environment setup #2363
 8678. test: test user registration edge cases #8678
 17730. fix: fix broken CSS in mobile view #17730
+47121. docs: update README with setup steps #47121
