@@ -16374,3 +16374,4 @@
 8678. test: test user registration edge cases #8678
 17730. fix: fix broken CSS in mobile view #17730
 47121. docs: update README with setup steps #47121
+75322. feat: enable dark mode toggle #75322
