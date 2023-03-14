@@ -16377,3 +16377,4 @@
 75322. feat: enable dark mode toggle #75322
 66806. style: rename variables for clarity #66806
 18576. feat: add export to CSV option #18576
+41986. chore: update .gitignore #41986
