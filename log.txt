@@ -2447,3 +2447,4 @@
 75756. fix: correct typo in registration form #75756
 46435. style: apply consistent indentation #46435
 98158. docs: document token refresh logic #98158
+12084. test: mock database connection in test suite #12084
