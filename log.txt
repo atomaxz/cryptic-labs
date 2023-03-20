@@ -16392,3 +16392,4 @@
 52037. docs: add API usage examples #52037
 5097. style: apply consistent indentation #5097
 72567. feat: add export to CSV option #72567
+45597. feat: support email verification #45597
