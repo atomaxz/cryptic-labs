@@ -16394,3 +16394,4 @@
 72567. feat: add export to CSV option #72567
 45597. feat: support email verification #45597
 94377. perf: optimize database query for quiz results #94377
+18875. fix: fix broken CSS in mobile view #18875
