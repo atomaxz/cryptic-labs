@@ -16395,3 +16395,4 @@
 45597. feat: support email verification #45597
 94377. perf: optimize database query for quiz results #94377
 18875. fix: fix broken CSS in mobile view #18875
+0240. feat: add user authentication #240
