@@ -16404,3 +16404,4 @@
 65233. fix: prevent crash on empty input #65233
 0514. style: remove trailing whitespace #514
 68408. docs: update README with setup steps #68408
+13762. perf: reduce image load time #13762
