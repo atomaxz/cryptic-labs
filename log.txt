@@ -2450,3 +2450,4 @@
 12084. test: mock database connection in test suite #12084
 60053. style: apply consistent indentation #60053
 99717. test: increase coverage on auth module #99717
+65051. perf: optimize database query for quiz results #65051
