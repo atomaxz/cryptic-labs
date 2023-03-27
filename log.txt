@@ -16409,3 +16409,4 @@
 26305. fix: correct typo in registration form #26305
 66682. test: mock database connection in test suite #66682
 5636. feat: support email verification #5636
+87205. refactor: organize models into subfolders #87205
