@@ -2452,3 +2452,4 @@
 99717. test: increase coverage on auth module #99717
 65051. perf: optimize database query for quiz results #65051
 1870. perf: optimize database query for quiz results #1870
+26373. docs: update README with setup steps #26373
