@@ -16422,3 +16422,4 @@
 39551. feat: add user authentication #39551
 78952. chore: bump dependencies #78952
 42992. style: remove trailing whitespace #42992
+61723. fix: handle 500 error in quiz API #61723
