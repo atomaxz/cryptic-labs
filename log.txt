@@ -16435,3 +16435,4 @@
 36314. test: add unit test for quiz service #36314
 11927. perf: cache repeated calculations #11927
 2020. perf: cache repeated calculations #2020
+16224. fix: fix broken CSS in mobile view #16224
