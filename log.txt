@@ -16430,3 +16430,4 @@
 13711. fix: prevent crash on empty input #13711
 65686. perf: reduce image load time #65686
 12386. test: add integration test for /submit endpoint #12386
+69174. docs: document token refresh logic #69174
