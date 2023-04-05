@@ -2455,3 +2455,4 @@
 26373. docs: update README with setup steps #26373
 94696. perf: optimize database query for quiz results #94696
 80654. style: reformat files with black #80654
+81547. test: increase coverage on auth module #81547
