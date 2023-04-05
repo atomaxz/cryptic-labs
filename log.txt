@@ -16437,3 +16437,4 @@
 2020. perf: cache repeated calculations #2020
 16224. fix: fix broken CSS in mobile view #16224
 75972. style: standardize quote style #75972
+26446. perf: lazy-load components #26446
