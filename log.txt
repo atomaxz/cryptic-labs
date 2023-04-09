@@ -16452,3 +16452,4 @@
 31321. docs: update README with setup steps #31321
 73378. perf: reduce image load time #73378
 4764. style: reformat files with black #4764
+37486. fix: prevent crash on empty input #37486
