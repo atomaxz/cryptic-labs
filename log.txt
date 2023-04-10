@@ -2457,3 +2457,4 @@
 80654. style: reformat files with black #80654
 81547. test: increase coverage on auth module #81547
 59362. docs: improve code comments in utils #59362
+85303. fix: handle 500 error in quiz API #85303
