@@ -16464,3 +16464,4 @@
 45669. perf: optimize database query for quiz results #45669
 21146. chore: update .gitignore #21146
 14684. fix: fix null pointer exception on login #14684
+24909. test: add unit test for quiz service #24909
