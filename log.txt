@@ -16478,3 +16478,4 @@
 58940. chore: bump dependencies #58940
 61807. docs: update README with setup steps #61807
 25529. fix: correct typo in registration form #25529
+7911. perf: reduce image load time #7911
