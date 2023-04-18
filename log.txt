@@ -16481,3 +16481,4 @@
 7911. perf: reduce image load time #7911
 97749. refactor: remove redundant code blocks #97749
 32495. perf: optimize database query for quiz results #32495
+35088. feat: support email verification #35088
