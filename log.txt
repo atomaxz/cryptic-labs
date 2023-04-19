@@ -16485,3 +16485,4 @@
 71627. fix: fix null pointer exception on login #71627
 4495. perf: optimize database query for quiz results #4495
 77374. perf: cache repeated calculations #77374
+47254. feat: add user authentication #47254
