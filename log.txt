@@ -16483,3 +16483,4 @@
 32495. perf: optimize database query for quiz results #32495
 35088. feat: support email verification #35088
 71627. fix: fix null pointer exception on login #71627
+4495. perf: optimize database query for quiz results #4495
