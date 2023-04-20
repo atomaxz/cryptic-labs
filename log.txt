@@ -16486,3 +16486,4 @@
 4495. perf: optimize database query for quiz results #4495
 77374. perf: cache repeated calculations #77374
 47254. feat: add user authentication #47254
+75681. test: increase coverage on auth module #75681
