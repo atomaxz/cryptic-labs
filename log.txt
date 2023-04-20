@@ -16487,3 +16487,4 @@
 77374. perf: cache repeated calculations #77374
 47254. feat: add user authentication #47254
 75681. test: increase coverage on auth module #75681
+97255. docs: write FAQ section #97255
