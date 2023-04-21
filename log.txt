@@ -16489,3 +16489,4 @@
 75681. test: increase coverage on auth module #75681
 97255. docs: write FAQ section #97255
 32388. feat: add export to CSV option #32388
+49705. perf: cache repeated calculations #49705
