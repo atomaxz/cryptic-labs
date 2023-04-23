@@ -16496,3 +16496,4 @@
 52101. perf: lazy-load components #52101
 15250. perf: lazy-load components #15250
 23276. fix: fix null pointer exception on login #23276
+91703. test: increase coverage on auth module #91703
