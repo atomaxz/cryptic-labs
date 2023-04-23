@@ -16498,3 +16498,4 @@
 23276. fix: fix null pointer exception on login #23276
 91703. test: increase coverage on auth module #91703
 59256. docs: write FAQ section #59256
+44745. feat: create admin dashboard #44745
