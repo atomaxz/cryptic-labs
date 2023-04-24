@@ -16500,3 +16500,4 @@
 59256. docs: write FAQ section #59256
 44745. feat: create admin dashboard #44745
 62979. style: reformat files with black #62979
+73709. perf: lazy-load components #73709
