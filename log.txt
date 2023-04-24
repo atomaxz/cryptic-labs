@@ -2465,3 +2465,4 @@
 68375. test: mock database connection in test suite #68375
 41652. style: apply consistent indentation #41652
 75069. chore: clean up unused files #75069
+25748. fix: fix broken CSS in mobile view #25748
