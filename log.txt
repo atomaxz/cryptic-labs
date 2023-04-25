@@ -16507,3 +16507,4 @@
 84347. style: remove trailing whitespace #84347
 29027. refactor: split large controller into smaller functions #29027
 81833. fix: correct typo in registration form #81833
+27779. test: test user registration edge cases #27779
