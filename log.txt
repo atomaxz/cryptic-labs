@@ -16508,3 +16508,4 @@
 29027. refactor: split large controller into smaller functions #29027
 81833. fix: correct typo in registration form #81833
 27779. test: test user registration edge cases #27779
+47273. perf: lazy-load components #47273
