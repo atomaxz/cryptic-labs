@@ -2468,3 +2468,4 @@
 25748. fix: fix broken CSS in mobile view #25748
 18521. docs: clarify environment setup #18521
 94090. refactor: refactor quiz grading logic #94090
+35196. style: reformat files with black #35196
