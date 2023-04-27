@@ -16510,3 +16510,4 @@
 27779. test: test user registration edge cases #27779
 47273. perf: lazy-load components #47273
 71080. refactor: split large controller into smaller functions #71080
+75487. refactor: clean up auth middleware #75487
