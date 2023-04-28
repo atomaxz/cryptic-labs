@@ -2470,3 +2470,4 @@
 94090. refactor: refactor quiz grading logic #94090
 35196. style: reformat files with black #35196
 73064. test: add integration test for /submit endpoint #73064
+94217. fix: fix null pointer exception on login #94217
