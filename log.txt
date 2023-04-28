@@ -16514,3 +16514,4 @@
 80177. chore: update .gitignore #80177
 7721. fix: prevent crash on empty input #7721
 28835. fix: prevent crash on empty input #28835
+49909. fix: fix broken CSS in mobile view #49909
