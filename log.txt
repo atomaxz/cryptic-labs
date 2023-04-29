@@ -16517,3 +16517,4 @@
 49909. fix: fix broken CSS in mobile view #49909
 95359. test: test user registration edge cases #95359
 25933. feat: implement quiz timer feature #25933
+42642. fix: handle 500 error in quiz API #42642
