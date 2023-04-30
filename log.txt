@@ -16519,3 +16519,4 @@
 25933. feat: implement quiz timer feature #25933
 42642. fix: handle 500 error in quiz API #42642
 65658. refactor: split large controller into smaller functions #65658
+39180. feat: support email verification #39180
