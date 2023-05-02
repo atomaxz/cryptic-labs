@@ -16529,3 +16529,4 @@
 71435. style: rename variables for clarity #71435
 66527. feat: support email verification #66527
 1445. test: test user registration edge cases #1445
+2896. test: add integration test for /submit endpoint #2896
