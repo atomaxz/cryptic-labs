@@ -16527,3 +16527,4 @@
 28781. refactor: split large controller into smaller functions #28781
 89915. fix: handle 500 error in quiz API #89915
 71435. style: rename variables for clarity #71435
+66527. feat: support email verification #66527
