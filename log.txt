@@ -16534,3 +16534,4 @@
 35866. style: remove trailing whitespace #35866
 8656. fix: resolve issue with date parsing #8656
 99751. docs: improve code comments in utils #99751
+29459. refactor: clean up auth middleware #29459
