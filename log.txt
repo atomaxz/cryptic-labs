@@ -16538,3 +16538,4 @@
 50568. docs: add API usage examples #50568
 69289. feat: add user authentication #69289
 41405. docs: add API usage examples #41405
+21329. feat: support email verification #21329
