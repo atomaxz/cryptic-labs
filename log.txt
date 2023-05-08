@@ -16541,3 +16541,4 @@
 21329. feat: support email verification #21329
 10963. test: increase coverage on auth module #10963
 23422. chore: rename env.example #23422
+73377. fix: correct typo in registration form #73377
