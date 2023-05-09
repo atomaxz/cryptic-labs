@@ -16543,3 +16543,4 @@
 23422. chore: rename env.example #23422
 73377. fix: correct typo in registration form #73377
 84642. fix: resolve issue with date parsing #84642
+93143. feat: enable dark mode toggle #93143
