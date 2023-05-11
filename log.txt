@@ -16546,3 +16546,4 @@
 93143. feat: enable dark mode toggle #93143
 44563. test: add unit test for quiz service #44563
 87060. docs: document token refresh logic #87060
+36382. fix: fix null pointer exception on login #36382
