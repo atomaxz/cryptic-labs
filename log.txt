@@ -16564,3 +16564,4 @@
 11736. chore: update .gitignore #11736
 55023. chore: update .gitignore #55023
 47127. fix: handle 500 error in quiz API #47127
+99018. docs: update README with setup steps #99018
