@@ -16561,3 +16561,4 @@
 99387. perf: optimize database query for quiz results #99387
 72403. fix: fix broken CSS in mobile view #72403
 49078. refactor: split large controller into smaller functions #49078
+11736. chore: update .gitignore #11736
