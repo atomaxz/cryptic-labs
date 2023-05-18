@@ -16572,3 +16572,4 @@
 53619. docs: add API usage examples #53619
 5134. style: reformat files with black #5134
 56584. feat: create admin dashboard #56584
+78404. fix: fix broken CSS in mobile view #78404
