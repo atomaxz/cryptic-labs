@@ -16575,3 +16575,4 @@
 78404. fix: fix broken CSS in mobile view #78404
 42713. fix: prevent crash on empty input #42713
 50456. feat: add export to CSV option #50456
+95898. fix: prevent crash on empty input #95898
