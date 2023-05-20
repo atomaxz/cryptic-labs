@@ -16579,3 +16579,4 @@
 53721. test: mock database connection in test suite #53721
 72475. feat: add user authentication #72475
 21849. test: increase coverage on auth module #21849
+99500. chore: rename env.example #99500
