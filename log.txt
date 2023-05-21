@@ -16581,3 +16581,4 @@
 21849. test: increase coverage on auth module #21849
 99500. chore: rename env.example #99500
 43161. refactor: clean up auth middleware #43161
+12114. chore: bump dependencies #12114
