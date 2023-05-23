@@ -16584,3 +16584,4 @@
 12114. chore: bump dependencies #12114
 16722. chore: add GitHub actions badge #16722
 22562. feat: create admin dashboard #22562
+28861. chore: bump dependencies #28861
