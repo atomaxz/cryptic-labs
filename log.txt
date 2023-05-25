@@ -16592,3 +16592,4 @@
 72948. chore: rename env.example #72948
 63443. chore: add GitHub actions badge #63443
 63921. style: apply consistent indentation #63921
+47542. docs: update README with setup steps #47542
