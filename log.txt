@@ -2485,3 +2485,4 @@
 13467. refactor: refactor quiz grading logic #13467
 17849. perf: lazy-load components #17849
 57339. docs: add API usage examples #57339
+90475. perf: cache repeated calculations #90475
