@@ -2486,3 +2486,4 @@
 17849. perf: lazy-load components #17849
 57339. docs: add API usage examples #57339
 90475. perf: cache repeated calculations #90475
+76509. fix: fix null pointer exception on login #76509
