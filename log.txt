@@ -16617,3 +16617,4 @@
 4210. fix: correct typo in registration form #4210
 51390. test: test user registration edge cases #51390
 59828. fix: fix broken CSS in mobile view #59828
+14024. refactor: remove redundant code blocks #14024
