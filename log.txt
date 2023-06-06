@@ -16618,3 +16618,4 @@
 51390. test: test user registration edge cases #51390
 59828. fix: fix broken CSS in mobile view #59828
 14024. refactor: remove redundant code blocks #14024
+91527. fix: handle 500 error in quiz API #91527
