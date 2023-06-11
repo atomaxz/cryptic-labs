@@ -2492,3 +2492,4 @@
 3174. style: standardize quote style #3174
 57325. style: rename variables for clarity #57325
 20739. feat: support email verification #20739
+2868. feat: add user authentication #2868
