@@ -2494,3 +2494,4 @@
 20739. feat: support email verification #20739
 2868. feat: add user authentication #2868
 76275. docs: add API usage examples #76275
+7940. chore: clean up unused files #7940
