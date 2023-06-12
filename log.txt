@@ -16631,3 +16631,4 @@
 54910. fix: resolve issue with date parsing #54910
 35750. chore: clean up unused files #35750
 24537. style: standardize quote style #24537
+2192. feat: add export to CSV option #2192
