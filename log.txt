@@ -16632,3 +16632,4 @@
 35750. chore: clean up unused files #35750
 24537. style: standardize quote style #24537
 2192. feat: add export to CSV option #2192
+85434. feat: add user authentication #85434
