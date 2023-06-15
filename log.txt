@@ -16640,3 +16640,4 @@
 99741. fix: correct typo in registration form #99741
 89291. feat: create admin dashboard #89291
 82828. test: test user registration edge cases #82828
+32673. style: apply consistent indentation #32673
