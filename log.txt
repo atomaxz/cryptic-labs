@@ -16651,3 +16651,4 @@
 53531. feat: add user authentication #53531
 14768. feat: enable dark mode toggle #14768
 23684. style: reformat files with black #23684
+16649. docs: update README with setup steps #16649
