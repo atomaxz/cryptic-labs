@@ -16654,3 +16654,4 @@
 16649. docs: update README with setup steps #16649
 64442. perf: lazy-load components #64442
 30280. perf: reduce image load time #30280
+93267. feat: enable dark mode toggle #93267
