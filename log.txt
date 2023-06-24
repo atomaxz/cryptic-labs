@@ -16658,3 +16658,4 @@
 42505. feat: add user authentication #42505
 46320. style: remove trailing whitespace #46320
 28598. feat: support email verification #28598
+27218. docs: update README with setup steps #27218
