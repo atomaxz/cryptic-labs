@@ -16666,3 +16666,4 @@
 63201. chore: bump dependencies #63201
 16752. style: reformat files with black #16752
 49717. chore: rename env.example #49717
+30639. chore: update .gitignore #30639
