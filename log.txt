@@ -16684,3 +16684,4 @@
 74696. style: rename variables for clarity #74696
 45801. feat: support email verification #45801
 39331. fix: prevent crash on empty input #39331
+62933. test: add integration test for /submit endpoint #62933
