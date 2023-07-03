@@ -16685,3 +16685,4 @@
 45801. feat: support email verification #45801
 39331. fix: prevent crash on empty input #39331
 62933. test: add integration test for /submit endpoint #62933
+6162. fix: handle 500 error in quiz API #6162
