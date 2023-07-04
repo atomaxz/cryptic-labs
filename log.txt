@@ -16694,3 +16694,4 @@
 52096. style: remove trailing whitespace #52096
 50431. docs: improve code comments in utils #50431
 1737. docs: write FAQ section #1737
+60350. perf: optimize database query for quiz results #60350
