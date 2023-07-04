@@ -16690,3 +16690,4 @@
 2517. perf: cache repeated calculations #2517
 45754. fix: handle 500 error in quiz API #45754
 97503. docs: document token refresh logic #97503
+88310. fix: handle 500 error in quiz API #88310
