@@ -16688,3 +16688,4 @@
 6162. fix: handle 500 error in quiz API #6162
 62717. feat: implement quiz timer feature #62717
 2517. perf: cache repeated calculations #2517
+45754. fix: handle 500 error in quiz API #45754
