@@ -16702,3 +16702,4 @@
 75657. test: increase coverage on auth module #75657
 4538. style: rename variables for clarity #4538
 17763. feat: create admin dashboard #17763
+23090. chore: update .gitignore #23090
