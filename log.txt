@@ -16710,3 +16710,4 @@
 57740. style: reformat files with black #57740
 92348. chore: clean up unused files #92348
 42495. perf: reduce image load time #42495
+54999. refactor: organize models into subfolders #54999
