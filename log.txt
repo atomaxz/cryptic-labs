@@ -16718,3 +16718,4 @@
 85868. perf: reduce image load time #85868
 18686. chore: bump dependencies #18686
 96710. perf: lazy-load components #96710
+97463. style: remove trailing whitespace #97463
