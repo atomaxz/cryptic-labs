@@ -16721,3 +16721,4 @@
 97463. style: remove trailing whitespace #97463
 19475. chore: bump dependencies #19475
 76317. fix: correct typo in registration form #76317
+81526. test: add integration test for /submit endpoint #81526
