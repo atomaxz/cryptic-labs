@@ -16725,3 +16725,4 @@
 61138. feat: add export to CSV option #61138
 19445. fix: prevent crash on empty input #19445
 15072. chore: update .gitignore #15072
+8339. fix: resolve issue with date parsing #8339
