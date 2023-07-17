@@ -16728,3 +16728,4 @@
 8339. fix: resolve issue with date parsing #8339
 13499. test: increase coverage on auth module #13499
 94620. perf: lazy-load components #94620
+77661. test: mock database connection in test suite #77661
