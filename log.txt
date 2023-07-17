@@ -16726,3 +16726,4 @@
 19445. fix: prevent crash on empty input #19445
 15072. chore: update .gitignore #15072
 8339. fix: resolve issue with date parsing #8339
+13499. test: increase coverage on auth module #13499
