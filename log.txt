@@ -16732,3 +16732,4 @@
 99759. perf: optimize database query for quiz results #99759
 7498. style: standardize quote style #7498
 11083. style: remove trailing whitespace #11083
+17334. fix: fix broken CSS in mobile view #17334
