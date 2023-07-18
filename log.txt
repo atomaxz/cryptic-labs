@@ -16735,3 +16735,4 @@
 17334. fix: fix broken CSS in mobile view #17334
 25676. fix: resolve issue with date parsing #25676
 65736. feat: enable dark mode toggle #65736
+99075. refactor: refactor quiz grading logic #99075
