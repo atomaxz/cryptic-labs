@@ -16737,3 +16737,4 @@
 65736. feat: enable dark mode toggle #65736
 99075. refactor: refactor quiz grading logic #99075
 5392. feat: support email verification #5392
+69223. chore: add GitHub actions badge #69223
