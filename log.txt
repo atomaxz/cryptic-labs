@@ -2518,3 +2518,4 @@
 84778. refactor: organize models into subfolders #84778
 90574. perf: cache repeated calculations #90574
 83574. style: reformat files with black #83574
+34898. style: standardize quote style #34898
