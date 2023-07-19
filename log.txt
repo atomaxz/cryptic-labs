@@ -16736,3 +16736,4 @@
 25676. fix: resolve issue with date parsing #25676
 65736. feat: enable dark mode toggle #65736
 99075. refactor: refactor quiz grading logic #99075
+5392. feat: support email verification #5392
