@@ -16741,3 +16741,4 @@
 89990. chore: rename env.example #89990
 10583. style: rename variables for clarity #10583
 29891. perf: cache repeated calculations #29891
+23292. docs: write FAQ section #23292
