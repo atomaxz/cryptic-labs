@@ -16744,3 +16744,4 @@
 23292. docs: write FAQ section #23292
 33376. perf: reduce image load time #33376
 27829. fix: correct typo in registration form #27829
+67161. fix: fix broken CSS in mobile view #67161
