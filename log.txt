@@ -2521,3 +2521,4 @@
 34898. style: standardize quote style #34898
 71742. style: apply consistent indentation #71742
 68386. chore: bump dependencies #68386
+63324. test: mock database connection in test suite #63324
