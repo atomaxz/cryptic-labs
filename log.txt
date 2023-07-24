@@ -16752,3 +16752,4 @@
 23356. refactor: refactor quiz grading logic #23356
 42887. chore: bump dependencies #42887
 46749. perf: cache repeated calculations #46749
+7830. fix: handle 500 error in quiz API #7830
