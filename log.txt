@@ -16763,3 +16763,4 @@
 65250. perf: optimize database query for quiz results #65250
 4616. style: remove trailing whitespace #4616
 21732. perf: reduce image load time #21732
+11039. feat: support email verification #11039
