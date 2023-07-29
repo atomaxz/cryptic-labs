@@ -16768,3 +16768,4 @@
 69306. chore: update .gitignore #69306
 31753. feat: support email verification #31753
 41384. feat: add user authentication #41384
+25620. refactor: organize models into subfolders #25620
