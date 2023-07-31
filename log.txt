@@ -16774,3 +16774,4 @@
 68131. fix: resolve issue with date parsing #68131
 16937. style: standardize quote style #16937
 34148. refactor: refactor quiz grading logic #34148
+31112. fix: handle 500 error in quiz API #31112
