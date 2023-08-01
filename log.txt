@@ -2524,3 +2524,4 @@
 63324. test: mock database connection in test suite #63324
 63541. perf: cache repeated calculations #63541
 59735. feat: add user authentication #59735
+46434. feat: support email verification #46434
