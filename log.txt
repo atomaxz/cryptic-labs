@@ -2526,3 +2526,4 @@
 59735. feat: add user authentication #59735
 46434. feat: support email verification #46434
 59359. refactor: organize models into subfolders #59359
+86988. chore: bump dependencies #86988
