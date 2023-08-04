@@ -2530,3 +2530,4 @@
 10547. test: add unit test for quiz service #10547
 38544. perf: lazy-load components #38544
 10927. chore: rename env.example #10927
+54071. test: mock database connection in test suite #54071
