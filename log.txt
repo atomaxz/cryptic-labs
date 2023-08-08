@@ -16793,3 +16793,4 @@
 73063. chore: bump dependencies #73063
 57863. perf: reduce image load time #57863
 45734. fix: fix broken CSS in mobile view #45734
+83997. refactor: organize models into subfolders #83997
