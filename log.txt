@@ -16802,3 +16802,4 @@
 55806. test: test user registration edge cases #55806
 32040. chore: rename env.example #32040
 32554. chore: rename env.example #32554
+71508. chore: add GitHub actions badge #71508
