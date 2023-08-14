@@ -16808,3 +16808,4 @@
 75935. chore: rename env.example #75935
 61773. feat: create admin dashboard #61773
 26394. chore: add GitHub actions badge #26394
+65893. feat: enable dark mode toggle #65893
