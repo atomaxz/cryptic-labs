@@ -16812,3 +16812,4 @@
 54588. fix: handle 500 error in quiz API #54588
 51576. docs: document token refresh logic #51576
 36175. docs: add API usage examples #36175
+40046. docs: write FAQ section #40046
