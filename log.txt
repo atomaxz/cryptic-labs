@@ -16809,3 +16809,4 @@
 61773. feat: create admin dashboard #61773
 26394. chore: add GitHub actions badge #26394
 65893. feat: enable dark mode toggle #65893
+54588. fix: handle 500 error in quiz API #54588
