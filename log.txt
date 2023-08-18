@@ -2541,3 +2541,4 @@
 68142. perf: cache repeated calculations #68142
 75318. test: increase coverage on auth module #75318
 60486. chore: rename env.example #60486
+89819. fix: correct typo in registration form #89819
