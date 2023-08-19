@@ -2543,3 +2543,4 @@
 60486. chore: rename env.example #60486
 89819. fix: correct typo in registration form #89819
 10425. chore: add GitHub actions badge #10425
+5420. style: rename variables for clarity #5420
