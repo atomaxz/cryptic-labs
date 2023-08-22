@@ -16832,3 +16832,4 @@
 77571. perf: cache repeated calculations #77571
 54806. test: add integration test for /submit endpoint #54806
 72732. test: mock database connection in test suite #72732
+6553. perf: lazy-load components #6553
