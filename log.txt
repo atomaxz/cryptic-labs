@@ -16838,3 +16838,4 @@
 26183. chore: bump dependencies #26183
 61717. fix: fix broken CSS in mobile view #61717
 74877. refactor: refactor quiz grading logic #74877
+4828. test: mock database connection in test suite #4828
