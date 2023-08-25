@@ -16841,3 +16841,4 @@
 4828. test: mock database connection in test suite #4828
 0592. perf: lazy-load components #592
 65032. test: test user registration edge cases #65032
+73840. fix: resolve issue with date parsing #73840
