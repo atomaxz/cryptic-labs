@@ -2550,3 +2550,4 @@
 1632. chore: clean up unused files #1632
 96618. perf: lazy-load components #96618
 56967. feat: enable dark mode toggle #56967
+44329. refactor: organize models into subfolders #44329
