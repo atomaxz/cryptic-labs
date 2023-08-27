@@ -2551,3 +2551,4 @@
 96618. perf: lazy-load components #96618
 56967. feat: enable dark mode toggle #56967
 44329. refactor: organize models into subfolders #44329
+78755. test: test user registration edge cases #78755
