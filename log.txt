@@ -16851,3 +16851,4 @@
 13369. style: remove trailing whitespace #13369
 70756. chore: add GitHub actions badge #70756
 51171. chore: rename env.example #51171
+40671. chore: bump dependencies #40671
