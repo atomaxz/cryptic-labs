@@ -16858,3 +16858,4 @@
 98717. fix: fix broken CSS in mobile view #98717
 31793. test: add integration test for /submit endpoint #31793
 25698. refactor: remove redundant code blocks #25698
+95038. perf: lazy-load components #95038
