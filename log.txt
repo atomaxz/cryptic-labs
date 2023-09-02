@@ -16862,3 +16862,4 @@
 17960. feat: enable dark mode toggle #17960
 25883. style: apply consistent indentation #25883
 61363. style: apply consistent indentation #61363
+58006. test: add integration test for /submit endpoint #58006
