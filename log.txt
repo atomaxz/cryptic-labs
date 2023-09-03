@@ -2552,3 +2552,4 @@
 56967. feat: enable dark mode toggle #56967
 44329. refactor: organize models into subfolders #44329
 78755. test: test user registration edge cases #78755
+33933. test: add integration test for /submit endpoint #33933
