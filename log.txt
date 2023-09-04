@@ -16864,3 +16864,4 @@
 61363. style: apply consistent indentation #61363
 58006. test: add integration test for /submit endpoint #58006
 41591. test: mock database connection in test suite #41591
+3061. fix: prevent crash on empty input #3061
