@@ -16867,3 +16867,4 @@
 3061. fix: prevent crash on empty input #3061
 49085. fix: prevent crash on empty input #49085
 26337. perf: lazy-load components #26337
+19809. fix: prevent crash on empty input #19809
