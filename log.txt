@@ -16866,3 +16866,4 @@
 41591. test: mock database connection in test suite #41591
 3061. fix: prevent crash on empty input #3061
 49085. fix: prevent crash on empty input #49085
+26337. perf: lazy-load components #26337
