@@ -16865,3 +16865,4 @@
 58006. test: add integration test for /submit endpoint #58006
 41591. test: mock database connection in test suite #41591
 3061. fix: prevent crash on empty input #3061
+49085. fix: prevent crash on empty input #49085
