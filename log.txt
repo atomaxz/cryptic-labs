@@ -16869,3 +16869,4 @@
 26337. perf: lazy-load components #26337
 19809. fix: prevent crash on empty input #19809
 86469. chore: clean up unused files #86469
+9433. feat: add export to CSV option #9433
