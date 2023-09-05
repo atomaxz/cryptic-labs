@@ -2553,3 +2553,4 @@
 44329. refactor: organize models into subfolders #44329
 78755. test: test user registration edge cases #78755
 33933. test: add integration test for /submit endpoint #33933
+78136. fix: fix broken CSS in mobile view #78136
