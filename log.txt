@@ -16871,3 +16871,4 @@
 86469. chore: clean up unused files #86469
 9433. feat: add export to CSV option #9433
 26923. fix: handle 500 error in quiz API #26923
+96097. style: rename variables for clarity #96097
