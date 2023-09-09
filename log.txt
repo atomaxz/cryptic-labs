@@ -16877,3 +16877,4 @@
 87529. style: reformat files with black #87529
 48097. chore: update .gitignore #48097
 33215. test: mock database connection in test suite #33215
+37376. feat: add user authentication #37376
