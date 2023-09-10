@@ -16880,3 +16880,4 @@
 37376. feat: add user authentication #37376
 82289. style: remove trailing whitespace #82289
 11127. test: add integration test for /submit endpoint #11127
+60782. fix: fix null pointer exception on login #60782
