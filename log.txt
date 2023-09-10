@@ -2557,3 +2557,4 @@
 60528. style: rename variables for clarity #60528
 86956. docs: add API usage examples #86956
 61822. fix: handle 500 error in quiz API #61822
+46302. docs: document token refresh logic #46302
