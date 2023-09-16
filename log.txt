@@ -16893,3 +16893,4 @@
 15798. refactor: refactor quiz grading logic #15798
 52912. style: reformat files with black #52912
 16468. perf: cache repeated calculations #16468
+90560. fix: correct typo in registration form #90560
