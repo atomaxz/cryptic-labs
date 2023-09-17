@@ -2562,3 +2562,4 @@
 37882. style: standardize quote style #37882
 36677. docs: update README with setup steps #36677
 71537. test: add integration test for /submit endpoint #71537
+3840. test: increase coverage on auth module #3840
