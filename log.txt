@@ -2567,3 +2567,4 @@
 53093. perf: reduce image load time #53093
 31622. chore: rename env.example #31622
 15943. chore: add GitHub actions badge #15943
+97702. fix: resolve issue with date parsing #97702
