@@ -2566,3 +2566,4 @@
 10980. chore: update .gitignore #10980
 53093. perf: reduce image load time #53093
 31622. chore: rename env.example #31622
+15943. chore: add GitHub actions badge #15943
