@@ -16912,3 +16912,4 @@
 14817. docs: add API usage examples #14817
 42061. feat: support email verification #42061
 63617. docs: improve code comments in utils #63617
+27185. test: mock database connection in test suite #27185
