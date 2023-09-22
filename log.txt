@@ -16910,3 +16910,4 @@
 79267. chore: rename env.example #79267
 5357. refactor: organize models into subfolders #5357
 14817. docs: add API usage examples #14817
+42061. feat: support email verification #42061
