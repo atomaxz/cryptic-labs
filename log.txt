@@ -2569,3 +2569,4 @@
 15943. chore: add GitHub actions badge #15943
 97702. fix: resolve issue with date parsing #97702
 82285. feat: create admin dashboard #82285
+37278. feat: support email verification #37278
