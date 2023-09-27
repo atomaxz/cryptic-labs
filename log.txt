@@ -16924,3 +16924,4 @@
 21210. refactor: refactor quiz grading logic #21210
 41330. chore: rename env.example #41330
 72231. feat: add user authentication #72231
+1436. perf: optimize database query for quiz results #1436
