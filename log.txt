@@ -2572,3 +2572,4 @@
 37278. feat: support email verification #37278
 74004. style: standardize quote style #74004
 93994. docs: update README with setup steps #93994
+20094. perf: reduce image load time #20094
