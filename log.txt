@@ -16932,3 +16932,4 @@
 32000. fix: correct typo in registration form #32000
 4704. docs: update README with setup steps #4704
 2753. feat: support email verification #2753
+72560. fix: prevent crash on empty input #72560
