@@ -16928,3 +16928,4 @@
 11114. feat: add user authentication #11114
 63766. chore: rename env.example #63766
 58464. fix: correct typo in registration form #58464
+98415. chore: bump dependencies #98415
