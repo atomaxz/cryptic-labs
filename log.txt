@@ -2575,3 +2575,4 @@
 20094. perf: reduce image load time #20094
 84831. test: increase coverage on auth module #84831
 42346. perf: cache repeated calculations #42346
+44736. perf: optimize database query for quiz results #44736
