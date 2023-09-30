@@ -16935,3 +16935,4 @@
 72560. fix: prevent crash on empty input #72560
 65623. style: standardize quote style #65623
 25576. style: reformat files with black #25576
+23782. chore: bump dependencies #23782
