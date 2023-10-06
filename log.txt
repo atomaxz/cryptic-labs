@@ -16955,3 +16955,4 @@
 86032. docs: add API usage examples #86032
 24214. chore: add GitHub actions badge #24214
 67600. style: apply consistent indentation #67600
+63126. docs: write FAQ section #63126
