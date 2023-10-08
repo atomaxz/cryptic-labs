@@ -16957,3 +16957,4 @@
 67600. style: apply consistent indentation #67600
 63126. docs: write FAQ section #63126
 31311. feat: create admin dashboard #31311
+70376. fix: fix broken CSS in mobile view #70376
