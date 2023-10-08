@@ -16961,3 +16961,4 @@
 9598. test: add integration test for /submit endpoint #9598
 62100. refactor: split large controller into smaller functions #62100
 32277. chore: clean up unused files #32277
+10460. perf: optimize database query for quiz results #10460
