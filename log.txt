@@ -16962,3 +16962,4 @@
 62100. refactor: split large controller into smaller functions #62100
 32277. chore: clean up unused files #32277
 10460. perf: optimize database query for quiz results #10460
+24328. chore: bump dependencies #24328
