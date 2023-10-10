@@ -16964,3 +16964,4 @@
 10460. perf: optimize database query for quiz results #10460
 24328. chore: bump dependencies #24328
 58936. style: standardize quote style #58936
+84267. fix: correct typo in registration form #84267
