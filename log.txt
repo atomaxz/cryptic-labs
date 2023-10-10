@@ -16965,3 +16965,4 @@
 24328. chore: bump dependencies #24328
 58936. style: standardize quote style #58936
 84267. fix: correct typo in registration form #84267
+88232. style: apply consistent indentation #88232
