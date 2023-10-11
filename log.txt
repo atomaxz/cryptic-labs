@@ -16967,3 +16967,4 @@
 84267. fix: correct typo in registration form #84267
 88232. style: apply consistent indentation #88232
 58424. test: test user registration edge cases #58424
+82023. feat: support email verification #82023
