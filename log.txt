@@ -16972,3 +16972,4 @@
 96403. feat: create admin dashboard #96403
 65612. test: mock database connection in test suite #65612
 43365. test: mock database connection in test suite #43365
+74681. docs: update README with setup steps #74681
