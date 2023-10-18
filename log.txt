@@ -16984,3 +16984,4 @@
 73180. style: standardize quote style #73180
 70978. perf: cache repeated calculations #70978
 36581. chore: bump dependencies #36581
+10001. refactor: clean up auth middleware #10001
