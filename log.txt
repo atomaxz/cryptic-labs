@@ -16980,3 +16980,4 @@
 29200. docs: clarify environment setup #29200
 69084. chore: add GitHub actions badge #69084
 37278. feat: support email verification #37278
+65392. fix: handle 500 error in quiz API #65392
