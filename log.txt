@@ -2584,3 +2584,4 @@
 96232. style: reformat files with black #96232
 37449. docs: clarify environment setup #37449
 99000. fix: handle 500 error in quiz API #99000
+46029. docs: document token refresh logic #46029
