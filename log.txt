@@ -16995,3 +16995,4 @@
 83474. test: add integration test for /submit endpoint #83474
 29791. docs: clarify environment setup #29791
 99304. style: remove trailing whitespace #99304
+48952. perf: optimize database query for quiz results #48952
