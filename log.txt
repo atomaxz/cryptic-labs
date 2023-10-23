@@ -16999,3 +16999,4 @@
 76483. fix: fix null pointer exception on login #76483
 77500. refactor: clean up auth middleware #77500
 81388. fix: fix broken CSS in mobile view #81388
+92526. style: standardize quote style #92526
