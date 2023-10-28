@@ -2590,3 +2590,4 @@
 90087. perf: reduce image load time #90087
 97800. docs: improve code comments in utils #97800
 17265. test: increase coverage on auth module #17265
+57334. chore: bump dependencies #57334
