@@ -17027,3 +17027,4 @@
 41559. test: add integration test for /submit endpoint #41559
 16897. test: add integration test for /submit endpoint #16897
 55740. style: standardize quote style #55740
+98706. feat: add user authentication #98706
