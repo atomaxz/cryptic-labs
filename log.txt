@@ -17031,3 +17031,4 @@
 85708. style: remove trailing whitespace #85708
 41104. docs: improve code comments in utils #41104
 87059. fix: fix null pointer exception on login #87059
+15979. perf: optimize database query for quiz results #15979
