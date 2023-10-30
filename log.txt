@@ -17030,3 +17030,4 @@
 98706. feat: add user authentication #98706
 85708. style: remove trailing whitespace #85708
 41104. docs: improve code comments in utils #41104
+87059. fix: fix null pointer exception on login #87059
