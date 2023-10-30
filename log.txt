@@ -2592,3 +2592,4 @@
 17265. test: increase coverage on auth module #17265
 57334. chore: bump dependencies #57334
 30009. refactor: clean up auth middleware #30009
+43899. fix: prevent crash on empty input #43899
