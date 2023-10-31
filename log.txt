@@ -17035,3 +17035,4 @@
 51213. refactor: organize models into subfolders #51213
 12191. chore: clean up unused files #12191
 50150. fix: correct typo in registration form #50150
+9007. refactor: clean up auth middleware #9007
