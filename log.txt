@@ -17038,3 +17038,4 @@
 9007. refactor: clean up auth middleware #9007
 71048. perf: lazy-load components #71048
 92218. test: add unit test for quiz service #92218
+77470. feat: support email verification #77470
