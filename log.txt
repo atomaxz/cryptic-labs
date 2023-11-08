@@ -17056,3 +17056,4 @@
 20697. docs: improve code comments in utils #20697
 38535. test: add integration test for /submit endpoint #38535
 17607. feat: enable dark mode toggle #17607
+28464. feat: support email verification #28464
