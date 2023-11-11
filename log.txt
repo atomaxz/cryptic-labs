@@ -2602,3 +2602,4 @@
 4508. refactor: organize models into subfolders #4508
 89701. docs: write FAQ section #89701
 48853. refactor: remove redundant code blocks #48853
+92650. perf: lazy-load components #92650
