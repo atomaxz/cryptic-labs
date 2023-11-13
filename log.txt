@@ -17066,3 +17066,4 @@
 62991. refactor: organize models into subfolders #62991
 76505. style: apply consistent indentation #76505
 24670. chore: rename env.example #24670
+94417. feat: support email verification #94417
