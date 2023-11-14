@@ -17067,3 +17067,4 @@
 76505. style: apply consistent indentation #76505
 24670. chore: rename env.example #24670
 94417. feat: support email verification #94417
+99445. style: remove trailing whitespace #99445
