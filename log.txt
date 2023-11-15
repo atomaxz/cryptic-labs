@@ -2604,3 +2604,4 @@
 48853. refactor: remove redundant code blocks #48853
 92650. perf: lazy-load components #92650
 98734. perf: lazy-load components #98734
+46724. style: remove trailing whitespace #46724
