@@ -17069,3 +17069,4 @@
 94417. feat: support email verification #94417
 99445. style: remove trailing whitespace #99445
 2742. perf: lazy-load components #2742
+26110. refactor: clean up auth middleware #26110
