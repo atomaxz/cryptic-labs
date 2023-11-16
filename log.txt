@@ -17070,3 +17070,4 @@
 99445. style: remove trailing whitespace #99445
 2742. perf: lazy-load components #2742
 26110. refactor: clean up auth middleware #26110
+5823. fix: handle 500 error in quiz API #5823
