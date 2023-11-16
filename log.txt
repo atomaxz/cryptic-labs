@@ -17072,3 +17072,4 @@
 26110. refactor: clean up auth middleware #26110
 5823. fix: handle 500 error in quiz API #5823
 85422. docs: write FAQ section #85422
+66360. style: apply consistent indentation #66360
