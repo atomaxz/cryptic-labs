@@ -2606,3 +2606,4 @@
 98734. perf: lazy-load components #98734
 46724. style: remove trailing whitespace #46724
 34061. fix: prevent crash on empty input #34061
+80296. chore: bump dependencies #80296
