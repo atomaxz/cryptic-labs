@@ -17078,3 +17078,4 @@
 68632. chore: clean up unused files #68632
 27525. perf: cache repeated calculations #27525
 55974. fix: resolve issue with date parsing #55974
+84246. fix: prevent crash on empty input #84246
