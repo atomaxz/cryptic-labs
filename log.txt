@@ -17081,3 +17081,4 @@
 84246. fix: prevent crash on empty input #84246
 72367. docs: clarify environment setup #72367
 66324. chore: add GitHub actions badge #66324
+60317. style: apply consistent indentation #60317
