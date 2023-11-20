@@ -17080,3 +17080,4 @@
 55974. fix: resolve issue with date parsing #55974
 84246. fix: prevent crash on empty input #84246
 72367. docs: clarify environment setup #72367
+66324. chore: add GitHub actions badge #66324
