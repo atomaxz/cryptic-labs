@@ -17084,3 +17084,4 @@
 60317. style: apply consistent indentation #60317
 6960. refactor: remove redundant code blocks #6960
 44533. refactor: split large controller into smaller functions #44533
+75352. perf: lazy-load components #75352
