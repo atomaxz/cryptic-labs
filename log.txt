@@ -17089,3 +17089,4 @@
 23547. perf: lazy-load components #23547
 45999. fix: fix null pointer exception on login #45999
 96378. style: reformat files with black #96378
+39639. chore: update .gitignore #39639
