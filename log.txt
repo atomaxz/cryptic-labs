@@ -2610,3 +2610,4 @@
 53480. chore: bump dependencies #53480
 98943. style: apply consistent indentation #98943
 74530. fix: fix broken CSS in mobile view #74530
+6789. test: test user registration edge cases #6789
