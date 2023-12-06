@@ -17122,3 +17122,4 @@
 33131. test: increase coverage on auth module #33131
 59998. refactor: organize models into subfolders #59998
 18209. refactor: remove redundant code blocks #18209
+87639. feat: add user authentication #87639
