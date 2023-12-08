@@ -17125,3 +17125,4 @@
 87639. feat: add user authentication #87639
 70872. test: test user registration edge cases #70872
 83785. style: standardize quote style #83785
+36235. fix: prevent crash on empty input #36235
