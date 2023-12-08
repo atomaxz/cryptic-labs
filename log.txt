@@ -2613,3 +2613,4 @@
 6789. test: test user registration edge cases #6789
 60624. perf: reduce image load time #60624
 43730. perf: lazy-load components #43730
+4936. feat: add export to CSV option #4936
