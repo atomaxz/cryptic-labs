@@ -17133,3 +17133,4 @@
 94166. test: add unit test for quiz service #94166
 86638. feat: add export to CSV option #86638
 29658. style: standardize quote style #29658
+71889. style: remove trailing whitespace #71889
