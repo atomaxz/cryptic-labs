@@ -17139,3 +17139,4 @@
 37684. fix: handle 500 error in quiz API #37684
 28999. chore: bump dependencies #28999
 20737. fix: fix null pointer exception on login #20737
+61512. test: add unit test for quiz service #61512
