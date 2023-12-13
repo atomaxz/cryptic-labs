@@ -17140,3 +17140,4 @@
 28999. chore: bump dependencies #28999
 20737. fix: fix null pointer exception on login #20737
 61512. test: add unit test for quiz service #61512
+1368. test: increase coverage on auth module #1368
