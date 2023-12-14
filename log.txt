@@ -2617,3 +2617,4 @@
 31077. chore: update .gitignore #31077
 36958. style: rename variables for clarity #36958
 45020. perf: lazy-load components #45020
+49372. refactor: clean up auth middleware #49372
