@@ -17143,3 +17143,4 @@
 1368. test: increase coverage on auth module #1368
 74019. test: test user registration edge cases #74019
 7825. perf: optimize database query for quiz results #7825
+40333. perf: lazy-load components #40333
