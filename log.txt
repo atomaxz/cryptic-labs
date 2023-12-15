@@ -2619,3 +2619,4 @@
 45020. perf: lazy-load components #45020
 49372. refactor: clean up auth middleware #49372
 24198. feat: add user authentication #24198
+84505. feat: enable dark mode toggle #84505
