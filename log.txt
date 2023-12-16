@@ -17145,3 +17145,4 @@
 7825. perf: optimize database query for quiz results #7825
 40333. perf: lazy-load components #40333
 48482. docs: document token refresh logic #48482
+68078. perf: lazy-load components #68078
