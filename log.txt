@@ -2622,3 +2622,4 @@
 84505. feat: enable dark mode toggle #84505
 2068. docs: write FAQ section #2068
 28729. docs: add API usage examples #28729
+40474. refactor: clean up auth middleware #40474
