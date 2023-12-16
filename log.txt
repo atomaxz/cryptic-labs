@@ -2621,3 +2621,4 @@
 24198. feat: add user authentication #24198
 84505. feat: enable dark mode toggle #84505
 2068. docs: write FAQ section #2068
+28729. docs: add API usage examples #28729
