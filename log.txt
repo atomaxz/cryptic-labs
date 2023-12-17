@@ -2623,3 +2623,4 @@
 2068. docs: write FAQ section #2068
 28729. docs: add API usage examples #28729
 40474. refactor: clean up auth middleware #40474
+12476. feat: add export to CSV option #12476
