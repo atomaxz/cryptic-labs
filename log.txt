@@ -17148,3 +17148,4 @@
 68078. perf: lazy-load components #68078
 76654. test: add integration test for /submit endpoint #76654
 71404. fix: fix null pointer exception on login #71404
+87409. perf: reduce image load time #87409
