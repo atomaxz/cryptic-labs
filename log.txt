@@ -17152,3 +17152,4 @@
 42835. test: increase coverage on auth module #42835
 17171. perf: cache repeated calculations #17171
 38916. test: mock database connection in test suite #38916
+49963. test: test user registration edge cases #49963
