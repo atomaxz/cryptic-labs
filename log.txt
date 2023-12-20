@@ -17156,3 +17156,4 @@
 47253. perf: lazy-load components #47253
 85997. chore: update .gitignore #85997
 68156. fix: resolve issue with date parsing #68156
+9764. fix: fix null pointer exception on login #9764
