@@ -17162,3 +17162,4 @@
 14048. chore: update .gitignore #14048
 84892. docs: write FAQ section #84892
 14683. perf: reduce image load time #14683
+57615. feat: support email verification #57615
