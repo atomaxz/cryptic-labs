@@ -17164,3 +17164,4 @@
 14683. perf: reduce image load time #14683
 57615. feat: support email verification #57615
 84771. chore: add GitHub actions badge #84771
+59732. fix: fix broken CSS in mobile view #59732
