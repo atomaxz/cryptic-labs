@@ -17167,3 +17167,4 @@
 59732. fix: fix broken CSS in mobile view #59732
 92333. docs: document token refresh logic #92333
 43647. test: add integration test for /submit endpoint #43647
+43746. fix: fix broken CSS in mobile view #43746
