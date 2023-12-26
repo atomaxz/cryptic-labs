@@ -17175,3 +17175,4 @@
 56557. style: rename variables for clarity #56557
 98008. perf: reduce image load time #98008
 73492. perf: cache repeated calculations #73492
+4844. style: standardize quote style #4844
