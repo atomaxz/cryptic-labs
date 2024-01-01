@@ -2629,3 +2629,4 @@
 71901. style: apply consistent indentation #71901
 15828. perf: cache repeated calculations #15828
 13448. fix: correct typo in registration form #13448
+76344. test: add integration test for /submit endpoint #76344
