@@ -17199,3 +17199,4 @@
 79231. docs: clarify environment setup #79231
 2400. chore: update .gitignore #2400
 20945. docs: write FAQ section #20945
+70126. perf: optimize database query for quiz results #70126
