@@ -2632,3 +2632,4 @@
 76344. test: add integration test for /submit endpoint #76344
 29684. style: rename variables for clarity #29684
 42932. docs: improve code comments in utils #42932
+4418. test: test user registration edge cases #4418
