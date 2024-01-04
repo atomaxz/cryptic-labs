@@ -2633,3 +2633,4 @@
 29684. style: rename variables for clarity #29684
 42932. docs: improve code comments in utils #42932
 4418. test: test user registration edge cases #4418
+42340. style: remove trailing whitespace #42340
