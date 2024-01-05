@@ -2634,3 +2634,4 @@
 42932. docs: improve code comments in utils #42932
 4418. test: test user registration edge cases #4418
 42340. style: remove trailing whitespace #42340
+26472. style: apply consistent indentation #26472
