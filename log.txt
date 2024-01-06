@@ -17203,3 +17203,4 @@
 13041. test: add integration test for /submit endpoint #13041
 47584. test: add unit test for quiz service #47584
 95229. chore: rename env.example #95229
+26218. fix: handle 500 error in quiz API #26218
