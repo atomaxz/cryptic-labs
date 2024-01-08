@@ -2637,3 +2637,4 @@
 26472. style: apply consistent indentation #26472
 89289. chore: update .gitignore #89289
 76555. docs: add API usage examples #76555
+36831. test: test user registration edge cases #36831
