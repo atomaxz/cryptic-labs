@@ -17214,3 +17214,4 @@
 38926. feat: add user authentication #38926
 20728. refactor: organize models into subfolders #20728
 55512. chore: add GitHub actions badge #55512
+21405. fix: correct typo in registration form #21405
