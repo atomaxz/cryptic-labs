@@ -17218,3 +17218,4 @@
 61263. refactor: organize models into subfolders #61263
 1779. chore: update .gitignore #1779
 24546. docs: clarify environment setup #24546
+80682. fix: correct typo in registration form #80682
