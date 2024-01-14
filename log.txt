@@ -17224,3 +17224,4 @@
 53099. chore: rename env.example #53099
 96956. feat: create admin dashboard #96956
 57524. docs: add API usage examples #57524
+58169. perf: lazy-load components #58169
