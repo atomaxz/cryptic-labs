@@ -17220,3 +17220,4 @@
 24546. docs: clarify environment setup #24546
 80682. fix: correct typo in registration form #80682
 0333. style: standardize quote style #333
+12503. chore: add GitHub actions badge #12503
