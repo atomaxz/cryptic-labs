@@ -17225,3 +17225,4 @@
 96956. feat: create admin dashboard #96956
 57524. docs: add API usage examples #57524
 58169. perf: lazy-load components #58169
+51784. test: increase coverage on auth module #51784
