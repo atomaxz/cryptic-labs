@@ -17228,3 +17228,4 @@
 51784. test: increase coverage on auth module #51784
 83019. feat: add export to CSV option #83019
 48788. feat: implement quiz timer feature #48788
+13052. test: test user registration edge cases #13052
