@@ -2639,3 +2639,4 @@
 76555. docs: add API usage examples #76555
 36831. test: test user registration edge cases #36831
 46004. test: add unit test for quiz service #46004
+17205. fix: fix null pointer exception on login #17205
