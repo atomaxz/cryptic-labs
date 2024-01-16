@@ -17233,3 +17233,4 @@
 72281. test: mock database connection in test suite #72281
 45527. refactor: remove redundant code blocks #45527
 83649. fix: prevent crash on empty input #83649
+23774. chore: rename env.example #23774
