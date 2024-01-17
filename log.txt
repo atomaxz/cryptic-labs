@@ -17234,3 +17234,4 @@
 45527. refactor: remove redundant code blocks #45527
 83649. fix: prevent crash on empty input #83649
 23774. chore: rename env.example #23774
+10872. docs: document token refresh logic #10872
