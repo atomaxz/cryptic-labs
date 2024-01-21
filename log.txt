@@ -17244,3 +17244,4 @@
 22633. style: standardize quote style #22633
 91181. perf: optimize database query for quiz results #91181
 47792. fix: handle 500 error in quiz API #47792
+47967. chore: add GitHub actions badge #47967
