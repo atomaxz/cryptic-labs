@@ -17247,3 +17247,4 @@
 47967. chore: add GitHub actions badge #47967
 79481. style: remove trailing whitespace #79481
 15696. test: test user registration edge cases #15696
+18300. fix: correct typo in registration form #18300
