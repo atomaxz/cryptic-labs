@@ -17256,3 +17256,4 @@
 15553. test: add integration test for /submit endpoint #15553
 96198. docs: improve code comments in utils #96198
 17263. fix: handle 500 error in quiz API #17263
+22802. fix: handle 500 error in quiz API #22802
