@@ -2643,3 +2643,4 @@
 4907. fix: correct typo in registration form #4907
 19134. fix: resolve issue with date parsing #19134
 49427. refactor: clean up auth middleware #49427
+24388. test: increase coverage on auth module #24388
