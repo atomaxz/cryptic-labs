@@ -17268,3 +17268,4 @@
 17066. chore: clean up unused files #17066
 17112. perf: reduce image load time #17112
 86479. fix: handle 500 error in quiz API #86479
+21005. test: increase coverage on auth module #21005
