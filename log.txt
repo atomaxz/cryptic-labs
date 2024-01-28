@@ -17270,3 +17270,4 @@
 86479. fix: handle 500 error in quiz API #86479
 21005. test: increase coverage on auth module #21005
 41480. style: rename variables for clarity #41480
+70114. chore: bump dependencies #70114
