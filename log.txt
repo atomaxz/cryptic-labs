@@ -17271,3 +17271,4 @@
 21005. test: increase coverage on auth module #21005
 41480. style: rename variables for clarity #41480
 70114. chore: bump dependencies #70114
+58359. feat: enable dark mode toggle #58359
