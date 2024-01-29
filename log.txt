@@ -2646,3 +2646,4 @@
 24388. test: increase coverage on auth module #24388
 27988. refactor: refactor quiz grading logic #27988
 2155. fix: prevent crash on empty input #2155
+2001. docs: update README with setup steps #2001
