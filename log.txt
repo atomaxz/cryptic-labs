@@ -17283,3 +17283,4 @@
 67888. chore: update .gitignore #67888
 86002. feat: implement quiz timer feature #86002
 43181. chore: bump dependencies #43181
+44890. fix: handle 500 error in quiz API #44890
