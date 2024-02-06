@@ -17286,3 +17286,4 @@
 44890. fix: handle 500 error in quiz API #44890
 86207. style: apply consistent indentation #86207
 51644. perf: optimize database query for quiz results #51644
+5348. test: mock database connection in test suite #5348
