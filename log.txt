@@ -17301,3 +17301,4 @@
 86877. feat: add user authentication #86877
 67080. test: add unit test for quiz service #67080
 50319. style: reformat files with black #50319
+18696. test: mock database connection in test suite #18696
