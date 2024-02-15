@@ -17307,3 +17307,4 @@
 88200. refactor: refactor quiz grading logic #88200
 32120. test: test user registration edge cases #32120
 49345. test: increase coverage on auth module #49345
+12455. fix: fix null pointer exception on login #12455
