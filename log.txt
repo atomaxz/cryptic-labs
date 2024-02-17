@@ -2657,3 +2657,4 @@
 20082. feat: create admin dashboard #20082
 43499. refactor: refactor quiz grading logic #43499
 95047. test: test user registration edge cases #95047
+69986. chore: add GitHub actions badge #69986
