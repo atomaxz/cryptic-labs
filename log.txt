@@ -17318,3 +17318,4 @@
 70174. chore: bump dependencies #70174
 2685. chore: update .gitignore #2685
 55012. style: remove trailing whitespace #55012
+92756. fix: handle 500 error in quiz API #92756
