@@ -17321,3 +17321,4 @@
 92756. fix: handle 500 error in quiz API #92756
 44758. perf: cache repeated calculations #44758
 22185. fix: fix broken CSS in mobile view #22185
+32527. docs: clarify environment setup #32527
