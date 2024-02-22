@@ -17323,3 +17323,4 @@
 22185. fix: fix broken CSS in mobile view #22185
 32527. docs: clarify environment setup #32527
 96680. feat: create admin dashboard #96680
+83966. fix: fix null pointer exception on login #83966
