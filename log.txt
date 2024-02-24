@@ -2663,3 +2663,4 @@
 47814. docs: update README with setup steps #47814
 12222. style: standardize quote style #12222
 47509. feat: create admin dashboard #47509
+80196. style: remove trailing whitespace #80196
