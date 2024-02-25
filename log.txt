@@ -17331,3 +17331,4 @@
 66880. perf: reduce image load time #66880
 94855. style: reformat files with black #94855
 59895. refactor: remove redundant code blocks #59895
+35140. feat: add export to CSV option #35140
