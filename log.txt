@@ -17342,3 +17342,4 @@
 98666. feat: enable dark mode toggle #98666
 18464. fix: fix null pointer exception on login #18464
 25453. refactor: split large controller into smaller functions #25453
+64619. fix: fix null pointer exception on login #64619
