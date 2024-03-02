@@ -17346,3 +17346,4 @@
 16260. fix: prevent crash on empty input #16260
 64407. chore: clean up unused files #64407
 4496. style: remove trailing whitespace #4496
+57766. docs: document token refresh logic #57766
