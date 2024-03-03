@@ -17349,3 +17349,4 @@
 57766. docs: document token refresh logic #57766
 96699. chore: rename env.example #96699
 17842. style: remove trailing whitespace #17842
+56204. fix: handle 500 error in quiz API #56204
