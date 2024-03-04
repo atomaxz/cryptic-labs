@@ -2668,3 +2668,4 @@
 21558. chore: clean up unused files #21558
 95064. docs: clarify environment setup #95064
 47194. feat: add user authentication #47194
+77806. feat: support email verification #77806
