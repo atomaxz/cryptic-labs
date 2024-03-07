@@ -17360,3 +17360,4 @@
 34695. feat: implement quiz timer feature #34695
 71998. refactor: split large controller into smaller functions #71998
 99977. chore: rename env.example #99977
+42374. perf: lazy-load components #42374
