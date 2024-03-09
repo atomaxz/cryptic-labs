@@ -17363,3 +17363,4 @@
 42374. perf: lazy-load components #42374
 68642. docs: write FAQ section #68642
 70694. fix: handle 500 error in quiz API #70694
+11524. test: increase coverage on auth module #11524
