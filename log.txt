@@ -17367,3 +17367,4 @@
 12631. refactor: organize models into subfolders #12631
 19552. perf: lazy-load components #19552
 39302. docs: write FAQ section #39302
+30958. fix: correct typo in registration form #30958
