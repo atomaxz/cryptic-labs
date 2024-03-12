@@ -17370,3 +17370,4 @@
 30958. fix: correct typo in registration form #30958
 56363. style: rename variables for clarity #56363
 82106. docs: document token refresh logic #82106
+13509. perf: reduce image load time #13509
