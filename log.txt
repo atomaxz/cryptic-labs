@@ -17375,3 +17375,4 @@
 21018. perf: optimize database query for quiz results #21018
 59472. refactor: refactor quiz grading logic #59472
 10695. fix: fix broken CSS in mobile view #10695
+97372. perf: lazy-load components #97372
