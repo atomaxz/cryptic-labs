@@ -17374,3 +17374,4 @@
 97805. perf: reduce image load time #97805
 21018. perf: optimize database query for quiz results #21018
 59472. refactor: refactor quiz grading logic #59472
+10695. fix: fix broken CSS in mobile view #10695
