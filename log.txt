@@ -17377,3 +17377,4 @@
 10695. fix: fix broken CSS in mobile view #10695
 97372. perf: lazy-load components #97372
 79470. chore: clean up unused files #79470
+67113. style: apply consistent indentation #67113
