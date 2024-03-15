@@ -17378,3 +17378,4 @@
 97372. perf: lazy-load components #97372
 79470. chore: clean up unused files #79470
 67113. style: apply consistent indentation #67113
+54644. perf: optimize database query for quiz results #54644
