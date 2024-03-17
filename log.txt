@@ -17384,3 +17384,4 @@
 72411. style: standardize quote style #72411
 17031. fix: fix broken CSS in mobile view #17031
 35825. fix: prevent crash on empty input #35825
+32821. test: test user registration edge cases #32821
