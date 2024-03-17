@@ -17382,3 +17382,4 @@
 42757. fix: fix null pointer exception on login #42757
 35165. fix: resolve issue with date parsing #35165
 72411. style: standardize quote style #72411
+17031. fix: fix broken CSS in mobile view #17031
