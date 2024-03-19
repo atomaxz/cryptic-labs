@@ -17389,3 +17389,4 @@
 91032. docs: document token refresh logic #91032
 68884. fix: resolve issue with date parsing #68884
 15399. fix: fix broken CSS in mobile view #15399
+27302. perf: cache repeated calculations #27302
