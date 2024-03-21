@@ -17392,3 +17392,4 @@
 27302. perf: cache repeated calculations #27302
 34236. refactor: clean up auth middleware #34236
 79266. chore: rename env.example #79266
+41394. chore: add GitHub actions badge #41394
