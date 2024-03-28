@@ -2685,3 +2685,4 @@
 72178. docs: update README with setup steps #72178
 95068. feat: implement quiz timer feature #95068
 36737. feat: create admin dashboard #36737
+2005. feat: add user authentication #2005
