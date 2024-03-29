@@ -17416,3 +17416,4 @@
 14509. chore: add GitHub actions badge #14509
 30574. feat: support email verification #30574
 49495. test: mock database connection in test suite #49495
+19259. style: apply consistent indentation #19259
