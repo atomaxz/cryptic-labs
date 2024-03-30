@@ -17419,3 +17419,4 @@
 19259. style: apply consistent indentation #19259
 14819. perf: optimize database query for quiz results #14819
 83809. chore: update .gitignore #83809
+21677. feat: add export to CSV option #21677
