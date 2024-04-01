@@ -17423,3 +17423,4 @@
 87160. fix: prevent crash on empty input #87160
 81717. test: test user registration edge cases #81717
 52446. test: increase coverage on auth module #52446
+65781. refactor: remove redundant code blocks #65781
