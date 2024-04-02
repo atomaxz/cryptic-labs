@@ -2687,3 +2687,4 @@
 36737. feat: create admin dashboard #36737
 2005. feat: add user authentication #2005
 14520. perf: optimize database query for quiz results #14520
+87885. fix: correct typo in registration form #87885
