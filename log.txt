@@ -17433,3 +17433,4 @@
 4233. feat: implement quiz timer feature #4233
 9308. fix: prevent crash on empty input #9308
 26786. chore: update .gitignore #26786
+72395. test: test user registration edge cases #72395
