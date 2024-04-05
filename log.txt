@@ -17436,3 +17436,4 @@
 72395. test: test user registration edge cases #72395
 43363. fix: correct typo in registration form #43363
 54306. fix: prevent crash on empty input #54306
+90799. docs: add API usage examples #90799
