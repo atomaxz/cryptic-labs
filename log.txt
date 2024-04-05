@@ -17437,3 +17437,4 @@
 43363. fix: correct typo in registration form #43363
 54306. fix: prevent crash on empty input #54306
 90799. docs: add API usage examples #90799
+95123. perf: lazy-load components #95123
