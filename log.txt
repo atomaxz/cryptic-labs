@@ -17442,3 +17442,4 @@
 16284. style: reformat files with black #16284
 82597. fix: prevent crash on empty input #82597
 16312. chore: clean up unused files #16312
+78026. fix: prevent crash on empty input #78026
