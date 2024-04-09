@@ -17446,3 +17446,4 @@
 14739. style: apply consistent indentation #14739
 42141. test: increase coverage on auth module #42141
 39312. feat: create admin dashboard #39312
+7444. style: remove trailing whitespace #7444
