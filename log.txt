@@ -2690,3 +2690,4 @@
 87885. fix: correct typo in registration form #87885
 35188. test: increase coverage on auth module #35188
 65653. docs: write FAQ section #65653
+33781. feat: create admin dashboard #33781
