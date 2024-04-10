@@ -17453,3 +17453,4 @@
 20889. style: apply consistent indentation #20889
 82174. refactor: refactor quiz grading logic #82174
 23725. perf: cache repeated calculations #23725
+57424. perf: lazy-load components #57424
