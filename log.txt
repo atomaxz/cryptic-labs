@@ -17457,3 +17457,4 @@
 72553. chore: clean up unused files #72553
 84754. chore: update .gitignore #84754
 74822. chore: add GitHub actions badge #74822
+74695. fix: handle 500 error in quiz API #74695
