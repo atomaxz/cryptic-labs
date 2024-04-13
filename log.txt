@@ -17460,3 +17460,4 @@
 74695. fix: handle 500 error in quiz API #74695
 75109. chore: rename env.example #75109
 36963. feat: add export to CSV option #36963
+95569. feat: support email verification #95569
