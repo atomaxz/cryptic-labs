@@ -17461,3 +17461,4 @@
 75109. chore: rename env.example #75109
 36963. feat: add export to CSV option #36963
 95569. feat: support email verification #95569
+84813. perf: optimize database query for quiz results #84813
