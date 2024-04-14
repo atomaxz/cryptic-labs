@@ -2692,3 +2692,4 @@
 65653. docs: write FAQ section #65653
 33781. feat: create admin dashboard #33781
 46149. feat: enable dark mode toggle #46149
+11376. perf: reduce image load time #11376
