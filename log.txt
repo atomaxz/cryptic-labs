@@ -17466,3 +17466,4 @@
 17738. chore: bump dependencies #17738
 66644. chore: bump dependencies #66644
 8105. refactor: remove redundant code blocks #8105
+49389. perf: cache repeated calculations #49389
