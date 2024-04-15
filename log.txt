@@ -17468,3 +17468,4 @@
 8105. refactor: remove redundant code blocks #8105
 49389. perf: cache repeated calculations #49389
 62177. chore: bump dependencies #62177
+97968. perf: reduce image load time #97968
