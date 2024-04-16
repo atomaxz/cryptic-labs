@@ -17469,3 +17469,4 @@
 49389. perf: cache repeated calculations #49389
 62177. chore: bump dependencies #62177
 97968. perf: reduce image load time #97968
+86333. perf: optimize database query for quiz results #86333
