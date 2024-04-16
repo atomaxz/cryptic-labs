@@ -17474,3 +17474,4 @@
 41161. feat: support email verification #41161
 27818. style: apply consistent indentation #27818
 2152. docs: update README with setup steps #2152
+50239. refactor: organize models into subfolders #50239
