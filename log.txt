@@ -17476,3 +17476,4 @@
 2152. docs: update README with setup steps #2152
 50239. refactor: organize models into subfolders #50239
 8518. refactor: clean up auth middleware #8518
+12967. feat: add user authentication #12967
