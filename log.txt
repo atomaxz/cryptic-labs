@@ -17479,3 +17479,4 @@
 12967. feat: add user authentication #12967
 84687. fix: fix null pointer exception on login #84687
 31819. docs: clarify environment setup #31819
+25397. fix: handle 500 error in quiz API #25397
