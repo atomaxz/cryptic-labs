@@ -17486,3 +17486,4 @@
 94943. fix: fix null pointer exception on login #94943
 64770. chore: rename env.example #64770
 64262. style: reformat files with black #64262
+52420. feat: add user authentication #52420
