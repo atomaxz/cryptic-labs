@@ -17492,3 +17492,4 @@
 50511. docs: write FAQ section #50511
 71902. fix: prevent crash on empty input #71902
 96043. docs: write FAQ section #96043
+34751. docs: clarify environment setup #34751
