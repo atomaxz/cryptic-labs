@@ -17491,3 +17491,4 @@
 78752. chore: update .gitignore #78752
 50511. docs: write FAQ section #50511
 71902. fix: prevent crash on empty input #71902
+96043. docs: write FAQ section #96043
