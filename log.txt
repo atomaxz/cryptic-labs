@@ -17485,3 +17485,4 @@
 22421. test: mock database connection in test suite #22421
 94943. fix: fix null pointer exception on login #94943
 64770. chore: rename env.example #64770
+64262. style: reformat files with black #64262
