@@ -17494,3 +17494,4 @@
 96043. docs: write FAQ section #96043
 34751. docs: clarify environment setup #34751
 93667. fix: resolve issue with date parsing #93667
+72356. fix: correct typo in registration form #72356
