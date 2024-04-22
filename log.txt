@@ -17497,3 +17497,4 @@
 72356. fix: correct typo in registration form #72356
 69376. chore: rename env.example #69376
 76650. chore: bump dependencies #76650
+5226. docs: document token refresh logic #5226
