@@ -17498,3 +17498,4 @@
 69376. chore: rename env.example #69376
 76650. chore: bump dependencies #76650
 5226. docs: document token refresh logic #5226
+85980. perf: cache repeated calculations #85980
