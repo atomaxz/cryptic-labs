@@ -17516,3 +17516,4 @@
 60336. feat: create admin dashboard #60336
 50469. test: add unit test for quiz service #50469
 40877. fix: fix null pointer exception on login #40877
+89818. test: test user registration edge cases #89818
