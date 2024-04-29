@@ -17518,3 +17518,4 @@
 40877. fix: fix null pointer exception on login #40877
 89818. test: test user registration edge cases #89818
 87212. test: test user registration edge cases #87212
+67996. refactor: split large controller into smaller functions #67996
