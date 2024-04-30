@@ -17521,3 +17521,4 @@
 67996. refactor: split large controller into smaller functions #67996
 52748. feat: enable dark mode toggle #52748
 63077. feat: create admin dashboard #63077
+75395. fix: handle 500 error in quiz API #75395
