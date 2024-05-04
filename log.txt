@@ -17529,3 +17529,4 @@
 87273. refactor: clean up auth middleware #87273
 15913. perf: optimize database query for quiz results #15913
 77195. feat: enable dark mode toggle #77195
+26760. style: apply consistent indentation #26760
