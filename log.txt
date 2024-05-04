@@ -17532,3 +17532,4 @@
 26760. style: apply consistent indentation #26760
 9522. style: rename variables for clarity #9522
 53284. feat: create admin dashboard #53284
+7679. feat: support email verification #7679
