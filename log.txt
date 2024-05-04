@@ -17531,3 +17531,4 @@
 77195. feat: enable dark mode toggle #77195
 26760. style: apply consistent indentation #26760
 9522. style: rename variables for clarity #9522
+53284. feat: create admin dashboard #53284
