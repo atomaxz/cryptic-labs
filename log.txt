@@ -17536,3 +17536,4 @@
 92969. fix: prevent crash on empty input #92969
 39515. chore: rename env.example #39515
 59569. feat: enable dark mode toggle #59569
+68289. style: standardize quote style #68289
