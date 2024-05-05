@@ -17533,3 +17533,4 @@
 9522. style: rename variables for clarity #9522
 53284. feat: create admin dashboard #53284
 7679. feat: support email verification #7679
+92969. fix: prevent crash on empty input #92969
