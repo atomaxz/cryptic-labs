@@ -17534,3 +17534,4 @@
 53284. feat: create admin dashboard #53284
 7679. feat: support email verification #7679
 92969. fix: prevent crash on empty input #92969
+39515. chore: rename env.example #39515
