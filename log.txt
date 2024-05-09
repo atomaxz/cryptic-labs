@@ -2703,3 +2703,4 @@
 97583. chore: clean up unused files #97583
 30771. style: reformat files with black #30771
 65100. fix: fix null pointer exception on login #65100
+52438. chore: add GitHub actions badge #52438
