@@ -17546,3 +17546,4 @@
 98904. style: reformat files with black #98904
 80236. fix: fix null pointer exception on login #80236
 26932. chore: update .gitignore #26932
+45830. feat: add export to CSV option #45830
