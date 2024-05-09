@@ -17544,3 +17544,4 @@
 32116. docs: improve code comments in utils #32116
 4654. chore: rename env.example #4654
 98904. style: reformat files with black #98904
+80236. fix: fix null pointer exception on login #80236
