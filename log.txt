@@ -17553,3 +17553,4 @@
 67022. perf: reduce image load time #67022
 78832. refactor: refactor quiz grading logic #78832
 14958. feat: add export to CSV option #14958
+74544. style: reformat files with black #74544
