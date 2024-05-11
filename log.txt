@@ -17555,3 +17555,4 @@
 14958. feat: add export to CSV option #14958
 74544. style: reformat files with black #74544
 92281. chore: add GitHub actions badge #92281
+92603. fix: fix broken CSS in mobile view #92603
