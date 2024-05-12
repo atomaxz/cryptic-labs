@@ -17561,3 +17561,4 @@
 72274. perf: optimize database query for quiz results #72274
 87973. test: test user registration edge cases #87973
 90535. refactor: split large controller into smaller functions #90535
+1156. chore: clean up unused files #1156
