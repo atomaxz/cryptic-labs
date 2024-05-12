@@ -17558,3 +17558,4 @@
 92603. fix: fix broken CSS in mobile view #92603
 62106. refactor: remove redundant code blocks #62106
 75591. docs: improve code comments in utils #75591
+72274. perf: optimize database query for quiz results #72274
