@@ -2707,3 +2707,4 @@
 73941. feat: enable dark mode toggle #73941
 29929. perf: reduce image load time #29929
 12354. refactor: refactor quiz grading logic #12354
+56542. feat: enable dark mode toggle #56542
