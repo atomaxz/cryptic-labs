@@ -17564,3 +17564,4 @@
 1156. chore: clean up unused files #1156
 75264. chore: bump dependencies #75264
 8045. refactor: refactor quiz grading logic #8045
+44242. perf: optimize database query for quiz results #44242
