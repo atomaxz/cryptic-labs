@@ -17566,3 +17566,4 @@
 8045. refactor: refactor quiz grading logic #8045
 44242. perf: optimize database query for quiz results #44242
 17930. style: apply consistent indentation #17930
+99431. style: standardize quote style #99431
