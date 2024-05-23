@@ -2711,3 +2711,4 @@
 43206. perf: cache repeated calculations #43206
 39132. feat: add user authentication #39132
 29943. chore: clean up unused files #29943
+11054. test: increase coverage on auth module #11054
