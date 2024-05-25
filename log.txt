@@ -17597,3 +17597,4 @@
 23303. fix: resolve issue with date parsing #23303
 32050. perf: cache repeated calculations #32050
 69716. docs: document token refresh logic #69716
+97679. fix: handle 500 error in quiz API #97679
