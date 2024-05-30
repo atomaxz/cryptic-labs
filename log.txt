@@ -17610,3 +17610,4 @@
 41646. chore: update .gitignore #41646
 93154. style: standardize quote style #93154
 3525. style: rename variables for clarity #3525
+59605. test: increase coverage on auth module #59605
