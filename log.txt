@@ -17614,3 +17614,4 @@
 63614. test: increase coverage on auth module #63614
 99847. style: standardize quote style #99847
 86926. feat: add user authentication #86926
+53794. test: mock database connection in test suite #53794
