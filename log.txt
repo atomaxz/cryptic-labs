@@ -17613,3 +17613,4 @@
 59605. test: increase coverage on auth module #59605
 63614. test: increase coverage on auth module #63614
 99847. style: standardize quote style #99847
+86926. feat: add user authentication #86926
