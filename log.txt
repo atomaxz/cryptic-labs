@@ -2718,3 +2718,4 @@
 34006. refactor: split large controller into smaller functions #34006
 53692. perf: reduce image load time #53692
 59691. style: reformat files with black #59691
+21177. fix: fix broken CSS in mobile view #21177
