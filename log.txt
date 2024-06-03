@@ -17620,3 +17620,4 @@
 50991. docs: clarify environment setup #50991
 47156. style: apply consistent indentation #47156
 1891. refactor: refactor quiz grading logic #1891
+8325. perf: lazy-load components #8325
