@@ -17624,3 +17624,4 @@
 69270. fix: fix broken CSS in mobile view #69270
 23620. docs: update README with setup steps #23620
 17481. feat: enable dark mode toggle #17481
+9976. chore: bump dependencies #9976
