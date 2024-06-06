@@ -2720,3 +2720,4 @@
 59691. style: reformat files with black #59691
 21177. fix: fix broken CSS in mobile view #21177
 14636. test: add integration test for /submit endpoint #14636
+52501. refactor: split large controller into smaller functions #52501
