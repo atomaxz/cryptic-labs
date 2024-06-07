@@ -2722,3 +2722,4 @@
 14636. test: add integration test for /submit endpoint #14636
 52501. refactor: split large controller into smaller functions #52501
 63242. feat: implement quiz timer feature #63242
+16601. test: test user registration edge cases #16601
