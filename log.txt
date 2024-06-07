@@ -17626,3 +17626,4 @@
 17481. feat: enable dark mode toggle #17481
 9976. chore: bump dependencies #9976
 15343. fix: handle 500 error in quiz API #15343
+68030. perf: optimize database query for quiz results #68030
