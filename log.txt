@@ -2724,3 +2724,4 @@
 63242. feat: implement quiz timer feature #63242
 16601. test: test user registration edge cases #16601
 11974. docs: write FAQ section #11974
+42006. fix: fix broken CSS in mobile view #42006
