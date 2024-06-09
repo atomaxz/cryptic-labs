@@ -17632,3 +17632,4 @@
 0994. feat: create admin dashboard #994
 94987. fix: correct typo in registration form #94987
 30450. chore: rename env.example #30450
+1492. style: standardize quote style #1492
