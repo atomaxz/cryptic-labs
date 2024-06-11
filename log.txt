@@ -2727,3 +2727,4 @@
 42006. fix: fix broken CSS in mobile view #42006
 62222. style: rename variables for clarity #62222
 7728. chore: rename env.example #7728
+43950. feat: add export to CSV option #43950
