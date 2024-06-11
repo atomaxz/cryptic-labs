@@ -17639,3 +17639,4 @@
 56041. chore: clean up unused files #56041
 17822. fix: fix null pointer exception on login #17822
 81491. fix: fix null pointer exception on login #81491
+79530. chore: bump dependencies #79530
