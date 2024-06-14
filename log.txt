@@ -2729,3 +2729,4 @@
 7728. chore: rename env.example #7728
 43950. feat: add export to CSV option #43950
 79020. docs: write FAQ section #79020
+93055. chore: update .gitignore #93055
