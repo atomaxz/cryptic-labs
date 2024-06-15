@@ -17656,3 +17656,4 @@
 97977. docs: add API usage examples #97977
 85666. refactor: split large controller into smaller functions #85666
 96338. refactor: split large controller into smaller functions #96338
+51984. fix: correct typo in registration form #51984
