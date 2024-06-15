@@ -17658,3 +17658,4 @@
 96338. refactor: split large controller into smaller functions #96338
 51984. fix: correct typo in registration form #51984
 97872. style: rename variables for clarity #97872
+92498. perf: lazy-load components #92498
