@@ -17661,3 +17661,4 @@
 92498. perf: lazy-load components #92498
 20642. style: rename variables for clarity #20642
 29224. perf: reduce image load time #29224
+45431. docs: clarify environment setup #45431
