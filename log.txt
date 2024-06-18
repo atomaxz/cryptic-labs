@@ -17662,3 +17662,4 @@
 20642. style: rename variables for clarity #20642
 29224. perf: reduce image load time #29224
 45431. docs: clarify environment setup #45431
+50663. refactor: clean up auth middleware #50663
