@@ -17665,3 +17665,4 @@
 50663. refactor: clean up auth middleware #50663
 60409. feat: add export to CSV option #60409
 79987. style: standardize quote style #79987
+99555. perf: optimize database query for quiz results #99555
