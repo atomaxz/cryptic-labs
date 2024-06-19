@@ -2730,3 +2730,4 @@
 43950. feat: add export to CSV option #43950
 79020. docs: write FAQ section #79020
 93055. chore: update .gitignore #93055
+4759. perf: optimize database query for quiz results #4759
