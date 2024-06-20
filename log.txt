@@ -17668,3 +17668,4 @@
 99555. perf: optimize database query for quiz results #99555
 58173. chore: rename env.example #58173
 43084. chore: clean up unused files #43084
+35963. refactor: clean up auth middleware #35963
