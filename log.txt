@@ -17671,3 +17671,4 @@
 35963. refactor: clean up auth middleware #35963
 73299. test: increase coverage on auth module #73299
 73418. refactor: organize models into subfolders #73418
+50236. test: increase coverage on auth module #50236
