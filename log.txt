@@ -17675,3 +17675,4 @@
 8988. perf: reduce image load time #8988
 58419. style: reformat files with black #58419
 70636. feat: support email verification #70636
+73926. fix: fix null pointer exception on login #73926
