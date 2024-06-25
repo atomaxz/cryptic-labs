@@ -17677,3 +17677,4 @@
 70636. feat: support email verification #70636
 73926. fix: fix null pointer exception on login #73926
 20205. docs: write FAQ section #20205
+54507. feat: add user authentication #54507
