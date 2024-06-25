@@ -17678,3 +17678,4 @@
 73926. fix: fix null pointer exception on login #73926
 20205. docs: write FAQ section #20205
 54507. feat: add user authentication #54507
+51709. test: add unit test for quiz service #51709
