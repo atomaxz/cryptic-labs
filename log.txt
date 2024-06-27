@@ -17690,3 +17690,4 @@
 2034. docs: write FAQ section #2034
 17550. fix: fix null pointer exception on login #17550
 75831. style: remove trailing whitespace #75831
+56047. test: increase coverage on auth module #56047
