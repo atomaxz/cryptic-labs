@@ -17688,3 +17688,4 @@
 33615. feat: support email verification #33615
 4992. perf: optimize database query for quiz results #4992
 2034. docs: write FAQ section #2034
+17550. fix: fix null pointer exception on login #17550
