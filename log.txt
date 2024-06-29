@@ -17692,3 +17692,4 @@
 75831. style: remove trailing whitespace #75831
 56047. test: increase coverage on auth module #56047
 22281. refactor: clean up auth middleware #22281
+1390. docs: update README with setup steps #1390
