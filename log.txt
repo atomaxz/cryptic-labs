@@ -17697,3 +17697,4 @@
 26370. chore: bump dependencies #26370
 42656. refactor: refactor quiz grading logic #42656
 56933. chore: update .gitignore #56933
+43292. refactor: clean up auth middleware #43292
