@@ -2737,3 +2737,4 @@
 39470. perf: cache repeated calculations #39470
 96391. test: mock database connection in test suite #96391
 4171. style: rename variables for clarity #4171
+6760. chore: bump dependencies #6760
