@@ -17715,3 +17715,4 @@
 31279. test: test user registration edge cases #31279
 23925. feat: add user authentication #23925
 82839. refactor: organize models into subfolders #82839
+95419. docs: write FAQ section #95419
