@@ -17713,3 +17713,4 @@
 65538. fix: correct typo in registration form #65538
 83560. chore: rename env.example #83560
 31279. test: test user registration edge cases #31279
+23925. feat: add user authentication #23925
