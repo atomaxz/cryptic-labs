@@ -2748,3 +2748,4 @@
 52933. fix: prevent crash on empty input #52933
 21421. fix: fix null pointer exception on login #21421
 71995. chore: bump dependencies #71995
+40980. docs: document token refresh logic #40980
