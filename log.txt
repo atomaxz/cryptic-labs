@@ -2749,3 +2749,4 @@
 21421. fix: fix null pointer exception on login #21421
 71995. chore: bump dependencies #71995
 40980. docs: document token refresh logic #40980
+49181. test: test user registration edge cases #49181
