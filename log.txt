@@ -2751,3 +2751,4 @@
 40980. docs: document token refresh logic #40980
 49181. test: test user registration edge cases #49181
 70764. test: increase coverage on auth module #70764
+35880. style: remove trailing whitespace #35880
