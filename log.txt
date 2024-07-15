@@ -2750,3 +2750,4 @@
 71995. chore: bump dependencies #71995
 40980. docs: document token refresh logic #40980
 49181. test: test user registration edge cases #49181
+70764. test: increase coverage on auth module #70764
