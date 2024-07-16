@@ -17728,3 +17728,4 @@
 67575. chore: rename env.example #67575
 66638. feat: enable dark mode toggle #66638
 20330. refactor: clean up auth middleware #20330
+11287. chore: add GitHub actions badge #11287
