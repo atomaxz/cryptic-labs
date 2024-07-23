@@ -17750,3 +17750,4 @@
 42664. feat: create admin dashboard #42664
 40679. refactor: remove redundant code blocks #40679
 75239. docs: add API usage examples #75239
+46805. chore: bump dependencies #46805
