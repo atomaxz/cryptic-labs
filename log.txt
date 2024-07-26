@@ -17760,3 +17760,4 @@
 56618. style: standardize quote style #56618
 31802. refactor: split large controller into smaller functions #31802
 89441. test: add integration test for /submit endpoint #89441
+84379. test: add unit test for quiz service #84379
