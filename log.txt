@@ -17784,3 +17784,4 @@
 4469. feat: add export to CSV option #4469
 54545. refactor: organize models into subfolders #54545
 63466. perf: reduce image load time #63466
+88886. docs: update README with setup steps #88886
