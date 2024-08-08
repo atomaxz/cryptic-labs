@@ -17786,3 +17786,4 @@
 63466. perf: reduce image load time #63466
 88886. docs: update README with setup steps #88886
 51444. chore: add GitHub actions badge #51444
+18822. test: add integration test for /submit endpoint #18822
