@@ -17785,3 +17785,4 @@
 54545. refactor: organize models into subfolders #54545
 63466. perf: reduce image load time #63466
 88886. docs: update README with setup steps #88886
+51444. chore: add GitHub actions badge #51444
