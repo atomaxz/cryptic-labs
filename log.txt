@@ -17789,3 +17789,4 @@
 18822. test: add integration test for /submit endpoint #18822
 37545. perf: optimize database query for quiz results #37545
 26221. perf: lazy-load components #26221
+37674. refactor: split large controller into smaller functions #37674
