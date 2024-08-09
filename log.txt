@@ -2763,3 +2763,4 @@
 1798. feat: enable dark mode toggle #1798
 17287. fix: handle 500 error in quiz API #17287
 16246. feat: add export to CSV option #16246
+35363. test: add integration test for /submit endpoint #35363
