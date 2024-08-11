@@ -17796,3 +17796,4 @@
 89325. docs: update README with setup steps #89325
 59512. docs: improve code comments in utils #59512
 63234. fix: correct typo in registration form #63234
+15031. test: mock database connection in test suite #15031
