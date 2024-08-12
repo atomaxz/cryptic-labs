@@ -17801,3 +17801,4 @@
 23305. refactor: organize models into subfolders #23305
 73016. perf: optimize database query for quiz results #73016
 93810. chore: add GitHub actions badge #93810
+12822. feat: add user authentication #12822
