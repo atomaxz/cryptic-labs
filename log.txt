@@ -17804,3 +17804,4 @@
 12822. feat: add user authentication #12822
 74134. style: standardize quote style #74134
 99604. feat: enable dark mode toggle #99604
+26883. docs: update README with setup steps #26883
