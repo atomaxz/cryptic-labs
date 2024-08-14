@@ -17807,3 +17807,4 @@
 26883. docs: update README with setup steps #26883
 82445. refactor: clean up auth middleware #82445
 41612. test: test user registration edge cases #41612
+35875. docs: clarify environment setup #35875
