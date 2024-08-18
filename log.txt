@@ -17821,3 +17821,4 @@
 72306. chore: clean up unused files #72306
 27388. style: reformat files with black #27388
 67864. refactor: remove redundant code blocks #67864
+27752. docs: update README with setup steps #27752
