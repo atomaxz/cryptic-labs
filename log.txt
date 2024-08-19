@@ -17823,3 +17823,4 @@
 67864. refactor: remove redundant code blocks #67864
 27752. docs: update README with setup steps #27752
 90522. chore: add GitHub actions badge #90522
+6816. test: test user registration edge cases #6816
