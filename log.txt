@@ -17824,3 +17824,4 @@
 27752. docs: update README with setup steps #27752
 90522. chore: add GitHub actions badge #90522
 6816. test: test user registration edge cases #6816
+36567. test: increase coverage on auth module #36567
