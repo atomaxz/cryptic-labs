@@ -17829,3 +17829,4 @@
 84865. refactor: organize models into subfolders #84865
 93815. perf: reduce image load time #93815
 17324. style: rename variables for clarity #17324
+34968. style: standardize quote style #34968
