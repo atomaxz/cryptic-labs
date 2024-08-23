@@ -17833,3 +17833,4 @@
 34335. refactor: remove redundant code blocks #34335
 5710. refactor: split large controller into smaller functions #5710
 8701. docs: clarify environment setup #8701
+25012. perf: lazy-load components #25012
