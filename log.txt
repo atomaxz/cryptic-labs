@@ -17837,3 +17837,4 @@
 15235. style: rename variables for clarity #15235
 32093. style: remove trailing whitespace #32093
 74691. perf: lazy-load components #74691
+21540. perf: lazy-load components #21540
