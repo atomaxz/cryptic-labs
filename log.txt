@@ -17840,3 +17840,4 @@
 21540. perf: lazy-load components #21540
 30646. feat: add user authentication #30646
 26877. fix: fix broken CSS in mobile view #26877
+43467. fix: prevent crash on empty input #43467
