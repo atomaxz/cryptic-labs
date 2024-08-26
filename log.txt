@@ -17843,3 +17843,4 @@
 43467. fix: prevent crash on empty input #43467
 75654. fix: prevent crash on empty input #75654
 91252. style: rename variables for clarity #91252
+22623. perf: reduce image load time #22623
