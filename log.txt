@@ -17847,3 +17847,4 @@
 13424. feat: add user authentication #13424
 38833. chore: update .gitignore #38833
 37530. chore: bump dependencies #37530
+3942. chore: clean up unused files #3942
