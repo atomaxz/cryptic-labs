@@ -17867,3 +17867,4 @@
 71043. feat: implement quiz timer feature #71043
 74957. style: standardize quote style #74957
 78131. feat: add export to CSV option #78131
+14250. perf: lazy-load components #14250
