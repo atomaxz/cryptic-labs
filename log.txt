@@ -17872,3 +17872,4 @@
 13664. chore: rename env.example #13664
 83211. feat: implement quiz timer feature #83211
 20595. docs: document token refresh logic #20595
+52342. fix: correct typo in registration form #52342
