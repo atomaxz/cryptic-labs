@@ -2770,3 +2770,4 @@
 37022. refactor: clean up auth middleware #37022
 70668. fix: prevent crash on empty input #70668
 88342. chore: rename env.example #88342
+45458. feat: support email verification #45458
