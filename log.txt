@@ -17877,3 +17877,4 @@
 53188. docs: document token refresh logic #53188
 40574. perf: reduce image load time #40574
 3151. test: increase coverage on auth module #3151
+12314. chore: update .gitignore #12314
