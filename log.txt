@@ -17885,3 +17885,4 @@
 11997. refactor: split large controller into smaller functions #11997
 51456. test: mock database connection in test suite #51456
 90070. fix: resolve issue with date parsing #90070
+46235. test: mock database connection in test suite #46235
