@@ -17888,3 +17888,4 @@
 46235. test: mock database connection in test suite #46235
 62870. chore: update .gitignore #62870
 67695. docs: document token refresh logic #67695
+31194. test: mock database connection in test suite #31194
