@@ -17895,3 +17895,4 @@
 99371. docs: update README with setup steps #99371
 32330. fix: correct typo in registration form #32330
 97671. docs: improve code comments in utils #97671
+64139. perf: reduce image load time #64139
