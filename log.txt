@@ -17897,3 +17897,4 @@
 97671. docs: improve code comments in utils #97671
 64139. perf: reduce image load time #64139
 20533. style: rename variables for clarity #20533
+37741. docs: write FAQ section #37741
