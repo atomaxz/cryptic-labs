@@ -17907,3 +17907,4 @@
 61149. perf: lazy-load components #61149
 74661. perf: cache repeated calculations #74661
 22035. test: increase coverage on auth module #22035
+22256. style: standardize quote style #22256
