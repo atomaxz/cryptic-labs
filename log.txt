@@ -17910,3 +17910,4 @@
 22256. style: standardize quote style #22256
 75394. fix: prevent crash on empty input #75394
 92951. chore: bump dependencies #92951
+72863. fix: resolve issue with date parsing #72863
