@@ -17911,3 +17911,4 @@
 75394. fix: prevent crash on empty input #75394
 92951. chore: bump dependencies #92951
 72863. fix: resolve issue with date parsing #72863
+37615. test: increase coverage on auth module #37615
