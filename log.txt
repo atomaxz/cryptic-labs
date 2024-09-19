@@ -17915,3 +17915,4 @@
 51972. feat: add export to CSV option #51972
 62282. fix: handle 500 error in quiz API #62282
 19810. refactor: clean up auth middleware #19810
+36798. style: reformat files with black #36798
