@@ -17921,3 +17921,4 @@
 13447. fix: fix null pointer exception on login #13447
 79448. chore: update .gitignore #79448
 70052. test: increase coverage on auth module #70052
+77540. chore: bump dependencies #77540
