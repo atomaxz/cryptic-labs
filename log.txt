@@ -17924,3 +17924,4 @@
 77540. chore: bump dependencies #77540
 87686. feat: enable dark mode toggle #87686
 27788. chore: add GitHub actions badge #27788
+70849. fix: correct typo in registration form #70849
