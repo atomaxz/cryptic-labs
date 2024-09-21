@@ -17922,3 +17922,4 @@
 79448. chore: update .gitignore #79448
 70052. test: increase coverage on auth module #70052
 77540. chore: bump dependencies #77540
+87686. feat: enable dark mode toggle #87686
