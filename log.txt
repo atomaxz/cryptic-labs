@@ -17925,3 +17925,4 @@
 87686. feat: enable dark mode toggle #87686
 27788. chore: add GitHub actions badge #27788
 70849. fix: correct typo in registration form #70849
+98677. chore: add GitHub actions badge #98677
