@@ -17928,3 +17928,4 @@
 98677. chore: add GitHub actions badge #98677
 22121. feat: add user authentication #22121
 22233. chore: update .gitignore #22233
+33923. fix: fix null pointer exception on login #33923
