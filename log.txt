@@ -2779,3 +2779,4 @@
 42777. fix: fix null pointer exception on login #42777
 28379. docs: document token refresh logic #28379
 93883. chore: rename env.example #93883
+78841. chore: add GitHub actions badge #78841
