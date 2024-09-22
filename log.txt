@@ -17926,3 +17926,4 @@
 27788. chore: add GitHub actions badge #27788
 70849. fix: correct typo in registration form #70849
 98677. chore: add GitHub actions badge #98677
+22121. feat: add user authentication #22121
