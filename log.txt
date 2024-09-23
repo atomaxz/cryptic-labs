@@ -17931,3 +17931,4 @@
 33923. fix: fix null pointer exception on login #33923
 55715. fix: resolve issue with date parsing #55715
 67285. style: remove trailing whitespace #67285
+56878. refactor: split large controller into smaller functions #56878
