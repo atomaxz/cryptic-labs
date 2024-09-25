@@ -17936,3 +17936,4 @@
 70271. fix: fix null pointer exception on login #70271
 14930. perf: lazy-load components #14930
 14665. style: rename variables for clarity #14665
+15245. test: test user registration edge cases #15245
