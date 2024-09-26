@@ -17938,3 +17938,4 @@
 14665. style: rename variables for clarity #14665
 15245. test: test user registration edge cases #15245
 17059. docs: update README with setup steps #17059
+36755. test: test user registration edge cases #36755
