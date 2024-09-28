@@ -17944,3 +17944,4 @@
 18087. style: standardize quote style #18087
 99201. chore: clean up unused files #99201
 95639. refactor: refactor quiz grading logic #95639
+22119. fix: fix broken CSS in mobile view #22119
