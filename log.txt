@@ -17949,3 +17949,4 @@
 90463. docs: update README with setup steps #90463
 73076. perf: reduce image load time #73076
 64573. style: standardize quote style #64573
+95496. fix: handle 500 error in quiz API #95496
