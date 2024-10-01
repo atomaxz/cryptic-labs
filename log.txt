@@ -2782,3 +2782,4 @@
 78841. chore: add GitHub actions badge #78841
 80817. chore: clean up unused files #80817
 78406. feat: enable dark mode toggle #78406
+97684. test: add integration test for /submit endpoint #97684
