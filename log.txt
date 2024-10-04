@@ -2785,3 +2785,4 @@
 97684. test: add integration test for /submit endpoint #97684
 21828. docs: improve code comments in utils #21828
 27130. chore: add GitHub actions badge #27130
+64278. feat: enable dark mode toggle #64278
