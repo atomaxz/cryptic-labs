@@ -17961,3 +17961,4 @@
 47813. chore: rename env.example #47813
 11621. feat: create admin dashboard #11621
 41505. style: reformat files with black #41505
+74359. fix: fix null pointer exception on login #74359
