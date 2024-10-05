@@ -17960,3 +17960,4 @@
 62839. feat: add export to CSV option #62839
 47813. chore: rename env.example #47813
 11621. feat: create admin dashboard #11621
+41505. style: reformat files with black #41505
