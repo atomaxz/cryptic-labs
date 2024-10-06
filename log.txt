@@ -17963,3 +17963,4 @@
 41505. style: reformat files with black #41505
 74359. fix: fix null pointer exception on login #74359
 31237. style: remove trailing whitespace #31237
+19497. test: test user registration edge cases #19497
