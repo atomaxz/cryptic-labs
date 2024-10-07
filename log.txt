@@ -17965,3 +17965,4 @@
 31237. style: remove trailing whitespace #31237
 19497. test: test user registration edge cases #19497
 0144. feat: add export to CSV option #144
+72192. feat: enable dark mode toggle #72192
