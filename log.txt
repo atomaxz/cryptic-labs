@@ -17973,3 +17973,4 @@
 74893. perf: cache repeated calculations #74893
 78039. style: standardize quote style #78039
 99824. docs: document token refresh logic #99824
+74089. fix: correct typo in registration form #74089
