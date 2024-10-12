@@ -17976,3 +17976,4 @@
 74089. fix: correct typo in registration form #74089
 82892. chore: clean up unused files #82892
 20574. fix: fix broken CSS in mobile view #20574
+70207. fix: handle 500 error in quiz API #70207
