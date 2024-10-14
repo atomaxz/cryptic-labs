@@ -17980,3 +17980,4 @@
 11297. style: reformat files with black #11297
 55579. style: apply consistent indentation #55579
 2898. test: increase coverage on auth module #2898
+77827. fix: fix null pointer exception on login #77827
