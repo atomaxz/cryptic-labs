@@ -2792,3 +2792,4 @@
 10710. refactor: organize models into subfolders #10710
 67697. fix: prevent crash on empty input #67697
 54504. docs: improve code comments in utils #54504
+8389. perf: optimize database query for quiz results #8389
