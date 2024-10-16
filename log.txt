@@ -2793,3 +2793,4 @@
 67697. fix: prevent crash on empty input #67697
 54504. docs: improve code comments in utils #54504
 8389. perf: optimize database query for quiz results #8389
+21483. docs: update README with setup steps #21483
