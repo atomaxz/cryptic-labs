@@ -17988,3 +17988,4 @@
 62709. perf: optimize database query for quiz results #62709
 78516. chore: update .gitignore #78516
 75218. fix: fix null pointer exception on login #75218
+74013. perf: optimize database query for quiz results #74013
