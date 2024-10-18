@@ -17990,3 +17990,4 @@
 75218. fix: fix null pointer exception on login #75218
 74013. perf: optimize database query for quiz results #74013
 43099. refactor: clean up auth middleware #43099
+71664. refactor: organize models into subfolders #71664
