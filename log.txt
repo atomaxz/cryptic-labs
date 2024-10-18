@@ -17991,3 +17991,4 @@
 74013. perf: optimize database query for quiz results #74013
 43099. refactor: clean up auth middleware #43099
 71664. refactor: organize models into subfolders #71664
+74327. perf: lazy-load components #74327
