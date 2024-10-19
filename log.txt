@@ -17992,3 +17992,4 @@
 43099. refactor: clean up auth middleware #43099
 71664. refactor: organize models into subfolders #71664
 74327. perf: lazy-load components #74327
+62973. chore: add GitHub actions badge #62973
