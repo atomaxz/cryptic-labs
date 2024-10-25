@@ -2797,3 +2797,4 @@
 91569. style: rename variables for clarity #91569
 45666. feat: add export to CSV option #45666
 72121. perf: reduce image load time #72121
+1889. chore: update .gitignore #1889
