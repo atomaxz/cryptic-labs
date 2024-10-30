@@ -2802,3 +2802,4 @@
 93509. test: add unit test for quiz service #93509
 5502. style: apply consistent indentation #5502
 65716. style: apply consistent indentation #65716
+75573. test: increase coverage on auth module #75573
