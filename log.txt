@@ -2813,3 +2813,4 @@
 69663. feat: support email verification #69663
 23020. test: add unit test for quiz service #23020
 53166. style: standardize quote style #53166
+76572. feat: support email verification #76572
