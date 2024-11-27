@@ -2815,3 +2815,4 @@
 53166. style: standardize quote style #53166
 76572. feat: support email verification #76572
 67871. perf: lazy-load components #67871
+18139. fix: fix null pointer exception on login #18139
