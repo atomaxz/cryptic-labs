@@ -2817,3 +2817,4 @@
 67871. perf: lazy-load components #67871
 18139. fix: fix null pointer exception on login #18139
 12662. refactor: refactor quiz grading logic #12662
+7730. perf: lazy-load components #7730
