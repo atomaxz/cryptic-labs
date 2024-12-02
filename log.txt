@@ -2819,3 +2819,4 @@
 12662. refactor: refactor quiz grading logic #12662
 7730. perf: lazy-load components #7730
 27106. feat: support email verification #27106
+82162. refactor: clean up auth middleware #82162
