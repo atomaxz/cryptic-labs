@@ -2823,3 +2823,4 @@
 0098. chore: rename env.example #98
 84895. chore: clean up unused files #84895
 94678. fix: fix broken CSS in mobile view #94678
+4963. test: add integration test for /submit endpoint #4963
