@@ -2829,3 +2829,4 @@
 61723. fix: handle 500 error in quiz API #61723
 23856. fix: prevent crash on empty input #23856
 33838. chore: add GitHub actions badge #33838
+67549. chore: update .gitignore #67549
