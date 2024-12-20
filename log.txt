@@ -2830,3 +2830,4 @@
 23856. fix: prevent crash on empty input #23856
 33838. chore: add GitHub actions badge #33838
 67549. chore: update .gitignore #67549
+93945. fix: correct typo in registration form #93945
