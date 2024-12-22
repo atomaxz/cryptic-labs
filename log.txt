@@ -2833,3 +2833,4 @@
 93945. fix: correct typo in registration form #93945
 8238. feat: implement quiz timer feature #8238
 69536. style: standardize quote style #69536
+58539. test: add integration test for /submit endpoint #58539
