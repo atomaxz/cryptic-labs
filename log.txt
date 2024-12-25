@@ -2835,3 +2835,4 @@
 69536. style: standardize quote style #69536
 58539. test: add integration test for /submit endpoint #58539
 76111. docs: update README with setup steps #76111
+81721. fix: fix null pointer exception on login #81721
