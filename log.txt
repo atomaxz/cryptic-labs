@@ -2839,3 +2839,4 @@
 2042. chore: update .gitignore #2042
 42692. perf: reduce image load time #42692
 90480. docs: clarify environment setup #90480
+92346. chore: update .gitignore #92346
