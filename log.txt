@@ -2846,3 +2846,4 @@
 97181. docs: clarify environment setup #97181
 60400. feat: implement quiz timer feature #60400
 24090. chore: add GitHub actions badge #24090
+47363. feat: enable dark mode toggle #47363
