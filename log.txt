@@ -2850,3 +2850,4 @@
 94474. feat: support email verification #94474
 81054. style: remove trailing whitespace #81054
 64909. perf: lazy-load components #64909
+27691. test: mock database connection in test suite #27691
