@@ -2852,3 +2852,4 @@
 64909. perf: lazy-load components #64909
 27691. test: mock database connection in test suite #27691
 81957. docs: update README with setup steps #81957
+20513. test: increase coverage on auth module #20513
