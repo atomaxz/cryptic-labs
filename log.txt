@@ -2855,3 +2855,4 @@
 20513. test: increase coverage on auth module #20513
 74642. chore: bump dependencies #74642
 1464. test: mock database connection in test suite #1464
+67355. fix: fix null pointer exception on login #67355
