@@ -2859,3 +2859,4 @@
 89067. docs: add API usage examples #89067
 81693. style: reformat files with black #81693
 91635. refactor: remove redundant code blocks #91635
+13714. perf: cache repeated calculations #13714
