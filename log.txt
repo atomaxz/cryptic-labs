@@ -2868,3 +2868,4 @@
 98953. refactor: refactor quiz grading logic #98953
 9831. style: reformat files with black #9831
 97403. chore: clean up unused files #97403
+18042. test: mock database connection in test suite #18042
