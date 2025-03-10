@@ -2869,3 +2869,4 @@
 9831. style: reformat files with black #9831
 97403. chore: clean up unused files #97403
 18042. test: mock database connection in test suite #18042
+96367. style: standardize quote style #96367
