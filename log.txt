@@ -2872,3 +2872,4 @@
 96367. style: standardize quote style #96367
 90223. feat: add export to CSV option #90223
 95404. style: standardize quote style #95404
+44826. fix: fix broken CSS in mobile view #44826
