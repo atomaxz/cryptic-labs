@@ -2875,3 +2875,4 @@
 44826. fix: fix broken CSS in mobile view #44826
 71843. refactor: refactor quiz grading logic #71843
 6620. fix: prevent crash on empty input #6620
+21708. perf: lazy-load components #21708
