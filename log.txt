@@ -2877,3 +2877,4 @@
 6620. fix: prevent crash on empty input #6620
 21708. perf: lazy-load components #21708
 4099. perf: reduce image load time #4099
+49192. feat: create admin dashboard #49192
