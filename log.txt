@@ -2879,3 +2879,4 @@
 4099. perf: reduce image load time #4099
 49192. feat: create admin dashboard #49192
 41292. test: add integration test for /submit endpoint #41292
+63976. feat: enable dark mode toggle #63976
