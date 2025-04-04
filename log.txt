@@ -2883,3 +2883,4 @@
 94645. chore: clean up unused files #94645
 19618. refactor: clean up auth middleware #19618
 83143. chore: clean up unused files #83143
+59884. test: increase coverage on auth module #59884
