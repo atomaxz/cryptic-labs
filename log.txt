@@ -2891,3 +2891,4 @@
 60086. docs: improve code comments in utils #60086
 26341. chore: rename env.example #26341
 74346. test: increase coverage on auth module #74346
+72477. refactor: clean up auth middleware #72477
