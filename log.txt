@@ -2895,3 +2895,4 @@
 99310. fix: fix broken CSS in mobile view #99310
 23350. chore: bump dependencies #23350
 99021. test: add integration test for /submit endpoint #99021
+56095. refactor: clean up auth middleware #56095
