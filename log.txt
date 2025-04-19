@@ -2896,3 +2896,4 @@
 23350. chore: bump dependencies #23350
 99021. test: add integration test for /submit endpoint #99021
 56095. refactor: clean up auth middleware #56095
+98574. feat: support email verification #98574
