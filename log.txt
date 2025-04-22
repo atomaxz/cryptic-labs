@@ -2898,3 +2898,4 @@
 56095. refactor: clean up auth middleware #56095
 98574. feat: support email verification #98574
 10321. feat: create admin dashboard #10321
+65707. docs: add API usage examples #65707
