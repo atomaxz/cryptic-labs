@@ -2903,3 +2903,4 @@
 57310. feat: implement quiz timer feature #57310
 25770. style: apply consistent indentation #25770
 33654. refactor: remove redundant code blocks #33654
+82873. test: increase coverage on auth module #82873
