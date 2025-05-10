@@ -2904,3 +2904,4 @@
 25770. style: apply consistent indentation #25770
 33654. refactor: remove redundant code blocks #33654
 82873. test: increase coverage on auth module #82873
+45509. feat: add export to CSV option #45509
