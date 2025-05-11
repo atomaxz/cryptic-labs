@@ -2905,3 +2905,4 @@
 33654. refactor: remove redundant code blocks #33654
 82873. test: increase coverage on auth module #82873
 45509. feat: add export to CSV option #45509
+72314. perf: cache repeated calculations #72314
