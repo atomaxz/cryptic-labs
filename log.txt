@@ -2916,3 +2916,4 @@
 54946. docs: document token refresh logic #54946
 87679. fix: fix broken CSS in mobile view #87679
 58543. feat: support email verification #58543
+56138. feat: add user authentication #56138
