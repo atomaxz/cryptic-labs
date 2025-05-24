@@ -2917,3 +2917,4 @@
 87679. fix: fix broken CSS in mobile view #87679
 58543. feat: support email verification #58543
 56138. feat: add user authentication #56138
+18902. style: apply consistent indentation #18902
