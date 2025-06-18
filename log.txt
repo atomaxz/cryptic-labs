@@ -2925,3 +2925,4 @@
 68093. feat: support email verification #68093
 48186. style: apply consistent indentation #48186
 73103. test: increase coverage on auth module #73103
+81768. refactor: remove redundant code blocks #81768
