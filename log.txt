@@ -2926,3 +2926,4 @@
 48186. style: apply consistent indentation #48186
 73103. test: increase coverage on auth module #73103
 81768. refactor: remove redundant code blocks #81768
+0440. style: remove trailing whitespace #440
