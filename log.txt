@@ -2928,3 +2928,4 @@
 81768. refactor: remove redundant code blocks #81768
 0440. style: remove trailing whitespace #440
 98897. perf: cache repeated calculations #98897
+53767. perf: optimize database query for quiz results #53767
