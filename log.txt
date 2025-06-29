@@ -2930,3 +2930,4 @@
 98897. perf: cache repeated calculations #98897
 53767. perf: optimize database query for quiz results #53767
 80831. docs: clarify environment setup #80831
+43561. refactor: refactor quiz grading logic #43561
