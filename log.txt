@@ -2937,3 +2937,4 @@
 18350. refactor: split large controller into smaller functions #18350
 16987. test: increase coverage on auth module #16987
 55509. docs: document token refresh logic #55509
+12229. feat: enable dark mode toggle #12229
