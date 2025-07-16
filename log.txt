@@ -2939,3 +2939,4 @@
 55509. docs: document token refresh logic #55509
 12229. feat: enable dark mode toggle #12229
 7878. perf: optimize database query for quiz results #7878
+42362. test: increase coverage on auth module #42362
