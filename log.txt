@@ -2942,3 +2942,4 @@
 42362. test: increase coverage on auth module #42362
 95878. perf: lazy-load components #95878
 90250. refactor: refactor quiz grading logic #90250
+71405. test: mock database connection in test suite #71405
