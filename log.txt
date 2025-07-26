@@ -2946,3 +2946,4 @@
 45157. feat: create admin dashboard #45157
 51368. fix: resolve issue with date parsing #51368
 50079. fix: handle 500 error in quiz API #50079
+13271. chore: update .gitignore #13271
