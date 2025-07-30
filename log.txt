@@ -2949,3 +2949,4 @@
 13271. chore: update .gitignore #13271
 47918. docs: update README with setup steps #47918
 50020. style: standardize quote style #50020
+84390. test: test user registration edge cases #84390
