@@ -2954,3 +2954,4 @@
 62856. refactor: remove redundant code blocks #62856
 36422. style: rename variables for clarity #36422
 91277. refactor: refactor quiz grading logic #91277
+77536. test: increase coverage on auth module #77536
