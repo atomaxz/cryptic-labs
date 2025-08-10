@@ -2957,3 +2957,4 @@
 77536. test: increase coverage on auth module #77536
 41735. feat: enable dark mode toggle #41735
 30109. refactor: remove redundant code blocks #30109
+10975. docs: write FAQ section #10975
