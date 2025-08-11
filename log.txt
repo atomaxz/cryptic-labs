@@ -2958,3 +2958,4 @@
 41735. feat: enable dark mode toggle #41735
 30109. refactor: remove redundant code blocks #30109
 10975. docs: write FAQ section #10975
+35767. fix: prevent crash on empty input #35767
