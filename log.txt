@@ -2959,3 +2959,4 @@
 30109. refactor: remove redundant code blocks #30109
 10975. docs: write FAQ section #10975
 35767. fix: prevent crash on empty input #35767
+48608. docs: clarify environment setup #48608
