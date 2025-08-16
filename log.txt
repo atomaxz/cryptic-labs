@@ -2960,3 +2960,4 @@
 10975. docs: write FAQ section #10975
 35767. fix: prevent crash on empty input #35767
 48608. docs: clarify environment setup #48608
+93393. fix: correct typo in registration form #93393
