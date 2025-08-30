@@ -2967,3 +2967,4 @@
 7843. refactor: organize models into subfolders #7843
 20458. perf: cache repeated calculations #20458
 39064. refactor: remove redundant code blocks #39064
+0605. fix: fix null pointer exception on login #605
