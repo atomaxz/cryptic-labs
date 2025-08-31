@@ -2969,3 +2969,4 @@
 39064. refactor: remove redundant code blocks #39064
 0605. fix: fix null pointer exception on login #605
 47996. test: add integration test for /submit endpoint #47996
+36482. feat: support email verification #36482
