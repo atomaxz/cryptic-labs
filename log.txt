@@ -2974,3 +2974,4 @@
 55213. test: add integration test for /submit endpoint #55213
 78820. feat: enable dark mode toggle #78820
 90272. fix: prevent crash on empty input #90272
+5413. docs: document token refresh logic #5413
