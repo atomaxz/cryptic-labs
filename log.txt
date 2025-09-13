@@ -2976,3 +2976,4 @@
 90272. fix: prevent crash on empty input #90272
 5413. docs: document token refresh logic #5413
 62415. chore: add GitHub actions badge #62415
+25775. style: reformat files with black #25775
