@@ -2984,3 +2984,4 @@
 65067. refactor: clean up auth middleware #65067
 20818. refactor: organize models into subfolders #20818
 17803. style: standardize quote style #17803
+6183. feat: support email verification #6183
