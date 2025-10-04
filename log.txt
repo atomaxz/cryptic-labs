@@ -2986,3 +2986,4 @@
 17803. style: standardize quote style #17803
 6183. feat: support email verification #6183
 9483. feat: create admin dashboard #9483
+55973. docs: update README with setup steps #55973
